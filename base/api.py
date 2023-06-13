@@ -11,7 +11,7 @@ logger = logging.getLogger("api")
 def get_resource(id_resource):
     url = f'{BASE_URL}/{id_resource}'
     result = Requests().get(url)
-    logger.info(f'\nGetting a resource'
+    logger.info(f'\nGetting resource'
                 f'\nStatus code: {result.status_code}')
     return result
 
@@ -30,6 +30,6 @@ def create_resource(body):
 def delete_resource(id_resource):
     url = f'{BASE_URL}/{id_resource}'
     result = Requests().delete(url)
-    logger.info(f'\nDeleting a resource'
+    logger.info(f'\nDeleting resource'
                 f'\nStatus code: {result.status_code}')
     return result

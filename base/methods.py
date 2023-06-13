@@ -4,10 +4,10 @@ import requests
 
 class Requests:
 
-    def __init__(self, headers=None):
+    def __init__(self):
         self.headers = {'Content-Type': 'application/json'}
 
-    @allure.step("POST request to {url}")
+    @allure.step("GET request to {url}")
     def get(self, url):
         return requests.get(url=url)
 
