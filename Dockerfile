@@ -15,6 +15,6 @@ COPY requirements.txt .
 
 RUN pip3 install -r requirements.txt
 
-COPY ./ ./
+COPY . .
 
 CMD pytest -m "$env" -s -v --alluredir=allure_reports

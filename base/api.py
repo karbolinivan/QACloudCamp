@@ -11,16 +11,16 @@ logger = logging.getLogger("api")
 def get_resource(id_resource):
     url = f'{BASE_URL}/{id_resource}'
     result = Requests().get(url)
-    logger.info(f'\nGetting resource'
+    logger.info(f'\nGetting a resource'
                 f'\nStatus code: {result.status_code}')
     return result
 
 
-@allure.step('Create resource')
+@allure.step('Create a resource')
 def create_resource(body):
     url = BASE_URL
     result = Requests().post(url, body)
-    logger.info(f'\nCreating resource'
+    logger.info(f'\nCreating a resource'
                 f'\nStatus code: {result.status_code}'
                 f'\nStatus code: {result.text}')
     return result
@@ -30,6 +30,6 @@ def create_resource(body):
 def delete_resource(id_resource):
     url = f'{BASE_URL}/{id_resource}'
     result = Requests().delete(url)
-    logger.info(f'\nDeleting resource'
+    logger.info(f'\nDeleting a resource'
                 f'\nStatus code: {result.status_code}')
     return result

@@ -5,7 +5,7 @@
 ### Сборка
 
 ```Python
-docker build -t automation .
+docker build -t automation:1.0 .
 ```
 
 ### Сборка smoke/regression тестов
@@ -17,19 +17,19 @@ docker build --build-arg run_env=smoke -t automation .
 ### Запуск
 
 ```Python
-docker run automation
+docker run -d automation
 ```
 
 ### ID контейнера
 
 ```Python
-docker ps -a -q
+docker ps -a
 ```
 
 ### Получение отчетов Allure из контейнера
 
-```Python
-docker cp "id":./usr/project/allure_reports .
+```
+docker cp "id_контейнера":./usr/project/allure_reports .
 ```
 
 ### Запуск отчета Allure:

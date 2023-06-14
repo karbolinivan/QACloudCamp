@@ -8,7 +8,7 @@ def assert_status_code(status_code, expect):
     assert status_code == expect, Error.WRONG_STATUS_CODE.value
 
 
-@allure.step('Validating schema')
+@allure.step('JSON validation')
 def validate(json, schema):
     try:
         schema.parse_obj(json)
