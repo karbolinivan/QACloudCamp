@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  tests:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: automation
+    volumes:
+      - ./allure_reports:/usr/project/allure_reports
