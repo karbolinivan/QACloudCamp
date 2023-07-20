@@ -37,12 +37,12 @@ jobs:
           legacy: true
       - run: docker-compose --version
 
-      - name: setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-      - name: install dependencies
-        run: pip install -r requirements.txt
+#      - name: setup Python
+#        uses: actions/setup-python@v4
+#        with:
+#          python-version: "3.11"
+#      - name: install dependencies
+#        run: pip install -r requirements.txt
 
       - name: run tests
         run: docker-compose run -d autotests
@@ -56,6 +56,13 @@ jobs:
       - name: regression_tests
         if: "github.event.inputs.deployment_target == 'regression_tests'"
         run: docker-compose exec autotests pytest -m regression --alluredir=allure_results
+
+
+      - name: Print current directory
+        run: pwd
+
+      - name: List files
+        run: ls -al
 
       - name: Get Allure history
         uses: actions/checkout@v2
