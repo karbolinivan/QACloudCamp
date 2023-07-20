@@ -126,3 +126,4 @@ dmypy.json
 .pyre/
 
 .allure_reports/
+.allure_results/

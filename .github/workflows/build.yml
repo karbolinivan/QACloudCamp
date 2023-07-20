@@ -33,7 +33,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: run tests
-        run: pytest
+        run: pytest --alluredir=allure-results
       - name: all_tests
         if: "github.event.inputs.deployment_target == 'all_tests'"
         run: pytest
