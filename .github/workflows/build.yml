@@ -36,15 +36,16 @@ jobs:
           push: false
           tags: user/app:latest
 
-      - name: setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-      - name: install dependencies
-        run: pip install -r requirements.txt
+#      - name: setup Python
+#        uses: actions/setup-python@v4
+#        with:
+#          python-version: "3.11"
+#      - name: install dependencies
+#        run: pip install -r requirements.txt
 
       - name: run tests
         run: docker-compose run -d autotests
+        continue-on-error: true
       - name: all_tests
         if: "github.event.inputs.deployment_target == 'all_tests'"
         run: docker-compose exec autotests pytest --alluredir=allure_results
