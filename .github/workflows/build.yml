@@ -24,13 +24,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Docker Compose
-        run: |
-          sudo apt-get -y remove docker docker-engine docker.io containerd runc
-          sudo apt-get -y update
-          sudo apt-get -y install docker.io docker-compose
-          docker-compose --version
-
       - name: run tests
         run: docker-compose run -d all_tests
       - name: all_tests
