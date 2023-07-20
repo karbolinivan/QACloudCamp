@@ -24,6 +24,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Set up Docker Compose
+        run: |
+          sudo apt-get -y remove docker docker-engine docker.io containerd runc
+          sudo apt-get -y update
+          sudo apt-get -y install docker.io docker-compose
+          docker-compose --version
+
       - name: setup Python
         uses: actions/setup-python@v4
         with:
@@ -44,7 +51,7 @@ jobs:
         run: docker-compose run -d regression_tests
 
       - name: Get Allure history
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         if: always()
   #      continue-on-error: true
         with:
@@ -59,7 +66,7 @@ jobs:
           keep_reports: 20
       - name: Deploy report to Github Pages
         if: always()
-        uses: peaceiris/actions-gh-pages@v2
+        uses: peaceiris/actions-gh-pages@v3
         env:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: gh-pages
