@@ -44,12 +44,6 @@ jobs:
 ##      - name: install dependencies
 ##        run: pip install -r requirements.txt
 
-      - name: Print current directory
-        run: pwd
-
-      - name: List files
-        run: ls -al
-
       - name: run tests
         run: docker-compose run -d autotests
 #        continue-on-error: true
@@ -71,7 +65,10 @@ jobs:
         run: ls -al
 
       - name: Open folder
-        run: cd ./allure_results
+        run: cd allure_results
+        working-directory: allure_results
+
+
 
       - name: Print current directory
         run: pwd
