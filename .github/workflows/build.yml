@@ -57,24 +57,9 @@ jobs:
 #        if: "github.event.inputs.deployment_target == 'regression_tests'"
 #        run: docker-compose exec autotests pytest -m regression --alluredir=allure_results
 #
-#
-      - name: Print current directory
-        run: pwd
 
       - name: List files
-        run: ls -al
-
-      - name: Open folder
-        run: cd allure_results
-        working-directory: allure_results
-
-
-
-      - name: Print current directory
-        run: pwd
-
-      - name: List files
-        run: ls -al
+        run: ls allure_results
 
       - name: Get Allure history
         uses: actions/checkout@v2
@@ -83,12 +68,6 @@ jobs:
         with:
           ref: gh-pages
           path: gh-pages
-
-      - name: Print current directory
-        run: pwd
-
-      - name: List files
-        run: ls -al
 
       - name: Build Allure report
         uses: simple-elf/allure-report-action@master
