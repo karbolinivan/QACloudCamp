@@ -4,7 +4,7 @@ WORKDIR /usr/project
 
 VOLUME /usr/project/allure_results
 
-RUN apk add --no-cache bash
+RUN apk update && apk upgrade && apk add --no-cache bash
 
 COPY requirements.txt .
 
