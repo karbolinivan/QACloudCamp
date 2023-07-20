@@ -1,29 +1,11 @@
 version: "3"
 
 services:
-  all_tests:
+  autotests:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: QACloudCamp_all
+    container_name: QACloudCamp
     volumes:
       - ./allure_results:/usr/project/allure_results
     command: pytest --alluredir=allure_results
-
-  smoke_tests:
-      build:
-        context: .
-        dockerfile: Dockerfile
-      container_name: QACloudCamp_smoke
-      volumes:
-        - ./allure_results:/usr/project/allure_results
-      command: pytest -m smoke --alluredir=allure_results
-
-  regression_tests:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    container_name: QACloudCamp_regression
-    volumes:
-      - ./allure_results:/usr/project/allure_results
-    command: pytest -m regression --alluredir=allure_results
