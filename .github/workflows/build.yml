@@ -71,7 +71,7 @@ jobs:
         run: ls -al
 
       - name: Open folder
-        run: cd allure_results
+        run: cd ./allure_results
 
       - name: Print current directory
         run: pwd
