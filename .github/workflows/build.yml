@@ -119,13 +119,13 @@ jobs:
       - name: List files
         run: ls -al
 
-#      - name: Get Allure history
-#        uses: actions/checkout@v2
-#        if: always()
-#  #      continue-on-error: true
-#        with:
-#          ref: gh-pages
-#          path: gh-pages
+      - name: Get Allure history
+        uses: actions/checkout@v2
+        if: always()
+  #      continue-on-error: true
+        with:
+          ref: gh-pages
+          path: gh-pages
 
       - name: Build Allure report
         uses: simple-elf/allure-report-action@master
@@ -135,10 +135,10 @@ jobs:
           allure_history: allure-history
           keep_reports: 20
 
-#      - name: Deploy report to Github Pages
-#        if: always()
-#        uses: peaceiris/actions-gh-pages@v2
-#        env:
-#          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#          PUBLISH_BRANCH: gh-pages
-#          PUBLISH_DIR: allure-history
+      - name: Deploy report to Github Pages
+        if: always()
+        uses: peaceiris/actions-gh-pages@v2
+        env:
+          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: allure-history
