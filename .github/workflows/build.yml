@@ -24,26 +24,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.11"
-
-      - name: install dependencies
-        run: pip install -r requirements.txt
-
+      - name: Set up Docker Compose
+        run: |
+          sudo apt-get -y remove docker docker-engine docker.io containerd runc
+          sudo apt-get -y update
+          sudo apt-get -y install docker.io docker-compose
+          docker-compose --version
 
       - name: run tests
-        run: pytest --alluredir=allure-results
+        run: docker-compose run -d all_tests
       - name: all_tests
         if: "github.event.inputs.deployment_target == 'all_tests'"
-        run: pytest
-      - name: smoke_tests --alluredir=allure-results
+        run: docker-compose run -d all_tests
+      - name: smoke_tests
         if: "github.event.inputs.deployment_target == 'smoke_tests'"
-        run: pytest -m smoke --alluredir=allure-results
+        run: docker-compose run -d smoke_tests
       - name: regression_tests
         if: "github.event.inputs.deployment_target == 'regression_tests'"
-        run: pytest -m regression --alluredir=allure-results
+        run: docker-compose run -d regression_tests
 
       - name: Get Allure history
         uses: actions/checkout@v2
