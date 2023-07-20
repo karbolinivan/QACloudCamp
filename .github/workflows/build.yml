@@ -29,7 +29,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: all_tests
+      - name: install dependencies
+        run: pip install -r requirements.txt
+
+      - name: run tests
         run: pytest
       - name: all_tests
         if: "github.event.inputs.deployment_target == 'all_tests'"
