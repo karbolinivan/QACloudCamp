@@ -1,9 +1,9 @@
 name: QACloudCamp
 
 on:
-  push:
-    branches:
-      "main"
+#  push:
+#    branches:
+#      "main"
   workflow_dispatch:
     inputs:
       deployment_target:
@@ -32,39 +32,18 @@ jobs:
       - name: install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run tests
-        run: |
-          if [ ${{ github.event_name }} == 'workflow_dispatch' ]; then
-            case ${{ github.event.inputs.deployment_target }} in
-              all_tests)
-                pytest --alluredir=allure-results
-                ;;
-              smoke_tests)
-                pytest -m smoke --alluredir=allure-results
-                ;;
-              regression_tests)
-                pytest -m regression --alluredir=allure-results
-                ;;
-              *)
-                echo "Invalid target selected."
-                exit 1
-                ;;
-            esac
-          else
-            pytest --alluredir=allure-results
-          fi
 
 #      - name: run tests
 #        run: pytest --alluredir=allure-results
-#      - name: all_tests
-#        if: "github.event.inputs.deployment_target == 'all_tests'"
-#        run: pytest
-#      - name: smoke_tests
-#        if: "github.event.inputs.deployment_target == 'smoke_tests'"
-#        run: pytest -m smoke
-#      - name: regression_tests
-#        if: "github.event.inputs.deployment_target == 'regression_tests'"
-#        run: pytest -m regression
+      - name: all_tests
+        if: "github.event.inputs.deployment_target == 'all_tests'"
+        run: pytest
+      - name: smoke_tests --alluredir=allure-results
+        if: "github.event.inputs.deployment_target == 'smoke_tests'"
+        run: pytest -m smoke --alluredir=allure-results
+      - name: regression_tests
+        if: "github.event.inputs.deployment_target == 'regression_tests'"
+        run: pytest -m regression --alluredir=allure-results
 
       - name: Get Allure history
         uses: actions/checkout@v2
