@@ -7,5 +7,5 @@ services:
       dockerfile: Dockerfile
     container_name: QACloudCamp
     volumes:
-      - ./allure_results:/usr/project/allure_results
-    command: pytest --alluredir=allure_results
+      - ./allure-results:/usr/project/allure-results
+    command: pytest --alluredir=allure-results

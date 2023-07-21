@@ -1,121 +1,65 @@
-#name: QACloudCamp
-#
-#on:
-#  push:
-#    branches:
-#      "main"
-##  workflow_dispatch:
-##    inputs:
-##      deployment_target:
-##        description: Choose target
-###        required: true
-##        default: all_tests
-##        type: choice
-##        options:
-##          - all_tests
-##          - smoke_tests
-##          - regression_tests
-##
-#jobs:
-#  test:
-#    runs-on: ubuntu-latest
-#
-#    steps:
-#      - name: Checkout repository
-#        uses: actions/checkout@v3
-##
-##      - name: Set up QEMU
-##        uses: docker/setup-qemu-action@v2
-##
-##      - name: Set up Docker Buildx
-##        uses: docker/setup-buildx-action@v2
-##
-#      - name: Install Compose
-#        uses: ndeloof/install-compose-action@v0.0.1
-#        with:
-#          version: v2.1.0 # defaults to 'latest'
-#          legacy: true
-#      - run: docker-compose --version
-##
-###      - name: setup Python
-###        uses: actions/setup-python@v4
-###        with:
-###          python-version: "3.11"
-###      - name: install dependencies
-###        run: pip install -r requirements.txt
-#
-#      - name: run tests
-#        run: docker-compose run -d autotests
-##        continue-on-error: true
-##      - name: all_tests
-##        if: "github.event.inputs.deployment_target == 'all_tests'"
-##        run: docker-compose exec autotests pytest --alluredir=allure_results
-##      - name: smoke_tests
-##        if: "github.event.inputs.deployment_target == 'smoke_tests'"
-##        run: docker-compose exec autotests pytest -m smoke --alluredir=allure_results
-##      - name: regression_tests
-##        if: "github.event.inputs.deployment_target == 'regression_tests'"
-##        run: docker-compose exec autotests pytest -m regression --alluredir=allure_results
-##
-#
-#      - name: List files
-#        run: ls allure_results
-#
-#      - name: Get Allure history
-#        uses: actions/checkout@v2
-#        if: always()
-#  #      continue-on-error: true
-#        with:
-#          ref: gh-pages
-#          path: gh-pages
-#
-#      - name: Build Allure report
-#        uses: simple-elf/allure-report-action@master
-#        if: always()
-#        with:
-#          allure_results: allure-results
-#          allure_history: allure-history
-#          keep_reports: 20
-#
-#      - name: Deploy report to Github Pages
-#        if: always()
-#        uses: peaceiris/actions-gh-pages@v2
-#        env:
-#          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#          PUBLISH_BRANCH: gh-pages
-#          PUBLISH_DIR: allure-history
-
-#name: QACloudCamp
+name: QACloudCamp
 
 on:
   push:
     branches:
       "main"
-
+#  workflow_dispatch:
+#    inputs:
+#      deployment_target:
+#        description: Choose target
+##        required: true
+#        default: all_tests
+#        type: choice
+#        options:
+#          - all_tests
+#          - smoke_tests
+#          - regression_tests
+#
 jobs:
   test:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
-      - name: setup Python
-        uses: actions/setup-python@v4
+#
+#      - name: Set up QEMU
+#        uses: docker/setup-qemu-action@v2
+#
+#      - name: Set up Docker Buildx
+#        uses: docker/setup-buildx-action@v2
+#
+      - name: Install Compose
+        uses: ndeloof/install-compose-action@v0.0.1
         with:
-          python-version: "3.11"
-
-      - name: install dependencies
-        run: pip install -r requirements.txt
+          version: v2.1.0 # defaults to 'latest'
+          legacy: true
+      - run: docker-compose --version
+#
+##      - name: setup Python
+##        uses: actions/setup-python@v4
+##        with:
+##          python-version: "3.11"
+##      - name: install dependencies
+##        run: pip install -r requirements.txt
 
       - name: run tests
-        run: pytest --alluredir=allure-results
+        run: docker-compose run -d autotests
+#        continue-on-error: true
+#      - name: all_tests
+#        if: "github.event.inputs.deployment_target == 'all_tests'"
+#        run: docker-compose exec autotests pytest --alluredir=allure-results
+#      - name: smoke_tests
+#        if: "github.event.inputs.deployment_target == 'smoke_tests'"
+#        run: docker-compose exec autotests pytest -m smoke --alluredir=allure-results
+#      - name: regression_tests
+#        if: "github.event.inputs.deployment_target == 'regression_tests'"
+#        run: docker-compose exec autotests pytest -m regression --alluredir=allure-results
+#
 
       - name: List files
-        run: |
-          ls
-          cd ./allure_results
-          pwd
-          ls
+        run: ls allure_results
 
       - name: Get Allure history
         uses: actions/checkout@v2
@@ -140,3 +84,59 @@ jobs:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: allure-history
+
+#name: QACloudCamp
+
+#on:
+#  push:
+#    branches:
+#      "main"
+#
+#jobs:
+#  test:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Checkout repository
+#        uses: actions/checkout@v3
+#
+#      - name: setup Python
+#        uses: actions/setup-python@v4
+#        with:
+#          python-version: "3.11"
+#
+#      - name: install dependencies
+#        run: pip install -r requirements.txt
+#
+#      - name: run tests
+#        run: pytest --alluredir=allure-results
+#
+#      - name: List files
+#        run: |
+#          ls
+#          cd ./allure_results
+#          pwd
+#          ls
+#
+#      - name: Get Allure history
+#        uses: actions/checkout@v2
+#        if: always()
+#  #      continue-on-error: true
+#        with:
+#          ref: gh-pages
+#          path: gh-pages
+#
+#      - name: Build Allure report
+#        uses: simple-elf/allure-report-action@master
+#        if: always()
+#        with:
+#          allure_results: allure-results
+#          allure_history: allure-history
+#          keep_reports: 20
+#
+#      - name: Deploy report to Github Pages
+#        if: always()
+#        uses: peaceiris/actions-gh-pages@v2
+#        env:
+#          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#          PUBLISH_BRANCH: gh-pages
+#          PUBLISH_DIR: allure-history
