@@ -1,0 +1,81 @@
+name: Automation
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      deployment_target:
+        description: Choose target
+        required: true
+        default: all_tests
+        type: choice
+        options:
+          - all_tests
+          - smoke_tests
+          - regression_tests
+
+jobs:
+  Automation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Compose
+        uses: ndeloof/install-compose-action@v0.0.1
+        with:
+          version: v2.1.0 # defaults to 'latest'
+          legacy: true
+      - run: docker-compose --version
+
+      - name: Run Automatic Tests
+        if: github.event_name == 'push'
+        run: docker-compose run autotests pytest --alluredir=allure-results
+
+      - name: Manual Test Selection
+        if: github.event_name == 'workflow_dispatch'
+        uses: peaceiris/actions-select@v1
+        with:
+          prompt: "Choose target"
+          options: |
+            - all_tests
+            - smoke_tests
+            - regression_tests
+        id: manual_test
+
+      - name: Run Manual Tests
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          if [[ ${{steps.manual_test.outputs.selected}} == "all_tests" ]]; then
+            docker-compose run autotests pytest --alluredir=allure-results
+          elif [[ ${{steps.manual_test.outputs.selected}} == "smoke_tests" ]]; then
+            docker-compose run autotests pytest -m smoke --alluredir=allure-results
+          elif [[ ${{steps.manual_test.outputs.selected}} == "regression_tests" ]]; then
+            docker-compose run autotests pytest -m regression --alluredir=allure-results
+          fi
+
+      - name: Get Allure history
+        uses: actions/checkout@v2
+        if: always()
+  #      continue-on-error: true
+        with:
+          ref: manual
+          path: manual
+
+      - name: Build Allure report
+        uses: simple-elf/allure-report-action@master
+        if: always()
+        with:
+          allure_results: allure-results
+          allure_history: allure-history
+          keep_reports: 5
+
+      - name: Deploy report to Github Pages
+        if: always()
+        uses: peaceiris/actions-gh-pages@v2
+        env:
+          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PUBLISH_BRANCH: manual
+          PUBLISH_DIR: allure-history
