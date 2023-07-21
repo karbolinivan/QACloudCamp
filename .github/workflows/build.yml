@@ -36,13 +36,9 @@ jobs:
 
       - name: Manual Test Selection
         if: github.event_name == 'workflow_dispatch'
-        uses: peaceiris/actions-select@v1
-        with:
-          prompt: "Choose target"
-          options: |
-            - all_tests
-            - smoke_tests
-            - regression_tests
+        run: |
+          read -p "Choose target (all_tests/smoke_tests/regression_tests): " target
+          echo "::set-output name=selected::$target"
         id: manual_test
 
       - name: Run Manual Tests
@@ -59,7 +55,6 @@ jobs:
       - name: Get Allure history
         uses: actions/checkout@v2
         if: always()
-  #      continue-on-error: true
         with:
           ref: manual
           path: manual
