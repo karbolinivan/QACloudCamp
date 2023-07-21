@@ -1,21 +1,17 @@
 name: QACloudCamp
 
 on:
-  push:
-    branches:
-      "main"
-#  workflow_dispatch:
-#    inputs:
-#      deployment_target:
-#        description: Choose target
-##        required: true
-#        default: all_tests
-#        type: choice
-#        options:
-#          - all_tests
-#          - smoke_tests
-#          - regression_tests
-#
+  workflow_dispatch:
+    inputs:
+      deployment_target:
+        description: Choose target
+#        required: true
+        default: all_tests
+        type: choice
+        options:
+          - all_tests
+          - smoke_tests
+          - regression_tests
 jobs:
   test:
     runs-on: ubuntu-latest
