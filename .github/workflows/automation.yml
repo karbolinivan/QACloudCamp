@@ -9,6 +9,10 @@ jobs:
   Automation:
     runs-on: ubuntu-latest
 
+    environment:
+      name: Automation
+      url: ${{steps.deployment.outputs.page_url}}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -46,7 +50,3 @@ jobs:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: automation
           PUBLISH_DIR: allure-history
-
-    environment:
-      name: Automation
-      url: ${{steps.deployment.outputs.page_url}}
