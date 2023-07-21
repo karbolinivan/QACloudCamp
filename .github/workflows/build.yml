@@ -5,7 +5,7 @@ on:
     inputs:
       deployment_target:
         description: Choose target
-        required: true
+#        required: true
         default: all_tests
         type: choice
         options:
@@ -13,9 +13,9 @@ on:
           - smoke_tests
           - regression_tests
 jobs:
-  test:
+  Automation:
     runs-on: ubuntu-latest
-    Automation:
+    steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
