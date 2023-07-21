@@ -111,7 +111,11 @@ jobs:
         run: pytest --alluredir=allure-results
 
       - name: List files
-        run: ls allure_results
+        run: |
+          pwd
+          cd ./allure_results
+          pwd
+          ls
 
       - name: Get Allure history
         uses: actions/checkout@v2
