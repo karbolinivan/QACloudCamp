@@ -25,7 +25,7 @@ jobs:
       - name: Get Allure history
         uses: actions/checkout@v2
         if: always()
-#        continue-on-error: true
+        continue-on-error: true
         with:
           ref: gh-pages
           path: gh-pages
@@ -39,6 +39,7 @@ jobs:
           gh_pages: gh-pages
           allure_report: allure-report
           allure_history: allure-history
+          subfolder: Automation
 
       - name: Deploy report to Github Pages
         if: always()
@@ -46,4 +47,4 @@ jobs:
         env:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: allure-history
+          PUBLISH_DIR: Automation/allure-history
