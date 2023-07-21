@@ -35,14 +35,14 @@ jobs:
       - name: regression_tests
         if: "github.event.inputs.deployment_target == 'regression_tests'"
         run: docker-compose run autotests pytest -m regression --alluredir=allure-results
-#
+
       - name: Get Allure history
         uses: actions/checkout@v2
         if: always()
   #      continue-on-error: true
         with:
-          ref: gh-pages
-          path: gh-pages
+          ref: manual
+          path: manual
 
       - name: Build Allure report
         uses: simple-elf/allure-report-action@master
@@ -57,5 +57,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v2
         env:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PUBLISH_BRANCH: gh-pages
+          PUBLISH_BRANCH: manual
           PUBLISH_DIR: allure-history

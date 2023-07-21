@@ -27,8 +27,8 @@ jobs:
         if: always()
   #      continue-on-error: true
         with:
-          ref: gh-pages
-          path: gh-pages
+          ref: automation
+          path: automation
 
       - name: Build Allure report
         uses: simple-elf/allure-report-action@master
@@ -43,5 +43,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v2
         env:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PUBLISH_BRANCH: gh-pages
+          PUBLISH_BRANCH: automation
           PUBLISH_DIR: allure-history
