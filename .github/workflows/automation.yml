@@ -1,8 +1,9 @@
 name: Automation
 
 on:
-  pull_request:
-    "main"
+  push:
+    branches:
+      "main"
 
 jobs:
   Automation:
@@ -18,7 +19,7 @@ jobs:
           legacy: true
       - run: docker-compose --version
 
-      - name: all_tests
+      - name: Run tests
         run: docker-compose run autotests pytest --alluredir=allure-results
 
       - name: Get Allure history
