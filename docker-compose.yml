@@ -8,4 +8,4 @@ services:
     container_name: QACloudCamp
     volumes:
       - ./allure-results:/usr/project/allure-results
-    command: pytest --alluredir=allure-results
+#    command: pytest --alluredir=allure-results
