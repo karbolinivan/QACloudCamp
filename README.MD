@@ -1,4 +1,5 @@
 # QACloudCamp
+[![Automation](https://github.com/karbolinivan/QACloudCamp/actions/workflows/Automation.yml/badge.svg)](https://karbolinivan.github.io/QACloudCamp/) [![Automation](https://github.com/karbolinivan/QACloudCamp/actions/workflows/Manual.yml/badge.svg)](https://karbolinivan.github.io/QACloudCamp/)
 
 # Задание 1
 
