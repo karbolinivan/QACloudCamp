@@ -41,10 +41,21 @@ jobs:
           allure_history: allure-history
           subfolder: Automation
 
-      - name: Deploy report to Github Pages
-        if: always()
-        uses: peaceiris/actions-gh-pages@v2
-        env:
-          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#      - name: Deploy report to Github Pages
+#        if: always()
+#        uses: peaceiris/actions-gh-pages@v2
+#        env:
+#          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#          PUBLISH_BRANCH: gh-pages
+#          PUBLISH_DIR: allure-history
+
+      - name: Deploy reports to Github Pages 🚀
+        if: always()                                 #${{ steps.allure-report.outcome == 'success' }}
+        id: deploy-reports-ghpages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: Automation
+          PUBLISH_DIR:   Automation/${{github.run_number}}
+          destination_dir:  Automation/${{github.run_number}}
+          keep_files: true
