@@ -112,7 +112,7 @@ jobs:
 
       - name: List files
         run: |
-          pwd
+          ls
           cd ./allure_results
           pwd
           ls
