@@ -5,7 +5,7 @@ on:
     inputs:
       deployment_target:
         description: Choose target
-#        required: true
+        required: true
         default: all_tests
         type: choice
         options:
