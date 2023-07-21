@@ -47,7 +47,4 @@ jobs:
         env:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: gh-pages
-#          PUBLISH_DIR: allure-history
-          PUBLISH_DIR:   Automation/${{github.run_number}}
-          destination_dir:  Automation/${{github.run_number}}
-          keep_files: true
+          PUBLISH_DIR: Automation/allure-history
