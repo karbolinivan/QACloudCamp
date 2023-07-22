@@ -24,7 +24,6 @@ jobs:
         if: "github.event.inputs.deployment_target == 'all_tests'"
         run: docker-compose run autotests pytest --alluredir=allure-results
 
-
       - name: Get Allure history
         uses: actions/checkout@v2
         if: always()
