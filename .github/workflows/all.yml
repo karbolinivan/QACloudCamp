@@ -8,10 +8,11 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
     inputs:
-      command:
-        description: 'Команда для выполнения'
-        required: true
-        default: 'run_tests'
+      target:
+        description: "Restart"
+#        required: true
+        default: restart
+        type: choice
 
 jobs:
   Autotests:
@@ -55,10 +56,10 @@ jobs:
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: allure-history
 
-      - name: Restart workflow
-        if: always()
-        run: |
-          if [ "${{ github.event.inputs.command }}" == "restart" ]; then
-            echo "Перезапуск работы по запросу команды 'restart'"
-            gh run rerun ${{ github.run_id }}
-          fi
+#      - name: Restart workflow
+#        if: always()
+#        run: |
+#          if [ "${{ github.event.inputs.command }}" == "restart" ]; then
+#            echo "Перезапуск работы по запросу команды 'restart'"
+#            gh run rerun ${{ github.run_id }}
+#          fi
