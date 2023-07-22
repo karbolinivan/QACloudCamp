@@ -1,0 +1,12 @@
+name: Automation
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  call-all:
+    uses: ./.github/workflows/all.yml@main
+    secrets:
+      token: ${{ secrets.GITHUB_TOKEN }}
