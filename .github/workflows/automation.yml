@@ -7,9 +7,5 @@ on:
 
 jobs:
   call-all:
-    permissions:
-      contents: read
-      push: write
     uses: ./.github/workflows/all.yml
-    secrets:
-      token: ${{ secrets.GITHUB_TOKEN }}
+    secrets: inherit
