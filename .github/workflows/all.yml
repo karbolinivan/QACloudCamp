@@ -2,9 +2,6 @@ name: All
 
 on:
   workflow_call:
-    secrets:
-      token:
-        required: true
 
 jobs:
   Autotests:
