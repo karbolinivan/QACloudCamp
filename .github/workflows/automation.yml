@@ -7,6 +7,7 @@ on:
 
 jobs:
   call-all:
-    uses: ./.github/workflows/all.yml@main
+    runs-on: ubuntu-latest
+    uses: .github/workflows/all.yml@main
     secrets:
       token: ${{ secrets.GITHUB_TOKEN }}
