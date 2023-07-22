@@ -9,10 +9,9 @@ on:
   workflow_dispatch:
     inputs:
       target:
-        description: "Restart"
-#        required: true
-        default: restart
-        type: choice
+        description: 'Команда для выполнения'
+        required: true
+        default: 'run_tests'
 
 jobs:
   Autotests:
