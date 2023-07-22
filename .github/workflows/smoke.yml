@@ -1,11 +1,8 @@
-name: all
+name: smoke
 
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: '0 0 */7 * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
     inputs:
       target:
@@ -17,7 +14,7 @@ on:
           - restart
 
 jobs:
-  all:
+  smoke:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -31,7 +28,7 @@ jobs:
       - run: docker-compose --version
 
       - name: all_tests
-        run: docker-compose run autotests pytest --alluredir=allure-results
+        run: docker-compose run autotests pytest -m smoke --alluredir=allure-results
 
       - name: Get Allure history
         uses: actions/checkout@v2
