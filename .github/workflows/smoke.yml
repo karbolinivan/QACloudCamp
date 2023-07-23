@@ -28,7 +28,7 @@ jobs:
       - run: docker-compose --version
 
       - name: all_tests
-        run: docker-compose run autotests pytest -m smoke --alluredir=allure-results
+        run: docker-compose run autotests pytest -m smoke -n auto --dist worksteal --alluredir=allure-results
 
       - name: Get Allure history
         uses: actions/checkout@v2
