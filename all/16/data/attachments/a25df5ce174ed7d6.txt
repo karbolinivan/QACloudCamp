@@ -1,0 +1,12 @@
+2023-07-26 21:18:59 INFO 
+Creating a resource
+Status code: 201
+Status code: {
+  "title": "Quite decade camera car thing arm their church nature.",
+  "body": "Policy son visit read every coach.",
+  "userId": 1,
+  "id": 101
+}
+2023-07-26 21:18:59 INFO 
+Deleting a resource
+Status code: 200

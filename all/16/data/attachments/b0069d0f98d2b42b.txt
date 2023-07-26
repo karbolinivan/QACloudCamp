@@ -1,0 +1,12 @@
+2023-07-26 21:18:59 INFO 
+Creating a resource
+Status code: 201
+Status code: {
+  "title": "Half over build kid build put.",
+  "body": "Strategy interview language rate right teacher.",
+  "userId": 2,
+  "id": 101
+}
+2023-07-26 21:18:59 INFO 
+Deleting a resource
+Status code: 200
