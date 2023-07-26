@@ -1,0 +1,15 @@
+2023-07-26 21:43:14 INFO 
+Creating a resource
+Status code: 201
+Status code: {
+  "title": "Commercial author receive add check record foreign describe why half north son picture.",
+  "body": "Information adult especially nor.",
+  "userId": 3,
+  "id": 101
+}
+2023-07-26 21:43:14 INFO 
+Getting a resource
+Status code: 200
+2023-07-26 21:43:14 INFO 
+Deleting a resource
+Status code: 200
