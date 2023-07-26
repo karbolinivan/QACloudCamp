@@ -1,0 +1,3 @@
+2023-07-26 21:17:27 INFO 
+Getting a resource
+Status code: 404

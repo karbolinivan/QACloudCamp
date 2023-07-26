@@ -1,0 +1,15 @@
+2023-07-26 21:17:27 INFO 
+Creating a resource
+Status code: 201
+Status code: {
+  "title": "Person sort pretty news put blue where.",
+  "body": "Not part attorney. Style power yeah last.",
+  "userId": 7,
+  "id": 101
+}
+2023-07-26 21:17:27 INFO 
+Getting a resource
+Status code: 200
+2023-07-26 21:17:27 INFO 
+Deleting a resource
+Status code: 200

@@ -1,0 +1,6 @@
+2023-07-26 21:17:27 INFO 
+Creating a resource
+Status code: 201
+Status code: {
+  "id": 101
+}
