@@ -2,14 +2,7 @@
 [![smoke](https://github.com/karbolinivan/QACloudCamp/actions/workflows/smoke.yml/badge.svg)](https://karbolinivan.github.io/QACloudCamp/smoke)
 [![regression](https://github.com/karbolinivan/QACloudCamp/actions/workflows/regression.yml/badge.svg)](https://karbolinivan.github.io/QACloudCamp/regression)  
 # QACloudCamp
-<img src="https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/pytest-0d1117?style=for-the-badge&logo=pytest">
-<img src="https://img.shields.io/badge/pydantic-0d1117?style=for-the-badge&logo=pydantic">
-<img src="https://img.shields.io/badge/docker-0d1117?style=for-the-badge&logo=docker">
-<img src="https://img.shields.io/badge/Actions-0d1117?style=for-the-badge&logo=githubactions">
-<img src="https://img.shields.io/badge/pycharm-0d1117?style=for-the-badge&logo=pycharm&logoColor=0">
-<img src="https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git&logoColor=0">
-<img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python"><img src="https://img.shields.io/badge/pytest-0d1117?style=for-the-badge&logo=pytest"><img src="https://img.shields.io/badge/pydantic-0d1117?style=for-the-badge&logo=pydantic"><img src="https://img.shields.io/badge/docker-0d1117?style=for-the-badge&logo=docker"><img src="https://img.shields.io/badge/Actions-0d1117?style=for-the-badge&logo=githubactions"><img src="https://img.shields.io/badge/pycharm-0d1117?style=for-the-badge&logo=pycharm&logoColor=0"><img src="https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git&logoColor=0"><img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github">
 
 
 # Задание 1
