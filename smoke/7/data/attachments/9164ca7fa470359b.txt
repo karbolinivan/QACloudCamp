@@ -1,0 +1,12 @@
+2023-07-26 21:22:21 INFO 
+Creating a resource
+Status code: 201
+Status code: {
+  "title": "Control southern most you within significant care hospital material.",
+  "body": "At enough might talk short.",
+  "userId": 9,
+  "id": 101
+}
+2023-07-26 21:22:21 INFO 
+Deleting a resource
+Status code: 200

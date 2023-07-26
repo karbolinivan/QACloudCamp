@@ -1,0 +1,12 @@
+2023-07-26 21:22:21 INFO 
+Creating a resource
+Status code: 201
+Status code: {
+  "title": "Detail big girl bed image challenge thing.",
+  "body": "Environmental group blue authority.",
+  "userId": 8,
+  "id": 101
+}
+2023-07-26 21:22:21 INFO 
+Deleting a resource
+Status code: 200
