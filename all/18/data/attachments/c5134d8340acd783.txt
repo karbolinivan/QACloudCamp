@@ -1,0 +1,12 @@
+2023-07-26 21:44:34 INFO 
+Creating a resource
+Status code: 201
+Status code: {
+  "title": "Somebody child thousand when budget common test near.",
+  "body": "Case church area his.",
+  "userId": 2,
+  "id": 101
+}
+2023-07-26 21:44:34 INFO 
+Deleting a resource
+Status code: 200
