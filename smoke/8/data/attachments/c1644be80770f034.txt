@@ -1,0 +1,12 @@
+2023-07-27 01:05:53 INFO 
+Creating a resource
+Status code: 201
+Status code: {
+  "title": "Ability wear author only floor outside animal.",
+  "body": "Court ever black three loss.",
+  "userId": 3,
+  "id": 101
+}
+2023-07-27 01:05:53 INFO 
+Deleting a resource
+Status code: 200
