@@ -1,0 +1,24 @@
+27.07.2023_03:17:56.139856
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Take image lot style others debate.",
+  "body": "Type truth evening I effort few feel.",
+  "userId": 6
+}
+
+27.07.2023_03:17:56.203728
+RESPONSE
+status code: 201
+json: {
+  "title": "Take image lot style others debate.",
+  "body": "Type truth evening I effort few feel.",
+  "userId": 6,
+  "id": 101
+}
