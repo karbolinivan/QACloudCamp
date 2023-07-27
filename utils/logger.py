@@ -14,8 +14,8 @@ class Logs:
         self.logger = logging.Logger("API")
         self._setup()
 
-    @classmethod
-    def _get_current_time(cls, formats):
+    @staticmethod
+    def _get_current_time(formats):
         return datetime.datetime.now().strftime(formats)
 
     def _setup(self):
