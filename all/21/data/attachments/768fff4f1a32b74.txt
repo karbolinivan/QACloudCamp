@@ -1,0 +1,24 @@
+28.07.2023_06:15:08.318097
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Of even without staff fear for include attention stand chance.",
+  "body": "End home against staff item agent them green.",
+  "userId": 3
+}
+
+28.07.2023_06:15:08.525188
+RESPONSE
+status code: 201
+json: {
+  "title": "Of even without staff fear for include attention stand chance.",
+  "body": "End home against staff item agent them green.",
+  "userId": 3,
+  "id": 101
+}

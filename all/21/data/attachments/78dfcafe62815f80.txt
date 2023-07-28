@@ -1,0 +1,24 @@
+28.07.2023_06:15:07.599734
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Body evening rest discussion with approach really project.",
+  "body": "Glass issue expect foot also behind language.",
+  "userId": 8
+}
+
+28.07.2023_06:15:07.863670
+RESPONSE
+status code: 201
+json: {
+  "title": "Body evening rest discussion with approach really project.",
+  "body": "Glass issue expect foot also behind language.",
+  "userId": 8,
+  "id": 101
+}
