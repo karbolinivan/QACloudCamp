@@ -1,4 +1,4 @@
-FROM python:3.11.0-buster
+FROM python:3.10.10-buster
 
 WORKDIR /usr/project
 
