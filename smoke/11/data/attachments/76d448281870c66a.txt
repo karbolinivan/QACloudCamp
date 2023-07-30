@@ -1,0 +1,24 @@
+30.07.2023_01:11:05.751306
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Protect result spring edge crime itself yeah game.",
+  "body": "Range itself hot capital.",
+  "userId": 8
+}
+
+30.07.2023_01:11:05.889955
+RESPONSE
+status code: 201
+json: {
+  "title": "Protect result spring edge crime itself yeah game.",
+  "body": "Range itself hot capital.",
+  "userId": 8,
+  "id": 101
+}
