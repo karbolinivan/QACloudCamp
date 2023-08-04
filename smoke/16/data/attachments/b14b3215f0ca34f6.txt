@@ -1,0 +1,24 @@
+04.08.2023_01:10:19.503647
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Adult position single movie think win join happy somebody.",
+  "body": "Leave five early see.",
+  "userId": 1
+}
+
+04.08.2023_01:10:19.550944
+RESPONSE
+status code: 201
+json: {
+  "title": "Adult position single movie think win join happy somebody.",
+  "body": "Leave five early see.",
+  "userId": 1,
+  "id": 101
+}
