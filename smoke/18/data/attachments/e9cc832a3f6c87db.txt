@@ -1,0 +1,24 @@
+06.08.2023_01:03:23.116460
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Past perform science drop be particularly two.",
+  "body": "Owner citizen break turn. Why radio continue.",
+  "userId": 9
+}
+
+06.08.2023_01:03:23.198981
+RESPONSE
+status code: 201
+json: {
+  "title": "Past perform science drop be particularly two.",
+  "body": "Owner citizen break turn. Why radio continue.",
+  "userId": 9,
+  "id": 101
+}
