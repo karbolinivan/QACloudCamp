@@ -1,0 +1,24 @@
+07.08.2023_01:09:15.210382
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Kid heart should than media inside my total practice.",
+  "body": "Tough their great. Agency see staff how never.",
+  "userId": 9
+}
+
+07.08.2023_01:09:15.407975
+RESPONSE
+status code: 201
+json: {
+  "title": "Kid heart should than media inside my total practice.",
+  "body": "Tough their great. Agency see staff how never.",
+  "userId": 9,
+  "id": 101
+}
