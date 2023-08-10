@@ -1,0 +1,24 @@
+10.08.2023_01:10:00.555773
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Social old since buy food participant six since form.",
+  "body": "It position field mother painting which.",
+  "userId": 6
+}
+
+10.08.2023_01:10:00.631157
+RESPONSE
+status code: 201
+json: {
+  "title": "Social old since buy food participant six since form.",
+  "body": "It position field mother painting which.",
+  "userId": 6,
+  "id": 101
+}
