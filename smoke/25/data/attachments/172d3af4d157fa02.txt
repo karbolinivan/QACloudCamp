@@ -1,0 +1,24 @@
+13.08.2023_00:59:47.086536
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Season space dark security establish successful executive do happy vote true information tree.",
+  "body": "Difficult attack center. Right figure offer few.",
+  "userId": 7
+}
+
+13.08.2023_00:59:47.231812
+RESPONSE
+status code: 201
+json: {
+  "title": "Season space dark security establish successful executive do happy vote true information tree.",
+  "body": "Difficult attack center. Right figure offer few.",
+  "userId": 7,
+  "id": 101
+}
