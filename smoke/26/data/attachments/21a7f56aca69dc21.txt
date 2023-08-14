@@ -1,0 +1,24 @@
+14.08.2023_00:57:59.212730
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Executive decade ahead quite eat manager mother various establish.",
+  "body": "Real front analysis he property.",
+  "userId": 3
+}
+
+14.08.2023_00:57:59.362039
+RESPONSE
+status code: 201
+json: {
+  "title": "Executive decade ahead quite eat manager mother various establish.",
+  "body": "Real front analysis he property.",
+  "userId": 3,
+  "id": 101
+}
