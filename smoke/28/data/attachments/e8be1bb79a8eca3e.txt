@@ -1,0 +1,24 @@
+16.08.2023_00:57:02.002705
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Whole Republican easy police physical blood high wear view.",
+  "body": "Easy Democrat visit push cup itself its mean.",
+  "userId": 5
+}
+
+16.08.2023_00:57:02.081999
+RESPONSE
+status code: 201
+json: {
+  "title": "Whole Republican easy police physical blood high wear view.",
+  "body": "Easy Democrat visit push cup itself its mean.",
+  "userId": 5,
+  "id": 101
+}
