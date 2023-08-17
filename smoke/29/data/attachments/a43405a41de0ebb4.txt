@@ -1,0 +1,24 @@
+17.08.2023_00:56:07.605045
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Home let single child off pressure her stuff country data.",
+  "body": "High decision child phone wish son very.",
+  "userId": 8
+}
+
+17.08.2023_00:56:07.892622
+RESPONSE
+status code: 201
+json: {
+  "title": "Home let single child off pressure her stuff country data.",
+  "body": "High decision child phone wish son very.",
+  "userId": 8,
+  "id": 101
+}

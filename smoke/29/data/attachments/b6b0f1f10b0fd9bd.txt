@@ -1,0 +1,24 @@
+17.08.2023_00:56:08.237949
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Report easy now information home he rest rich debate information.",
+  "body": "Family down hour wife bad again stage.",
+  "userId": 9
+}
+
+17.08.2023_00:56:08.427933
+RESPONSE
+status code: 201
+json: {
+  "title": "Report easy now information home he rest rich debate information.",
+  "body": "Family down hour wife bad again stage.",
+  "userId": 9,
+  "id": 101
+}
