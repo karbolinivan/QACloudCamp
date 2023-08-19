@@ -1,0 +1,24 @@
+19.08.2023_00:55:17.877754
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Pull director six speech election blue raise.",
+  "body": "Grow know two against sign.",
+  "userId": 4
+}
+
+19.08.2023_00:55:17.944752
+RESPONSE
+status code: 201
+json: {
+  "title": "Pull director six speech election blue raise.",
+  "body": "Grow know two against sign.",
+  "userId": 4,
+  "id": 101
+}
