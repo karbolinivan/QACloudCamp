@@ -1,0 +1,24 @@
+20.08.2023_00:59:44.926569
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Not kind night onto administration think clearly garden reveal nor worry step as.",
+  "body": "Bag late resource everybody how father.",
+  "userId": 2
+}
+
+20.08.2023_00:59:45.114731
+RESPONSE
+status code: 201
+json: {
+  "title": "Not kind night onto administration think clearly garden reveal nor worry step as.",
+  "body": "Bag late resource everybody how father.",
+  "userId": 2,
+  "id": 101
+}

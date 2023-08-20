@@ -1,0 +1,24 @@
+20.08.2023_00:59:44.347732
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Republican would fast war win create lead adult summer investment manage trouble behavior.",
+  "body": "Sport worker agree election radio your.",
+  "userId": 8
+}
+
+20.08.2023_00:59:44.544159
+RESPONSE
+status code: 201
+json: {
+  "title": "Republican would fast war win create lead adult summer investment manage trouble behavior.",
+  "body": "Sport worker agree election radio your.",
+  "userId": 8,
+  "id": 101
+}
