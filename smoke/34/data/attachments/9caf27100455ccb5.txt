@@ -1,0 +1,24 @@
+22.08.2023_00:58:02.064143
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Would realize member develop realize model character tax.",
+  "body": "Situation last trouble parent energy.",
+  "userId": 4
+}
+
+22.08.2023_00:58:02.239919
+RESPONSE
+status code: 201
+json: {
+  "title": "Would realize member develop realize model character tax.",
+  "body": "Situation last trouble parent energy.",
+  "userId": 4,
+  "id": 101
+}
