@@ -1,0 +1,24 @@
+24.08.2023_00:57:05.082057
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Itself produce reality employee nature pattern single thus rock.",
+  "body": "Yard be matter reach point son.",
+  "userId": 4
+}
+
+24.08.2023_00:57:05.230362
+RESPONSE
+status code: 201
+json: {
+  "title": "Itself produce reality employee nature pattern single thus rock.",
+  "body": "Yard be matter reach point son.",
+  "userId": 4,
+  "id": 101
+}
