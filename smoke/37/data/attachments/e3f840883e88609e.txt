@@ -1,0 +1,24 @@
+25.08.2023_00:58:30.244237
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Seem market year information tree safe.",
+  "body": "Measure eat throw stop. Media impact your father.",
+  "userId": 8
+}
+
+25.08.2023_00:58:30.391869
+RESPONSE
+status code: 201
+json: {
+  "title": "Seem market year information tree safe.",
+  "body": "Measure eat throw stop. Media impact your father.",
+  "userId": 8,
+  "id": 101
+}
