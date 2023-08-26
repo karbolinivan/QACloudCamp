@@ -1,0 +1,24 @@
+26.08.2023_00:56:01.980814
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Cultural it administration among general scientist religious everyone event like major.",
+  "body": "Assume television level ahead quality.",
+  "userId": 8
+}
+
+26.08.2023_00:56:02.071344
+RESPONSE
+status code: 201
+json: {
+  "title": "Cultural it administration among general scientist religious everyone event like major.",
+  "body": "Assume television level ahead quality.",
+  "userId": 8,
+  "id": 101
+}
