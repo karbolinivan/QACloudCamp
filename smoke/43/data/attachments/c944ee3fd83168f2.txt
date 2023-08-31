@@ -1,0 +1,24 @@
+31.08.2023_00:58:40.501884
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Maybe work not money tax hand.",
+  "body": "Without meeting base nothing.",
+  "userId": 1
+}
+
+31.08.2023_00:58:40.631060
+RESPONSE
+status code: 201
+json: {
+  "title": "Maybe work not money tax hand.",
+  "body": "Without meeting base nothing.",
+  "userId": 1,
+  "id": 101
+}
