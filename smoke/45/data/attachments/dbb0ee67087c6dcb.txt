@@ -1,0 +1,24 @@
+02.09.2023_00:56:17.076263
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Movie pattern child hundred report professional company today senior ability.",
+  "body": "Fine dog economy.",
+  "userId": 5
+}
+
+02.09.2023_00:56:17.117152
+RESPONSE
+status code: 201
+json: {
+  "title": "Movie pattern child hundred report professional company today senior ability.",
+  "body": "Fine dog economy.",
+  "userId": 5,
+  "id": 101
+}
