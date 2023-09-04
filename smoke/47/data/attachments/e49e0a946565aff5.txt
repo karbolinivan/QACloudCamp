@@ -1,0 +1,24 @@
+04.09.2023_00:59:38.348458
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Success resource guy voice speech economic majority figure spend reduce.",
+  "body": "Support area sell against choice accept.",
+  "userId": 4
+}
+
+04.09.2023_00:59:38.556139
+RESPONSE
+status code: 201
+json: {
+  "title": "Success resource guy voice speech economic majority figure spend reduce.",
+  "body": "Support area sell against choice accept.",
+  "userId": 4,
+  "id": 101
+}

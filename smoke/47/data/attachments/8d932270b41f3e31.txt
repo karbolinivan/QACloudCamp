@@ -1,0 +1,24 @@
+04.09.2023_00:59:38.337644
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Force choose military major grow single.",
+  "body": "May can range. Exist area claim baby.",
+  "userId": 6
+}
+
+04.09.2023_00:59:38.533421
+RESPONSE
+status code: 201
+json: {
+  "title": "Force choose military major grow single.",
+  "body": "May can range. Exist area claim baby.",
+  "userId": 6,
+  "id": 101
+}
