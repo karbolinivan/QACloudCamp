@@ -1,0 +1,24 @@
+07.09.2023_00:58:14.518828
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Become husband likely road present majority manager paper also training analysis family key.",
+  "body": "Himself care from board concern east Democrat.",
+  "userId": 2
+}
+
+07.09.2023_00:58:14.700205
+RESPONSE
+status code: 201
+json: {
+  "title": "Become husband likely road present majority manager paper also training analysis family key.",
+  "body": "Himself care from board concern east Democrat.",
+  "userId": 2,
+  "id": 101
+}
