@@ -1,0 +1,24 @@
+08.09.2023_00:58:17.859195
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Beautiful poor technology wide later door according provide bar above red she expect.",
+  "body": "Trip wide ready statement ball.",
+  "userId": 7
+}
+
+08.09.2023_00:58:17.950868
+RESPONSE
+status code: 201
+json: {
+  "title": "Beautiful poor technology wide later door according provide bar above red she expect.",
+  "body": "Trip wide ready statement ball.",
+  "userId": 7,
+  "id": 101
+}
