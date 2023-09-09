@@ -1,0 +1,24 @@
+09.09.2023_00:56:50.828624
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Real end upon race third address allow.",
+  "body": "Use fill identify she finally your.",
+  "userId": 9
+}
+
+09.09.2023_00:56:50.926619
+RESPONSE
+status code: 201
+json: {
+  "title": "Real end upon race third address allow.",
+  "body": "Use fill identify she finally your.",
+  "userId": 9,
+  "id": 101
+}
