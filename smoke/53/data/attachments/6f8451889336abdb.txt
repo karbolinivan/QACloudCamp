@@ -1,0 +1,24 @@
+10.09.2023_01:01:42.759694
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Statement money thousand year what recognize level black up.",
+  "body": "Treat live edge drop thank.",
+  "userId": 3
+}
+
+10.09.2023_01:01:42.832751
+RESPONSE
+status code: 201
+json: {
+  "title": "Statement money thousand year what recognize level black up.",
+  "body": "Treat live edge drop thank.",
+  "userId": 3,
+  "id": 101
+}
