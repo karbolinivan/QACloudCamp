@@ -1,0 +1,24 @@
+12.09.2023_00:57:01.717420
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Adult number west above measure myself box approach treat bring make.",
+  "body": "Expect attorney general decision.",
+  "userId": 9
+}
+
+12.09.2023_00:57:01.785302
+RESPONSE
+status code: 201
+json: {
+  "title": "Adult number west above measure myself box approach treat bring make.",
+  "body": "Expect attorney general decision.",
+  "userId": 9,
+  "id": 101
+}
