@@ -1,0 +1,24 @@
+13.09.2023_00:59:30.461065
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "North event center bill wait live.",
+  "body": "Matter player city from quite against.",
+  "userId": 7
+}
+
+13.09.2023_00:59:30.538927
+RESPONSE
+status code: 201
+json: {
+  "title": "North event center bill wait live.",
+  "body": "Matter player city from quite against.",
+  "userId": 7,
+  "id": 101
+}
