@@ -1,0 +1,24 @@
+14.09.2023_00:58:12.844188
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Able drop artist data seven off.",
+  "body": "Gun can tend measure way he return.",
+  "userId": 2
+}
+
+14.09.2023_00:58:12.914788
+RESPONSE
+status code: 201
+json: {
+  "title": "Able drop artist data seven off.",
+  "body": "Gun can tend measure way he return.",
+  "userId": 2,
+  "id": 101
+}
