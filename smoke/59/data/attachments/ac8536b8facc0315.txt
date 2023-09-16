@@ -1,0 +1,24 @@
+16.09.2023_00:57:44.400526
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "The water blue simple service sing team education run national.",
+  "body": "More trip benefit area.",
+  "userId": 1
+}
+
+16.09.2023_00:57:44.633525
+RESPONSE
+status code: 201
+json: {
+  "title": "The water blue simple service sing team education run national.",
+  "body": "More trip benefit area.",
+  "userId": 1,
+  "id": 101
+}
