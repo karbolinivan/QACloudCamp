@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Aug 28 00:58:57 GMT 2023","Mon Aug 28 00:58:57 GMT 2023","283","tests","test_resource","TestResource","","","Create resource",""
-"passed","Mon Aug 28 00:58:58 GMT 2023","Mon Aug 28 00:58:58 GMT 2023","130","tests","test_resource","TestResource","","","Delete resource",""
-"passed","Mon Aug 28 00:58:57 GMT 2023","Mon Aug 28 00:58:57 GMT 2023","142","tests","test_resource","TestResource","","","Get resource",""
