@@ -1,0 +1,24 @@
+19.09.2023_00:59:34.692181
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Quickly cold join program home especially possible subject.",
+  "body": "Ahead wife year for different.",
+  "userId": 6
+}
+
+19.09.2023_00:59:34.876937
+RESPONSE
+status code: 201
+json: {
+  "title": "Quickly cold join program home especially possible subject.",
+  "body": "Ahead wife year for different.",
+  "userId": 6,
+  "id": 101
+}
