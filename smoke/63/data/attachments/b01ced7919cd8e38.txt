@@ -1,0 +1,24 @@
+20.09.2023_00:59:07.709086
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Research theory baby although item heavy.",
+  "body": "Method just certainly include.",
+  "userId": 9
+}
+
+20.09.2023_00:59:07.963058
+RESPONSE
+status code: 201
+json: {
+  "title": "Research theory baby although item heavy.",
+  "body": "Method just certainly include.",
+  "userId": 9,
+  "id": 101
+}

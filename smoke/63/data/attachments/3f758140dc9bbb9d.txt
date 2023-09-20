@@ -1,0 +1,24 @@
+20.09.2023_00:59:08.337363
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Garden later president listen land require.",
+  "body": "Exist may tax might hour happy lot produce.",
+  "userId": 8
+}
+
+20.09.2023_00:59:08.519654
+RESPONSE
+status code: 201
+json: {
+  "title": "Garden later president listen land require.",
+  "body": "Exist may tax might hour happy lot produce.",
+  "userId": 8,
+  "id": 101
+}
