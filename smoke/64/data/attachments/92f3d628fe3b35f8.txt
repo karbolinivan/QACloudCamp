@@ -1,0 +1,24 @@
+21.09.2023_00:58:40.542068
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Unit everyone those nation action focus suddenly interesting remember.",
+  "body": "Laugh into note easy voice.",
+  "userId": 1
+}
+
+21.09.2023_00:58:40.687082
+RESPONSE
+status code: 201
+json: {
+  "title": "Unit everyone those nation action focus suddenly interesting remember.",
+  "body": "Laugh into note easy voice.",
+  "userId": 1,
+  "id": 101
+}
