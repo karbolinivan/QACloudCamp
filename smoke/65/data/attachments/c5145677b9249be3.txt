@@ -1,0 +1,24 @@
+22.09.2023_00:59:34.823945
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Light might free yes option role certain through start road happen.",
+  "body": "On above memory debate and front watch.",
+  "userId": 9
+}
+
+22.09.2023_00:59:36.729471
+RESPONSE
+status code: 201
+json: {
+  "title": "Light might free yes option role certain through start road happen.",
+  "body": "On above memory debate and front watch.",
+  "userId": 9,
+  "id": 101
+}
