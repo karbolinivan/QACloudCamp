@@ -1,0 +1,24 @@
+25.09.2023_00:59:51.394210
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Who organization develop be sister think provide administration understand brother send.",
+  "body": "Check series art early the.",
+  "userId": 3
+}
+
+25.09.2023_00:59:51.528748
+RESPONSE
+status code: 201
+json: {
+  "title": "Who organization develop be sister think provide administration understand brother send.",
+  "body": "Check series art early the.",
+  "userId": 3,
+  "id": 101
+}
