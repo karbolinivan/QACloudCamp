@@ -1,0 +1,24 @@
+26.09.2023_00:59:43.756867
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Film recognize development war major five international those home law television establish west.",
+  "body": "Partner even have class away.",
+  "userId": 2
+}
+
+26.09.2023_00:59:43.873164
+RESPONSE
+status code: 201
+json: {
+  "title": "Film recognize development war major five international those home law television establish west.",
+  "body": "Partner even have class away.",
+  "userId": 2,
+  "id": 101
+}
