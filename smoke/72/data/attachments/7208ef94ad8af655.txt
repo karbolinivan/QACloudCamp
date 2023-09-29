@@ -1,0 +1,24 @@
+29.09.2023_00:59:29.920578
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Leader foot spend probably back now amount add wife resource campaign.",
+  "body": "Free power matter least wind employee.",
+  "userId": 5
+}
+
+29.09.2023_00:59:30.069079
+RESPONSE
+status code: 201
+json: {
+  "title": "Leader foot spend probably back now amount add wife resource campaign.",
+  "body": "Free power matter least wind employee.",
+  "userId": 5,
+  "id": 101
+}

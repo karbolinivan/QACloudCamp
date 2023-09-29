@@ -1,0 +1,24 @@
+29.09.2023_00:59:30.362590
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Threat floor resource social clear finally allow admit answer.",
+  "body": "Shoulder save fast teacher agency of.",
+  "userId": 6
+}
+
+29.09.2023_00:59:30.486063
+RESPONSE
+status code: 201
+json: {
+  "title": "Threat floor resource social clear finally allow admit answer.",
+  "body": "Shoulder save fast teacher agency of.",
+  "userId": 6,
+  "id": 101
+}
