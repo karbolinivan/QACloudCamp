@@ -1,0 +1,24 @@
+04.10.2023_01:00:45.985201
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Scientist modern south deal site go film bit lead why race.",
+  "body": "President able pay seek television my.",
+  "userId": 9
+}
+
+04.10.2023_01:00:46.062736
+RESPONSE
+status code: 201
+json: {
+  "title": "Scientist modern south deal site go film bit lead why race.",
+  "body": "President able pay seek television my.",
+  "userId": 9,
+  "id": 101
+}
