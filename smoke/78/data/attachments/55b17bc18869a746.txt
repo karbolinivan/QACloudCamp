@@ -1,0 +1,24 @@
+05.10.2023_00:59:38.429708
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Voice light magazine hotel hand effort stuff toward final cover too show clearly.",
+  "body": "Her make rise local color kind certain.",
+  "userId": 1
+}
+
+05.10.2023_00:59:38.480917
+RESPONSE
+status code: 201
+json: {
+  "title": "Voice light magazine hotel hand effort stuff toward final cover too show clearly.",
+  "body": "Her make rise local color kind certain.",
+  "userId": 1,
+  "id": 101
+}
