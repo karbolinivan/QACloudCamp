@@ -1,0 +1,24 @@
+06.10.2023_00:59:25.965191
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Decade challenge factor let laugh cold join before dream whether serve.",
+  "body": "Send side PM budget.",
+  "userId": 2
+}
+
+06.10.2023_00:59:26.056607
+RESPONSE
+status code: 201
+json: {
+  "title": "Decade challenge factor let laugh cold join before dream whether serve.",
+  "body": "Send side PM budget.",
+  "userId": 2,
+  "id": 101
+}
