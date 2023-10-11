@@ -1,0 +1,24 @@
+11.10.2023_00:59:22.427261
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Well skin level food within nature learn need painting.",
+  "body": "Certainly Mrs natural all heart executive.",
+  "userId": 6
+}
+
+11.10.2023_00:59:22.589550
+RESPONSE
+status code: 201
+json: {
+  "title": "Well skin level food within nature learn need painting.",
+  "body": "Certainly Mrs natural all heart executive.",
+  "userId": 6,
+  "id": 101
+}
