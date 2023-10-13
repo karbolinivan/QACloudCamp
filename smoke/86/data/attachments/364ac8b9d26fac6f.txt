@@ -1,0 +1,24 @@
+13.10.2023_01:01:16.938495
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "System view really box voice read central occur time open speech situation adult.",
+  "body": "Certain hour civil yet.",
+  "userId": 9
+}
+
+13.10.2023_01:01:17.075952
+RESPONSE
+status code: 201
+json: {
+  "title": "System view really box voice read central occur time open speech situation adult.",
+  "body": "Certain hour civil yet.",
+  "userId": 9,
+  "id": 101
+}
