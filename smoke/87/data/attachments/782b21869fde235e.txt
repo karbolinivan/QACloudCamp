@@ -1,0 +1,24 @@
+14.10.2023_00:58:29.949745
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "One daughter determine coach role two actually forward real modern behind.",
+  "body": "Here network drug by program case finish maybe.",
+  "userId": 4
+}
+
+14.10.2023_00:58:30.123247
+RESPONSE
+status code: 201
+json: {
+  "title": "One daughter determine coach role two actually forward real modern behind.",
+  "body": "Here network drug by program case finish maybe.",
+  "userId": 4,
+  "id": 101
+}
