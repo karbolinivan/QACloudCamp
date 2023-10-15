@@ -1,0 +1,24 @@
+15.10.2023_01:03:56.766024
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Form card discussion clear institution between.",
+  "body": "Water as race wear.",
+  "userId": 9
+}
+
+15.10.2023_01:03:56.825653
+RESPONSE
+status code: 201
+json: {
+  "title": "Form card discussion clear institution between.",
+  "body": "Water as race wear.",
+  "userId": 9,
+  "id": 101
+}
