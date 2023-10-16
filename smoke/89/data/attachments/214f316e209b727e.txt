@@ -1,0 +1,24 @@
+16.10.2023_01:01:01.045641
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Little space top new next service very.",
+  "body": "Animal among debate interview respond ok choose.",
+  "userId": 2
+}
+
+16.10.2023_01:01:01.101559
+RESPONSE
+status code: 201
+json: {
+  "title": "Little space top new next service very.",
+  "body": "Animal among debate interview respond ok choose.",
+  "userId": 2,
+  "id": 101
+}
