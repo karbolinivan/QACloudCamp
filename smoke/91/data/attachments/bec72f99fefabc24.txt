@@ -1,0 +1,24 @@
+18.10.2023_01:00:03.663906
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Community majority young realize enter second.",
+  "body": "Can develop film suggest in.",
+  "userId": 6
+}
+
+18.10.2023_01:00:03.811595
+RESPONSE
+status code: 201
+json: {
+  "title": "Community majority young realize enter second.",
+  "body": "Can develop film suggest in.",
+  "userId": 6,
+  "id": 101
+}
