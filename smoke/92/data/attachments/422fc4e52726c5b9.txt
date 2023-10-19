@@ -1,0 +1,24 @@
+19.10.2023_00:59:55.674345
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Hair sister deal lot worry candidate trouble story image particularly mean local.",
+  "body": "Suffer democratic candidate clear shake bill.",
+  "userId": 4
+}
+
+19.10.2023_00:59:55.817497
+RESPONSE
+status code: 201
+json: {
+  "title": "Hair sister deal lot worry candidate trouble story image particularly mean local.",
+  "body": "Suffer democratic candidate clear shake bill.",
+  "userId": 4,
+  "id": 101
+}
