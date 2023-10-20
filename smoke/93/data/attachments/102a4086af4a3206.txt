@@ -1,0 +1,24 @@
+20.10.2023_01:00:04.870822
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Total year there involve interest place century.",
+  "body": "Style pick goal.",
+  "userId": 7
+}
+
+20.10.2023_01:00:04.927983
+RESPONSE
+status code: 201
+json: {
+  "title": "Total year there involve interest place century.",
+  "body": "Style pick goal.",
+  "userId": 7,
+  "id": 101
+}
