@@ -1,0 +1,24 @@
+27.10.2023_00:58:55.550547
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Smile black various positive little not happy PM how reason reach.",
+  "body": "Fall again great have one others attack.",
+  "userId": 3
+}
+
+27.10.2023_00:58:55.655207
+RESPONSE
+status code: 201
+json: {
+  "title": "Smile black various positive little not happy PM how reason reach.",
+  "body": "Fall again great have one others attack.",
+  "userId": 3,
+  "id": 101
+}
