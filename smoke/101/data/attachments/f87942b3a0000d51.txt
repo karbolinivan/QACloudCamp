@@ -1,0 +1,24 @@
+28.10.2023_00:57:43.269550
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Speech two three city it sense wrong.",
+  "body": "Table real lot significant board.",
+  "userId": 7
+}
+
+28.10.2023_00:57:43.327751
+RESPONSE
+status code: 201
+json: {
+  "title": "Speech two three city it sense wrong.",
+  "body": "Table real lot significant board.",
+  "userId": 7,
+  "id": 101
+}
