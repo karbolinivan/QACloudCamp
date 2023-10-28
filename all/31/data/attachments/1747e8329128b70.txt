@@ -1,0 +1,24 @@
+28.10.2023_06:14:06.016955
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Character expert ball crime consumer base.",
+  "body": "Fish while fact to.",
+  "userId": 4
+}
+
+28.10.2023_06:14:06.117476
+RESPONSE
+status code: 201
+json: {
+  "title": "Character expert ball crime consumer base.",
+  "body": "Fish while fact to.",
+  "userId": 4,
+  "id": 101
+}
