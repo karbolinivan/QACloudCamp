@@ -1,0 +1,24 @@
+29.10.2023_01:03:10.737276
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Simple window stop production report pay have that.",
+  "body": "Skill available role.",
+  "userId": 3
+}
+
+29.10.2023_01:03:10.912857
+RESPONSE
+status code: 201
+json: {
+  "title": "Simple window stop production report pay have that.",
+  "body": "Skill available role.",
+  "userId": 3,
+  "id": 101
+}

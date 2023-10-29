@@ -1,0 +1,24 @@
+29.10.2023_01:03:10.732985
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Reason case have partner consider simply easy ground cold.",
+  "body": "Whose how why. Second remember see movie tonight.",
+  "userId": 9
+}
+
+29.10.2023_01:03:10.910559
+RESPONSE
+status code: 201
+json: {
+  "title": "Reason case have partner consider simply easy ground cold.",
+  "body": "Whose how why. Second remember see movie tonight.",
+  "userId": 9,
+  "id": 101
+}
