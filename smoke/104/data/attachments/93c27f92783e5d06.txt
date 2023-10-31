@@ -1,0 +1,24 @@
+31.10.2023_01:00:21.403214
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "System debate fish type democratic long.",
+  "body": "She same care staff side few resource.",
+  "userId": 9
+}
+
+31.10.2023_01:00:21.589445
+RESPONSE
+status code: 201
+json: {
+  "title": "System debate fish type democratic long.",
+  "body": "She same care staff side few resource.",
+  "userId": 9,
+  "id": 101
+}
