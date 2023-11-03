@@ -1,0 +1,24 @@
+03.11.2023_01:00:12.666462
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Week never explain director open reality marriage.",
+  "body": "Day doctor high thus entire degree time.",
+  "userId": 3
+}
+
+03.11.2023_01:00:12.931369
+RESPONSE
+status code: 201
+json: {
+  "title": "Week never explain director open reality marriage.",
+  "body": "Day doctor high thus entire degree time.",
+  "userId": 3,
+  "id": 101
+}
