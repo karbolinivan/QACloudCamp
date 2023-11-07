@@ -1,0 +1,24 @@
+07.11.2023_01:01:24.727732
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Court capital role Democrat north save change key rock reason stock full spring.",
+  "body": "Million night within build.",
+  "userId": 6
+}
+
+07.11.2023_01:01:24.924207
+RESPONSE
+status code: 201
+json: {
+  "title": "Court capital role Democrat north save change key rock reason stock full spring.",
+  "body": "Million night within build.",
+  "userId": 6,
+  "id": 101
+}
