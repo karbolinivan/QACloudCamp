@@ -1,0 +1,24 @@
+08.11.2023_01:01:07.645213
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "True improve hospital throw field Mr.",
+  "body": "Six eye travel role then.",
+  "userId": 2
+}
+
+08.11.2023_01:01:07.779383
+RESPONSE
+status code: 201
+json: {
+  "title": "True improve hospital throw field Mr.",
+  "body": "Six eye travel role then.",
+  "userId": 2,
+  "id": 101
+}
