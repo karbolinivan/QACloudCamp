@@ -1,0 +1,24 @@
+09.11.2023_01:00:37.621163
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Person much long difference suggest camera significant health social person affect chair.",
+  "body": "Live ago traditional trouble citizen than.",
+  "userId": 5
+}
+
+09.11.2023_01:00:37.862743
+RESPONSE
+status code: 201
+json: {
+  "title": "Person much long difference suggest camera significant health social person affect chair.",
+  "body": "Live ago traditional trouble citizen than.",
+  "userId": 5,
+  "id": 101
+}
