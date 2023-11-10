@@ -1,0 +1,24 @@
+10.11.2023_01:00:30.250693
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Quite possible out issue couple different cut west describe.",
+  "body": "These up staff opportunity.",
+  "userId": 8
+}
+
+10.11.2023_01:00:30.410872
+RESPONSE
+status code: 201
+json: {
+  "title": "Quite possible out issue couple different cut west describe.",
+  "body": "These up staff opportunity.",
+  "userId": 8,
+  "id": 101
+}
