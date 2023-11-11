@@ -1,0 +1,24 @@
+11.11.2023_00:59:44.962831
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fund lay account as weight economic cause determine.",
+  "body": "Likely something happy teach him.",
+  "userId": 4
+}
+
+11.11.2023_00:59:45.068636
+RESPONSE
+status code: 201
+json: {
+  "title": "Fund lay account as weight economic cause determine.",
+  "body": "Likely something happy teach him.",
+  "userId": 4,
+  "id": 101
+}
