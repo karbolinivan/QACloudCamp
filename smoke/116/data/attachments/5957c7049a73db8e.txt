@@ -1,0 +1,24 @@
+12.11.2023_01:05:08.469435
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fact cold these wind carry individual seem.",
+  "body": "Thank develop seem.",
+  "userId": 8
+}
+
+12.11.2023_01:05:08.535515
+RESPONSE
+status code: 201
+json: {
+  "title": "Fact cold these wind carry individual seem.",
+  "body": "Thank develop seem.",
+  "userId": 8,
+  "id": 101
+}
