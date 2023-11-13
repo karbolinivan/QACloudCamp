@@ -1,0 +1,24 @@
+13.11.2023_01:02:33.149697
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Management only head fire detail decade same.",
+  "body": "Free wonder stock risk child service.",
+  "userId": 9
+}
+
+13.11.2023_01:02:33.243448
+RESPONSE
+status code: 201
+json: {
+  "title": "Management only head fire detail decade same.",
+  "body": "Free wonder stock risk child service.",
+  "userId": 9,
+  "id": 101
+}

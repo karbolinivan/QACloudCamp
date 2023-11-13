@@ -1,0 +1,24 @@
+13.11.2023_01:02:33.160709
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Whose direction travel lay son inside improve information phone.",
+  "body": "Travel later record high by.",
+  "userId": 4
+}
+
+13.11.2023_01:02:33.255304
+RESPONSE
+status code: 201
+json: {
+  "title": "Whose direction travel lay son inside improve information phone.",
+  "body": "Travel later record high by.",
+  "userId": 4,
+  "id": 101
+}

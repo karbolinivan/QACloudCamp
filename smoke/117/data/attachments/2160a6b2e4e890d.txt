@@ -1,0 +1,24 @@
+13.11.2023_01:02:33.157461
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Than spring PM organization rock treatment number herself feel adult leave particularly.",
+  "body": "Pass four actually scene far ago law.",
+  "userId": 4
+}
+
+13.11.2023_01:02:33.248475
+RESPONSE
+status code: 201
+json: {
+  "title": "Than spring PM organization rock treatment number herself feel adult leave particularly.",
+  "body": "Pass four actually scene far ago law.",
+  "userId": 4,
+  "id": 101
+}
