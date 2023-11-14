@@ -1,0 +1,24 @@
+14.11.2023_01:01:04.618913
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Forget here identify throw do item between authority note development.",
+  "body": "Charge research single begin rather.",
+  "userId": 1
+}
+
+14.11.2023_01:01:04.859808
+RESPONSE
+status code: 201
+json: {
+  "title": "Forget here identify throw do item between authority note development.",
+  "body": "Charge research single begin rather.",
+  "userId": 1,
+  "id": 101
+}
