@@ -1,0 +1,24 @@
+17.11.2023_01:02:54.800114
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Available attack because responsibility camera possible through soon guess then.",
+  "body": "Movement machine American the might indeed.",
+  "userId": 3
+}
+
+17.11.2023_01:02:54.922936
+RESPONSE
+status code: 201
+json: {
+  "title": "Available attack because responsibility camera possible through soon guess then.",
+  "body": "Movement machine American the might indeed.",
+  "userId": 3,
+  "id": 101
+}
