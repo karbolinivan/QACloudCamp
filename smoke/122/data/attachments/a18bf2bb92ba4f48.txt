@@ -1,0 +1,24 @@
+18.11.2023_01:02:08.204131
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Republican she stay peace debate maintain against simply food while technology team you.",
+  "body": "Gas poor if.",
+  "userId": 7
+}
+
+18.11.2023_01:02:08.360467
+RESPONSE
+status code: 201
+json: {
+  "title": "Republican she stay peace debate maintain against simply food while technology team you.",
+  "body": "Gas poor if.",
+  "userId": 7,
+  "id": 101
+}

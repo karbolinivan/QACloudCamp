@@ -1,0 +1,24 @@
+18.11.2023_01:02:08.213466
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Both eye mother instead difficult impact house discussion doctor wind.",
+  "body": "Blue outside around relationship certain receive.",
+  "userId": 1
+}
+
+18.11.2023_01:02:08.360764
+RESPONSE
+status code: 201
+json: {
+  "title": "Both eye mother instead difficult impact house discussion doctor wind.",
+  "body": "Blue outside around relationship certain receive.",
+  "userId": 1,
+  "id": 101
+}
