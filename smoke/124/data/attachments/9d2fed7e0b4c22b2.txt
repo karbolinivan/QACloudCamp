@@ -1,0 +1,24 @@
+20.11.2023_01:03:43.070534
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Improve foreign suffer goal suffer wait work well practice them kind must PM.",
+  "body": "Simply have adult soldier vote let.",
+  "userId": 4
+}
+
+20.11.2023_01:03:43.151276
+RESPONSE
+status code: 201
+json: {
+  "title": "Improve foreign suffer goal suffer wait work well practice them kind must PM.",
+  "body": "Simply have adult soldier vote let.",
+  "userId": 4,
+  "id": 101
+}

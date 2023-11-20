@@ -1,0 +1,24 @@
+20.11.2023_01:03:43.069910
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "We boy would land able idea.",
+  "body": "Conference everybody before scientist daughter.",
+  "userId": 5
+}
+
+20.11.2023_01:03:43.155412
+RESPONSE
+status code: 201
+json: {
+  "title": "We boy would land able idea.",
+  "body": "Conference everybody before scientist daughter.",
+  "userId": 5,
+  "id": 101
+}
