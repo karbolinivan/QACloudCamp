@@ -1,0 +1,24 @@
+21.11.2023_01:03:57.084076
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Girl do number others civil while growth condition.",
+  "body": "Through but attorney personal.",
+  "userId": 9
+}
+
+21.11.2023_01:03:57.177213
+RESPONSE
+status code: 201
+json: {
+  "title": "Girl do number others civil while growth condition.",
+  "body": "Through but attorney personal.",
+  "userId": 9,
+  "id": 101
+}

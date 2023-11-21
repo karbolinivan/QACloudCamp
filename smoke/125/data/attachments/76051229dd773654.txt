@@ -1,0 +1,24 @@
+21.11.2023_01:03:57.090369
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Voice put go reduce catch bit rise office Congress last.",
+  "body": "Visit then need.",
+  "userId": 8
+}
+
+21.11.2023_01:03:57.184976
+RESPONSE
+status code: 201
+json: {
+  "title": "Voice put go reduce catch bit rise office Congress last.",
+  "body": "Visit then need.",
+  "userId": 8,
+  "id": 101
+}
