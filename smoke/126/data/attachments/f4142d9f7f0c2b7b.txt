@@ -1,0 +1,24 @@
+22.11.2023_01:05:03.103183
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Remain after debate offer respond successful piece admit.",
+  "body": "Life end significant yet. Ahead baby health late.",
+  "userId": 4
+}
+
+22.11.2023_01:05:03.384059
+RESPONSE
+status code: 201
+json: {
+  "title": "Remain after debate offer respond successful piece admit.",
+  "body": "Life end significant yet. Ahead baby health late.",
+  "userId": 4,
+  "id": 101
+}
