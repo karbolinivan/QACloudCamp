@@ -1,0 +1,24 @@
+23.11.2023_01:02:23.556808
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Woman pick paper customer sure end thousand tough while discussion.",
+  "body": "Ability trouble under.",
+  "userId": 8
+}
+
+23.11.2023_01:02:23.844567
+RESPONSE
+status code: 201
+json: {
+  "title": "Woman pick paper customer sure end thousand tough while discussion.",
+  "body": "Ability trouble under.",
+  "userId": 8,
+  "id": 101
+}
