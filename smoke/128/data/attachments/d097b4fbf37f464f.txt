@@ -1,0 +1,24 @@
+24.11.2023_01:01:01.852476
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Task never high change store deal side who.",
+  "body": "Read authority always value today.",
+  "userId": 2
+}
+
+24.11.2023_01:01:01.957508
+RESPONSE
+status code: 201
+json: {
+  "title": "Task never high change store deal side who.",
+  "body": "Read authority always value today.",
+  "userId": 2,
+  "id": 101
+}
