@@ -1,0 +1,24 @@
+25.11.2023_01:00:13.142261
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Total main store who admit group ok college.",
+  "body": "Field her doctor send should.",
+  "userId": 1
+}
+
+25.11.2023_01:00:13.288943
+RESPONSE
+status code: 201
+json: {
+  "title": "Total main store who admit group ok college.",
+  "body": "Field her doctor send should.",
+  "userId": 1,
+  "id": 101
+}
