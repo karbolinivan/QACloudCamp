@@ -1,0 +1,24 @@
+26.11.2023_01:06:13.053430
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Career class city behavior attention everything if it ever modern.",
+  "body": "Blood probably begin note.",
+  "userId": 4
+}
+
+26.11.2023_01:06:13.405865
+RESPONSE
+status code: 201
+json: {
+  "title": "Career class city behavior attention everything if it ever modern.",
+  "body": "Blood probably begin note.",
+  "userId": 4,
+  "id": 101
+}

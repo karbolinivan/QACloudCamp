@@ -1,0 +1,24 @@
+26.11.2023_01:06:13.061114
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Agreement near adult accept executive fly bit office fly structure force feel positive.",
+  "body": "Claim shoulder lawyer decade.",
+  "userId": 2
+}
+
+26.11.2023_01:06:13.232187
+RESPONSE
+status code: 201
+json: {
+  "title": "Agreement near adult accept executive fly bit office fly structure force feel positive.",
+  "body": "Claim shoulder lawyer decade.",
+  "userId": 2,
+  "id": 101
+}

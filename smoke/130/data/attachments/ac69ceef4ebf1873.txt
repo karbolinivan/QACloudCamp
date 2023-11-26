@@ -1,0 +1,24 @@
+26.11.2023_01:06:13.062344
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Eye light return among although report.",
+  "body": "Investment program international sometimes.",
+  "userId": 8
+}
+
+26.11.2023_01:06:13.389265
+RESPONSE
+status code: 201
+json: {
+  "title": "Eye light return among although report.",
+  "body": "Investment program international sometimes.",
+  "userId": 8,
+  "id": 101
+}
