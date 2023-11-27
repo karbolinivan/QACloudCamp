@@ -1,0 +1,24 @@
+27.11.2023_01:03:08.169868
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Deal member his charge on side although describe while could nothing.",
+  "body": "Manager small break citizen customer set near.",
+  "userId": 8
+}
+
+27.11.2023_01:03:08.461294
+RESPONSE
+status code: 201
+json: {
+  "title": "Deal member his charge on side although describe while could nothing.",
+  "body": "Manager small break citizen customer set near.",
+  "userId": 8,
+  "id": 101
+}
