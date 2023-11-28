@@ -1,0 +1,24 @@
+28.11.2023_06:16:17.644600
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Job myself decide owner also century statement media approach Mrs.",
+  "body": "Movement color cup speak both everybody.",
+  "userId": 4
+}
+
+28.11.2023_06:16:17.711023
+RESPONSE
+status code: 201
+json: {
+  "title": "Job myself decide owner also century statement media approach Mrs.",
+  "body": "Movement color cup speak both everybody.",
+  "userId": 4,
+  "id": 101
+}

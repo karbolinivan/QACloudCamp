@@ -1,0 +1,24 @@
+28.11.2023_06:16:17.638279
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Away many form make surface activity moment network food letter.",
+  "body": "Forget air not while why smile rule.",
+  "userId": 2
+}
+
+28.11.2023_06:16:17.708236
+RESPONSE
+status code: 201
+json: {
+  "title": "Away many form make surface activity moment network food letter.",
+  "body": "Forget air not while why smile rule.",
+  "userId": 2,
+  "id": 101
+}
