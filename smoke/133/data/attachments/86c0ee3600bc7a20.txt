@@ -1,0 +1,24 @@
+29.11.2023_01:03:33.032638
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Former agent spring coach lot interview agreement yard stop use really work whose.",
+  "body": "Theory how these. Majority road goal bad hundred.",
+  "userId": 7
+}
+
+29.11.2023_01:03:33.137854
+RESPONSE
+status code: 201
+json: {
+  "title": "Former agent spring coach lot interview agreement yard stop use really work whose.",
+  "body": "Theory how these. Majority road goal bad hundred.",
+  "userId": 7,
+  "id": 101
+}
