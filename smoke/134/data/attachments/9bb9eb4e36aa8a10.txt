@@ -1,0 +1,24 @@
+30.11.2023_01:02:55.807143
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Director hundred together increase Democrat wonder.",
+  "body": "Since admit exactly it month.",
+  "userId": 3
+}
+
+30.11.2023_01:02:55.973759
+RESPONSE
+status code: 201
+json: {
+  "title": "Director hundred together increase Democrat wonder.",
+  "body": "Since admit exactly it month.",
+  "userId": 3,
+  "id": 101
+}
