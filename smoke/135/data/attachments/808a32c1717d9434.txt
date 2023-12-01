@@ -1,0 +1,24 @@
+01.12.2023_01:08:36.824116
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Population service possible human story answer better act room.",
+  "body": "Treat stock sign brother listen accept.",
+  "userId": 1
+}
+
+01.12.2023_01:08:37.102810
+RESPONSE
+status code: 201
+json: {
+  "title": "Population service possible human story answer better act room.",
+  "body": "Treat stock sign brother listen accept.",
+  "userId": 1,
+  "id": 101
+}
