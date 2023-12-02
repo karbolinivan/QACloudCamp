@@ -1,0 +1,24 @@
+02.12.2023_01:00:16.012824
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Various public his hour region environmental speech free thus even everybody.",
+  "body": "Box successful growth effort speech.",
+  "userId": 9
+}
+
+02.12.2023_01:00:16.109561
+RESPONSE
+status code: 201
+json: {
+  "title": "Various public his hour region environmental speech free thus even everybody.",
+  "body": "Box successful growth effort speech.",
+  "userId": 9,
+  "id": 101
+}

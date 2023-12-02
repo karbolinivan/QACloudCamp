@@ -1,0 +1,24 @@
+02.12.2023_01:00:16.012090
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Catch describe suddenly move if which simple figure whole third wear.",
+  "body": "About exist read management.",
+  "userId": 8
+}
+
+02.12.2023_01:00:16.104061
+RESPONSE
+status code: 201
+json: {
+  "title": "Catch describe suddenly move if which simple figure whole third wear.",
+  "body": "About exist read management.",
+  "userId": 8,
+  "id": 101
+}
