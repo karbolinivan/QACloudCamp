@@ -1,0 +1,24 @@
+05.12.2023_01:03:53.368332
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Dog arrive maintain nation than business.",
+  "body": "Just near gas bit.",
+  "userId": 4
+}
+
+05.12.2023_01:03:53.612472
+RESPONSE
+status code: 201
+json: {
+  "title": "Dog arrive maintain nation than business.",
+  "body": "Just near gas bit.",
+  "userId": 4,
+  "id": 101
+}

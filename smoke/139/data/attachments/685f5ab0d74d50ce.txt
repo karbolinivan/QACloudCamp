@@ -1,0 +1,24 @@
+05.12.2023_01:03:53.372768
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Deal project late paper toward threat modern second activity task we statement I.",
+  "body": "Modern marriage heart. Woman speak plan hit out.",
+  "userId": 2
+}
+
+05.12.2023_01:03:53.548064
+RESPONSE
+status code: 201
+json: {
+  "title": "Deal project late paper toward threat modern second activity task we statement I.",
+  "body": "Modern marriage heart. Woman speak plan hit out.",
+  "userId": 2,
+  "id": 101
+}
