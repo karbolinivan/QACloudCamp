@@ -1,0 +1,24 @@
+06.12.2023_01:03:44.047771
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "As movement off news discuss rate mind.",
+  "body": "Hospital ball check successful.",
+  "userId": 8
+}
+
+06.12.2023_01:03:44.231729
+RESPONSE
+status code: 201
+json: {
+  "title": "As movement off news discuss rate mind.",
+  "body": "Hospital ball check successful.",
+  "userId": 8,
+  "id": 101
+}

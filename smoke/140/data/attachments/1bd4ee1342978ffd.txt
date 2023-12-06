@@ -1,0 +1,24 @@
+06.12.2023_01:03:44.047620
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Scientist almost condition young reach mind turn political test under even near fly.",
+  "body": "Then letter mouth crime his. Middle any no thank.",
+  "userId": 1
+}
+
+06.12.2023_01:03:44.238734
+RESPONSE
+status code: 201
+json: {
+  "title": "Scientist almost condition young reach mind turn political test under even near fly.",
+  "body": "Then letter mouth crime his. Middle any no thank.",
+  "userId": 1,
+  "id": 101
+}
