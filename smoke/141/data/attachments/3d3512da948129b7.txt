@@ -1,0 +1,24 @@
+07.12.2023_01:03:11.645715
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Beyond hair yeah itself school my glass recently teacher newspaper play any.",
+  "body": "Option heart data none fast. Music next minute.",
+  "userId": 8
+}
+
+07.12.2023_01:03:11.751440
+RESPONSE
+status code: 201
+json: {
+  "title": "Beyond hair yeah itself school my glass recently teacher newspaper play any.",
+  "body": "Option heart data none fast. Music next minute.",
+  "userId": 8,
+  "id": 101
+}
