@@ -1,0 +1,24 @@
+11.12.2023_01:04:11.993330
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Minute he sort debate shake later cover exist fast Republican.",
+  "body": "Trial take thousand but my a reach goal.",
+  "userId": 2
+}
+
+11.12.2023_01:04:12.249493
+RESPONSE
+status code: 201
+json: {
+  "title": "Minute he sort debate shake later cover exist fast Republican.",
+  "body": "Trial take thousand but my a reach goal.",
+  "userId": 2,
+  "id": 101
+}

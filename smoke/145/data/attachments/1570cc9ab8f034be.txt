@@ -1,0 +1,24 @@
+11.12.2023_01:04:11.997805
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Sell three body have later professional role staff federal after certain manager five.",
+  "body": "Seek during early enter create.",
+  "userId": 6
+}
+
+11.12.2023_01:04:12.256575
+RESPONSE
+status code: 201
+json: {
+  "title": "Sell three body have later professional role staff federal after certain manager five.",
+  "body": "Seek during early enter create.",
+  "userId": 6,
+  "id": 101
+}
