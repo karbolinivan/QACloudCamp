@@ -1,0 +1,24 @@
+12.12.2023_01:03:53.185265
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Late major program key he building turn American nice.",
+  "body": "Might why we head. Often age send him.",
+  "userId": 8
+}
+
+12.12.2023_01:03:53.504586
+RESPONSE
+status code: 201
+json: {
+  "title": "Late major program key he building turn American nice.",
+  "body": "Might why we head. Often age send him.",
+  "userId": 8,
+  "id": 101
+}

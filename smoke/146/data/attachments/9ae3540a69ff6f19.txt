@@ -1,0 +1,24 @@
+12.12.2023_01:03:53.186261
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Billion stop heavy likely watch protect time scene.",
+  "body": "Realize remember something night character.",
+  "userId": 3
+}
+
+12.12.2023_01:03:53.353192
+RESPONSE
+status code: 201
+json: {
+  "title": "Billion stop heavy likely watch protect time scene.",
+  "body": "Realize remember something night character.",
+  "userId": 3,
+  "id": 101
+}
