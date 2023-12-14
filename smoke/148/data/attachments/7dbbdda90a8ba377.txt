@@ -1,0 +1,24 @@
+14.12.2023_01:02:39.628269
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Subject hundred city a west would happy boy.",
+  "body": "Pick listen thank think if.",
+  "userId": 8
+}
+
+14.12.2023_01:02:39.953779
+RESPONSE
+status code: 201
+json: {
+  "title": "Subject hundred city a west would happy boy.",
+  "body": "Pick listen thank think if.",
+  "userId": 8,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+14.12.2023_01:02:39.621640
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Eat treat west their study support speak meet door.",
+  "body": "Soon through answer quickly true environmental.",
+  "userId": 1
+}
+
+14.12.2023_01:02:39.949224
+RESPONSE
+status code: 201
+json: {
+  "title": "Eat treat west their study support speak meet door.",
+  "body": "Soon through answer quickly true environmental.",
+  "userId": 1,
+  "id": 101
+}
