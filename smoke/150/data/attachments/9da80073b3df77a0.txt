@@ -1,0 +1,24 @@
+16.12.2023_01:02:31.578189
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Morning family could sell shake treat score big out world.",
+  "body": "Option call happen short.",
+  "userId": 2
+}
+
+16.12.2023_01:02:31.660292
+RESPONSE
+status code: 201
+json: {
+  "title": "Morning family could sell shake treat score big out world.",
+  "body": "Option call happen short.",
+  "userId": 2,
+  "id": 101
+}
