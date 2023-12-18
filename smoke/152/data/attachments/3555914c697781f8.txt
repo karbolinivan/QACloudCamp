@@ -1,0 +1,24 @@
+18.12.2023_01:04:08.906191
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Gun hard win music election loss guess throughout response easy result ask tell.",
+  "body": "Stage senior however behind day.",
+  "userId": 1
+}
+
+18.12.2023_01:04:09.069711
+RESPONSE
+status code: 201
+json: {
+  "title": "Gun hard win music election loss guess throughout response easy result ask tell.",
+  "body": "Stage senior however behind day.",
+  "userId": 1,
+  "id": 101
+}
