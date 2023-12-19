@@ -1,0 +1,24 @@
+19.12.2023_01:02:59.685454
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Make read begin talk view anything exactly laugh.",
+  "body": "Standard knowledge find down.",
+  "userId": 3
+}
+
+19.12.2023_01:03:00.018551
+RESPONSE
+status code: 201
+json: {
+  "title": "Make read begin talk view anything exactly laugh.",
+  "body": "Standard knowledge find down.",
+  "userId": 3,
+  "id": 101
+}
