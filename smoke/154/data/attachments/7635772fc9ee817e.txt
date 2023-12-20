@@ -1,0 +1,24 @@
+20.12.2023_00:52:04.885434
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Argue follow can very history father cup by site stand few.",
+  "body": "Plan race suffer form side.",
+  "userId": 5
+}
+
+20.12.2023_00:52:04.998264
+RESPONSE
+status code: 201
+json: {
+  "title": "Argue follow can very history father cup by site stand few.",
+  "body": "Plan race suffer form side.",
+  "userId": 5,
+  "id": 101
+}
