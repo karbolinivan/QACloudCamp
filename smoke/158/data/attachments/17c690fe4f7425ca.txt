@@ -1,0 +1,24 @@
+24.12.2023_01:06:00.930721
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Town with check black consider very fight.",
+  "body": "While it out meeting.",
+  "userId": 9
+}
+
+24.12.2023_01:06:01.016090
+RESPONSE
+status code: 201
+json: {
+  "title": "Town with check black consider very fight.",
+  "body": "While it out meeting.",
+  "userId": 9,
+  "id": 101
+}
