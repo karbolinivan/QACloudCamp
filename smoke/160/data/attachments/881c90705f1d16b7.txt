@@ -1,0 +1,24 @@
+26.12.2023_01:00:38.328042
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Million seven toward agent crime both bit maybe that court.",
+  "body": "Whom even effort PM Congress happy defense wall.",
+  "userId": 8
+}
+
+26.12.2023_01:00:38.627133
+RESPONSE
+status code: 201
+json: {
+  "title": "Million seven toward agent crime both bit maybe that court.",
+  "body": "Whom even effort PM Congress happy defense wall.",
+  "userId": 8,
+  "id": 101
+}

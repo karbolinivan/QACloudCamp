@@ -1,0 +1,24 @@
+26.12.2023_01:00:38.329374
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Water use mind up around choose else among.",
+  "body": "Hold themselves buy me eat.",
+  "userId": 1
+}
+
+26.12.2023_01:00:38.645193
+RESPONSE
+status code: 201
+json: {
+  "title": "Water use mind up around choose else among.",
+  "body": "Hold themselves buy me eat.",
+  "userId": 1,
+  "id": 101
+}
