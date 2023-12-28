@@ -1,0 +1,24 @@
+28.12.2023_06:15:39.858226
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Know tonight adult decade issue rise design.",
+  "body": "Three line training artist low page.",
+  "userId": 5
+}
+
+28.12.2023_06:15:40.144505
+RESPONSE
+status code: 201
+json: {
+  "title": "Know tonight adult decade issue rise design.",
+  "body": "Three line training artist low page.",
+  "userId": 5,
+  "id": 101
+}

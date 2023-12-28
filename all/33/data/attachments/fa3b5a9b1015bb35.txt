@@ -1,0 +1,24 @@
+28.12.2023_06:15:39.858116
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Local prove read store information of simply career last ground leg culture husband.",
+  "body": "Half market future community form investment.",
+  "userId": 8
+}
+
+28.12.2023_06:15:40.147651
+RESPONSE
+status code: 201
+json: {
+  "title": "Local prove read store information of simply career last ground leg culture husband.",
+  "body": "Half market future community form investment.",
+  "userId": 8,
+  "id": 101
+}

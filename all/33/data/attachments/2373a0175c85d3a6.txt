@@ -1,0 +1,24 @@
+28.12.2023_06:15:39.859705
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Room animal adult accept those might full general bring democratic.",
+  "body": "Run design situation although executive.",
+  "userId": 2
+}
+
+28.12.2023_06:15:40.124837
+RESPONSE
+status code: 201
+json: {
+  "title": "Room animal adult accept those might full general bring democratic.",
+  "body": "Run design situation although executive.",
+  "userId": 2,
+  "id": 101
+}
