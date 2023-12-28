@@ -1,0 +1,24 @@
+28.12.2023_01:00:36.451945
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Behavior would true part fund while both offer inside product statement view show.",
+  "body": "Result yet government leader lose collection.",
+  "userId": 1
+}
+
+28.12.2023_01:00:36.640795
+RESPONSE
+status code: 201
+json: {
+  "title": "Behavior would true part fund while both offer inside product statement view show.",
+  "body": "Result yet government leader lose collection.",
+  "userId": 1,
+  "id": 101
+}
