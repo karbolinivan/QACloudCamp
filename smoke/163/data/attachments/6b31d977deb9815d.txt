@@ -1,0 +1,24 @@
+29.12.2023_00:52:05.451314
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Girl guy how fish third color money environmental art.",
+  "body": "Employee dream go international development.",
+  "userId": 3
+}
+
+29.12.2023_00:52:05.666110
+RESPONSE
+status code: 201
+json: {
+  "title": "Girl guy how fish third color money environmental art.",
+  "body": "Employee dream go international development.",
+  "userId": 3,
+  "id": 101
+}

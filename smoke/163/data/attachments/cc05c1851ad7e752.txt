@@ -1,0 +1,24 @@
+29.12.2023_00:52:05.459451
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Bank five then charge their vote free pretty.",
+  "body": "Girl herself admit standard lay.",
+  "userId": 8
+}
+
+29.12.2023_00:52:05.665253
+RESPONSE
+status code: 201
+json: {
+  "title": "Bank five then charge their vote free pretty.",
+  "body": "Girl herself admit standard lay.",
+  "userId": 8,
+  "id": 101
+}
