@@ -1,0 +1,24 @@
+30.12.2023_01:00:21.432962
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Within close old stage career same sea old cup medical.",
+  "body": "Foot fill doctor capital.",
+  "userId": 3
+}
+
+30.12.2023_01:00:21.521589
+RESPONSE
+status code: 201
+json: {
+  "title": "Within close old stage career same sea old cup medical.",
+  "body": "Foot fill doctor capital.",
+  "userId": 3,
+  "id": 101
+}

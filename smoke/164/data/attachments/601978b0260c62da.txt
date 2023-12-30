@@ -1,0 +1,24 @@
+30.12.2023_01:00:21.433849
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Clearly though allow poor note site hospital painting husband be reason.",
+  "body": "Reach address memory who improve because.",
+  "userId": 9
+}
+
+30.12.2023_01:00:21.530070
+RESPONSE
+status code: 201
+json: {
+  "title": "Clearly though allow poor note site hospital painting husband be reason.",
+  "body": "Reach address memory who improve because.",
+  "userId": 9,
+  "id": 101
+}
