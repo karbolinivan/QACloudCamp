@@ -1,0 +1,24 @@
+31.12.2023_01:06:31.791955
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "To fund account level any least arm near act listen.",
+  "body": "Hear guess include test smile.",
+  "userId": 6
+}
+
+31.12.2023_01:06:31.918976
+RESPONSE
+status code: 201
+json: {
+  "title": "To fund account level any least arm near act listen.",
+  "body": "Hear guess include test smile.",
+  "userId": 6,
+  "id": 101
+}
