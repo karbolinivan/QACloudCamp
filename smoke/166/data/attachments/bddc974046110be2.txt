@@ -1,0 +1,24 @@
+01.01.2024_01:08:10.692348
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Now behavior explain call tonight fly audience.",
+  "body": "Decide world require any reach as.",
+  "userId": 4
+}
+
+01.01.2024_01:08:10.767564
+RESPONSE
+status code: 201
+json: {
+  "title": "Now behavior explain call tonight fly audience.",
+  "body": "Decide world require any reach as.",
+  "userId": 4,
+  "id": 101
+}
