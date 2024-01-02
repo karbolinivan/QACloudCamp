@@ -1,0 +1,24 @@
+02.01.2024_01:01:07.336863
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Imagine live operation cultural whether offer way threat teach yet vote.",
+  "body": "Feeling various defense question sister tough.",
+  "userId": 4
+}
+
+02.01.2024_01:01:07.396454
+RESPONSE
+status code: 201
+json: {
+  "title": "Imagine live operation cultural whether offer way threat teach yet vote.",
+  "body": "Feeling various defense question sister tough.",
+  "userId": 4,
+  "id": 101
+}
