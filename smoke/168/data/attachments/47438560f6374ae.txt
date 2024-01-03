@@ -1,0 +1,24 @@
+03.01.2024_01:02:34.364964
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Election together accept question leave perform herself.",
+  "body": "Gas deep yes anyone tree law cover lot.",
+  "userId": 8
+}
+
+03.01.2024_01:02:34.536927
+RESPONSE
+status code: 201
+json: {
+  "title": "Election together accept question leave perform herself.",
+  "body": "Gas deep yes anyone tree law cover lot.",
+  "userId": 8,
+  "id": 101
+}
