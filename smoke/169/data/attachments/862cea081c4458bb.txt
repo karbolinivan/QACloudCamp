@@ -1,0 +1,24 @@
+04.01.2024_01:02:39.970029
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Movement during realize trial she effort space artist I nice seven do again until.",
+  "body": "Respond mind drop let.",
+  "userId": 4
+}
+
+04.01.2024_01:02:40.083922
+RESPONSE
+status code: 201
+json: {
+  "title": "Movement during realize trial she effort space artist I nice seven do again until.",
+  "body": "Respond mind drop let.",
+  "userId": 4,
+  "id": 101
+}

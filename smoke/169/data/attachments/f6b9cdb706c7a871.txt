@@ -1,0 +1,24 @@
+04.01.2024_01:02:39.974359
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "History collection ten institution bed yet art perform special center billion consumer.",
+  "body": "Pattern force maintain heart threat.",
+  "userId": 4
+}
+
+04.01.2024_01:02:40.095272
+RESPONSE
+status code: 201
+json: {
+  "title": "History collection ten institution bed yet art perform special center billion consumer.",
+  "body": "Pattern force maintain heart threat.",
+  "userId": 4,
+  "id": 101
+}
