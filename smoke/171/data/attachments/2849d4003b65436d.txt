@@ -1,0 +1,24 @@
+06.01.2024_01:02:01.447320
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Apply get we lot hospital include save last loss special.",
+  "body": "Song respond this dog. Across great blood player.",
+  "userId": 8
+}
+
+06.01.2024_01:02:01.595055
+RESPONSE
+status code: 201
+json: {
+  "title": "Apply get we lot hospital include save last loss special.",
+  "body": "Song respond this dog. Across great blood player.",
+  "userId": 8,
+  "id": 101
+}
