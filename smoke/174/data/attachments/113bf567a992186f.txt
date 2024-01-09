@@ -1,0 +1,24 @@
+09.01.2024_01:04:07.082618
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Police age step one nearly owner stand everything despite part.",
+  "body": "Both without position most.",
+  "userId": 1
+}
+
+09.01.2024_01:04:07.164678
+RESPONSE
+status code: 201
+json: {
+  "title": "Police age step one nearly owner stand everything despite part.",
+  "body": "Both without position most.",
+  "userId": 1,
+  "id": 101
+}
