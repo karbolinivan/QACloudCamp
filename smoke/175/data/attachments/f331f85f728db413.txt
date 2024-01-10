@@ -1,0 +1,24 @@
+10.01.2024_01:04:12.403880
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Agency morning right though measure no memory scene anything issue light follow.",
+  "body": "Glass value you need according father.",
+  "userId": 2
+}
+
+10.01.2024_01:04:12.481658
+RESPONSE
+status code: 201
+json: {
+  "title": "Agency morning right though measure no memory scene anything issue light follow.",
+  "body": "Glass value you need according father.",
+  "userId": 2,
+  "id": 101
+}

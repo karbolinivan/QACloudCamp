@@ -1,0 +1,24 @@
+10.01.2024_01:04:12.402859
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Second tend decade language exist about eye mission speech available treatment.",
+  "body": "Food raise all.",
+  "userId": 8
+}
+
+10.01.2024_01:04:12.475321
+RESPONSE
+status code: 201
+json: {
+  "title": "Second tend decade language exist about eye mission speech available treatment.",
+  "body": "Food raise all.",
+  "userId": 8,
+  "id": 101
+}
