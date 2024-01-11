@@ -1,0 +1,24 @@
+11.01.2024_01:04:08.736171
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Everyone future natural describe say find trial hope chair have short pick toward.",
+  "body": "Night purpose deep front.",
+  "userId": 7
+}
+
+11.01.2024_01:04:08.812553
+RESPONSE
+status code: 201
+json: {
+  "title": "Everyone future natural describe say find trial hope chair have short pick toward.",
+  "body": "Night purpose deep front.",
+  "userId": 7,
+  "id": 101
+}
