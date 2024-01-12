@@ -1,0 +1,24 @@
+12.01.2024_01:04:27.163192
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Now face painting off guy them business factor care.",
+  "body": "Anyone ever century. Pm listen make enjoy.",
+  "userId": 9
+}
+
+12.01.2024_01:04:27.273846
+RESPONSE
+status code: 201
+json: {
+  "title": "Now face painting off guy them business factor care.",
+  "body": "Anyone ever century. Pm listen make enjoy.",
+  "userId": 9,
+  "id": 101
+}
