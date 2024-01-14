@@ -1,0 +1,24 @@
+14.01.2024_01:08:58.178091
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Write it thought significant fund western to meet.",
+  "body": "Community hotel artist he.",
+  "userId": 8
+}
+
+14.01.2024_01:08:58.427899
+RESPONSE
+status code: 201
+json: {
+  "title": "Write it thought significant fund western to meet.",
+  "body": "Community hotel artist he.",
+  "userId": 8,
+  "id": 101
+}
