@@ -1,0 +1,24 @@
+15.01.2024_01:06:16.806669
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Assume dream against ago reason expert need southern while major support west magazine.",
+  "body": "Behavior hot possible child head.",
+  "userId": 3
+}
+
+15.01.2024_01:06:17.137035
+RESPONSE
+status code: 201
+json: {
+  "title": "Assume dream against ago reason expert need southern while major support west magazine.",
+  "body": "Behavior hot possible child head.",
+  "userId": 3,
+  "id": 101
+}
