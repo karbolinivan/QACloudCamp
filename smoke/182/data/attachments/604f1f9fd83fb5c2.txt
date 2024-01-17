@@ -1,0 +1,24 @@
+17.01.2024_01:04:23.193359
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Party family along class military approach condition.",
+  "body": "Analysis fund example task cost can.",
+  "userId": 8
+}
+
+17.01.2024_01:04:23.297019
+RESPONSE
+status code: 201
+json: {
+  "title": "Party family along class military approach condition.",
+  "body": "Analysis fund example task cost can.",
+  "userId": 8,
+  "id": 101
+}
