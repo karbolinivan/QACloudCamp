@@ -1,0 +1,24 @@
+18.01.2024_01:03:40.998599
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Society stuff issue eye beat identify nearly plant brother attention.",
+  "body": "Dream performance produce old social teacher.",
+  "userId": 3
+}
+
+18.01.2024_01:03:41.107052
+RESPONSE
+status code: 201
+json: {
+  "title": "Society stuff issue eye beat identify nearly plant brother attention.",
+  "body": "Dream performance produce old social teacher.",
+  "userId": 3,
+  "id": 101
+}
