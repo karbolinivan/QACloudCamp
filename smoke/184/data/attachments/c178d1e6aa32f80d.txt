@@ -1,0 +1,24 @@
+19.01.2024_01:04:32.787786
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Goal citizen ability speak fill remember argue very listen sea country.",
+  "body": "Why want suffer matter stage how.",
+  "userId": 1
+}
+
+19.01.2024_01:04:33.076953
+RESPONSE
+status code: 201
+json: {
+  "title": "Goal citizen ability speak fill remember argue very listen sea country.",
+  "body": "Why want suffer matter stage how.",
+  "userId": 1,
+  "id": 101
+}
