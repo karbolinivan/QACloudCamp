@@ -1,0 +1,24 @@
+20.01.2024_01:03:20.756799
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Quality difficult open Democrat why million kid raise responsibility improve.",
+  "body": "Very president see my. Ago adult PM sister.",
+  "userId": 7
+}
+
+20.01.2024_01:03:20.856603
+RESPONSE
+status code: 201
+json: {
+  "title": "Quality difficult open Democrat why million kid raise responsibility improve.",
+  "body": "Very president see my. Ago adult PM sister.",
+  "userId": 7,
+  "id": 101
+}
