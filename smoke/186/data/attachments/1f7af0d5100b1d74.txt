@@ -1,0 +1,24 @@
+21.01.2024_01:09:06.174477
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Hit fact fund stop per service high blue adult all husband interview assume.",
+  "body": "It simple late offer after.",
+  "userId": 4
+}
+
+21.01.2024_01:09:06.422293
+RESPONSE
+status code: 201
+json: {
+  "title": "Hit fact fund stop per service high blue adult all husband interview assume.",
+  "body": "It simple late offer after.",
+  "userId": 4,
+  "id": 101
+}
