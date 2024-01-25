@@ -1,0 +1,24 @@
+25.01.2024_01:05:27.003647
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Measure open notice role color bad task task receive.",
+  "body": "Open receive carry heavy public myself prepare.",
+  "userId": 6
+}
+
+25.01.2024_01:05:27.072039
+RESPONSE
+status code: 201
+json: {
+  "title": "Measure open notice role color bad task task receive.",
+  "body": "Open receive carry heavy public myself prepare.",
+  "userId": 6,
+  "id": 101
+}

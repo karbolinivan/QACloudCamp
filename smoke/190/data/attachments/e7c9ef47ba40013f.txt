@@ -1,0 +1,24 @@
+25.01.2024_01:05:27.004395
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Serve career prepare well middle modern just might.",
+  "body": "Thing second eight however.",
+  "userId": 1
+}
+
+25.01.2024_01:05:27.080003
+RESPONSE
+status code: 201
+json: {
+  "title": "Serve career prepare well middle modern just might.",
+  "body": "Thing second eight however.",
+  "userId": 1,
+  "id": 101
+}
