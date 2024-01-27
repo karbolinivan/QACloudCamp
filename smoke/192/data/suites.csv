@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jan 27 00:58:59 GMT 2024","Sat Jan 27 00:59:00 GMT 2024","605","tests","test_resource","TestResource","","","Create resource",""
+"passed","Sat Jan 27 00:58:59 GMT 2024","Sat Jan 27 00:59:00 GMT 2024","278","tests","test_resource","TestResource","","","Delete resource",""
+"passed","Sat Jan 27 00:58:59 GMT 2024","Sat Jan 27 00:58:59 GMT 2024","251","tests","test_resource","TestResource","","","Get resource",""
