@@ -1,0 +1,24 @@
+28.01.2024_01:03:47.924272
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Energy partner current admit yet foreign your education.",
+  "body": "Find rest assume history hair.",
+  "userId": 7
+}
+
+28.01.2024_01:03:47.975398
+RESPONSE
+status code: 201
+json: {
+  "title": "Energy partner current admit yet foreign your education.",
+  "body": "Find rest assume history hair.",
+  "userId": 7,
+  "id": 101
+}
