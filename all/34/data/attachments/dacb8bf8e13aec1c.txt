@@ -1,0 +1,24 @@
+28.01.2024_06:13:46.291931
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Receive charge suggest true including quality tree security amount cover weight.",
+  "body": "Collection actually president idea.",
+  "userId": 8
+}
+
+28.01.2024_06:13:46.621016
+RESPONSE
+status code: 201
+json: {
+  "title": "Receive charge suggest true including quality tree security amount cover weight.",
+  "body": "Collection actually president idea.",
+  "userId": 8,
+  "id": 101
+}

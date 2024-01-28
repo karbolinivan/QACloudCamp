@@ -1,0 +1,24 @@
+28.01.2024_06:13:46.285634
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "From player look south bit gun that fast really.",
+  "body": "Enjoy sense us both pick place prove.",
+  "userId": 2
+}
+
+28.01.2024_06:13:46.591664
+RESPONSE
+status code: 201
+json: {
+  "title": "From player look south bit gun that fast really.",
+  "body": "Enjoy sense us both pick place prove.",
+  "userId": 2,
+  "id": 101
+}
