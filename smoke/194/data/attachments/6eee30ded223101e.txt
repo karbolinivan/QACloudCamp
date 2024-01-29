@@ -1,0 +1,24 @@
+29.01.2024_00:59:58.092092
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "For name matter question general all forget parent lot much.",
+  "body": "Minute party senior yard forward town coach.",
+  "userId": 8
+}
+
+29.01.2024_00:59:58.142151
+RESPONSE
+status code: 201
+json: {
+  "title": "For name matter question general all forget parent lot much.",
+  "body": "Minute party senior yard forward town coach.",
+  "userId": 8,
+  "id": 101
+}
