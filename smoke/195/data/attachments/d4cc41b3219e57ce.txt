@@ -1,0 +1,24 @@
+30.01.2024_00:59:17.288757
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Finally modern modern impact assume public gun simple.",
+  "body": "Summer class before high.",
+  "userId": 4
+}
+
+30.01.2024_00:59:17.568240
+RESPONSE
+status code: 201
+json: {
+  "title": "Finally modern modern impact assume public gun simple.",
+  "body": "Summer class before high.",
+  "userId": 4,
+  "id": 101
+}
