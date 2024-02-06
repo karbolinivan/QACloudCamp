@@ -1,0 +1,24 @@
+06.02.2024_00:59:18.901683
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Today choice deep class and quickly fund conference family girl.",
+  "body": "Career whose support everything nor eat prevent.",
+  "userId": 5
+}
+
+06.02.2024_00:59:18.954285
+RESPONSE
+status code: 201
+json: {
+  "title": "Today choice deep class and quickly fund conference family girl.",
+  "body": "Career whose support everything nor eat prevent.",
+  "userId": 5,
+  "id": 101
+}

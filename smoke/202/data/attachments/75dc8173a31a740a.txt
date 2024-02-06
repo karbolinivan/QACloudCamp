@@ -1,0 +1,24 @@
+06.02.2024_00:59:18.909955
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Many real trade leave yet new performance need fine response little save.",
+  "body": "Traditional we likely reach simply.",
+  "userId": 5
+}
+
+06.02.2024_00:59:18.957779
+RESPONSE
+status code: 201
+json: {
+  "title": "Many real trade leave yet new performance need fine response little save.",
+  "body": "Traditional we likely reach simply.",
+  "userId": 5,
+  "id": 101
+}
