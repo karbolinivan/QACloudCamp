@@ -1,0 +1,24 @@
+07.02.2024_00:57:41.132790
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Describe event would note simply avoid career three recognize guy girl painting.",
+  "body": "Those couple reality month lay senior.",
+  "userId": 8
+}
+
+07.02.2024_00:57:41.292886
+RESPONSE
+status code: 201
+json: {
+  "title": "Describe event would note simply avoid career three recognize guy girl painting.",
+  "body": "Those couple reality month lay senior.",
+  "userId": 8,
+  "id": 101
+}
