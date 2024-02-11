@@ -1,0 +1,24 @@
+11.02.2024_01:03:34.247287
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Federal page increase form news dog wife almost year career.",
+  "body": "Key hand second fact successful.",
+  "userId": 5
+}
+
+11.02.2024_01:03:34.316599
+RESPONSE
+status code: 201
+json: {
+  "title": "Federal page increase form news dog wife almost year career.",
+  "body": "Key hand second fact successful.",
+  "userId": 5,
+  "id": 101
+}
