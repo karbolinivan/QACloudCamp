@@ -1,0 +1,24 @@
+12.02.2024_00:59:52.061387
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Building provide mission within great leave receive magazine situation know effort.",
+  "body": "House democratic rise very think make.",
+  "userId": 6
+}
+
+12.02.2024_00:59:52.391985
+RESPONSE
+status code: 201
+json: {
+  "title": "Building provide mission within great leave receive magazine situation know effort.",
+  "body": "House democratic rise very think make.",
+  "userId": 6,
+  "id": 101
+}
