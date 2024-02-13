@@ -1,0 +1,24 @@
+13.02.2024_00:59:43.875692
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "More admit young different way hundred position be read reason general involve job.",
+  "body": "Keep see bed story live.",
+  "userId": 3
+}
+
+13.02.2024_00:59:43.945979
+RESPONSE
+status code: 201
+json: {
+  "title": "More admit young different way hundred position be read reason general involve job.",
+  "body": "Keep see bed story live.",
+  "userId": 3,
+  "id": 101
+}
