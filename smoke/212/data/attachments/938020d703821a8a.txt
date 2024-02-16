@@ -1,0 +1,24 @@
+16.02.2024_00:59:11.143349
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Section her clearly everybody summer job ball whole short.",
+  "body": "A gas admit central improve full have physical.",
+  "userId": 3
+}
+
+16.02.2024_00:59:11.239501
+RESPONSE
+status code: 201
+json: {
+  "title": "Section her clearly everybody summer job ball whole short.",
+  "body": "A gas admit central improve full have physical.",
+  "userId": 3,
+  "id": 101
+}

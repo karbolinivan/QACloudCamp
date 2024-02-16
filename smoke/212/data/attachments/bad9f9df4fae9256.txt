@@ -1,0 +1,24 @@
+16.02.2024_00:59:11.152164
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Size friend hear once spring election read nothing draw financial election message.",
+  "body": "Serious four approach think until better.",
+  "userId": 2
+}
+
+16.02.2024_00:59:11.234654
+RESPONSE
+status code: 201
+json: {
+  "title": "Size friend hear once spring election read nothing draw financial election message.",
+  "body": "Serious four approach think until better.",
+  "userId": 2,
+  "id": 101
+}
