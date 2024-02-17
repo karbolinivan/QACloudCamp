@@ -1,0 +1,24 @@
+17.02.2024_00:58:19.734174
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Tv partner capital from continue art.",
+  "body": "If affect true shake.",
+  "userId": 1
+}
+
+17.02.2024_00:58:20.010894
+RESPONSE
+status code: 201
+json: {
+  "title": "Tv partner capital from continue art.",
+  "body": "If affect true shake.",
+  "userId": 1,
+  "id": 101
+}
