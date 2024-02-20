@@ -1,0 +1,24 @@
+20.02.2024_00:58:18.452134
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Country discover you sound analysis information world.",
+  "body": "Choose medical practice personal.",
+  "userId": 7
+}
+
+20.02.2024_00:58:18.798500
+RESPONSE
+status code: 201
+json: {
+  "title": "Country discover you sound analysis information world.",
+  "body": "Choose medical practice personal.",
+  "userId": 7,
+  "id": 101
+}
