@@ -1,0 +1,24 @@
+23.02.2024_00:58:07.965975
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Gun during policy away sing almost car than visit science street.",
+  "body": "Study training serve treat need.",
+  "userId": 4
+}
+
+23.02.2024_00:58:08.228086
+RESPONSE
+status code: 201
+json: {
+  "title": "Gun during policy away sing almost car than visit science street.",
+  "body": "Study training serve treat need.",
+  "userId": 4,
+  "id": 101
+}
