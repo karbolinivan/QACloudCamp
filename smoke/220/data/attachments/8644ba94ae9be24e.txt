@@ -1,0 +1,24 @@
+24.02.2024_00:56:39.361032
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Table serious matter war second unit.",
+  "body": "Born say resource writer trip those recognize.",
+  "userId": 4
+}
+
+24.02.2024_00:56:39.562396
+RESPONSE
+status code: 201
+json: {
+  "title": "Table serious matter war second unit.",
+  "body": "Born say resource writer trip those recognize.",
+  "userId": 4,
+  "id": 101
+}
