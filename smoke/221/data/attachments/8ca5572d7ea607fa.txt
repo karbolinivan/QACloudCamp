@@ -1,0 +1,24 @@
+25.02.2024_01:02:58.317567
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Her bad book lot politics these than tax people people region adult ago.",
+  "body": "Single across score agency kid itself.",
+  "userId": 7
+}
+
+25.02.2024_01:02:58.394985
+RESPONSE
+status code: 201
+json: {
+  "title": "Her bad book lot politics these than tax people people region adult ago.",
+  "body": "Single across score agency kid itself.",
+  "userId": 7,
+  "id": 101
+}
