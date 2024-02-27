@@ -1,0 +1,24 @@
+27.02.2024_00:58:28.206875
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Affect mind outside garden catch yard what draw though expert per.",
+  "body": "Challenge my indicate.",
+  "userId": 1
+}
+
+27.02.2024_00:58:28.488895
+RESPONSE
+status code: 201
+json: {
+  "title": "Affect mind outside garden catch yard what draw though expert per.",
+  "body": "Challenge my indicate.",
+  "userId": 1,
+  "id": 101
+}
