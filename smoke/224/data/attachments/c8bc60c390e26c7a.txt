@@ -1,0 +1,24 @@
+28.02.2024_00:58:11.122850
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Require threat turn list week conference character lawyer list free.",
+  "body": "Me along these pressure keep unit behind.",
+  "userId": 8
+}
+
+28.02.2024_00:58:11.185109
+RESPONSE
+status code: 201
+json: {
+  "title": "Require threat turn list week conference character lawyer list free.",
+  "body": "Me along these pressure keep unit behind.",
+  "userId": 8,
+  "id": 101
+}
