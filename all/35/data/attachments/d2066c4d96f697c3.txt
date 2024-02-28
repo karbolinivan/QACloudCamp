@@ -1,0 +1,24 @@
+28.02.2024_06:15:06.391338
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Artist board win little window west ago person someone so suffer.",
+  "body": "Last others under. Often two upon about.",
+  "userId": 7
+}
+
+28.02.2024_06:15:06.489296
+RESPONSE
+status code: 201
+json: {
+  "title": "Artist board win little window west ago person someone so suffer.",
+  "body": "Last others under. Often two upon about.",
+  "userId": 7,
+  "id": 101
+}

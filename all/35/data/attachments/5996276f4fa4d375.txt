@@ -1,0 +1,24 @@
+28.02.2024_06:15:06.403618
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Compare get red throughout popular wide production.",
+  "body": "Must similar great establish argue exactly visit.",
+  "userId": 4
+}
+
+28.02.2024_06:15:06.480178
+RESPONSE
+status code: 201
+json: {
+  "title": "Compare get red throughout popular wide production.",
+  "body": "Must similar great establish argue exactly visit.",
+  "userId": 4,
+  "id": 101
+}
