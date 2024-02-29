@@ -1,0 +1,24 @@
+29.02.2024_00:58:28.765849
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Away blood film matter body safe threat hospital move defense effort.",
+  "body": "Us environment two beautiful nice.",
+  "userId": 9
+}
+
+29.02.2024_00:58:28.816980
+RESPONSE
+status code: 201
+json: {
+  "title": "Away blood film matter body safe threat hospital move defense effort.",
+  "body": "Us environment two beautiful nice.",
+  "userId": 9,
+  "id": 101
+}
