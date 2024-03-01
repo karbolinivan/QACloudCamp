@@ -1,0 +1,24 @@
+01.03.2024_01:04:37.470600
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Up product military magazine seven east agree possible course history foot early.",
+  "body": "Capital woman operation.",
+  "userId": 6
+}
+
+01.03.2024_01:04:37.741110
+RESPONSE
+status code: 201
+json: {
+  "title": "Up product military magazine seven east agree possible course history foot early.",
+  "body": "Capital woman operation.",
+  "userId": 6,
+  "id": 101
+}
