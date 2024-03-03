@@ -1,0 +1,24 @@
+03.03.2024_01:02:07.793746
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Year employee community against fine eye simple get technology threat option phone.",
+  "body": "Talk very plan between church.",
+  "userId": 5
+}
+
+03.03.2024_01:02:08.049323
+RESPONSE
+status code: 201
+json: {
+  "title": "Year employee community against fine eye simple get technology threat option phone.",
+  "body": "Talk very plan between church.",
+  "userId": 5,
+  "id": 101
+}
