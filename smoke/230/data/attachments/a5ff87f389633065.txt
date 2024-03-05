@@ -1,0 +1,24 @@
+05.03.2024_00:58:42.458476
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Prepare arrive that blue soldier camera nor.",
+  "body": "Bring popular turn imagine officer.",
+  "userId": 3
+}
+
+05.03.2024_00:58:42.662906
+RESPONSE
+status code: 201
+json: {
+  "title": "Prepare arrive that blue soldier camera nor.",
+  "body": "Bring popular turn imagine officer.",
+  "userId": 3,
+  "id": 101
+}
