@@ -1,0 +1,24 @@
+06.03.2024_00:58:56.409770
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Article sound deal activity kind fly new no get relate include win world.",
+  "body": "Her building term fine society be.",
+  "userId": 5
+}
+
+06.03.2024_00:58:56.521157
+RESPONSE
+status code: 201
+json: {
+  "title": "Article sound deal activity kind fly new no get relate include win world.",
+  "body": "Her building term fine society be.",
+  "userId": 5,
+  "id": 101
+}
