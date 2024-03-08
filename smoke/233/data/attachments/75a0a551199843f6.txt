@@ -1,0 +1,24 @@
+08.03.2024_00:58:46.634611
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Cost hotel deal fast baby you price customer program fish.",
+  "body": "Arm exactly attack.",
+  "userId": 3
+}
+
+08.03.2024_00:58:46.784018
+RESPONSE
+status code: 201
+json: {
+  "title": "Cost hotel deal fast baby you price customer program fish.",
+  "body": "Arm exactly attack.",
+  "userId": 3,
+  "id": 101
+}
