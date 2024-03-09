@@ -1,0 +1,24 @@
+09.03.2024_00:56:52.346159
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Particular seat culture state before necessary two point answer movie peace look.",
+  "body": "Up economic director what message.",
+  "userId": 1
+}
+
+09.03.2024_00:56:52.401543
+RESPONSE
+status code: 201
+json: {
+  "title": "Particular seat culture state before necessary two point answer movie peace look.",
+  "body": "Up economic director what message.",
+  "userId": 1,
+  "id": 101
+}
