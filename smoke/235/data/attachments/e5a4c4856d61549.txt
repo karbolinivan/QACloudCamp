@@ -1,0 +1,24 @@
+10.03.2024_01:02:59.388060
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Red behavior machine hundred note practice nearly.",
+  "body": "Firm nature project outside arrive against.",
+  "userId": 5
+}
+
+10.03.2024_01:02:59.453273
+RESPONSE
+status code: 201
+json: {
+  "title": "Red behavior machine hundred note practice nearly.",
+  "body": "Firm nature project outside arrive against.",
+  "userId": 5,
+  "id": 101
+}

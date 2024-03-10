@@ -1,0 +1,24 @@
+10.03.2024_01:02:59.398042
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Anyone our treatment high soon show together.",
+  "body": "Great direction wide through because start kind.",
+  "userId": 3
+}
+
+10.03.2024_01:02:59.460636
+RESPONSE
+status code: 201
+json: {
+  "title": "Anyone our treatment high soon show together.",
+  "body": "Great direction wide through because start kind.",
+  "userId": 3,
+  "id": 101
+}
