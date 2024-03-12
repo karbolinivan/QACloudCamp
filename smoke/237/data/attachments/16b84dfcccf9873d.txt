@@ -1,0 +1,24 @@
+12.03.2024_00:58:29.180877
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Evening power loss check brother financial when light body use place.",
+  "body": "Reveal government military television enough.",
+  "userId": 9
+}
+
+12.03.2024_00:58:29.309125
+RESPONSE
+status code: 201
+json: {
+  "title": "Evening power loss check brother financial when light body use place.",
+  "body": "Reveal government military television enough.",
+  "userId": 9,
+  "id": 101
+}

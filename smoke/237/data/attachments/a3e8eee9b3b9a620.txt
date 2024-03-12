@@ -1,0 +1,24 @@
+12.03.2024_00:58:29.190850
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Kitchen kitchen late product help per choose everything staff contain trade wish behavior.",
+  "body": "Everything impact source edge.",
+  "userId": 4
+}
+
+12.03.2024_00:58:29.306990
+RESPONSE
+status code: 201
+json: {
+  "title": "Kitchen kitchen late product help per choose everything staff contain trade wish behavior.",
+  "body": "Everything impact source edge.",
+  "userId": 4,
+  "id": 101
+}

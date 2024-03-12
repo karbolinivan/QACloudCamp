@@ -1,0 +1,24 @@
+12.03.2024_00:58:29.192116
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Look economy safe baby form local keep goal threat walk choose price any.",
+  "body": "Section speech full entire physical.",
+  "userId": 2
+}
+
+12.03.2024_00:58:29.306641
+RESPONSE
+status code: 201
+json: {
+  "title": "Look economy safe baby form local keep goal threat walk choose price any.",
+  "body": "Section speech full entire physical.",
+  "userId": 2,
+  "id": 101
+}
