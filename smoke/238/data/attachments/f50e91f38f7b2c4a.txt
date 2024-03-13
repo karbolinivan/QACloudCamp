@@ -1,0 +1,24 @@
+13.03.2024_01:00:15.822116
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Pass alone growth right spring plant commercial.",
+  "body": "Despite set rise respond avoid face about.",
+  "userId": 9
+}
+
+13.03.2024_01:00:15.951654
+RESPONSE
+status code: 201
+json: {
+  "title": "Pass alone growth right spring plant commercial.",
+  "body": "Despite set rise respond avoid face about.",
+  "userId": 9,
+  "id": 101
+}
