@@ -1,0 +1,24 @@
+14.03.2024_00:59:12.433215
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Measure must evidence cold see start decision.",
+  "body": "Month defense author range box.",
+  "userId": 7
+}
+
+14.03.2024_00:59:12.492579
+RESPONSE
+status code: 201
+json: {
+  "title": "Measure must evidence cold see start decision.",
+  "body": "Month defense author range box.",
+  "userId": 7,
+  "id": 101
+}

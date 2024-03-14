@@ -1,0 +1,24 @@
+14.03.2024_00:59:12.440422
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Cup American ahead inside maybe pull partner young live perform present very interest.",
+  "body": "Those may or discuss push market rock.",
+  "userId": 3
+}
+
+14.03.2024_00:59:12.490218
+RESPONSE
+status code: 201
+json: {
+  "title": "Cup American ahead inside maybe pull partner young live perform present very interest.",
+  "body": "Those may or discuss push market rock.",
+  "userId": 3,
+  "id": 101
+}
