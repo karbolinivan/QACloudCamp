@@ -1,0 +1,24 @@
+15.03.2024_00:59:42.808326
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Price around public its traditional rate simple myself five.",
+  "body": "Right trade plant thank agree prepare.",
+  "userId": 3
+}
+
+15.03.2024_00:59:43.199604
+RESPONSE
+status code: 201
+json: {
+  "title": "Price around public its traditional rate simple myself five.",
+  "body": "Right trade plant thank agree prepare.",
+  "userId": 3,
+  "id": 101
+}
