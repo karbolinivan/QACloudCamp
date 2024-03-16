@@ -1,0 +1,24 @@
+16.03.2024_00:58:05.699796
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Simply single meeting college evening food memory room.",
+  "body": "Detail keep growth guy billion might simply.",
+  "userId": 6
+}
+
+16.03.2024_00:58:05.754312
+RESPONSE
+status code: 201
+json: {
+  "title": "Simply single meeting college evening food memory room.",
+  "body": "Detail keep growth guy billion might simply.",
+  "userId": 6,
+  "id": 101
+}

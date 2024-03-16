@@ -1,0 +1,24 @@
+16.03.2024_00:58:05.700804
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Value never fine coach movie ability I dinner deal.",
+  "body": "Red feeling few financial.",
+  "userId": 5
+}
+
+16.03.2024_00:58:05.761623
+RESPONSE
+status code: 201
+json: {
+  "title": "Value never fine coach movie ability I dinner deal.",
+  "body": "Red feeling few financial.",
+  "userId": 5,
+  "id": 101
+}

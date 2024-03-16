@@ -1,0 +1,24 @@
+16.03.2024_00:58:05.685673
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Must national indicate herself agree attention light sport to military.",
+  "body": "Finally animal manager campaign.",
+  "userId": 3
+}
+
+16.03.2024_00:58:05.736308
+RESPONSE
+status code: 201
+json: {
+  "title": "Must national indicate herself agree attention light sport to military.",
+  "body": "Finally animal manager campaign.",
+  "userId": 3,
+  "id": 101
+}
