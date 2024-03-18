@@ -1,0 +1,24 @@
+18.03.2024_01:00:23.500375
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Soldier yet any program ever goal site everything business will painting make look.",
+  "body": "Help sign happen soldier.",
+  "userId": 9
+}
+
+18.03.2024_01:00:23.754485
+RESPONSE
+status code: 201
+json: {
+  "title": "Soldier yet any program ever goal site everything business will painting make look.",
+  "body": "Help sign happen soldier.",
+  "userId": 9,
+  "id": 101
+}
