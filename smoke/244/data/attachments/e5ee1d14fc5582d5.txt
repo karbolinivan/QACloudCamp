@@ -1,0 +1,24 @@
+19.03.2024_00:59:21.593611
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Piece stand fall go all join positive think collection.",
+  "body": "Wrong final federal movement nation enjoy.",
+  "userId": 7
+}
+
+19.03.2024_00:59:21.877915
+RESPONSE
+status code: 201
+json: {
+  "title": "Piece stand fall go all join positive think collection.",
+  "body": "Wrong final federal movement nation enjoy.",
+  "userId": 7,
+  "id": 101
+}

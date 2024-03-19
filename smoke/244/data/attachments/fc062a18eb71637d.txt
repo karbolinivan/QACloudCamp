@@ -1,0 +1,24 @@
+19.03.2024_00:59:21.585936
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Across this reason indicate until knowledge federal would anything evening too own.",
+  "body": "Action week hard manager debate to term.",
+  "userId": 7
+}
+
+19.03.2024_00:59:21.833038
+RESPONSE
+status code: 201
+json: {
+  "title": "Across this reason indicate until knowledge federal would anything evening too own.",
+  "body": "Action week hard manager debate to term.",
+  "userId": 7,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+19.03.2024_00:59:21.596860
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Our common authority long view teach green often section true product strategy growth.",
+  "body": "Traditional contain cost foreign.",
+  "userId": 1
+}
+
+19.03.2024_00:59:21.858935
+RESPONSE
+status code: 201
+json: {
+  "title": "Our common authority long view teach green often section true product strategy growth.",
+  "body": "Traditional contain cost foreign.",
+  "userId": 1,
+  "id": 101
+}
