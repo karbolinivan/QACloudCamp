@@ -1,0 +1,24 @@
+20.03.2024_00:59:01.516451
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "And involve usually something tell stage industry boy most how serve tell method.",
+  "body": "Move glass exactly direction wait.",
+  "userId": 7
+}
+
+20.03.2024_00:59:01.624794
+RESPONSE
+status code: 201
+json: {
+  "title": "And involve usually something tell stage industry boy most how serve tell method.",
+  "body": "Move glass exactly direction wait.",
+  "userId": 7,
+  "id": 101
+}

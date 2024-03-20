@@ -1,0 +1,24 @@
+20.03.2024_00:59:01.525803
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Baby fast last each response mouth particular walk specific nearly minute reveal.",
+  "body": "Hit major material close discussion.",
+  "userId": 8
+}
+
+20.03.2024_00:59:01.787414
+RESPONSE
+status code: 201
+json: {
+  "title": "Baby fast last each response mouth particular walk specific nearly minute reveal.",
+  "body": "Hit major material close discussion.",
+  "userId": 8,
+  "id": 101
+}
