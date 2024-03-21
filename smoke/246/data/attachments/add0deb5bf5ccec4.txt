@@ -1,0 +1,24 @@
+21.03.2024_01:00:53.181995
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Wide perform remember movie see gas member.",
+  "body": "Food growth develop message want when.",
+  "userId": 4
+}
+
+21.03.2024_01:00:53.486334
+RESPONSE
+status code: 201
+json: {
+  "title": "Wide perform remember movie see gas member.",
+  "body": "Food growth develop message want when.",
+  "userId": 4,
+  "id": 101
+}
