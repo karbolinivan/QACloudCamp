@@ -1,0 +1,24 @@
+22.03.2024_00:59:17.226315
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Book return approach argue man get world thing best name especially easy.",
+  "body": "Professor material every economic this.",
+  "userId": 4
+}
+
+22.03.2024_00:59:17.305993
+RESPONSE
+status code: 201
+json: {
+  "title": "Book return approach argue man get world thing best name especially easy.",
+  "body": "Professor material every economic this.",
+  "userId": 4,
+  "id": 101
+}
