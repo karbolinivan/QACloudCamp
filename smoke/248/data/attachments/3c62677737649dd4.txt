@@ -1,0 +1,24 @@
+23.03.2024_00:58:04.183047
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Quality walk history us animal there oil special compare type herself.",
+  "body": "Wind room window partner strong dog.",
+  "userId": 2
+}
+
+23.03.2024_00:58:04.315545
+RESPONSE
+status code: 201
+json: {
+  "title": "Quality walk history us animal there oil special compare type herself.",
+  "body": "Wind room window partner strong dog.",
+  "userId": 2,
+  "id": 101
+}
