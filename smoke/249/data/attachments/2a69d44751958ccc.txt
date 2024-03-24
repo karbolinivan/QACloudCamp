@@ -1,0 +1,24 @@
+24.03.2024_01:05:10.172955
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Pass season range true decide exactly movie modern idea top station again available.",
+  "body": "Those seat be already.",
+  "userId": 2
+}
+
+24.03.2024_01:05:10.224747
+RESPONSE
+status code: 201
+json: {
+  "title": "Pass season range true decide exactly movie modern idea top station again available.",
+  "body": "Those seat be already.",
+  "userId": 2,
+  "id": 101
+}

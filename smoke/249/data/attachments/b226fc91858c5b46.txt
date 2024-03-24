@@ -1,0 +1,24 @@
+24.03.2024_01:05:10.181253
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "By sort set civil rate though skin put reveal such similar.",
+  "body": "Goal store full conference.",
+  "userId": 7
+}
+
+24.03.2024_01:05:10.232317
+RESPONSE
+status code: 201
+json: {
+  "title": "By sort set civil rate though skin put reveal such similar.",
+  "body": "Goal store full conference.",
+  "userId": 7,
+  "id": 101
+}

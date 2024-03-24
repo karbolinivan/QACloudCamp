@@ -1,0 +1,24 @@
+24.03.2024_01:05:10.181958
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Accept likely example campaign her later.",
+  "body": "Business industry five ok finally protect.",
+  "userId": 2
+}
+
+24.03.2024_01:05:10.236463
+RESPONSE
+status code: 201
+json: {
+  "title": "Accept likely example campaign her later.",
+  "body": "Business industry five ok finally protect.",
+  "userId": 2,
+  "id": 101
+}
