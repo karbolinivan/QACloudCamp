@@ -1,0 +1,24 @@
+25.03.2024_01:01:17.091743
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Involve next past shoulder education such culture staff door low thought.",
+  "body": "Stay outside town two moment.",
+  "userId": 1
+}
+
+25.03.2024_01:01:17.282697
+RESPONSE
+status code: 201
+json: {
+  "title": "Involve next past shoulder education such culture staff door low thought.",
+  "body": "Stay outside town two moment.",
+  "userId": 1,
+  "id": 101
+}

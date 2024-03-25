@@ -1,0 +1,24 @@
+25.03.2024_01:01:17.098268
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Century adult last policy despite life idea hard family build.",
+  "body": "Price ten claim represent card result five thing.",
+  "userId": 4
+}
+
+25.03.2024_01:01:17.237790
+RESPONSE
+status code: 201
+json: {
+  "title": "Century adult last policy despite life idea hard family build.",
+  "body": "Price ten claim represent card result five thing.",
+  "userId": 4,
+  "id": 101
+}

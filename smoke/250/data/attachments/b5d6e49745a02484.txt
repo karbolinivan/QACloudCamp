@@ -1,0 +1,24 @@
+25.03.2024_01:01:17.096777
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Recently feeling kind clear say institution relationship.",
+  "body": "Ago hit that early civil maintain friend.",
+  "userId": 1
+}
+
+25.03.2024_01:01:17.238861
+RESPONSE
+status code: 201
+json: {
+  "title": "Recently feeling kind clear say institution relationship.",
+  "body": "Ago hit that early civil maintain friend.",
+  "userId": 1,
+  "id": 101
+}
