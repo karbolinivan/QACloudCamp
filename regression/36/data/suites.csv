@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Mar 25 03:15:54 GMT 2024","Mon Mar 25 03:15:55 GMT 2024","354","tests","test_resource","TestResource","","","Delete invalid resource",""
+"passed","Mon Mar 25 03:15:54 GMT 2024","Mon Mar 25 03:15:55 GMT 2024","320","tests","test_resource","TestResource","","","Get invalid resource",""
+"passed","Mon Mar 25 03:15:54 GMT 2024","Mon Mar 25 03:15:55 GMT 2024","350","tests","test_resource","TestResource","","","Create invalid resource",""
