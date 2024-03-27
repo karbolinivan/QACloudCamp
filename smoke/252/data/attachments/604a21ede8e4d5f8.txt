@@ -1,0 +1,24 @@
+27.03.2024_00:59:26.741226
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Note compare hit around arm option themselves under rise those specific least toward.",
+  "body": "Life yes great back guy best performance.",
+  "userId": 9
+}
+
+27.03.2024_00:59:26.937885
+RESPONSE
+status code: 201
+json: {
+  "title": "Note compare hit around arm option themselves under rise those specific least toward.",
+  "body": "Life yes great back guy best performance.",
+  "userId": 9,
+  "id": 101
+}

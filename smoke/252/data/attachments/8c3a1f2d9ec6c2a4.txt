@@ -1,0 +1,24 @@
+27.03.2024_00:59:26.740421
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Ask oil evening they his office international space open at court.",
+  "body": "Because need line organization indeed heart.",
+  "userId": 5
+}
+
+27.03.2024_00:59:26.965655
+RESPONSE
+status code: 201
+json: {
+  "title": "Ask oil evening they his office international space open at court.",
+  "body": "Because need line organization indeed heart.",
+  "userId": 5,
+  "id": 101
+}

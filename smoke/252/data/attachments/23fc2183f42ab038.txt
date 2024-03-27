@@ -1,0 +1,24 @@
+27.03.2024_00:59:26.733887
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Soldier it notice television door add.",
+  "body": "Million look within deep over without.",
+  "userId": 8
+}
+
+27.03.2024_00:59:26.974027
+RESPONSE
+status code: 201
+json: {
+  "title": "Soldier it notice television door add.",
+  "body": "Million look within deep over without.",
+  "userId": 8,
+  "id": 101
+}
