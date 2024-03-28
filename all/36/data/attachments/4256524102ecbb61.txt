@@ -1,0 +1,24 @@
+28.03.2024_06:15:27.706868
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Feel industry rich its explain fish physical democratic.",
+  "body": "Hospital out mission avoid should against.",
+  "userId": 8
+}
+
+28.03.2024_06:15:27.965988
+RESPONSE
+status code: 201
+json: {
+  "title": "Feel industry rich its explain fish physical democratic.",
+  "body": "Hospital out mission avoid should against.",
+  "userId": 8,
+  "id": 101
+}

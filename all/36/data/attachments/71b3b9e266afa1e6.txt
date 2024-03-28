@@ -1,0 +1,24 @@
+28.03.2024_06:15:27.706798
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Idea per artist trade like street suddenly need after family expert.",
+  "body": "Part cover line federal game read you.",
+  "userId": 7
+}
+
+28.03.2024_06:15:28.015335
+RESPONSE
+status code: 201
+json: {
+  "title": "Idea per artist trade like street suddenly need after family expert.",
+  "body": "Part cover line federal game read you.",
+  "userId": 7,
+  "id": 101
+}
