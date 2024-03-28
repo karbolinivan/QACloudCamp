@@ -1,0 +1,24 @@
+28.03.2024_00:59:43.224910
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Coach bed send visit weight crime similar time bit paper.",
+  "body": "Main reality western between some road.",
+  "userId": 1
+}
+
+28.03.2024_00:59:43.280909
+RESPONSE
+status code: 201
+json: {
+  "title": "Coach bed send visit weight crime similar time bit paper.",
+  "body": "Main reality western between some road.",
+  "userId": 1,
+  "id": 101
+}

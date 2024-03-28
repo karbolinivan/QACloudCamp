@@ -1,0 +1,24 @@
+28.03.2024_00:59:43.209892
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Protect enough sing fact type authority meet check thought.",
+  "body": "Report anyone character get. Choice modern skill.",
+  "userId": 8
+}
+
+28.03.2024_00:59:43.272375
+RESPONSE
+status code: 201
+json: {
+  "title": "Protect enough sing fact type authority meet check thought.",
+  "body": "Report anyone character get. Choice modern skill.",
+  "userId": 8,
+  "id": 101
+}
