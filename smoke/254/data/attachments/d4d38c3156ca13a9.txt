@@ -1,0 +1,24 @@
+29.03.2024_01:00:07.723436
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Yeah court age try move part such after change third guess as reveal.",
+  "body": "Know say consumer politics camera moment beat.",
+  "userId": 9
+}
+
+29.03.2024_01:00:07.871891
+RESPONSE
+status code: 201
+json: {
+  "title": "Yeah court age try move part such after change third guess as reveal.",
+  "body": "Know say consumer politics camera moment beat.",
+  "userId": 9,
+  "id": 101
+}
