@@ -1,0 +1,24 @@
+31.03.2024_01:05:28.561731
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Them society rule commercial onto green base back large high.",
+  "body": "Nor point forward return them the.",
+  "userId": 2
+}
+
+31.03.2024_01:05:28.680991
+RESPONSE
+status code: 201
+json: {
+  "title": "Them society rule commercial onto green base back large high.",
+  "body": "Nor point forward return them the.",
+  "userId": 2,
+  "id": 101
+}
