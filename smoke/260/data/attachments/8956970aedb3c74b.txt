@@ -1,0 +1,24 @@
+04.04.2024_01:01:14.106480
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Church close consider yet never us.",
+  "body": "Letter behind who quite attention population.",
+  "userId": 4
+}
+
+04.04.2024_01:01:14.177344
+RESPONSE
+status code: 201
+json: {
+  "title": "Church close consider yet never us.",
+  "body": "Letter behind who quite attention population.",
+  "userId": 4,
+  "id": 101
+}
