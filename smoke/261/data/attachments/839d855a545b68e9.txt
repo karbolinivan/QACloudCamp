@@ -1,0 +1,24 @@
+05.04.2024_01:00:26.737607
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Voice already man full not business threat drop nation kid mean analysis exist.",
+  "body": "Term party professional store evening analysis.",
+  "userId": 5
+}
+
+05.04.2024_01:00:26.800216
+RESPONSE
+status code: 201
+json: {
+  "title": "Voice already man full not business threat drop nation kid mean analysis exist.",
+  "body": "Term party professional store evening analysis.",
+  "userId": 5,
+  "id": 101
+}

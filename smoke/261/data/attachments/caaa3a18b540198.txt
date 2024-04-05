@@ -1,0 +1,24 @@
+05.04.2024_01:00:26.745403
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Career position firm without across kitchen.",
+  "body": "Oil top our fear.",
+  "userId": 3
+}
+
+05.04.2024_01:00:26.804679
+RESPONSE
+status code: 201
+json: {
+  "title": "Career position firm without across kitchen.",
+  "body": "Oil top our fear.",
+  "userId": 3,
+  "id": 101
+}
