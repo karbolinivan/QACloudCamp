@@ -1,0 +1,24 @@
+10.04.2024_01:00:23.037230
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Energy put appear own help later institution manage.",
+  "body": "Leave central food seem so be.",
+  "userId": 2
+}
+
+10.04.2024_01:00:23.394076
+RESPONSE
+status code: 201
+json: {
+  "title": "Energy put appear own help later institution manage.",
+  "body": "Leave central food seem so be.",
+  "userId": 2,
+  "id": 101
+}
