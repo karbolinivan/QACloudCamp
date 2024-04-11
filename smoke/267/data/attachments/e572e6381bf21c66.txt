@@ -1,0 +1,24 @@
+11.04.2024_01:01:10.663729
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Computer Congress general science keep forward language best.",
+  "body": "Baby cost relationship television sell one pick.",
+  "userId": 3
+}
+
+11.04.2024_01:01:10.828002
+RESPONSE
+status code: 201
+json: {
+  "title": "Computer Congress general science keep forward language best.",
+  "body": "Baby cost relationship television sell one pick.",
+  "userId": 3,
+  "id": 101
+}
