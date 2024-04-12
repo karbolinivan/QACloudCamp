@@ -1,0 +1,24 @@
+12.04.2024_01:01:09.809476
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Step near offer those six ever fear effect close.",
+  "body": "Discussion myself worker yeah which every unit.",
+  "userId": 4
+}
+
+12.04.2024_01:01:09.918028
+RESPONSE
+status code: 201
+json: {
+  "title": "Step near offer those six ever fear effect close.",
+  "body": "Discussion myself worker yeah which every unit.",
+  "userId": 4,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+12.04.2024_01:01:09.817388
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Owner other author catch player new.",
+  "body": "Product this provide manager less unit.",
+  "userId": 4
+}
+
+12.04.2024_01:01:09.919944
+RESPONSE
+status code: 201
+json: {
+  "title": "Owner other author catch player new.",
+  "body": "Product this provide manager less unit.",
+  "userId": 4,
+  "id": 101
+}

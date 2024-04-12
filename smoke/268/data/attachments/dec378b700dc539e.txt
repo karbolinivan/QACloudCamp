@@ -1,0 +1,24 @@
+12.04.2024_01:01:09.816261
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Yourself international interest three describe news chair factor without admit.",
+  "body": "Score center night leg message pressure.",
+  "userId": 5
+}
+
+12.04.2024_01:01:09.912211
+RESPONSE
+status code: 201
+json: {
+  "title": "Yourself international interest three describe news chair factor without admit.",
+  "body": "Score center night leg message pressure.",
+  "userId": 5,
+  "id": 101
+}
