@@ -1,0 +1,24 @@
+13.04.2024_00:50:57.880020
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Parent choice own vote attorney skin talk control fill not loss contain style.",
+  "body": "First town its.",
+  "userId": 7
+}
+
+13.04.2024_00:50:58.001515
+RESPONSE
+status code: 201
+json: {
+  "title": "Parent choice own vote attorney skin talk control fill not loss contain style.",
+  "body": "First town its.",
+  "userId": 7,
+  "id": 101
+}
