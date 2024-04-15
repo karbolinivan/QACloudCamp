@@ -1,0 +1,24 @@
+15.04.2024_03:21:58.734194
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Church room vote factor knowledge raise take staff threat.",
+  "body": "Majority fast organization sense may even.",
+  "userId": 8
+}
+
+15.04.2024_03:21:58.790249
+RESPONSE
+status code: 201
+json: {
+  "title": "Church room vote factor knowledge raise take staff threat.",
+  "body": "Majority fast organization sense may even.",
+  "userId": 8,
+  "id": 101
+}
