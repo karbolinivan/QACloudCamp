@@ -1,0 +1,24 @@
+17.04.2024_01:01:12.391900
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Big explain hear long claim cut various enough production dinner.",
+  "body": "Always be sing medical this letter.",
+  "userId": 5
+}
+
+17.04.2024_01:01:12.694794
+RESPONSE
+status code: 201
+json: {
+  "title": "Big explain hear long claim cut various enough production dinner.",
+  "body": "Always be sing medical this letter.",
+  "userId": 5,
+  "id": 101
+}

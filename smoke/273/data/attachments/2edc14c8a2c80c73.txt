@@ -1,0 +1,24 @@
+17.04.2024_01:01:12.382591
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Environmental commercial cause interest enjoy necessary school might four.",
+  "body": "Pick himself production case base.",
+  "userId": 9
+}
+
+17.04.2024_01:01:12.699187
+RESPONSE
+status code: 201
+json: {
+  "title": "Environmental commercial cause interest enjoy necessary school might four.",
+  "body": "Pick himself production case base.",
+  "userId": 9,
+  "id": 101
+}
