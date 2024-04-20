@@ -1,0 +1,24 @@
+20.04.2024_01:01:04.857742
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Everything defense brother who view peace voice dark.",
+  "body": "Employee performance north describe why.",
+  "userId": 9
+}
+
+20.04.2024_01:01:05.206183
+RESPONSE
+status code: 201
+json: {
+  "title": "Everything defense brother who view peace voice dark.",
+  "body": "Employee performance north describe why.",
+  "userId": 9,
+  "id": 101
+}
