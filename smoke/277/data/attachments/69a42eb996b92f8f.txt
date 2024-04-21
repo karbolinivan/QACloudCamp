@@ -1,0 +1,24 @@
+21.04.2024_01:05:42.100115
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Total along yes before stage open everyone purpose popular them ready her event.",
+  "body": "Successful many kind pull action.",
+  "userId": 7
+}
+
+21.04.2024_01:05:42.215674
+RESPONSE
+status code: 201
+json: {
+  "title": "Total along yes before stage open everyone purpose popular them ready her event.",
+  "body": "Successful many kind pull action.",
+  "userId": 7,
+  "id": 101
+}

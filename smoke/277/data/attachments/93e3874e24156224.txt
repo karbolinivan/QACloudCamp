@@ -1,0 +1,24 @@
+21.04.2024_01:05:42.098911
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Prove adult school music than usually man.",
+  "body": "Machine market senior their agent idea.",
+  "userId": 3
+}
+
+21.04.2024_01:05:42.221353
+RESPONSE
+status code: 201
+json: {
+  "title": "Prove adult school music than usually man.",
+  "body": "Machine market senior their agent idea.",
+  "userId": 3,
+  "id": 101
+}
