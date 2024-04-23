@@ -1,0 +1,24 @@
+23.04.2024_01:02:04.168680
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Turn job certainly item out smile any by senior law action.",
+  "body": "Property foreign yeah treatment.",
+  "userId": 2
+}
+
+23.04.2024_01:02:04.234778
+RESPONSE
+status code: 201
+json: {
+  "title": "Turn job certainly item out smile any by senior law action.",
+  "body": "Property foreign yeah treatment.",
+  "userId": 2,
+  "id": 101
+}
