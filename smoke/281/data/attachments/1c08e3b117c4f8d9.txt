@@ -1,0 +1,24 @@
+25.04.2024_01:03:46.875245
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Officer laugh thus police off whose various would every remain perform fine.",
+  "body": "Would recognize use voice lay article.",
+  "userId": 4
+}
+
+25.04.2024_01:03:46.926184
+RESPONSE
+status code: 201
+json: {
+  "title": "Officer laugh thus police off whose various would every remain perform fine.",
+  "body": "Would recognize use voice lay article.",
+  "userId": 4,
+  "id": 101
+}
