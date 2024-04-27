@@ -1,0 +1,24 @@
+27.04.2024_01:00:56.562851
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Account often total south bit religious difficult large attention.",
+  "body": "Right listen himself arrive budget.",
+  "userId": 1
+}
+
+27.04.2024_01:00:56.613988
+RESPONSE
+status code: 201
+json: {
+  "title": "Account often total south bit religious difficult large attention.",
+  "body": "Right listen himself arrive budget.",
+  "userId": 1,
+  "id": 101
+}
