@@ -1,0 +1,24 @@
+28.04.2024_06:16:00.230260
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Wife plan life cost address memory.",
+  "body": "News six above language sign.",
+  "userId": 3
+}
+
+28.04.2024_06:16:00.384917
+RESPONSE
+status code: 201
+json: {
+  "title": "Wife plan life cost address memory.",
+  "body": "News six above language sign.",
+  "userId": 3,
+  "id": 101
+}
