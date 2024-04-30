@@ -1,0 +1,24 @@
+30.04.2024_01:01:39.251802
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Always good college hour board stand west president position.",
+  "body": "Imagine product none under arrive piece.",
+  "userId": 7
+}
+
+30.04.2024_01:01:39.561969
+RESPONSE
+status code: 201
+json: {
+  "title": "Always good college hour board stand west president position.",
+  "body": "Imagine product none under arrive piece.",
+  "userId": 7,
+  "id": 101
+}
