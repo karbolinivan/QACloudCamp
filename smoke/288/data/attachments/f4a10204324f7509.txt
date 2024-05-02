@@ -1,0 +1,24 @@
+02.05.2024_01:01:35.587192
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Later recently remember seem power office.",
+  "body": "Chance son fact firm.",
+  "userId": 4
+}
+
+02.05.2024_01:01:35.673761
+RESPONSE
+status code: 201
+json: {
+  "title": "Later recently remember seem power office.",
+  "body": "Chance son fact firm.",
+  "userId": 4,
+  "id": 101
+}

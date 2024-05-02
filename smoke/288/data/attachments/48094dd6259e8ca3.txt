@@ -1,0 +1,24 @@
+02.05.2024_01:01:35.581516
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Somebody party allow fear southern know return kitchen call only economic six.",
+  "body": "Until newspaper turn bad.",
+  "userId": 9
+}
+
+02.05.2024_01:01:35.630697
+RESPONSE
+status code: 201
+json: {
+  "title": "Somebody party allow fear southern know return kitchen call only economic six.",
+  "body": "Until newspaper turn bad.",
+  "userId": 9,
+  "id": 101
+}
