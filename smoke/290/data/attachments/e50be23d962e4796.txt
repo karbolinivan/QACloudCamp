@@ -1,0 +1,24 @@
+04.05.2024_01:01:31.755048
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Feel scene both stock key majority certainly discover reveal produce house skin financial.",
+  "body": "Address reach trial lawyer return.",
+  "userId": 3
+}
+
+04.05.2024_01:01:31.821706
+RESPONSE
+status code: 201
+json: {
+  "title": "Feel scene both stock key majority certainly discover reveal produce house skin financial.",
+  "body": "Address reach trial lawyer return.",
+  "userId": 3,
+  "id": 101
+}
