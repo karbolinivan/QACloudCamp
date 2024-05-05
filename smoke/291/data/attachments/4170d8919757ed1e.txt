@@ -1,0 +1,24 @@
+05.05.2024_01:06:27.238653
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Economic his best wear point recently cut allow hard.",
+  "body": "Challenge only talk. Present hand little.",
+  "userId": 2
+}
+
+05.05.2024_01:06:27.408552
+RESPONSE
+status code: 201
+json: {
+  "title": "Economic his best wear point recently cut allow hard.",
+  "body": "Challenge only talk. Present hand little.",
+  "userId": 2,
+  "id": 101
+}
