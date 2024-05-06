@@ -1,0 +1,24 @@
+06.05.2024_01:03:38.614293
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Lead economic drive during community health save sign data camera choice defense.",
+  "body": "Catch support occur.",
+  "userId": 9
+}
+
+06.05.2024_01:03:38.689937
+RESPONSE
+status code: 201
+json: {
+  "title": "Lead economic drive during community health save sign data camera choice defense.",
+  "body": "Catch support occur.",
+  "userId": 9,
+  "id": 101
+}

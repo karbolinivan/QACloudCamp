@@ -1,0 +1,24 @@
+06.05.2024_01:03:38.623207
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Class those body radio central knowledge for agent stay assume information born skin.",
+  "body": "Republican it just which.",
+  "userId": 1
+}
+
+06.05.2024_01:03:38.676917
+RESPONSE
+status code: 201
+json: {
+  "title": "Class those body radio central knowledge for agent stay assume information born skin.",
+  "body": "Republican it just which.",
+  "userId": 1,
+  "id": 101
+}
