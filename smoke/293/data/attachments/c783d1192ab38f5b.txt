@@ -1,0 +1,24 @@
+07.05.2024_01:02:36.514563
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Practice education whole she great good place service life relationship foot.",
+  "body": "Visit though ten president. Far protect even.",
+  "userId": 5
+}
+
+07.05.2024_01:02:36.635437
+RESPONSE
+status code: 201
+json: {
+  "title": "Practice education whole she great good place service life relationship foot.",
+  "body": "Visit though ten president. Far protect even.",
+  "userId": 5,
+  "id": 101
+}
