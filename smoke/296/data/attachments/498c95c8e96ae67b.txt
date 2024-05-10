@@ -1,0 +1,24 @@
+10.05.2024_01:03:17.366683
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "History attention do and order night discuss color teacher determine defense million.",
+  "body": "Ten seven provide station.",
+  "userId": 8
+}
+
+10.05.2024_01:03:17.440890
+RESPONSE
+status code: 201
+json: {
+  "title": "History attention do and order night discuss color teacher determine defense million.",
+  "body": "Ten seven provide station.",
+  "userId": 8,
+  "id": 101
+}
