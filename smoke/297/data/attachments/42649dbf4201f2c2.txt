@@ -1,0 +1,24 @@
+11.05.2024_01:02:52.200912
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Than hotel everyone their treat respond claim right parent senior not box attorney western.",
+  "body": "Daughter will require hope.",
+  "userId": 7
+}
+
+11.05.2024_01:02:52.470384
+RESPONSE
+status code: 201
+json: {
+  "title": "Than hotel everyone their treat respond claim right parent senior not box attorney western.",
+  "body": "Daughter will require hope.",
+  "userId": 7,
+  "id": 101
+}
