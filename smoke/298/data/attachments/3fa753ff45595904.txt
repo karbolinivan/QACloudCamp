@@ -1,0 +1,24 @@
+12.05.2024_01:08:17.135625
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Hair more film child physical painting determine run four strong new.",
+  "body": "Success name total suddenly through church for.",
+  "userId": 3
+}
+
+12.05.2024_01:08:17.253193
+RESPONSE
+status code: 201
+json: {
+  "title": "Hair more film child physical painting determine run four strong new.",
+  "body": "Success name total suddenly through church for.",
+  "userId": 3,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+12.05.2024_01:08:17.143545
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Security democratic fire evening official wear someone policy chance must who wait.",
+  "body": "Shake story subject loss tend others fall.",
+  "userId": 4
+}
+
+12.05.2024_01:08:17.261909
+RESPONSE
+status code: 201
+json: {
+  "title": "Security democratic fire evening official wear someone policy chance must who wait.",
+  "body": "Shake story subject loss tend others fall.",
+  "userId": 4,
+  "id": 101
+}
