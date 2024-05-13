@@ -1,0 +1,24 @@
+13.05.2024_01:05:11.438194
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Line white site popular game according help scene draw nothing including.",
+  "body": "Offer often build cause gas.",
+  "userId": 3
+}
+
+13.05.2024_01:05:11.495128
+RESPONSE
+status code: 201
+json: {
+  "title": "Line white site popular game according help scene draw nothing including.",
+  "body": "Offer often build cause gas.",
+  "userId": 3,
+  "id": 101
+}
