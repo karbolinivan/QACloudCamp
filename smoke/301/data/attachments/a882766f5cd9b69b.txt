@@ -1,0 +1,24 @@
+15.05.2024_01:04:25.569825
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Gas democratic hope cell suggest meet need own notice along.",
+  "body": "Attorney later daughter federal.",
+  "userId": 1
+}
+
+15.05.2024_01:04:25.854448
+RESPONSE
+status code: 201
+json: {
+  "title": "Gas democratic hope cell suggest meet need own notice along.",
+  "body": "Attorney later daughter federal.",
+  "userId": 1,
+  "id": 101
+}
