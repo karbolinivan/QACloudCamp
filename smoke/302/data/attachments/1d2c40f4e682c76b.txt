@@ -1,0 +1,24 @@
+16.05.2024_01:04:01.349062
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Arm could describe manager receive attorney change skill short.",
+  "body": "Ok opportunity ago. Final follow exist seem.",
+  "userId": 6
+}
+
+16.05.2024_01:04:01.483460
+RESPONSE
+status code: 201
+json: {
+  "title": "Arm could describe manager receive attorney change skill short.",
+  "body": "Ok opportunity ago. Final follow exist seem.",
+  "userId": 6,
+  "id": 101
+}

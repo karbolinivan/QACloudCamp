@@ -1,0 +1,24 @@
+16.05.2024_01:04:01.340594
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Building exactly true method international right director coach step election this protect too.",
+  "body": "Both guess pick well hundred dog well news.",
+  "userId": 4
+}
+
+16.05.2024_01:04:01.609106
+RESPONSE
+status code: 201
+json: {
+  "title": "Building exactly true method international right director coach step election this protect too.",
+  "body": "Both guess pick well hundred dog well news.",
+  "userId": 4,
+  "id": 101
+}
