@@ -1,0 +1,24 @@
+19.05.2024_01:08:19.256702
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Senior run trial check skill science product.",
+  "body": "Reflect key almost cause amount record media.",
+  "userId": 1
+}
+
+19.05.2024_01:08:19.377434
+RESPONSE
+status code: 201
+json: {
+  "title": "Senior run trial check skill science product.",
+  "body": "Reflect key almost cause amount record media.",
+  "userId": 1,
+  "id": 101
+}
