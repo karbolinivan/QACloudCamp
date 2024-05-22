@@ -1,0 +1,24 @@
+22.05.2024_01:04:29.200011
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Others camera increase none east and home newspaper order may both various.",
+  "body": "Management sea student son with half accept.",
+  "userId": 9
+}
+
+22.05.2024_01:04:29.362646
+RESPONSE
+status code: 201
+json: {
+  "title": "Others camera increase none east and home newspaper order may both various.",
+  "body": "Management sea student son with half accept.",
+  "userId": 9,
+  "id": 101
+}
