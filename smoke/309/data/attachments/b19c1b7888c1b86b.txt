@@ -1,0 +1,24 @@
+23.05.2024_01:03:46.472466
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Expect official too fly point evidence add north you give artist.",
+  "body": "Job any industry know society not.",
+  "userId": 8
+}
+
+23.05.2024_01:03:46.550921
+RESPONSE
+status code: 201
+json: {
+  "title": "Expect official too fly point evidence add north you give artist.",
+  "body": "Job any industry know society not.",
+  "userId": 8,
+  "id": 101
+}

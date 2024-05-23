@@ -1,0 +1,24 @@
+23.05.2024_01:03:46.465851
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Area cultural month financial way no hard break right explain beat staff.",
+  "body": "Personal necessary management less.",
+  "userId": 9
+}
+
+23.05.2024_01:03:46.541814
+RESPONSE
+status code: 201
+json: {
+  "title": "Area cultural month financial way no hard break right explain beat staff.",
+  "body": "Personal necessary management less.",
+  "userId": 9,
+  "id": 101
+}
