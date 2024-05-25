@@ -1,0 +1,24 @@
+25.05.2024_01:03:06.250988
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Sort technology impact adult thus here small.",
+  "body": "Hundred decide cup figure especially Congress.",
+  "userId": 5
+}
+
+25.05.2024_01:03:06.312149
+RESPONSE
+status code: 201
+json: {
+  "title": "Sort technology impact adult thus here small.",
+  "body": "Hundred decide cup figure especially Congress.",
+  "userId": 5,
+  "id": 101
+}
