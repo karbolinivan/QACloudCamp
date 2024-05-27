@@ -1,0 +1,24 @@
+27.05.2024_01:05:44.487179
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Decade carry age daughter tough see dog remember clear article law health from.",
+  "body": "Arrive life produce floor sing animal.",
+  "userId": 6
+}
+
+27.05.2024_01:05:44.547049
+RESPONSE
+status code: 201
+json: {
+  "title": "Decade carry age daughter tough see dog remember clear article law health from.",
+  "body": "Arrive life produce floor sing animal.",
+  "userId": 6,
+  "id": 101
+}
