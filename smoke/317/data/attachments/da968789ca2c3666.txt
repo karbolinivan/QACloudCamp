@@ -1,0 +1,24 @@
+31.05.2024_01:05:50.331578
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Beat moment else state beat sister business listen develop thing strategy quickly crime.",
+  "body": "Operation movie along turn. Son direction hour.",
+  "userId": 2
+}
+
+31.05.2024_01:05:50.467814
+RESPONSE
+status code: 201
+json: {
+  "title": "Beat moment else state beat sister business listen develop thing strategy quickly crime.",
+  "body": "Operation movie along turn. Son direction hour.",
+  "userId": 2,
+  "id": 101
+}

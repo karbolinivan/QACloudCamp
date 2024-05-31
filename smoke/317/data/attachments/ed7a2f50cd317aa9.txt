@@ -1,0 +1,24 @@
+31.05.2024_01:05:50.344699
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Image chair game room might everything it address important everyone culture.",
+  "body": "Agreement computer need different.",
+  "userId": 9
+}
+
+31.05.2024_01:05:50.512962
+RESPONSE
+status code: 201
+json: {
+  "title": "Image chair game room might everything it address important everyone culture.",
+  "body": "Agreement computer need different.",
+  "userId": 9,
+  "id": 101
+}
