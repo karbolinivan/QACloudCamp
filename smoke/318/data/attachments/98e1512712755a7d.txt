@@ -1,0 +1,24 @@
+01.06.2024_01:09:04.259923
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Group trouble miss open parent relationship charge today.",
+  "body": "Western conference ten bed short.",
+  "userId": 7
+}
+
+01.06.2024_01:09:04.301985
+RESPONSE
+status code: 201
+json: {
+  "title": "Group trouble miss open parent relationship charge today.",
+  "body": "Western conference ten bed short.",
+  "userId": 7,
+  "id": 101
+}
