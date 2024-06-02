@@ -1,0 +1,24 @@
+02.06.2024_01:09:33.236646
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Baby idea Republican book opportunity though fund spring citizen Republican agent member indicate.",
+  "body": "Particular reach long network sense.",
+  "userId": 1
+}
+
+02.06.2024_01:09:33.494731
+RESPONSE
+status code: 201
+json: {
+  "title": "Baby idea Republican book opportunity though fund spring citizen Republican agent member indicate.",
+  "body": "Particular reach long network sense.",
+  "userId": 1,
+  "id": 101
+}

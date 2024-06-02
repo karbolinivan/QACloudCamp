@@ -1,0 +1,24 @@
+02.06.2024_01:09:33.245183
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Design account young worry name adult hit report religious discuss describe.",
+  "body": "Personal he water lot mission employee.",
+  "userId": 7
+}
+
+02.06.2024_01:09:33.498750
+RESPONSE
+status code: 201
+json: {
+  "title": "Design account young worry name adult hit report religious discuss describe.",
+  "body": "Personal he water lot mission employee.",
+  "userId": 7,
+  "id": 101
+}
