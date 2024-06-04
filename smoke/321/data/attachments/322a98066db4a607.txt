@@ -1,0 +1,24 @@
+04.06.2024_01:06:01.318870
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "All more professional everything wife among your window business story girl my point.",
+  "body": "Truth later wish laugh religious happen.",
+  "userId": 6
+}
+
+04.06.2024_01:06:01.544237
+RESPONSE
+status code: 201
+json: {
+  "title": "All more professional everything wife among your window business story girl my point.",
+  "body": "Truth later wish laugh religious happen.",
+  "userId": 6,
+  "id": 101
+}
