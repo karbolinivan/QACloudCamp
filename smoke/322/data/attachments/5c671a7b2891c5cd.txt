@@ -1,0 +1,24 @@
+05.06.2024_01:05:35.091283
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Medical across nature western memory born.",
+  "body": "Candidate reveal instead recognize.",
+  "userId": 7
+}
+
+05.06.2024_01:05:35.175064
+RESPONSE
+status code: 201
+json: {
+  "title": "Medical across nature western memory born.",
+  "body": "Candidate reveal instead recognize.",
+  "userId": 7,
+  "id": 101
+}
