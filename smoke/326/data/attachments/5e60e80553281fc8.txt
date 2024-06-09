@@ -1,0 +1,24 @@
+09.06.2024_01:11:47.804879
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Gun speech nice officer morning mention.",
+  "body": "Win partner possible explain listen commercial.",
+  "userId": 9
+}
+
+09.06.2024_01:11:47.921680
+RESPONSE
+status code: 201
+json: {
+  "title": "Gun speech nice officer morning mention.",
+  "body": "Win partner possible explain listen commercial.",
+  "userId": 9,
+  "id": 101
+}

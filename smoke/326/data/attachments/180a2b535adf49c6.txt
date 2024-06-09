@@ -1,0 +1,24 @@
+09.06.2024_01:11:47.806362
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Return send government race charge anything surface market Mrs even market.",
+  "body": "Speak whose industry painting market.",
+  "userId": 5
+}
+
+09.06.2024_01:11:47.939350
+RESPONSE
+status code: 201
+json: {
+  "title": "Return send government race charge anything surface market Mrs even market.",
+  "body": "Speak whose industry painting market.",
+  "userId": 5,
+  "id": 101
+}
