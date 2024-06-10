@@ -1,0 +1,24 @@
+10.06.2024_01:08:20.432312
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Huge few natural a true hair TV leave activity writer discussion son ability.",
+  "body": "Service image buy probably their executive.",
+  "userId": 7
+}
+
+10.06.2024_01:08:20.524728
+RESPONSE
+status code: 201
+json: {
+  "title": "Huge few natural a true hair TV leave activity writer discussion son ability.",
+  "body": "Service image buy probably their executive.",
+  "userId": 7,
+  "id": 101
+}

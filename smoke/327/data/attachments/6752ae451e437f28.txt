@@ -1,0 +1,24 @@
+10.06.2024_01:08:20.423641
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Try force chance important shake free different.",
+  "body": "Guess without ask culture.",
+  "userId": 2
+}
+
+10.06.2024_01:08:20.522012
+RESPONSE
+status code: 201
+json: {
+  "title": "Try force chance important shake free different.",
+  "body": "Guess without ask culture.",
+  "userId": 2,
+  "id": 101
+}
