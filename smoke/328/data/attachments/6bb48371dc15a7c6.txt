@@ -1,0 +1,24 @@
+11.06.2024_01:06:51.808376
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Suggest director capital happen message own create.",
+  "body": "Scientist election new anything.",
+  "userId": 5
+}
+
+11.06.2024_01:06:51.869555
+RESPONSE
+status code: 201
+json: {
+  "title": "Suggest director capital happen message own create.",
+  "body": "Scientist election new anything.",
+  "userId": 5,
+  "id": 101
+}
