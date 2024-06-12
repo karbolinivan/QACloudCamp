@@ -1,0 +1,24 @@
+12.06.2024_01:06:59.792457
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Collection under plant exactly land back arrive maybe quickly law claim subject.",
+  "body": "But cut man lead. Common cell training city.",
+  "userId": 4
+}
+
+12.06.2024_01:07:00.013029
+RESPONSE
+status code: 201
+json: {
+  "title": "Collection under plant exactly land back arrive maybe quickly law claim subject.",
+  "body": "But cut man lead. Common cell training city.",
+  "userId": 4,
+  "id": 101
+}
