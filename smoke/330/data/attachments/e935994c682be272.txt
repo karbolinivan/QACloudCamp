@@ -1,0 +1,24 @@
+13.06.2024_01:06:32.721554
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Career why various yard through green break lawyer social kid project.",
+  "body": "Arrive develop as page support.",
+  "userId": 5
+}
+
+13.06.2024_01:06:33.002046
+RESPONSE
+status code: 201
+json: {
+  "title": "Career why various yard through green break lawyer social kid project.",
+  "body": "Arrive develop as page support.",
+  "userId": 5,
+  "id": 101
+}

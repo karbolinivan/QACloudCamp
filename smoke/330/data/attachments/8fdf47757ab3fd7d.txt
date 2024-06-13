@@ -1,0 +1,24 @@
+13.06.2024_01:06:32.709137
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "House as of five choose yourself case hospital letter consumer.",
+  "body": "Produce billion room name democratic teacher.",
+  "userId": 2
+}
+
+13.06.2024_01:06:33.031006
+RESPONSE
+status code: 201
+json: {
+  "title": "House as of five choose yourself case hospital letter consumer.",
+  "body": "Produce billion room name democratic teacher.",
+  "userId": 2,
+  "id": 101
+}
