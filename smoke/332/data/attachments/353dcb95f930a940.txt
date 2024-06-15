@@ -1,0 +1,24 @@
+15.06.2024_01:06:25.149252
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Create write five city speak billion all.",
+  "body": "Rate lead yard office man measure pattern.",
+  "userId": 2
+}
+
+15.06.2024_01:06:25.282200
+RESPONSE
+status code: 201
+json: {
+  "title": "Create write five city speak billion all.",
+  "body": "Rate lead yard office man measure pattern.",
+  "userId": 2,
+  "id": 101
+}
