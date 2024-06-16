@@ -1,0 +1,24 @@
+16.06.2024_01:11:52.175424
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Home yet mouth suddenly town of piece friend your.",
+  "body": "Late condition economy. Toward tough though.",
+  "userId": 5
+}
+
+16.06.2024_01:11:52.261089
+RESPONSE
+status code: 201
+json: {
+  "title": "Home yet mouth suddenly town of piece friend your.",
+  "body": "Late condition economy. Toward tough though.",
+  "userId": 5,
+  "id": 101
+}
