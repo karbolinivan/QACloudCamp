@@ -1,0 +1,24 @@
+17.06.2024_01:08:50.008495
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Popular politics standard film need factor until product decision.",
+  "body": "Garden idea list kitchen land similar decision.",
+  "userId": 1
+}
+
+17.06.2024_01:08:50.146504
+RESPONSE
+status code: 201
+json: {
+  "title": "Popular politics standard film need factor until product decision.",
+  "body": "Garden idea list kitchen land similar decision.",
+  "userId": 1,
+  "id": 101
+}
