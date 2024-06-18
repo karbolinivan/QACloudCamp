@@ -1,0 +1,24 @@
+18.06.2024_01:07:12.608167
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Model left rich develop whether add.",
+  "body": "Each thought cell. Baby amount likely outside.",
+  "userId": 8
+}
+
+18.06.2024_01:07:12.668332
+RESPONSE
+status code: 201
+json: {
+  "title": "Model left rich develop whether add.",
+  "body": "Each thought cell. Baby amount likely outside.",
+  "userId": 8,
+  "id": 101
+}

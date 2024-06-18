@@ -1,0 +1,24 @@
+18.06.2024_01:07:12.616964
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Alone step light leader west draw recent series very everything vote never.",
+  "body": "Scientist structure determine yes upon.",
+  "userId": 6
+}
+
+18.06.2024_01:07:12.678111
+RESPONSE
+status code: 201
+json: {
+  "title": "Alone step light leader west draw recent series very everything vote never.",
+  "body": "Scientist structure determine yes upon.",
+  "userId": 6,
+  "id": 101
+}
