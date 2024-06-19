@@ -1,0 +1,24 @@
+19.06.2024_01:07:16.523882
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Carry box mean figure beautiful senior energy response entire citizen.",
+  "body": "Student reduce not near bag son throw door.",
+  "userId": 3
+}
+
+19.06.2024_01:07:16.618063
+RESPONSE
+status code: 201
+json: {
+  "title": "Carry box mean figure beautiful senior energy response entire citizen.",
+  "body": "Student reduce not near bag son throw door.",
+  "userId": 3,
+  "id": 101
+}
