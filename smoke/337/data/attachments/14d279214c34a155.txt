@@ -1,0 +1,24 @@
+20.06.2024_01:05:16.778755
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Check prepare again every major particularly song officer moment agency agree best surface.",
+  "body": "Tax model tend.",
+  "userId": 7
+}
+
+20.06.2024_01:05:16.900929
+RESPONSE
+status code: 201
+json: {
+  "title": "Check prepare again every major particularly song officer moment agency agree best surface.",
+  "body": "Tax model tend.",
+  "userId": 7,
+  "id": 101
+}
