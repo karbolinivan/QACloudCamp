@@ -1,0 +1,24 @@
+21.06.2024_01:06:01.141954
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Anyone something reflect young onto rock office often science win maybe.",
+  "body": "Draw seat war level crime stop would.",
+  "userId": 9
+}
+
+21.06.2024_01:06:01.206790
+RESPONSE
+status code: 201
+json: {
+  "title": "Anyone something reflect young onto rock office often science win maybe.",
+  "body": "Draw seat war level crime stop would.",
+  "userId": 9,
+  "id": 101
+}
