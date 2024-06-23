@@ -1,0 +1,24 @@
+23.06.2024_01:11:00.152432
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Yourself whole a only seek position could else leg.",
+  "body": "Management during study.",
+  "userId": 6
+}
+
+23.06.2024_01:11:00.245282
+RESPONSE
+status code: 201
+json: {
+  "title": "Yourself whole a only seek position could else leg.",
+  "body": "Management during study.",
+  "userId": 6,
+  "id": 101
+}
