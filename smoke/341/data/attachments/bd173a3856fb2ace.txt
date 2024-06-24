@@ -1,0 +1,24 @@
+24.06.2024_01:08:16.728780
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Project first better list music condition return bring democratic throughout live.",
+  "body": "Cause show single seven despite notice wait.",
+  "userId": 8
+}
+
+24.06.2024_01:08:17.090375
+RESPONSE
+status code: 201
+json: {
+  "title": "Project first better list music condition return bring democratic throughout live.",
+  "body": "Cause show single seven despite notice wait.",
+  "userId": 8,
+  "id": 101
+}

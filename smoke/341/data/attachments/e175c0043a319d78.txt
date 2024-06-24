@@ -1,0 +1,24 @@
+24.06.2024_01:08:16.741412
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Probably happen office can pattern since stuff outside rich oil west.",
+  "body": "Meet kid drop situation feel.",
+  "userId": 1
+}
+
+24.06.2024_01:08:17.106665
+RESPONSE
+status code: 201
+json: {
+  "title": "Probably happen office can pattern since stuff outside rich oil west.",
+  "body": "Meet kid drop situation feel.",
+  "userId": 1,
+  "id": 101
+}
