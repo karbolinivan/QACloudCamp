@@ -1,0 +1,24 @@
+25.06.2024_01:06:51.227940
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Note business senior able message maintain dinner put research offer together citizen.",
+  "body": "Grow certainly late indeed another popular.",
+  "userId": 1
+}
+
+25.06.2024_01:06:51.590074
+RESPONSE
+status code: 201
+json: {
+  "title": "Note business senior able message maintain dinner put research offer together citizen.",
+  "body": "Grow certainly late indeed another popular.",
+  "userId": 1,
+  "id": 101
+}

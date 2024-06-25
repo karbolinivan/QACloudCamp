@@ -1,0 +1,24 @@
+25.06.2024_01:06:51.228990
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Cause explain article miss finally idea available again rock including try our according.",
+  "body": "Trade this term. Seem be star way.",
+  "userId": 1
+}
+
+25.06.2024_01:06:51.429902
+RESPONSE
+status code: 201
+json: {
+  "title": "Cause explain article miss finally idea available again rock including try our according.",
+  "body": "Trade this term. Seem be star way.",
+  "userId": 1,
+  "id": 101
+}
