@@ -1,0 +1,24 @@
+27.06.2024_01:07:05.331633
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Who us police value down large.",
+  "body": "Once will way music.",
+  "userId": 2
+}
+
+27.06.2024_01:07:05.480513
+RESPONSE
+status code: 201
+json: {
+  "title": "Who us police value down large.",
+  "body": "Once will way music.",
+  "userId": 2,
+  "id": 101
+}
