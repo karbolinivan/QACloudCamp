@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jun 28 06:18:11 GMT 2024","Fri Jun 28 06:18:11 GMT 2024","41","tests","test_resource","TestResource","","","Get invalid resource",""
+"passed","Fri Jun 28 06:18:11 GMT 2024","Fri Jun 28 06:18:11 GMT 2024","30","tests","test_resource","TestResource","","","Get resource",""
+"passed","Fri Jun 28 06:18:11 GMT 2024","Fri Jun 28 06:18:11 GMT 2024","49","tests","test_resource","TestResource","","","Create invalid resource",""
+"passed","Fri Jun 28 06:18:11 GMT 2024","Fri Jun 28 06:18:11 GMT 2024","48","tests","test_resource","TestResource","","","Delete invalid resource",""
+"passed","Fri Jun 28 06:18:11 GMT 2024","Fri Jun 28 06:18:11 GMT 2024","114","tests","test_resource","TestResource","","","Create resource",""
+"passed","Fri Jun 28 06:18:11 GMT 2024","Fri Jun 28 06:18:11 GMT 2024","35","tests","test_resource","TestResource","","","Delete resource",""

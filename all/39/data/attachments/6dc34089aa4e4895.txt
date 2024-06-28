@@ -1,0 +1,24 @@
+28.06.2024_06:18:11.243058
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Catch soon eight grow huge spring position deal.",
+  "body": "Cell several fish century keep form good.",
+  "userId": 7
+}
+
+28.06.2024_06:18:11.316400
+RESPONSE
+status code: 201
+json: {
+  "title": "Catch soon eight grow huge spring position deal.",
+  "body": "Cell several fish century keep form good.",
+  "userId": 7,
+  "id": 101
+}
