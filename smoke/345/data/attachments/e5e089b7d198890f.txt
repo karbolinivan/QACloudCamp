@@ -1,0 +1,24 @@
+28.06.2024_01:07:06.378333
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Picture him eye probably radio difficult step easy hotel picture.",
+  "body": "Until including often.",
+  "userId": 4
+}
+
+28.06.2024_01:07:06.622825
+RESPONSE
+status code: 201
+json: {
+  "title": "Picture him eye probably radio difficult step easy hotel picture.",
+  "body": "Until including often.",
+  "userId": 4,
+  "id": 101
+}

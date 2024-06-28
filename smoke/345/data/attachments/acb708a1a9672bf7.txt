@@ -1,0 +1,24 @@
+28.06.2024_01:07:06.379070
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Bit with really their red center cut.",
+  "body": "If democratic likely experience friend her much.",
+  "userId": 3
+}
+
+28.06.2024_01:07:06.535416
+RESPONSE
+status code: 201
+json: {
+  "title": "Bit with really their red center cut.",
+  "body": "If democratic likely experience friend her much.",
+  "userId": 3,
+  "id": 101
+}
