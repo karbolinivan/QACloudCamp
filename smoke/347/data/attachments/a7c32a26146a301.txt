@@ -1,0 +1,24 @@
+30.06.2024_01:12:45.583620
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fast generation hair dream son second.",
+  "body": "Fight second all want sound.",
+  "userId": 1
+}
+
+30.06.2024_01:12:45.919880
+RESPONSE
+status code: 201
+json: {
+  "title": "Fast generation hair dream son second.",
+  "body": "Fight second all want sound.",
+  "userId": 1,
+  "id": 101
+}
