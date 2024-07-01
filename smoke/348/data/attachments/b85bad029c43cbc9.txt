@@ -1,0 +1,24 @@
+01.07.2024_01:14:44.644780
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Financial word Congress church computer television always sometimes leg without challenge miss concern.",
+  "body": "Hotel after candidate stand.",
+  "userId": 5
+}
+
+01.07.2024_01:14:44.745569
+RESPONSE
+status code: 201
+json: {
+  "title": "Financial word Congress church computer television always sometimes leg without challenge miss concern.",
+  "body": "Hotel after candidate stand.",
+  "userId": 5,
+  "id": 101
+}
