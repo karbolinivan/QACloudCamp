@@ -1,0 +1,24 @@
+02.07.2024_01:07:41.337128
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "New financial them girl yes vote time lawyer those here.",
+  "body": "Medical provide stand then politics.",
+  "userId": 4
+}
+
+02.07.2024_01:07:41.614117
+RESPONSE
+status code: 201
+json: {
+  "title": "New financial them girl yes vote time lawyer those here.",
+  "body": "Medical provide stand then politics.",
+  "userId": 4,
+  "id": 101
+}
