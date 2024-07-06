@@ -1,0 +1,24 @@
+06.07.2024_01:05:48.225004
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Interesting require general poor same executive attention will population such guess.",
+  "body": "Effort discussion certain reflect.",
+  "userId": 9
+}
+
+06.07.2024_01:05:48.520070
+RESPONSE
+status code: 201
+json: {
+  "title": "Interesting require general poor same executive attention will population such guess.",
+  "body": "Effort discussion certain reflect.",
+  "userId": 9,
+  "id": 101
+}
