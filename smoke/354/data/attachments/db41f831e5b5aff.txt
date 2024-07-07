@@ -1,0 +1,24 @@
+07.07.2024_01:13:18.893063
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Present family yeah exist speak mouth beat kid car then boy information assume.",
+  "body": "Employee interview place be everybody.",
+  "userId": 4
+}
+
+07.07.2024_01:13:18.947576
+RESPONSE
+status code: 201
+json: {
+  "title": "Present family yeah exist speak mouth beat kid car then boy information assume.",
+  "body": "Employee interview place be everybody.",
+  "userId": 4,
+  "id": 101
+}
