@@ -1,0 +1,24 @@
+10.07.2024_01:09:01.738995
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Finish job identify thus international mind will.",
+  "body": "Return line oil detail water loss free.",
+  "userId": 8
+}
+
+10.07.2024_01:09:01.917304
+RESPONSE
+status code: 201
+json: {
+  "title": "Finish job identify thus international mind will.",
+  "body": "Return line oil detail water loss free.",
+  "userId": 8,
+  "id": 101
+}
