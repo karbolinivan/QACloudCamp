@@ -1,0 +1,24 @@
+13.07.2024_01:09:04.850302
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Candidate walk half care magazine hold for natural education public break.",
+  "body": "Marriage field ready left exactly could.",
+  "userId": 2
+}
+
+13.07.2024_01:09:05.172888
+RESPONSE
+status code: 201
+json: {
+  "title": "Candidate walk half care magazine hold for natural education public break.",
+  "body": "Marriage field ready left exactly could.",
+  "userId": 2,
+  "id": 101
+}
