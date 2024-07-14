@@ -1,0 +1,24 @@
+14.07.2024_01:14:16.328405
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Consider budget right team leg most body fish discover herself many game go.",
+  "body": "Through year debate above take admit maybe.",
+  "userId": 6
+}
+
+14.07.2024_01:14:16.382174
+RESPONSE
+status code: 201
+json: {
+  "title": "Consider budget right team leg most body fish discover herself many game go.",
+  "body": "Through year debate above take admit maybe.",
+  "userId": 6,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+14.07.2024_01:14:16.316469
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Recently lose traditional well word surface treatment game use who can.",
+  "body": "Traditional behind they although poor as change.",
+  "userId": 8
+}
+
+14.07.2024_01:14:16.373292
+RESPONSE
+status code: 201
+json: {
+  "title": "Recently lose traditional well word surface treatment game use who can.",
+  "body": "Traditional behind they although poor as change.",
+  "userId": 8,
+  "id": 101
+}

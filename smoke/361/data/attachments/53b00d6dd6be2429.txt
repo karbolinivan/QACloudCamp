@@ -1,0 +1,24 @@
+14.07.2024_01:14:16.326459
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Citizen represent necessary strategy body free firm record majority wife.",
+  "body": "Popular long move western a.",
+  "userId": 6
+}
+
+14.07.2024_01:14:16.401930
+RESPONSE
+status code: 201
+json: {
+  "title": "Citizen represent necessary strategy body free firm record majority wife.",
+  "body": "Popular long move western a.",
+  "userId": 6,
+  "id": 101
+}
