@@ -1,0 +1,24 @@
+20.07.2024_01:07:37.514720
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "All authority toward always daughter rock class wrong also bag commercial.",
+  "body": "Others need something where soldier manage.",
+  "userId": 5
+}
+
+20.07.2024_01:07:37.681011
+RESPONSE
+status code: 201
+json: {
+  "title": "All authority toward always daughter rock class wrong also bag commercial.",
+  "body": "Others need something where soldier manage.",
+  "userId": 5,
+  "id": 101
+}
