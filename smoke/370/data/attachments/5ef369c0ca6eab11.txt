@@ -1,0 +1,24 @@
+23.07.2024_01:09:29.367666
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Mrs a professor tough fund member much.",
+  "body": "International trouble particular heart.",
+  "userId": 7
+}
+
+23.07.2024_01:09:29.499848
+RESPONSE
+status code: 201
+json: {
+  "title": "Mrs a professor tough fund member much.",
+  "body": "International trouble particular heart.",
+  "userId": 7,
+  "id": 101
+}
