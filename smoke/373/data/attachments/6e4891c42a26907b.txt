@@ -1,0 +1,24 @@
+26.07.2024_01:08:23.599028
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Control score daughter attack sure station themselves act we finally Republican oil structure.",
+  "body": "Best central yourself five step less now.",
+  "userId": 9
+}
+
+26.07.2024_01:08:23.678145
+RESPONSE
+status code: 201
+json: {
+  "title": "Control score daughter attack sure station themselves act we finally Republican oil structure.",
+  "body": "Best central yourself five step less now.",
+  "userId": 9,
+  "id": 101
+}

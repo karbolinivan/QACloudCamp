@@ -1,0 +1,24 @@
+26.07.2024_01:08:23.588636
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Strategy so customer week science including instead.",
+  "body": "Adult discover sing.",
+  "userId": 5
+}
+
+26.07.2024_01:08:23.680721
+RESPONSE
+status code: 201
+json: {
+  "title": "Strategy so customer week science including instead.",
+  "body": "Adult discover sing.",
+  "userId": 5,
+  "id": 101
+}
