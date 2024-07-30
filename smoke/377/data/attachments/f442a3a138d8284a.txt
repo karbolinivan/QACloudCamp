@@ -1,0 +1,24 @@
+30.07.2024_01:09:32.838829
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Season four military something recent need.",
+  "body": "Process huge list her talk fly.",
+  "userId": 3
+}
+
+30.07.2024_01:09:32.955450
+RESPONSE
+status code: 201
+json: {
+  "title": "Season four military something recent need.",
+  "body": "Process huge list her talk fly.",
+  "userId": 3,
+  "id": 101
+}
