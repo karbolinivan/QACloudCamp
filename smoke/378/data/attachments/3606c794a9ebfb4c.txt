@@ -1,0 +1,24 @@
+31.07.2024_00:57:59.150265
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Control book ground performance watch myself trial quite hour window of there scientist.",
+  "body": "Above sell senior watch team my movement either.",
+  "userId": 1
+}
+
+31.07.2024_00:57:59.305481
+RESPONSE
+status code: 201
+json: {
+  "title": "Control book ground performance watch myself trial quite hour window of there scientist.",
+  "body": "Above sell senior watch team my movement either.",
+  "userId": 1,
+  "id": 101
+}
