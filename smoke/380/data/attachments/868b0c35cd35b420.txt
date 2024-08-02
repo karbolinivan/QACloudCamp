@@ -1,0 +1,24 @@
+02.08.2024_01:09:17.786952
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Method candidate plant mother to last pay success job improve.",
+  "body": "Name send morning.",
+  "userId": 2
+}
+
+02.08.2024_01:09:18.017346
+RESPONSE
+status code: 201
+json: {
+  "title": "Method candidate plant mother to last pay success job improve.",
+  "body": "Name send morning.",
+  "userId": 2,
+  "id": 101
+}
