@@ -1,0 +1,24 @@
+03.08.2024_01:08:42.896200
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Major state maybe easy add high morning.",
+  "body": "Girl about maybe benefit with.",
+  "userId": 6
+}
+
+03.08.2024_01:08:43.006861
+RESPONSE
+status code: 201
+json: {
+  "title": "Major state maybe easy add high morning.",
+  "body": "Girl about maybe benefit with.",
+  "userId": 6,
+  "id": 101
+}
