@@ -1,0 +1,24 @@
+04.08.2024_01:14:58.744609
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Case goal step boy example share apply success yeah total.",
+  "body": "Include wife work. Foot hear maybe water.",
+  "userId": 6
+}
+
+04.08.2024_01:14:59.161120
+RESPONSE
+status code: 201
+json: {
+  "title": "Case goal step boy example share apply success yeah total.",
+  "body": "Include wife work. Foot hear maybe water.",
+  "userId": 6,
+  "id": 101
+}

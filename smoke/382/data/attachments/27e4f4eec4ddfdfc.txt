@@ -1,0 +1,24 @@
+04.08.2024_01:14:58.744609
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Evidence son expert we prevent seat such much for become final catch structure.",
+  "body": "Stand best value thousand worker.",
+  "userId": 8
+}
+
+04.08.2024_01:14:59.112593
+RESPONSE
+status code: 201
+json: {
+  "title": "Evidence son expert we prevent seat such much for become final catch structure.",
+  "body": "Stand best value thousand worker.",
+  "userId": 8,
+  "id": 101
+}

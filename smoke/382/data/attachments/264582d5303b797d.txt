@@ -1,0 +1,24 @@
+04.08.2024_01:14:58.728154
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Action look find feel site per theory exist among look back.",
+  "body": "Involve staff wife time doctor somebody.",
+  "userId": 9
+}
+
+04.08.2024_01:14:59.122154
+RESPONSE
+status code: 201
+json: {
+  "title": "Action look find feel site per theory exist among look back.",
+  "body": "Involve staff wife time doctor somebody.",
+  "userId": 9,
+  "id": 101
+}
