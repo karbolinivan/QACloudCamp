@@ -1,0 +1,24 @@
+05.08.2024_01:11:33.944169
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Behind guess develop maintain we not fill allow speak.",
+  "body": "Produce second money.",
+  "userId": 2
+}
+
+05.08.2024_01:11:33.996868
+RESPONSE
+status code: 201
+json: {
+  "title": "Behind guess develop maintain we not fill allow speak.",
+  "body": "Produce second money.",
+  "userId": 2,
+  "id": 101
+}
