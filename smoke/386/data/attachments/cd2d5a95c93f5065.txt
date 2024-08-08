@@ -1,0 +1,24 @@
+08.08.2024_01:10:22.345456
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Decide white sister book ever everyone low time call man.",
+  "body": "Leave two least miss true dream.",
+  "userId": 5
+}
+
+08.08.2024_01:10:22.439217
+RESPONSE
+status code: 201
+json: {
+  "title": "Decide white sister book ever everyone low time call man.",
+  "body": "Leave two least miss true dream.",
+  "userId": 5,
+  "id": 101
+}
