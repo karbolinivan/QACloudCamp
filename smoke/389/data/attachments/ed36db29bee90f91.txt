@@ -1,0 +1,24 @@
+11.08.2024_01:15:57.952412
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Add appear church too look design benefit those.",
+  "body": "Moment close lose by.",
+  "userId": 5
+}
+
+11.08.2024_01:15:58.024564
+RESPONSE
+status code: 201
+json: {
+  "title": "Add appear church too look design benefit those.",
+  "body": "Moment close lose by.",
+  "userId": 5,
+  "id": 101
+}
