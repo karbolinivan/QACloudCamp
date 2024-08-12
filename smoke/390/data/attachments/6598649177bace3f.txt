@@ -1,0 +1,24 @@
+12.08.2024_01:12:35.013186
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Require they shoulder could talk anyone walk send job fear large believe.",
+  "body": "Source raise address but process.",
+  "userId": 7
+}
+
+12.08.2024_01:12:35.201656
+RESPONSE
+status code: 201
+json: {
+  "title": "Require they shoulder could talk anyone walk send job fear large believe.",
+  "body": "Source raise address but process.",
+  "userId": 7,
+  "id": 101
+}
