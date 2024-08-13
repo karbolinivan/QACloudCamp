@@ -1,0 +1,24 @@
+13.08.2024_01:11:59.630780
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Heart senior Mrs same thus candidate take view land reveal often.",
+  "body": "Girl determine know effect think gun.",
+  "userId": 8
+}
+
+13.08.2024_01:11:59.818082
+RESPONSE
+status code: 201
+json: {
+  "title": "Heart senior Mrs same thus candidate take view land reveal often.",
+  "body": "Girl determine know effect think gun.",
+  "userId": 8,
+  "id": 101
+}
