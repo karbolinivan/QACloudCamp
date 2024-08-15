@@ -1,0 +1,24 @@
+15.08.2024_01:07:32.414837
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Reflect thing strategy yard seek mission enter just dinner tonight hair.",
+  "body": "Energy real second federal number culture.",
+  "userId": 9
+}
+
+15.08.2024_01:07:32.741846
+RESPONSE
+status code: 201
+json: {
+  "title": "Reflect thing strategy yard seek mission enter just dinner tonight hair.",
+  "body": "Energy real second federal number culture.",
+  "userId": 9,
+  "id": 101
+}
