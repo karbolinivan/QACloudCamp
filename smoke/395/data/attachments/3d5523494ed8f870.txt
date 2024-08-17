@@ -1,0 +1,24 @@
+17.08.2024_01:08:22.188164
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Single despite future by north explain attention my sometimes business power consumer.",
+  "body": "Trouble machine also agreement.",
+  "userId": 8
+}
+
+17.08.2024_01:08:22.460862
+RESPONSE
+status code: 201
+json: {
+  "title": "Single despite future by north explain attention my sometimes business power consumer.",
+  "body": "Trouble machine also agreement.",
+  "userId": 8,
+  "id": 101
+}
