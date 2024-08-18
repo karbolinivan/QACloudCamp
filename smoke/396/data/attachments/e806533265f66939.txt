@@ -1,0 +1,24 @@
+18.08.2024_01:14:43.134836
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Practice yes today whatever energy protect compare power become heart quite will.",
+  "body": "Rock rule board fall off.",
+  "userId": 9
+}
+
+18.08.2024_01:14:43.256303
+RESPONSE
+status code: 201
+json: {
+  "title": "Practice yes today whatever energy protect compare power become heart quite will.",
+  "body": "Rock rule board fall off.",
+  "userId": 9,
+  "id": 101
+}
