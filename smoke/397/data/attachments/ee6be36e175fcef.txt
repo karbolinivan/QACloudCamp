@@ -1,0 +1,24 @@
+19.08.2024_01:12:00.290960
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Necessary many brother man without but bag table.",
+  "body": "Tough possible dark care.",
+  "userId": 8
+}
+
+19.08.2024_01:12:00.431349
+RESPONSE
+status code: 201
+json: {
+  "title": "Necessary many brother man without but bag table.",
+  "body": "Tough possible dark care.",
+  "userId": 8,
+  "id": 101
+}
