@@ -1,0 +1,24 @@
+20.08.2024_01:10:15.061681
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Structure lawyer visit door throughout young.",
+  "body": "Happen nearly herself.",
+  "userId": 2
+}
+
+20.08.2024_01:10:15.182019
+RESPONSE
+status code: 201
+json: {
+  "title": "Structure lawyer visit door throughout young.",
+  "body": "Happen nearly herself.",
+  "userId": 2,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+20.08.2024_01:10:15.053049
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Station health cell beautiful field foreign director report hotel off value foreign time.",
+  "body": "Edge thing ball radio great design.",
+  "userId": 4
+}
+
+20.08.2024_01:10:15.222770
+RESPONSE
+status code: 201
+json: {
+  "title": "Station health cell beautiful field foreign director report hotel off value foreign time.",
+  "body": "Edge thing ball radio great design.",
+  "userId": 4,
+  "id": 101
+}
