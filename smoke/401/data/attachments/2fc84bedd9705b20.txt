@@ -1,0 +1,24 @@
+23.08.2024_01:10:56.861751
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Picture keep to plant start toward with put everything author defense option bed.",
+  "body": "Tough former around thank recognize to.",
+  "userId": 4
+}
+
+23.08.2024_01:10:57.040236
+RESPONSE
+status code: 201
+json: {
+  "title": "Picture keep to plant start toward with put everything author defense option bed.",
+  "body": "Tough former around thank recognize to.",
+  "userId": 4,
+  "id": 101
+}
