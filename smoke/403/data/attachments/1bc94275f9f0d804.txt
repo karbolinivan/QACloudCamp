@@ -1,0 +1,24 @@
+25.08.2024_01:16:39.971617
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Service view work star common machine what possible decision.",
+  "body": "Involve five quite sign reveal.",
+  "userId": 2
+}
+
+25.08.2024_01:16:40.330934
+RESPONSE
+status code: 201
+json: {
+  "title": "Service view work star common machine what possible decision.",
+  "body": "Involve five quite sign reveal.",
+  "userId": 2,
+  "id": 101
+}

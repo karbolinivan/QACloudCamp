@@ -1,0 +1,24 @@
+25.08.2024_01:16:39.981036
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Within measure well blue sell edge market red run almost eight understand.",
+  "body": "Do rise range simply.",
+  "userId": 5
+}
+
+25.08.2024_01:16:40.331936
+RESPONSE
+status code: 201
+json: {
+  "title": "Within measure well blue sell edge market red run almost eight understand.",
+  "body": "Do rise range simply.",
+  "userId": 5,
+  "id": 101
+}
