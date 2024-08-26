@@ -1,0 +1,24 @@
+26.08.2024_01:11:48.615597
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "East later either week commercial strong doctor employee hand enjoy couple form night plant.",
+  "body": "Sport stop which every require discover.",
+  "userId": 6
+}
+
+26.08.2024_01:11:48.736822
+RESPONSE
+status code: 201
+json: {
+  "title": "East later either week commercial strong doctor employee hand enjoy couple form night plant.",
+  "body": "Sport stop which every require discover.",
+  "userId": 6,
+  "id": 101
+}
