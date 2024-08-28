@@ -1,0 +1,24 @@
+28.08.2024_01:12:45.527718
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Past physical stand box Mrs future artist.",
+  "body": "Now realize but worry. Girl senior move.",
+  "userId": 9
+}
+
+28.08.2024_01:12:45.667160
+RESPONSE
+status code: 201
+json: {
+  "title": "Past physical stand box Mrs future artist.",
+  "body": "Now realize but worry. Girl senior move.",
+  "userId": 9,
+  "id": 101
+}
