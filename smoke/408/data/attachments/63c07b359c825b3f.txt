@@ -1,0 +1,24 @@
+30.08.2024_01:13:30.414811
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Before no walk lot necessary lot total heart anyone last within.",
+  "body": "Kid health could upon sell night.",
+  "userId": 6
+}
+
+30.08.2024_01:13:30.630089
+RESPONSE
+status code: 201
+json: {
+  "title": "Before no walk lot necessary lot total heart anyone last within.",
+  "body": "Kid health could upon sell night.",
+  "userId": 6,
+  "id": 101
+}
