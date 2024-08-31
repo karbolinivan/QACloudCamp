@@ -1,0 +1,24 @@
+31.08.2024_01:13:05.546082
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "As best free work Mrs laugh describe up down.",
+  "body": "Author method down job find finish.",
+  "userId": 5
+}
+
+31.08.2024_01:13:05.654212
+RESPONSE
+status code: 201
+json: {
+  "title": "As best free work Mrs laugh describe up down.",
+  "body": "Author method down job find finish.",
+  "userId": 5,
+  "id": 101
+}
