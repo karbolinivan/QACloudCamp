@@ -1,0 +1,24 @@
+02.09.2024_01:15:10.528057
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fear term decade couple west yourself market customer.",
+  "body": "Form today building of pay edge mission event.",
+  "userId": 4
+}
+
+02.09.2024_01:15:10.780159
+RESPONSE
+status code: 201
+json: {
+  "title": "Fear term decade couple west yourself market customer.",
+  "body": "Form today building of pay edge mission event.",
+  "userId": 4,
+  "id": 101
+}

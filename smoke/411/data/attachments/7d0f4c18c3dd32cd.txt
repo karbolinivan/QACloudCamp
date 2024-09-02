@@ -1,0 +1,24 @@
+02.09.2024_01:15:10.537648
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Outside mean interview modern why material structure natural later ten say performance find.",
+  "body": "Billion first director.",
+  "userId": 5
+}
+
+02.09.2024_01:15:10.661544
+RESPONSE
+status code: 201
+json: {
+  "title": "Outside mean interview modern why material structure natural later ten say performance find.",
+  "body": "Billion first director.",
+  "userId": 5,
+  "id": 101
+}
