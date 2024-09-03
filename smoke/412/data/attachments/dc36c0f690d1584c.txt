@@ -1,0 +1,24 @@
+03.09.2024_01:12:59.023417
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Interview itself natural still begin away off move television.",
+  "body": "Difference agency similar easy public few.",
+  "userId": 5
+}
+
+03.09.2024_01:12:59.120089
+RESPONSE
+status code: 201
+json: {
+  "title": "Interview itself natural still begin away off move television.",
+  "body": "Difference agency similar easy public few.",
+  "userId": 5,
+  "id": 101
+}

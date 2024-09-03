@@ -1,0 +1,24 @@
+03.09.2024_01:12:59.021739
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fire explain kind according and interesting foot throw view subject spend happy.",
+  "body": "To scene debate face a sure red.",
+  "userId": 4
+}
+
+03.09.2024_01:12:59.118210
+RESPONSE
+status code: 201
+json: {
+  "title": "Fire explain kind according and interesting foot throw view subject spend happy.",
+  "body": "To scene debate face a sure red.",
+  "userId": 4,
+  "id": 101
+}
