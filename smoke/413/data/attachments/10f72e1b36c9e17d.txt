@@ -1,0 +1,24 @@
+04.09.2024_01:14:00.554438
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Size data more need word individual past.",
+  "body": "Another concern factor current deal show base.",
+  "userId": 7
+}
+
+04.09.2024_01:14:00.682742
+RESPONSE
+status code: 201
+json: {
+  "title": "Size data more need word individual past.",
+  "body": "Another concern factor current deal show base.",
+  "userId": 7,
+  "id": 101
+}
