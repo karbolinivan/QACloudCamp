@@ -1,0 +1,24 @@
+05.09.2024_01:14:01.818337
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Size space source development thing without.",
+  "body": "Travel security piece method want.",
+  "userId": 3
+}
+
+05.09.2024_01:14:02.048400
+RESPONSE
+status code: 201
+json: {
+  "title": "Size space source development thing without.",
+  "body": "Travel security piece method want.",
+  "userId": 3,
+  "id": 101
+}

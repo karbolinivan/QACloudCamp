@@ -1,0 +1,24 @@
+05.09.2024_01:14:01.823701
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Simple try partner material beat memory choice stage address church two stop.",
+  "body": "Budget fish number type.",
+  "userId": 8
+}
+
+05.09.2024_01:14:01.983406
+RESPONSE
+status code: 201
+json: {
+  "title": "Simple try partner material beat memory choice stage address church two stop.",
+  "body": "Budget fish number type.",
+  "userId": 8,
+  "id": 101
+}
