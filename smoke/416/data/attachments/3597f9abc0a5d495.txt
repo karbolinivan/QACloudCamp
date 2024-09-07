@@ -1,0 +1,24 @@
+07.09.2024_01:16:35.229238
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Us time evening fill per center enjoy organization result analysis compare.",
+  "body": "Thank ever rich seem.",
+  "userId": 4
+}
+
+07.09.2024_01:16:35.417609
+RESPONSE
+status code: 201
+json: {
+  "title": "Us time evening fill per center enjoy organization result analysis compare.",
+  "body": "Thank ever rich seem.",
+  "userId": 4,
+  "id": 101
+}
