@@ -1,0 +1,24 @@
+09.09.2024_01:16:18.305352
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Every country born serve partner cold prepare attack good present computer.",
+  "body": "Middle impact lawyer deep.",
+  "userId": 6
+}
+
+09.09.2024_01:16:18.431143
+RESPONSE
+status code: 201
+json: {
+  "title": "Every country born serve partner cold prepare attack good present computer.",
+  "body": "Middle impact lawyer deep.",
+  "userId": 6,
+  "id": 101
+}
