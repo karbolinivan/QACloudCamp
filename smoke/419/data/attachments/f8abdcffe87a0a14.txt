@@ -1,0 +1,24 @@
+10.09.2024_01:15:00.979512
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Commercial compare choice instead behind culture upon.",
+  "body": "Author health interesting yourself occur.",
+  "userId": 6
+}
+
+10.09.2024_01:15:01.154916
+RESPONSE
+status code: 201
+json: {
+  "title": "Commercial compare choice instead behind culture upon.",
+  "body": "Author health interesting yourself occur.",
+  "userId": 6,
+  "id": 101
+}
