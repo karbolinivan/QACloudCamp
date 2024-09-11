@@ -1,0 +1,24 @@
+11.09.2024_01:14:13.598519
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Give bad somebody various loss at song believe community seem.",
+  "body": "Difference positive rich today chance.",
+  "userId": 5
+}
+
+11.09.2024_01:14:13.680666
+RESPONSE
+status code: 201
+json: {
+  "title": "Give bad somebody various loss at song believe community seem.",
+  "body": "Difference positive rich today chance.",
+  "userId": 5,
+  "id": 101
+}
