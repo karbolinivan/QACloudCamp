@@ -1,0 +1,24 @@
+14.09.2024_01:13:38.153460
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Decade indicate view bar organization pull painting may.",
+  "body": "Million bar provide test provide.",
+  "userId": 6
+}
+
+14.09.2024_01:13:38.287665
+RESPONSE
+status code: 201
+json: {
+  "title": "Decade indicate view bar organization pull painting may.",
+  "body": "Million bar provide test provide.",
+  "userId": 6,
+  "id": 101
+}
