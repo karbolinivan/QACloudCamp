@@ -1,0 +1,24 @@
+15.09.2024_01:22:31.701985
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Late only land development edge nor drive perform.",
+  "body": "Guess list she training.",
+  "userId": 7
+}
+
+15.09.2024_01:22:31.875359
+RESPONSE
+status code: 201
+json: {
+  "title": "Late only land development edge nor drive perform.",
+  "body": "Guess list she training.",
+  "userId": 7,
+  "id": 101
+}
