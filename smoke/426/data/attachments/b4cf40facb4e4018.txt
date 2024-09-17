@@ -1,0 +1,24 @@
+17.09.2024_01:02:48.036891
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Final born improve ask political western shoulder same great detail.",
+  "body": "Myself rather under moment.",
+  "userId": 4
+}
+
+17.09.2024_01:02:48.237668
+RESPONSE
+status code: 201
+json: {
+  "title": "Final born improve ask political western shoulder same great detail.",
+  "body": "Myself rather under moment.",
+  "userId": 4,
+  "id": 101
+}
