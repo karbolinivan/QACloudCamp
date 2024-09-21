@@ -1,0 +1,24 @@
+21.09.2024_01:14:38.739207
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Whom analysis foreign relate million time imagine though traditional thousand back ball better.",
+  "body": "Lot building someone go safe woman her.",
+  "userId": 2
+}
+
+21.09.2024_01:14:38.862221
+RESPONSE
+status code: 201
+json: {
+  "title": "Whom analysis foreign relate million time imagine though traditional thousand back ball better.",
+  "body": "Lot building someone go safe woman her.",
+  "userId": 2,
+  "id": 101
+}
