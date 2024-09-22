@@ -1,0 +1,24 @@
+22.09.2024_01:22:52.409944
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Prepare feeling company pay country structure decade every stage.",
+  "body": "Strong dark crime Democrat box.",
+  "userId": 9
+}
+
+22.09.2024_01:22:52.670840
+RESPONSE
+status code: 201
+json: {
+  "title": "Prepare feeling company pay country structure decade every stage.",
+  "body": "Strong dark crime Democrat box.",
+  "userId": 9,
+  "id": 101
+}

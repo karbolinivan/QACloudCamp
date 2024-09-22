@@ -1,0 +1,24 @@
+22.09.2024_01:22:52.402060
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Machine they serve still cup condition.",
+  "body": "Sea bit for dinner half.",
+  "userId": 5
+}
+
+22.09.2024_01:22:52.663891
+RESPONSE
+status code: 201
+json: {
+  "title": "Machine they serve still cup condition.",
+  "body": "Sea bit for dinner half.",
+  "userId": 5,
+  "id": 101
+}
