@@ -1,0 +1,24 @@
+23.09.2024_01:18:04.355376
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Everybody base property economic listen crime general nearly quickly really.",
+  "body": "Number miss process why difference still.",
+  "userId": 7
+}
+
+23.09.2024_01:18:04.700726
+RESPONSE
+status code: 201
+json: {
+  "title": "Everybody base property economic listen crime general nearly quickly really.",
+  "body": "Number miss process why difference still.",
+  "userId": 7,
+  "id": 101
+}
