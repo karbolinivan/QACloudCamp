@@ -1,0 +1,24 @@
+24.09.2024_01:18:20.160418
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Room space pressure positive house himself million material forget hit accept nation.",
+  "body": "Majority production prevent interest.",
+  "userId": 5
+}
+
+24.09.2024_01:18:20.518821
+RESPONSE
+status code: 201
+json: {
+  "title": "Room space pressure positive house himself million material forget hit accept nation.",
+  "body": "Majority production prevent interest.",
+  "userId": 5,
+  "id": 101
+}
