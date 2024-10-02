@@ -1,0 +1,24 @@
+02.10.2024_01:18:10.273883
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Wide black tough necessary garden listen ball machine down.",
+  "body": "Across skill someone. Though possible game.",
+  "userId": 3
+}
+
+02.10.2024_01:18:10.635956
+RESPONSE
+status code: 201
+json: {
+  "title": "Wide black tough necessary garden listen ball machine down.",
+  "body": "Across skill someone. Though possible game.",
+  "userId": 3,
+  "id": 101
+}

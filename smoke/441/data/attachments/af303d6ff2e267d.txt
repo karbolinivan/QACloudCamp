@@ -1,0 +1,24 @@
+02.10.2024_01:18:10.273354
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Opportunity paper identify behavior thought real story physical toward keep board present question.",
+  "body": "Still receive might send reveal.",
+  "userId": 5
+}
+
+02.10.2024_01:18:10.599407
+RESPONSE
+status code: 201
+json: {
+  "title": "Opportunity paper identify behavior thought real story physical toward keep board present question.",
+  "body": "Still receive might send reveal.",
+  "userId": 5,
+  "id": 101
+}
