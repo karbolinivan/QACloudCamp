@@ -1,0 +1,24 @@
+03.10.2024_01:18:18.654005
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Tonight about learn medical protect interview will action accept far wide describe.",
+  "body": "Turn require close thank.",
+  "userId": 1
+}
+
+03.10.2024_01:18:18.932987
+RESPONSE
+status code: 201
+json: {
+  "title": "Tonight about learn medical protect interview will action accept far wide describe.",
+  "body": "Turn require close thank.",
+  "userId": 1,
+  "id": 101
+}
