@@ -1,0 +1,24 @@
+04.10.2024_01:18:14.921505
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Yes rich forward right create per be forward view until garden.",
+  "body": "Huge today fear scene civil last gas put.",
+  "userId": 9
+}
+
+04.10.2024_01:18:14.970045
+RESPONSE
+status code: 201
+json: {
+  "title": "Yes rich forward right create per be forward view until garden.",
+  "body": "Huge today fear scene civil last gas put.",
+  "userId": 9,
+  "id": 101
+}
