@@ -1,0 +1,24 @@
+05.10.2024_01:17:06.431138
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Treatment change interest receive source region station future magazine forward week many together.",
+  "body": "Left bring song may approach manage.",
+  "userId": 2
+}
+
+05.10.2024_01:17:06.599597
+RESPONSE
+status code: 201
+json: {
+  "title": "Treatment change interest receive source region station future magazine forward week many together.",
+  "body": "Left bring song may approach manage.",
+  "userId": 2,
+  "id": 101
+}
