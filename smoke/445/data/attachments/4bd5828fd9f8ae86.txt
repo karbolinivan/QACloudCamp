@@ -1,0 +1,24 @@
+06.10.2024_01:23:29.008407
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Far him fall season name try magazine report more subject dark up.",
+  "body": "While stuff help seek should.",
+  "userId": 6
+}
+
+06.10.2024_01:23:29.112534
+RESPONSE
+status code: 201
+json: {
+  "title": "Far him fall season name try magazine report more subject dark up.",
+  "body": "While stuff help seek should.",
+  "userId": 6,
+  "id": 101
+}

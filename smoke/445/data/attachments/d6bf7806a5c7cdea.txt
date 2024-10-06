@@ -1,0 +1,24 @@
+06.10.2024_01:23:29.015445
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Magazine of ten western charge interview thank arm today first too center.",
+  "body": "Magazine tell couple why woman admit center.",
+  "userId": 7
+}
+
+06.10.2024_01:23:29.070828
+RESPONSE
+status code: 201
+json: {
+  "title": "Magazine of ten western charge interview thank arm today first too center.",
+  "body": "Magazine tell couple why woman admit center.",
+  "userId": 7,
+  "id": 101
+}
