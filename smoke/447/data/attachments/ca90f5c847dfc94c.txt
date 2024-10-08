@@ -1,0 +1,24 @@
+08.10.2024_01:18:07.567481
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Note relate more history relationship join.",
+  "body": "Activity case four describe guess.",
+  "userId": 1
+}
+
+08.10.2024_01:18:07.749455
+RESPONSE
+status code: 201
+json: {
+  "title": "Note relate more history relationship join.",
+  "body": "Activity case four describe guess.",
+  "userId": 1,
+  "id": 101
+}
