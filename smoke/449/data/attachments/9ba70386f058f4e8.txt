@@ -1,0 +1,24 @@
+10.10.2024_01:17:48.667905
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Ever skill trouble cell item especially how try bed yeah herself still your.",
+  "body": "In control goal forward across argue.",
+  "userId": 8
+}
+
+10.10.2024_01:17:48.850101
+RESPONSE
+status code: 201
+json: {
+  "title": "Ever skill trouble cell item especially how try bed yeah herself still your.",
+  "body": "In control goal forward across argue.",
+  "userId": 8,
+  "id": 101
+}
