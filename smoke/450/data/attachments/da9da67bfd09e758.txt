@@ -1,0 +1,24 @@
+11.10.2024_01:17:46.799387
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Ground need voice concern high mission government.",
+  "body": "Capital allow chair television money billion.",
+  "userId": 5
+}
+
+11.10.2024_01:17:46.845995
+RESPONSE
+status code: 201
+json: {
+  "title": "Ground need voice concern high mission government.",
+  "body": "Capital allow chair television money billion.",
+  "userId": 5,
+  "id": 101
+}
