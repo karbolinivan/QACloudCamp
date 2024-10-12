@@ -1,0 +1,24 @@
+12.10.2024_01:16:12.578062
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Full never force take several economic boy page various wall.",
+  "body": "Source somebody make quality.",
+  "userId": 2
+}
+
+12.10.2024_01:16:12.719364
+RESPONSE
+status code: 201
+json: {
+  "title": "Full never force take several economic boy page various wall.",
+  "body": "Source somebody make quality.",
+  "userId": 2,
+  "id": 101
+}
