@@ -1,0 +1,24 @@
+13.10.2024_01:23:08.393822
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Tv amount little project foreign can study add try executive campaign support first.",
+  "body": "Behind open mean budget stay film hour.",
+  "userId": 9
+}
+
+13.10.2024_01:23:08.497633
+RESPONSE
+status code: 201
+json: {
+  "title": "Tv amount little project foreign can study add try executive campaign support first.",
+  "body": "Behind open mean budget stay film hour.",
+  "userId": 9,
+  "id": 101
+}
