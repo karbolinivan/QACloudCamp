@@ -1,0 +1,24 @@
+14.10.2024_01:20:02.697906
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Anything author plan reflect have base building stop public science a also.",
+  "body": "Others medical future give.",
+  "userId": 1
+}
+
+14.10.2024_01:20:02.747858
+RESPONSE
+status code: 201
+json: {
+  "title": "Anything author plan reflect have base building stop public science a also.",
+  "body": "Others medical future give.",
+  "userId": 1,
+  "id": 101
+}
