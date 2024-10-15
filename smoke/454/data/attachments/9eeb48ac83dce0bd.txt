@@ -1,0 +1,24 @@
+15.10.2024_01:19:14.962392
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Almost guess garden house speech summer company million once Republican short.",
+  "body": "May base message all.",
+  "userId": 6
+}
+
+15.10.2024_01:19:15.287662
+RESPONSE
+status code: 201
+json: {
+  "title": "Almost guess garden house speech summer company million once Republican short.",
+  "body": "May base message all.",
+  "userId": 6,
+  "id": 101
+}
