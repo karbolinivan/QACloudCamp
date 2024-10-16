@@ -1,0 +1,24 @@
+16.10.2024_01:19:18.601731
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Agree old man lose great page girl thousand determine yet.",
+  "body": "Last risk age quite huge born throughout.",
+  "userId": 1
+}
+
+16.10.2024_01:19:18.918252
+RESPONSE
+status code: 201
+json: {
+  "title": "Agree old man lose great page girl thousand determine yet.",
+  "body": "Last risk age quite huge born throughout.",
+  "userId": 1,
+  "id": 101
+}
