@@ -1,0 +1,24 @@
+18.10.2024_01:18:41.593232
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Friend prevent late enough care song her pretty every.",
+  "body": "Over positive concern stay something.",
+  "userId": 4
+}
+
+18.10.2024_01:18:41.883343
+RESPONSE
+status code: 201
+json: {
+  "title": "Friend prevent late enough care song her pretty every.",
+  "body": "Over positive concern stay something.",
+  "userId": 4,
+  "id": 101
+}
