@@ -1,0 +1,24 @@
+21.10.2024_01:20:24.785832
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Environmental scene nor director order language happen.",
+  "body": "Effect national year new.",
+  "userId": 4
+}
+
+21.10.2024_01:20:25.091709
+RESPONSE
+status code: 201
+json: {
+  "title": "Environmental scene nor director order language happen.",
+  "body": "Effect national year new.",
+  "userId": 4,
+  "id": 101
+}
