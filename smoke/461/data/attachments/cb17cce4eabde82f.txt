@@ -1,0 +1,24 @@
+22.10.2024_01:19:25.797956
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Though our about PM yet four responsibility.",
+  "body": "In reality continue simply data yes land.",
+  "userId": 2
+}
+
+22.10.2024_01:19:26.098011
+RESPONSE
+status code: 201
+json: {
+  "title": "Though our about PM yet four responsibility.",
+  "body": "In reality continue simply data yes land.",
+  "userId": 2,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+22.10.2024_01:19:25.782964
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Detail subject town another south history ten inside network western possible east.",
+  "body": "Southern mean agree writer improve pull.",
+  "userId": 8
+}
+
+22.10.2024_01:19:26.076757
+RESPONSE
+status code: 201
+json: {
+  "title": "Detail subject town another south history ten inside network western possible east.",
+  "body": "Southern mean agree writer improve pull.",
+  "userId": 8,
+  "id": 101
+}
