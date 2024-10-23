@@ -1,0 +1,24 @@
+23.10.2024_01:18:11.801996
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Memory natural grow cover step federal.",
+  "body": "Read generation section investment.",
+  "userId": 3
+}
+
+23.10.2024_01:18:11.923752
+RESPONSE
+status code: 201
+json: {
+  "title": "Memory natural grow cover step federal.",
+  "body": "Read generation section investment.",
+  "userId": 3,
+  "id": 101
+}
