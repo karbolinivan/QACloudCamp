@@ -1,0 +1,24 @@
+24.10.2024_01:18:26.393622
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Author response me and include fill.",
+  "body": "Resource impact general car west present ok.",
+  "userId": 1
+}
+
+24.10.2024_01:18:26.520392
+RESPONSE
+status code: 201
+json: {
+  "title": "Author response me and include fill.",
+  "body": "Resource impact general car west present ok.",
+  "userId": 1,
+  "id": 101
+}
