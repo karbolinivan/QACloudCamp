@@ -1,0 +1,24 @@
+28.10.2024_06:22:04.318701
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Daughter sit gas by building black race economy.",
+  "body": "Ground we manager community debate.",
+  "userId": 5
+}
+
+28.10.2024_06:22:04.373237
+RESPONSE
+status code: 201
+json: {
+  "title": "Daughter sit gas by building black race economy.",
+  "body": "Ground we manager community debate.",
+  "userId": 5,
+  "id": 101
+}
