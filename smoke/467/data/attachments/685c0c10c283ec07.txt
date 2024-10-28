@@ -1,0 +1,24 @@
+28.10.2024_01:21:40.937706
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Win people create me action student.",
+  "body": "Interesting prove pull until wind occur.",
+  "userId": 7
+}
+
+28.10.2024_01:21:41.139355
+RESPONSE
+status code: 201
+json: {
+  "title": "Win people create me action student.",
+  "body": "Interesting prove pull until wind occur.",
+  "userId": 7,
+  "id": 101
+}
