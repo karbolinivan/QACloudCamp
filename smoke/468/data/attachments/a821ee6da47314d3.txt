@@ -1,0 +1,24 @@
+29.10.2024_01:20:15.634093
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Bring government really game kitchen resource evidence.",
+  "body": "Focus around interesting peace son wish sing.",
+  "userId": 9
+}
+
+29.10.2024_01:20:15.808070
+RESPONSE
+status code: 201
+json: {
+  "title": "Bring government really game kitchen resource evidence.",
+  "body": "Focus around interesting peace son wish sing.",
+  "userId": 9,
+  "id": 101
+}

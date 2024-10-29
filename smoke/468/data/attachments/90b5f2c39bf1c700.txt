@@ -1,0 +1,24 @@
+29.10.2024_01:20:15.644383
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Commercial person out mission consider bank sure majority American eye back budget.",
+  "body": "Century our whatever cut.",
+  "userId": 4
+}
+
+29.10.2024_01:20:15.836562
+RESPONSE
+status code: 201
+json: {
+  "title": "Commercial person out mission consider bank sure majority American eye back budget.",
+  "body": "Century our whatever cut.",
+  "userId": 4,
+  "id": 101
+}
