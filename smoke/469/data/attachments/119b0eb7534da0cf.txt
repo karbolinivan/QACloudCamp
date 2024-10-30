@@ -1,0 +1,24 @@
+30.10.2024_01:19:19.185905
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Situation tell piece thousand adult animal science behavior again.",
+  "body": "Scientist few usually campaign.",
+  "userId": 2
+}
+
+30.10.2024_01:19:19.301917
+RESPONSE
+status code: 201
+json: {
+  "title": "Situation tell piece thousand adult animal science behavior again.",
+  "body": "Scientist few usually campaign.",
+  "userId": 2,
+  "id": 101
+}

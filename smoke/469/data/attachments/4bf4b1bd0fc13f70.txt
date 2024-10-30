@@ -1,0 +1,24 @@
+30.10.2024_01:19:19.187372
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "One machine mouth less hear door base challenge evidence involve usually.",
+  "body": "Way true college catch respond card.",
+  "userId": 5
+}
+
+30.10.2024_01:19:19.336371
+RESPONSE
+status code: 201
+json: {
+  "title": "One machine mouth less hear door base challenge evidence involve usually.",
+  "body": "Way true college catch respond card.",
+  "userId": 5,
+  "id": 101
+}
