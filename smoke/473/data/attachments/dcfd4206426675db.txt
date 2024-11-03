@@ -1,0 +1,24 @@
+03.11.2024_01:23:49.443058
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Tv enter particular trade arm continue though full.",
+  "body": "May dinner indeed view office listen.",
+  "userId": 4
+}
+
+03.11.2024_01:23:49.555151
+RESPONSE
+status code: 201
+json: {
+  "title": "Tv enter particular trade arm continue though full.",
+  "body": "May dinner indeed view office listen.",
+  "userId": 4,
+  "id": 101
+}
