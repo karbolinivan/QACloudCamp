@@ -1,0 +1,24 @@
+04.11.2024_01:20:26.875771
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Range good building part significant finish popular both office hotel include seat.",
+  "body": "See measure within specific.",
+  "userId": 6
+}
+
+04.11.2024_01:20:27.072815
+RESPONSE
+status code: 201
+json: {
+  "title": "Range good building part significant finish popular both office hotel include seat.",
+  "body": "See measure within specific.",
+  "userId": 6,
+  "id": 101
+}

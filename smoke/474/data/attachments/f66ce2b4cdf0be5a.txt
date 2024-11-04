@@ -1,0 +1,24 @@
+04.11.2024_01:20:26.868094
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Worry consider myself in require you wind politics safe lead certain.",
+  "body": "Election image stage environment.",
+  "userId": 4
+}
+
+04.11.2024_01:20:26.997890
+RESPONSE
+status code: 201
+json: {
+  "title": "Worry consider myself in require you wind politics safe lead certain.",
+  "body": "Election image stage environment.",
+  "userId": 4,
+  "id": 101
+}
