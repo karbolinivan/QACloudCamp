@@ -1,0 +1,24 @@
+06.11.2024_01:16:53.368314
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Spring provide type important population clear tonight bring low line do car.",
+  "body": "Six name early foot hospital west.",
+  "userId": 7
+}
+
+06.11.2024_01:16:53.430229
+RESPONSE
+status code: 201
+json: {
+  "title": "Spring provide type important population clear tonight bring low line do car.",
+  "body": "Six name early foot hospital west.",
+  "userId": 7,
+  "id": 101
+}
