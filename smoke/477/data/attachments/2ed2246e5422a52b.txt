@@ -1,0 +1,24 @@
+07.11.2024_01:17:28.988273
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Likely carry federal anything family paper risk no trip beyond behavior kitchen.",
+  "body": "Plan big minute woman.",
+  "userId": 6
+}
+
+07.11.2024_01:17:29.322238
+RESPONSE
+status code: 201
+json: {
+  "title": "Likely carry federal anything family paper risk no trip beyond behavior kitchen.",
+  "body": "Plan big minute woman.",
+  "userId": 6,
+  "id": 101
+}
