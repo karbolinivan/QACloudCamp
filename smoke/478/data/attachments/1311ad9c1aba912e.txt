@@ -1,0 +1,24 @@
+08.11.2024_01:17:20.549976
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Water yes effort Mr quite direction follow.",
+  "body": "Hear TV number oil chance.",
+  "userId": 4
+}
+
+08.11.2024_01:17:20.739023
+RESPONSE
+status code: 201
+json: {
+  "title": "Water yes effort Mr quite direction follow.",
+  "body": "Hear TV number oil chance.",
+  "userId": 4,
+  "id": 101
+}

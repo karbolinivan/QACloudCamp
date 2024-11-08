@@ -1,0 +1,24 @@
+08.11.2024_01:17:20.540856
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Husband raise whatever much thousand would participant.",
+  "body": "Example be industry back rather season whether.",
+  "userId": 3
+}
+
+08.11.2024_01:17:20.749096
+RESPONSE
+status code: 201
+json: {
+  "title": "Husband raise whatever much thousand would participant.",
+  "body": "Example be industry back rather season whether.",
+  "userId": 3,
+  "id": 101
+}
