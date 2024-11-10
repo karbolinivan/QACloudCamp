@@ -1,0 +1,24 @@
+10.11.2024_01:21:51.686038
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Phone not property different Democrat upon writer information score edge big reason student.",
+  "body": "Think manager white pass home tax.",
+  "userId": 4
+}
+
+10.11.2024_01:21:51.835944
+RESPONSE
+status code: 201
+json: {
+  "title": "Phone not property different Democrat upon writer information score edge big reason student.",
+  "body": "Think manager white pass home tax.",
+  "userId": 4,
+  "id": 101
+}
