@@ -1,0 +1,24 @@
+11.11.2024_01:18:50.328039
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "College among behavior tree lawyer enough blood ability Republican.",
+  "body": "Other song somebody represent.",
+  "userId": 9
+}
+
+11.11.2024_01:18:50.766320
+RESPONSE
+status code: 201
+json: {
+  "title": "College among behavior tree lawyer enough blood ability Republican.",
+  "body": "Other song somebody represent.",
+  "userId": 9,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+11.11.2024_01:18:50.317625
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Class source almost keep prevent energy other truth point keep south early mean.",
+  "body": "Kind reach attention which.",
+  "userId": 7
+}
+
+11.11.2024_01:18:50.469627
+RESPONSE
+status code: 201
+json: {
+  "title": "Class source almost keep prevent energy other truth point keep south early mean.",
+  "body": "Kind reach attention which.",
+  "userId": 7,
+  "id": 101
+}
