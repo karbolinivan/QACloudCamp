@@ -1,0 +1,24 @@
+14.11.2024_01:18:05.199591
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Different discover garden fact cold family plant opportunity image wish.",
+  "body": "Hold trouble stage within.",
+  "userId": 8
+}
+
+14.11.2024_01:18:05.352669
+RESPONSE
+status code: 201
+json: {
+  "title": "Different discover garden fact cold family plant opportunity image wish.",
+  "body": "Hold trouble stage within.",
+  "userId": 8,
+  "id": 101
+}
