@@ -1,0 +1,24 @@
+17.11.2024_01:26:40.277002
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Stuff much else heavy such charge able glass until foot technology.",
+  "body": "Thank successful someone shoulder.",
+  "userId": 6
+}
+
+17.11.2024_01:26:40.445323
+RESPONSE
+status code: 201
+json: {
+  "title": "Stuff much else heavy such charge able glass until foot technology.",
+  "body": "Thank successful someone shoulder.",
+  "userId": 6,
+  "id": 101
+}
