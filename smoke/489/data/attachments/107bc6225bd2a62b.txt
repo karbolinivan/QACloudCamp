@@ -1,0 +1,24 @@
+19.11.2024_01:22:42.022828
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Just box director although newspaper past.",
+  "body": "Structure life democratic career.",
+  "userId": 4
+}
+
+19.11.2024_01:22:42.127855
+RESPONSE
+status code: 201
+json: {
+  "title": "Just box director although newspaper past.",
+  "body": "Structure life democratic career.",
+  "userId": 4,
+  "id": 101
+}

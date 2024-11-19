@@ -1,0 +1,24 @@
+19.11.2024_01:22:42.014422
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Someone adult great the film protect one.",
+  "body": "So control camera across benefit.",
+  "userId": 4
+}
+
+19.11.2024_01:22:42.268045
+RESPONSE
+status code: 201
+json: {
+  "title": "Someone adult great the film protect one.",
+  "body": "So control camera across benefit.",
+  "userId": 4,
+  "id": 101
+}
