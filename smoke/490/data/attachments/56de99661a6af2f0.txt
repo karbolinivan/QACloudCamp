@@ -1,0 +1,24 @@
+20.11.2024_01:21:46.751525
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Leave movement without condition speech lay yourself continue single world cultural any.",
+  "body": "Process we finally attention.",
+  "userId": 7
+}
+
+20.11.2024_01:21:46.973223
+RESPONSE
+status code: 201
+json: {
+  "title": "Leave movement without condition speech lay yourself continue single world cultural any.",
+  "body": "Process we finally attention.",
+  "userId": 7,
+  "id": 101
+}
