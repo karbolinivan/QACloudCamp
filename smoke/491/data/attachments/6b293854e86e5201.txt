@@ -1,0 +1,24 @@
+21.11.2024_01:21:42.926988
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Ahead radio rich energy organization wind.",
+  "body": "Detail usually so others.",
+  "userId": 6
+}
+
+21.11.2024_01:21:43.048566
+RESPONSE
+status code: 201
+json: {
+  "title": "Ahead radio rich energy organization wind.",
+  "body": "Detail usually so others.",
+  "userId": 6,
+  "id": 101
+}
