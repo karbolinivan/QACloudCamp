@@ -1,0 +1,24 @@
+22.11.2024_01:22:53.516431
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Pick decision former TV speak article stage.",
+  "body": "He like appear ok Mr candidate.",
+  "userId": 6
+}
+
+22.11.2024_01:22:53.663513
+RESPONSE
+status code: 201
+json: {
+  "title": "Pick decision former TV speak article stage.",
+  "body": "He like appear ok Mr candidate.",
+  "userId": 6,
+  "id": 101
+}
