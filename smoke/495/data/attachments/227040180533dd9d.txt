@@ -1,0 +1,24 @@
+25.11.2024_01:23:54.278851
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Pm somebody now author area price financial pattern law father.",
+  "body": "What become sure.",
+  "userId": 5
+}
+
+25.11.2024_01:23:54.626363
+RESPONSE
+status code: 201
+json: {
+  "title": "Pm somebody now author area price financial pattern law father.",
+  "body": "What become sure.",
+  "userId": 5,
+  "id": 101
+}
