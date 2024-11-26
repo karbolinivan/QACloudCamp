@@ -1,0 +1,24 @@
+26.11.2024_01:23:51.687559
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Treat tell throw network behind travel body language score.",
+  "body": "Front push leave serve several care hand.",
+  "userId": 2
+}
+
+26.11.2024_01:23:51.791367
+RESPONSE
+status code: 201
+json: {
+  "title": "Treat tell throw network behind travel body language score.",
+  "body": "Front push leave serve several care hand.",
+  "userId": 2,
+  "id": 101
+}
