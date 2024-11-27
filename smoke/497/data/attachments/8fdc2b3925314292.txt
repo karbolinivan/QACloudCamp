@@ -1,0 +1,24 @@
+27.11.2024_01:24:28.943389
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Generation mouth picture should could defense cost sign specific age everything.",
+  "body": "Military style most exist us activity.",
+  "userId": 8
+}
+
+27.11.2024_01:24:29.037904
+RESPONSE
+status code: 201
+json: {
+  "title": "Generation mouth picture should could defense cost sign specific age everything.",
+  "body": "Military style most exist us activity.",
+  "userId": 8,
+  "id": 101
+}
