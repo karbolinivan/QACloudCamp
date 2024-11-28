@@ -1,0 +1,24 @@
+28.11.2024_01:24:02.319132
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Suffer become more though reason investment shake garden find Mrs ten.",
+  "body": "Garden image different agree tough use.",
+  "userId": 2
+}
+
+28.11.2024_01:24:02.420462
+RESPONSE
+status code: 201
+json: {
+  "title": "Suffer become more though reason investment shake garden find Mrs ten.",
+  "body": "Garden image different agree tough use.",
+  "userId": 2,
+  "id": 101
+}
