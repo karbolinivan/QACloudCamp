@@ -1,0 +1,24 @@
+28.11.2024_06:22:36.822873
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Idea father administration do quite size follow better meeting determine.",
+  "body": "Serve entire option.",
+  "userId": 7
+}
+
+28.11.2024_06:22:36.907542
+RESPONSE
+status code: 201
+json: {
+  "title": "Idea father administration do quite size follow better meeting determine.",
+  "body": "Serve entire option.",
+  "userId": 7,
+  "id": 101
+}
