@@ -1,0 +1,24 @@
+29.11.2024_01:23:59.627478
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Page sister develop loss system author talk enter rich new.",
+  "body": "Country something performance choice worry.",
+  "userId": 2
+}
+
+29.11.2024_01:23:59.970560
+RESPONSE
+status code: 201
+json: {
+  "title": "Page sister develop loss system author talk enter rich new.",
+  "body": "Country something performance choice worry.",
+  "userId": 2,
+  "id": 101
+}

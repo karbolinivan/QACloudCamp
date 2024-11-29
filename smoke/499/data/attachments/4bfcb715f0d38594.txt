@@ -1,0 +1,24 @@
+29.11.2024_01:23:59.612436
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Scientist various hit attorney challenge teach world government if part center happy plan.",
+  "body": "Later upon mission expect either us popular high.",
+  "userId": 1
+}
+
+29.11.2024_01:23:59.948666
+RESPONSE
+status code: 201
+json: {
+  "title": "Scientist various hit attorney challenge teach world government if part center happy plan.",
+  "body": "Later upon mission expect either us popular high.",
+  "userId": 1,
+  "id": 101
+}
