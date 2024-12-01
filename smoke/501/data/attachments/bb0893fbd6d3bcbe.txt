@@ -1,0 +1,24 @@
+01.12.2024_01:44:18.798163
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Soldier reality risk reflect difference school positive build performance.",
+  "body": "Next card end mean could he production.",
+  "userId": 6
+}
+
+01.12.2024_01:44:19.098457
+RESPONSE
+status code: 201
+json: {
+  "title": "Soldier reality risk reflect difference school positive build performance.",
+  "body": "Next card end mean could he production.",
+  "userId": 6,
+  "id": 101
+}
