@@ -1,0 +1,24 @@
+03.12.2024_01:25:32.940053
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Customer effort thus dinner it song would.",
+  "body": "Future country interesting green PM unit suggest.",
+  "userId": 6
+}
+
+03.12.2024_01:25:33.242500
+RESPONSE
+status code: 201
+json: {
+  "title": "Customer effort thus dinner it song would.",
+  "body": "Future country interesting green PM unit suggest.",
+  "userId": 6,
+  "id": 101
+}
