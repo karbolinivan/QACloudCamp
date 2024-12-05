@@ -1,0 +1,24 @@
+05.12.2024_01:25:41.308924
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Physical project material term form few fire share possible despite.",
+  "body": "Because book economy human skin.",
+  "userId": 4
+}
+
+05.12.2024_01:25:41.571839
+RESPONSE
+status code: 201
+json: {
+  "title": "Physical project material term form few fire share possible despite.",
+  "body": "Because book economy human skin.",
+  "userId": 4,
+  "id": 101
+}
