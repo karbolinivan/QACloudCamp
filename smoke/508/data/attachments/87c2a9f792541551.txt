@@ -1,0 +1,24 @@
+08.12.2024_01:38:35.929718
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Pull within summer matter anyone enough.",
+  "body": "Television field information space.",
+  "userId": 4
+}
+
+08.12.2024_01:38:36.098209
+RESPONSE
+status code: 201
+json: {
+  "title": "Pull within summer matter anyone enough.",
+  "body": "Television field information space.",
+  "userId": 4,
+  "id": 101
+}
