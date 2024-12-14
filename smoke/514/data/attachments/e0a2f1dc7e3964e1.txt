@@ -1,0 +1,24 @@
+14.12.2024_01:22:53.044762
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Company property job treatment group type.",
+  "body": "Open people rule trouble last cup west money.",
+  "userId": 4
+}
+
+14.12.2024_01:22:53.135694
+RESPONSE
+status code: 201
+json: {
+  "title": "Company property job treatment group type.",
+  "body": "Open people rule trouble last cup west money.",
+  "userId": 4,
+  "id": 101
+}

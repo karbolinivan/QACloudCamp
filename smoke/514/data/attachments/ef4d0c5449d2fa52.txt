@@ -1,0 +1,24 @@
+14.12.2024_01:22:53.037125
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Quality see before class pretty conference whom morning since quite environmental easy where.",
+  "body": "Less everyone indeed forward what serve pass.",
+  "userId": 8
+}
+
+14.12.2024_01:22:53.139129
+RESPONSE
+status code: 201
+json: {
+  "title": "Quality see before class pretty conference whom morning since quite environmental easy where.",
+  "body": "Less everyone indeed forward what serve pass.",
+  "userId": 8,
+  "id": 101
+}
