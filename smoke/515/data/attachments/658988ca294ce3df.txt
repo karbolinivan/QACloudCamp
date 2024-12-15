@@ -1,0 +1,24 @@
+15.12.2024_01:38:32.967526
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Run yet civil decide sometimes cause whom.",
+  "body": "Choose something guess form home.",
+  "userId": 8
+}
+
+15.12.2024_01:38:33.170217
+RESPONSE
+status code: 201
+json: {
+  "title": "Run yet civil decide sometimes cause whom.",
+  "body": "Choose something guess form home.",
+  "userId": 8,
+  "id": 101
+}
