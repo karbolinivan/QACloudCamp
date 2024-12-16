@@ -1,0 +1,24 @@
+16.12.2024_01:28:03.051695
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Half college like age plant news alone science by lose story mean.",
+  "body": "Treatment need identify street white.",
+  "userId": 4
+}
+
+16.12.2024_01:28:03.143806
+RESPONSE
+status code: 201
+json: {
+  "title": "Half college like age plant news alone science by lose story mean.",
+  "body": "Treatment need identify street white.",
+  "userId": 4,
+  "id": 101
+}

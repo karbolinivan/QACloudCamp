@@ -1,0 +1,24 @@
+16.12.2024_01:28:03.050635
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Wear on half base their option word light.",
+  "body": "Argue interview at rather course.",
+  "userId": 7
+}
+
+16.12.2024_01:28:03.125796
+RESPONSE
+status code: 201
+json: {
+  "title": "Wear on half base their option word light.",
+  "body": "Argue interview at rather course.",
+  "userId": 7,
+  "id": 101
+}
