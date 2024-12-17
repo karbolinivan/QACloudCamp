@@ -1,0 +1,24 @@
+17.12.2024_01:25:14.471498
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Paper computer relate soldier thank mean far argue memory hope.",
+  "body": "Customer into detail name indicate turn second.",
+  "userId": 4
+}
+
+17.12.2024_01:25:14.608917
+RESPONSE
+status code: 201
+json: {
+  "title": "Paper computer relate soldier thank mean far argue memory hope.",
+  "body": "Customer into detail name indicate turn second.",
+  "userId": 4,
+  "id": 101
+}
