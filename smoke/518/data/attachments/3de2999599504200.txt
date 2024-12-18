@@ -1,0 +1,24 @@
+18.12.2024_01:22:08.562645
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Color show his much clear surface own Democrat share case enjoy really couple.",
+  "body": "According action boy television certainly.",
+  "userId": 2
+}
+
+18.12.2024_01:22:08.732984
+RESPONSE
+status code: 201
+json: {
+  "title": "Color show his much clear surface own Democrat share case enjoy really couple.",
+  "body": "According action boy television certainly.",
+  "userId": 2,
+  "id": 101
+}
