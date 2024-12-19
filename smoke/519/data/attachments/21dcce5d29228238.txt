@@ -1,0 +1,24 @@
+19.12.2024_01:22:53.637457
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Standard moment admit can population guy former professional.",
+  "body": "Letter nation return choose.",
+  "userId": 5
+}
+
+19.12.2024_01:22:53.692537
+RESPONSE
+status code: 201
+json: {
+  "title": "Standard moment admit can population guy former professional.",
+  "body": "Letter nation return choose.",
+  "userId": 5,
+  "id": 101
+}
