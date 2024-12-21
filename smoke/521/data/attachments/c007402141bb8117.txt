@@ -1,0 +1,24 @@
+21.12.2024_01:17:35.182062
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Major management hard talk sister guy skin during more add strategy cover.",
+  "body": "Continue shake last maintain.",
+  "userId": 1
+}
+
+21.12.2024_01:17:35.313681
+RESPONSE
+status code: 201
+json: {
+  "title": "Major management hard talk sister guy skin during more add strategy cover.",
+  "body": "Continue shake last maintain.",
+  "userId": 1,
+  "id": 101
+}
