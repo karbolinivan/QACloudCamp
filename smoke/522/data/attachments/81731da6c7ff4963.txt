@@ -1,0 +1,24 @@
+22.12.2024_01:24:41.357130
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Glass project by minute blue your head model his difficult cultural free item.",
+  "body": "Apply firm prepare result can.",
+  "userId": 3
+}
+
+22.12.2024_01:24:41.605874
+RESPONSE
+status code: 201
+json: {
+  "title": "Glass project by minute blue your head model his difficult cultural free item.",
+  "body": "Apply firm prepare result can.",
+  "userId": 3,
+  "id": 101
+}
