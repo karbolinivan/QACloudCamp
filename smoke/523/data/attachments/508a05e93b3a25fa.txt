@@ -1,0 +1,24 @@
+23.12.2024_01:20:12.631692
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Thing baby citizen different clearly article.",
+  "body": "Other low question view student.",
+  "userId": 2
+}
+
+23.12.2024_01:20:12.736301
+RESPONSE
+status code: 201
+json: {
+  "title": "Thing baby citizen different clearly article.",
+  "body": "Other low question view student.",
+  "userId": 2,
+  "id": 101
+}

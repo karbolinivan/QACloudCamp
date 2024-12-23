@@ -1,0 +1,24 @@
+23.12.2024_01:20:12.630217
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Consumer practice home current police pretty listen.",
+  "body": "Design deal really break.",
+  "userId": 7
+}
+
+23.12.2024_01:20:12.731369
+RESPONSE
+status code: 201
+json: {
+  "title": "Consumer practice home current police pretty listen.",
+  "body": "Design deal really break.",
+  "userId": 7,
+  "id": 101
+}
