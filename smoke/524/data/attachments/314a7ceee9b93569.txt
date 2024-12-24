@@ -1,0 +1,24 @@
+24.12.2024_01:18:39.455124
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Agreement couple expert listen hope apply sit discuss child right.",
+  "body": "Positive huge single close simply toward.",
+  "userId": 4
+}
+
+24.12.2024_01:18:39.516928
+RESPONSE
+status code: 201
+json: {
+  "title": "Agreement couple expert listen hope apply sit discuss child right.",
+  "body": "Positive huge single close simply toward.",
+  "userId": 4,
+  "id": 101
+}
