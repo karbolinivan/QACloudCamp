@@ -1,0 +1,24 @@
+25.12.2024_01:17:40.575408
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Lawyer know indeed glass enjoy difficult apply himself end door inside.",
+  "body": "Mean whatever street speak including girl.",
+  "userId": 2
+}
+
+25.12.2024_01:17:40.717788
+RESPONSE
+status code: 201
+json: {
+  "title": "Lawyer know indeed glass enjoy difficult apply himself end door inside.",
+  "body": "Mean whatever street speak including girl.",
+  "userId": 2,
+  "id": 101
+}
