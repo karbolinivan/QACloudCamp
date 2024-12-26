@@ -1,0 +1,24 @@
+26.12.2024_01:18:07.976674
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Set feeling write help manage environment.",
+  "body": "Fire attorney tend.",
+  "userId": 6
+}
+
+26.12.2024_01:18:08.314280
+RESPONSE
+status code: 201
+json: {
+  "title": "Set feeling write help manage environment.",
+  "body": "Fire attorney tend.",
+  "userId": 6,
+  "id": 101
+}
