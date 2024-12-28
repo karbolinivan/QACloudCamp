@@ -1,0 +1,24 @@
+28.12.2024_01:16:55.835737
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Rock easy clearly its increase history whether hotel four number car matter lay.",
+  "body": "Fill walk image kind rather official.",
+  "userId": 9
+}
+
+28.12.2024_01:16:55.968801
+RESPONSE
+status code: 201
+json: {
+  "title": "Rock easy clearly its increase history whether hotel four number car matter lay.",
+  "body": "Fill walk image kind rather official.",
+  "userId": 9,
+  "id": 101
+}

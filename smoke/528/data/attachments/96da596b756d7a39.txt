@@ -1,0 +1,24 @@
+28.12.2024_01:16:55.835395
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "May attack matter president strategy military nature television mouth reason.",
+  "body": "Decision lawyer condition goal us.",
+  "userId": 4
+}
+
+28.12.2024_01:16:55.967315
+RESPONSE
+status code: 201
+json: {
+  "title": "May attack matter president strategy military nature television mouth reason.",
+  "body": "Decision lawyer condition goal us.",
+  "userId": 4,
+  "id": 101
+}
