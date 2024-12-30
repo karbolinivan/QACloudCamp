@@ -1,0 +1,24 @@
+30.12.2024_01:20:50.318680
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Throughout board term keep quickly court onto mind home film common gun factor.",
+  "body": "Here million information record trouble.",
+  "userId": 8
+}
+
+30.12.2024_01:20:50.370781
+RESPONSE
+status code: 201
+json: {
+  "title": "Throughout board term keep quickly court onto mind home film common gun factor.",
+  "body": "Here million information record trouble.",
+  "userId": 8,
+  "id": 101
+}
