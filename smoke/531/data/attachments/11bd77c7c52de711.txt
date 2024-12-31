@@ -1,0 +1,24 @@
+31.12.2024_01:18:17.575932
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Improve environmental spring thousand everybody no own move commercial force body everybody.",
+  "body": "Response cover outside deep.",
+  "userId": 7
+}
+
+31.12.2024_01:18:17.805967
+RESPONSE
+status code: 201
+json: {
+  "title": "Improve environmental spring thousand everybody no own move commercial force body everybody.",
+  "body": "Response cover outside deep.",
+  "userId": 7,
+  "id": 101
+}
