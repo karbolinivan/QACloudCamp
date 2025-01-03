@@ -1,0 +1,24 @@
+03.01.2025_01:18:51.257424
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Three media by police eat field house appear education general.",
+  "body": "Herself opportunity rather memory.",
+  "userId": 3
+}
+
+03.01.2025_01:18:51.501635
+RESPONSE
+status code: 201
+json: {
+  "title": "Three media by police eat field house appear education general.",
+  "body": "Herself opportunity rather memory.",
+  "userId": 3,
+  "id": 101
+}
