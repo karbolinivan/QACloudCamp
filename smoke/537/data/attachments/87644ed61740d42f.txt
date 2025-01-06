@@ -1,0 +1,24 @@
+06.01.2025_01:22:02.021312
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Add officer less fight series position.",
+  "body": "Travel available affect street stock.",
+  "userId": 1
+}
+
+06.01.2025_01:22:02.070812
+RESPONSE
+status code: 201
+json: {
+  "title": "Add officer less fight series position.",
+  "body": "Travel available affect street stock.",
+  "userId": 1,
+  "id": 101
+}
