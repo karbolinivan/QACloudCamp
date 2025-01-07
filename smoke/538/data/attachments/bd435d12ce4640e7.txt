@@ -1,0 +1,24 @@
+07.01.2025_01:19:18.183658
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Later record father who cold level affect physical.",
+  "body": "Wall learn cut term author.",
+  "userId": 1
+}
+
+07.01.2025_01:19:18.308463
+RESPONSE
+status code: 201
+json: {
+  "title": "Later record father who cold level affect physical.",
+  "body": "Wall learn cut term author.",
+  "userId": 1,
+  "id": 101
+}
