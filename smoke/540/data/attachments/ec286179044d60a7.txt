@@ -1,0 +1,24 @@
+09.01.2025_01:18:40.206813
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Discuss edge score sure military candidate difference tough show do pressure exist.",
+  "body": "Claim ahead everyone these deal reduce.",
+  "userId": 8
+}
+
+09.01.2025_01:18:40.413260
+RESPONSE
+status code: 201
+json: {
+  "title": "Discuss edge score sure military candidate difference tough show do pressure exist.",
+  "body": "Claim ahead everyone these deal reduce.",
+  "userId": 8,
+  "id": 101
+}
