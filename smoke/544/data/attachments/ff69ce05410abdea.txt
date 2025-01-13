@@ -1,0 +1,24 @@
+13.01.2025_01:22:41.036181
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Style star form trial wish attack.",
+  "body": "Other popular role.",
+  "userId": 8
+}
+
+13.01.2025_01:22:41.098782
+RESPONSE
+status code: 201
+json: {
+  "title": "Style star form trial wish attack.",
+  "body": "Other popular role.",
+  "userId": 8,
+  "id": 101
+}
