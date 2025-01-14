@@ -1,0 +1,24 @@
+14.01.2025_01:15:30.251706
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Crime according fact so baby deal total quickly its goal really over meeting.",
+  "body": "Believe sea wear energy wonder agreement land.",
+  "userId": 8
+}
+
+14.01.2025_01:15:30.408356
+RESPONSE
+status code: 201
+json: {
+  "title": "Crime according fact so baby deal total quickly its goal really over meeting.",
+  "body": "Believe sea wear energy wonder agreement land.",
+  "userId": 8,
+  "id": 101
+}
