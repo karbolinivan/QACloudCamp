@@ -1,0 +1,24 @@
+15.01.2025_01:17:19.149943
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Wrong seven staff yes manager customer middle everyone part often.",
+  "body": "Kid stay no do month.",
+  "userId": 5
+}
+
+15.01.2025_01:17:19.489996
+RESPONSE
+status code: 201
+json: {
+  "title": "Wrong seven staff yes manager customer middle everyone part often.",
+  "body": "Kid stay no do month.",
+  "userId": 5,
+  "id": 101
+}
