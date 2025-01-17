@@ -1,0 +1,24 @@
+17.01.2025_01:16:15.174921
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Deal Democrat if though which anyone arrive five particular head debate value price.",
+  "body": "Whole scientist night yourself arm service.",
+  "userId": 5
+}
+
+17.01.2025_01:16:15.293675
+RESPONSE
+status code: 201
+json: {
+  "title": "Deal Democrat if though which anyone arrive five particular head debate value price.",
+  "body": "Whole scientist night yourself arm service.",
+  "userId": 5,
+  "id": 101
+}
