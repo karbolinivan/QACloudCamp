@@ -1,0 +1,24 @@
+18.01.2025_01:14:25.093464
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Imagine key half item mother floor loss out significant two his return feeling.",
+  "body": "Eat staff front continue allow sit.",
+  "userId": 3
+}
+
+18.01.2025_01:14:25.189001
+RESPONSE
+status code: 201
+json: {
+  "title": "Imagine key half item mother floor loss out significant two his return feeling.",
+  "body": "Eat staff front continue allow sit.",
+  "userId": 3,
+  "id": 101
+}
