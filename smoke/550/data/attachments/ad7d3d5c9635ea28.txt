@@ -1,0 +1,24 @@
+19.01.2025_01:22:00.952594
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Subject reflect risk hand get program.",
+  "body": "Her recently everyone hard allow station.",
+  "userId": 3
+}
+
+19.01.2025_01:22:01.010848
+RESPONSE
+status code: 201
+json: {
+  "title": "Subject reflect risk hand get program.",
+  "body": "Her recently everyone hard allow station.",
+  "userId": 3,
+  "id": 101
+}
