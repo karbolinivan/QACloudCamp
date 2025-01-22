@@ -1,0 +1,24 @@
+22.01.2025_01:18:19.677910
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Represent ready begin between every author rich sort moment produce.",
+  "body": "Seat face already around probably.",
+  "userId": 6
+}
+
+22.01.2025_01:18:19.746632
+RESPONSE
+status code: 201
+json: {
+  "title": "Represent ready begin between every author rich sort moment produce.",
+  "body": "Seat face already around probably.",
+  "userId": 6,
+  "id": 101
+}

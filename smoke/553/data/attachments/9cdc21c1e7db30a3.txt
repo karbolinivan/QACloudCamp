@@ -1,0 +1,24 @@
+22.01.2025_01:18:19.680060
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Ready kid data few industry firm.",
+  "body": "Try memory music event.",
+  "userId": 3
+}
+
+22.01.2025_01:18:19.754306
+RESPONSE
+status code: 201
+json: {
+  "title": "Ready kid data few industry firm.",
+  "body": "Try memory music event.",
+  "userId": 3,
+  "id": 101
+}
