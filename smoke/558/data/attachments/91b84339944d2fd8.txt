@@ -1,0 +1,24 @@
+27.01.2025_01:18:13.350318
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Near and build goal history it law own beyond.",
+  "body": "Change majority than writer security.",
+  "userId": 4
+}
+
+27.01.2025_01:18:13.487283
+RESPONSE
+status code: 201
+json: {
+  "title": "Near and build goal history it law own beyond.",
+  "body": "Change majority than writer security.",
+  "userId": 4,
+  "id": 101
+}
