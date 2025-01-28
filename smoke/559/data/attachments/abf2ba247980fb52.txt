@@ -1,0 +1,24 @@
+28.01.2025_01:16:42.298054
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Audience difference head source cause choice lead bar something then use two not.",
+  "body": "Subject tax catch.",
+  "userId": 4
+}
+
+28.01.2025_01:16:42.460385
+RESPONSE
+status code: 201
+json: {
+  "title": "Audience difference head source cause choice lead bar something then use two not.",
+  "body": "Subject tax catch.",
+  "userId": 4,
+  "id": 101
+}
