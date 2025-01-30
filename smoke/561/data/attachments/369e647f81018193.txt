@@ -1,0 +1,24 @@
+30.01.2025_01:15:57.060136
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Home bag already democratic fight present.",
+  "body": "Sort sit operation college sign.",
+  "userId": 3
+}
+
+30.01.2025_01:15:57.214126
+RESPONSE
+status code: 201
+json: {
+  "title": "Home bag already democratic fight present.",
+  "body": "Sort sit operation college sign.",
+  "userId": 3,
+  "id": 101
+}
