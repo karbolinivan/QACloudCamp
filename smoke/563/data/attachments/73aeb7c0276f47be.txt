@@ -1,0 +1,24 @@
+01.02.2025_01:20:57.229374
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Agent while girl act kitchen political home.",
+  "body": "Magazine may teach know least wish.",
+  "userId": 9
+}
+
+01.02.2025_01:20:57.352968
+RESPONSE
+status code: 201
+json: {
+  "title": "Agent while girl act kitchen political home.",
+  "body": "Magazine may teach know least wish.",
+  "userId": 9,
+  "id": 101
+}
