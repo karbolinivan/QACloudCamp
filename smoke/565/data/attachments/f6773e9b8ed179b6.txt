@@ -1,0 +1,24 @@
+03.02.2025_01:18:04.678331
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Brother through example way authority difference.",
+  "body": "Word ability attention about consumer.",
+  "userId": 6
+}
+
+03.02.2025_01:18:05.030673
+RESPONSE
+status code: 201
+json: {
+  "title": "Brother through example way authority difference.",
+  "body": "Word ability attention about consumer.",
+  "userId": 6,
+  "id": 101
+}
