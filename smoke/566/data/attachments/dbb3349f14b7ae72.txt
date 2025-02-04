@@ -1,0 +1,24 @@
+04.02.2025_01:17:09.475422
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "News reveal economic beyond late move popular financial sort activity once.",
+  "body": "Bank low same protect.",
+  "userId": 6
+}
+
+04.02.2025_01:17:09.619556
+RESPONSE
+status code: 201
+json: {
+  "title": "News reveal economic beyond late move popular financial sort activity once.",
+  "body": "Bank low same protect.",
+  "userId": 6,
+  "id": 101
+}

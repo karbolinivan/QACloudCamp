@@ -1,0 +1,24 @@
+04.02.2025_01:17:09.485809
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Where product performance when executive skill newspaper region finish must prove along.",
+  "body": "National important create between page.",
+  "userId": 9
+}
+
+04.02.2025_01:17:09.612278
+RESPONSE
+status code: 201
+json: {
+  "title": "Where product performance when executive skill newspaper region finish must prove along.",
+  "body": "National important create between page.",
+  "userId": 9,
+  "id": 101
+}
