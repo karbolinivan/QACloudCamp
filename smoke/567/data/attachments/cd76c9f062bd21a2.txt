@@ -1,0 +1,24 @@
+05.02.2025_01:18:08.348262
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "That tree degree how see table not discover dog.",
+  "body": "Push manage on born price level pick.",
+  "userId": 7
+}
+
+05.02.2025_01:18:08.411549
+RESPONSE
+status code: 201
+json: {
+  "title": "That tree degree how see table not discover dog.",
+  "body": "Push manage on born price level pick.",
+  "userId": 7,
+  "id": 101
+}
