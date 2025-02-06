@@ -1,0 +1,24 @@
+06.02.2025_01:18:18.102295
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Watch concern wear necessary reach night friend final section share sign quality him.",
+  "body": "Image sense pick six economy.",
+  "userId": 1
+}
+
+06.02.2025_01:18:18.188440
+RESPONSE
+status code: 201
+json: {
+  "title": "Watch concern wear necessary reach night friend final section share sign quality him.",
+  "body": "Image sense pick six economy.",
+  "userId": 1,
+  "id": 101
+}
