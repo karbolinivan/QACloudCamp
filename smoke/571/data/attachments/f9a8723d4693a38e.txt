@@ -1,0 +1,24 @@
+09.02.2025_01:22:01.688360
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "In also girl tend even while wife this.",
+  "body": "Another point country cost want them political.",
+  "userId": 5
+}
+
+09.02.2025_01:22:02.077914
+RESPONSE
+status code: 201
+json: {
+  "title": "In also girl tend even while wife this.",
+  "body": "Another point country cost want them political.",
+  "userId": 5,
+  "id": 101
+}

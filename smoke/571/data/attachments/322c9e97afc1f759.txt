@@ -1,0 +1,24 @@
+09.02.2025_01:22:01.696141
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "View performance only citizen they increase everything mean answer foreign great stand pretty.",
+  "body": "Center memory special poor answer focus him.",
+  "userId": 7
+}
+
+09.02.2025_01:22:02.035726
+RESPONSE
+status code: 201
+json: {
+  "title": "View performance only citizen they increase everything mean answer foreign great stand pretty.",
+  "body": "Center memory special poor answer focus him.",
+  "userId": 7,
+  "id": 101
+}

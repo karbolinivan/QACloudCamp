@@ -1,0 +1,24 @@
+09.02.2025_01:22:01.697393
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Involve score next service politics occur describe pay.",
+  "body": "Allow somebody table contain.",
+  "userId": 6
+}
+
+09.02.2025_01:22:01.995765
+RESPONSE
+status code: 201
+json: {
+  "title": "Involve score next service politics occur describe pay.",
+  "body": "Allow somebody table contain.",
+  "userId": 6,
+  "id": 101
+}
