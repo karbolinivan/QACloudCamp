@@ -1,0 +1,24 @@
+10.02.2025_01:19:12.572682
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Whose candidate add agree over want case your.",
+  "body": "Bar however series voice raise bank drive go.",
+  "userId": 5
+}
+
+10.02.2025_01:19:12.706555
+RESPONSE
+status code: 201
+json: {
+  "title": "Whose candidate add agree over want case your.",
+  "body": "Bar however series voice raise bank drive go.",
+  "userId": 5,
+  "id": 101
+}
