@@ -1,0 +1,24 @@
+11.02.2025_01:17:53.052905
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Race institution subject live garden however its whatever cover.",
+  "body": "Go act window budget.",
+  "userId": 1
+}
+
+11.02.2025_01:17:53.145998
+RESPONSE
+status code: 201
+json: {
+  "title": "Race institution subject live garden however its whatever cover.",
+  "body": "Go act window budget.",
+  "userId": 1,
+  "id": 101
+}
