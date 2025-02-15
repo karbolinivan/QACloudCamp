@@ -1,0 +1,24 @@
+15.02.2025_01:17:21.972014
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Resource consumer worker author account soon fill indeed billion such sense.",
+  "body": "Behind court civil say.",
+  "userId": 5
+}
+
+15.02.2025_01:17:22.070889
+RESPONSE
+status code: 201
+json: {
+  "title": "Resource consumer worker author account soon fill indeed billion such sense.",
+  "body": "Behind court civil say.",
+  "userId": 5,
+  "id": 101
+}
