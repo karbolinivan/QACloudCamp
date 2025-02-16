@@ -1,0 +1,24 @@
+16.02.2025_01:24:24.146394
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Color learn positive knowledge body marriage large help wait.",
+  "body": "Put remain mind situation finally value.",
+  "userId": 1
+}
+
+16.02.2025_01:24:24.275107
+RESPONSE
+status code: 201
+json: {
+  "title": "Color learn positive knowledge body marriage large help wait.",
+  "body": "Put remain mind situation finally value.",
+  "userId": 1,
+  "id": 101
+}
