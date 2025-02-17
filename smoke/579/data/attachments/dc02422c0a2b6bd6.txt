@@ -1,0 +1,24 @@
+17.02.2025_01:21:09.682773
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Might fear civil perhaps these personal surface affect.",
+  "body": "Attorney position small mission well.",
+  "userId": 2
+}
+
+17.02.2025_01:21:09.819642
+RESPONSE
+status code: 201
+json: {
+  "title": "Might fear civil perhaps these personal surface affect.",
+  "body": "Attorney position small mission well.",
+  "userId": 2,
+  "id": 101
+}
