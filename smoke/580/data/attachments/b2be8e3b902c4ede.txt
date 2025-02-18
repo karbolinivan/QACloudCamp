@@ -1,0 +1,24 @@
+18.02.2025_01:18:20.491650
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Four then draw few everything nothing clearly gun new.",
+  "body": "Between instead trouble modern race result skill.",
+  "userId": 5
+}
+
+18.02.2025_01:18:20.605797
+RESPONSE
+status code: 201
+json: {
+  "title": "Four then draw few everything nothing clearly gun new.",
+  "body": "Between instead trouble modern race result skill.",
+  "userId": 5,
+  "id": 101
+}

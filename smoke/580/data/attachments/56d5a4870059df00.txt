@@ -1,0 +1,24 @@
+18.02.2025_01:18:20.481248
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Catch power stand fire let run customer he focus.",
+  "body": "Operation sister practice particular benefit.",
+  "userId": 3
+}
+
+18.02.2025_01:18:20.607458
+RESPONSE
+status code: 201
+json: {
+  "title": "Catch power stand fire let run customer he focus.",
+  "body": "Operation sister practice particular benefit.",
+  "userId": 3,
+  "id": 101
+}
