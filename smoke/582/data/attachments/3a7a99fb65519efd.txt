@@ -1,0 +1,24 @@
+20.02.2025_01:19:06.608543
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Understand again pick develop arrive article like marriage threat.",
+  "body": "Particular raise spend beautiful.",
+  "userId": 4
+}
+
+20.02.2025_01:19:06.679269
+RESPONSE
+status code: 201
+json: {
+  "title": "Understand again pick develop arrive article like marriage threat.",
+  "body": "Particular raise spend beautiful.",
+  "userId": 4,
+  "id": 101
+}
