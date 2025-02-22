@@ -1,0 +1,24 @@
+22.02.2025_01:16:59.462714
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Stop again whole along physical less practice somebody smile become.",
+  "body": "Agency hit how lot better by.",
+  "userId": 8
+}
+
+22.02.2025_01:16:59.635262
+RESPONSE
+status code: 201
+json: {
+  "title": "Stop again whole along physical less practice somebody smile become.",
+  "body": "Agency hit how lot better by.",
+  "userId": 8,
+  "id": 101
+}

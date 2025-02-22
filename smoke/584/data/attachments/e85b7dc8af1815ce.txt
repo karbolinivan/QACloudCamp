@@ -1,0 +1,24 @@
+22.02.2025_01:16:59.454796
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Environmental himself fact free stand this then school administration last sing space star.",
+  "body": "Expect purpose movie arm hear store road.",
+  "userId": 5
+}
+
+22.02.2025_01:16:59.642126
+RESPONSE
+status code: 201
+json: {
+  "title": "Environmental himself fact free stand this then school administration last sing space star.",
+  "body": "Expect purpose movie arm hear store road.",
+  "userId": 5,
+  "id": 101
+}
