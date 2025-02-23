@@ -1,0 +1,24 @@
+23.02.2025_01:24:09.040994
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Program mouth city apply seek peace effort throughout.",
+  "body": "Seek history meet staff every hair ready.",
+  "userId": 6
+}
+
+23.02.2025_01:24:09.090811
+RESPONSE
+status code: 201
+json: {
+  "title": "Program mouth city apply seek peace effort throughout.",
+  "body": "Seek history meet staff every hair ready.",
+  "userId": 6,
+  "id": 101
+}

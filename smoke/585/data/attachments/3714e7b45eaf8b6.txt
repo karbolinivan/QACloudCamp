@@ -1,0 +1,24 @@
+23.02.2025_01:24:09.042343
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Watch health wall cold him firm raise girl occur share common grow though.",
+  "body": "Meeting policy they health stay coach receive.",
+  "userId": 2
+}
+
+23.02.2025_01:24:09.096481
+RESPONSE
+status code: 201
+json: {
+  "title": "Watch health wall cold him firm raise girl occur share common grow though.",
+  "body": "Meeting policy they health stay coach receive.",
+  "userId": 2,
+  "id": 101
+}
