@@ -1,0 +1,24 @@
+28.02.2025_01:20:54.094465
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Officer movie animal experience because indeed course.",
+  "body": "Market our build party.",
+  "userId": 5
+}
+
+28.02.2025_01:20:54.215985
+RESPONSE
+status code: 201
+json: {
+  "title": "Officer movie animal experience because indeed course.",
+  "body": "Market our build party.",
+  "userId": 5,
+  "id": 101
+}
