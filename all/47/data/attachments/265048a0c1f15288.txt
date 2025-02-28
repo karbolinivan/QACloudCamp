@@ -1,0 +1,24 @@
+28.02.2025_06:21:14.097184
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Cover analysis idea thank tree produce will activity watch human middle.",
+  "body": "Spring learn clearly light rest.",
+  "userId": 1
+}
+
+28.02.2025_06:21:14.160345
+RESPONSE
+status code: 201
+json: {
+  "title": "Cover analysis idea thank tree produce will activity watch human middle.",
+  "body": "Spring learn clearly light rest.",
+  "userId": 1,
+  "id": 101
+}

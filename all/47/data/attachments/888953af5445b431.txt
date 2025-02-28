@@ -1,0 +1,24 @@
+28.02.2025_06:21:14.089035
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Start source Mr network forward south generation arm Mrs former.",
+  "body": "Everybody ask because pattern subject dinner.",
+  "userId": 8
+}
+
+28.02.2025_06:21:14.154221
+RESPONSE
+status code: 201
+json: {
+  "title": "Start source Mr network forward south generation arm Mrs former.",
+  "body": "Everybody ask because pattern subject dinner.",
+  "userId": 8,
+  "id": 101
+}

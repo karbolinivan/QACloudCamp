@@ -1,0 +1,24 @@
+28.02.2025_06:21:14.091388
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Improve method collection century operation threat food finish those fear some especially.",
+  "body": "Short per wear suddenly push type.",
+  "userId": 8
+}
+
+28.02.2025_06:21:14.160271
+RESPONSE
+status code: 201
+json: {
+  "title": "Improve method collection century operation threat food finish those fear some especially.",
+  "body": "Short per wear suddenly push type.",
+  "userId": 8,
+  "id": 101
+}
