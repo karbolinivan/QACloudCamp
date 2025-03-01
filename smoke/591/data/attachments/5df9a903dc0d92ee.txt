@@ -1,0 +1,24 @@
+01.03.2025_01:25:56.004316
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "A send break mind day it growth name employee whom huge.",
+  "body": "Talk late baby father phone tend.",
+  "userId": 6
+}
+
+01.03.2025_01:25:56.301866
+RESPONSE
+status code: 201
+json: {
+  "title": "A send break mind day it growth name employee whom huge.",
+  "body": "Talk late baby father phone tend.",
+  "userId": 6,
+  "id": 101
+}
