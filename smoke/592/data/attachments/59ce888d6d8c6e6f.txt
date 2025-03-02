@@ -1,0 +1,24 @@
+02.03.2025_01:25:21.366334
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Along thought scene war firm sense political order decade.",
+  "body": "Speech less expert detail.",
+  "userId": 7
+}
+
+02.03.2025_01:25:21.716447
+RESPONSE
+status code: 201
+json: {
+  "title": "Along thought scene war firm sense political order decade.",
+  "body": "Speech less expert detail.",
+  "userId": 7,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+02.03.2025_01:25:21.348317
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Including nor your air prepare buy.",
+  "body": "Raise than today administration look our.",
+  "userId": 8
+}
+
+02.03.2025_01:25:21.722229
+RESPONSE
+status code: 201
+json: {
+  "title": "Including nor your air prepare buy.",
+  "body": "Raise than today administration look our.",
+  "userId": 8,
+  "id": 101
+}
