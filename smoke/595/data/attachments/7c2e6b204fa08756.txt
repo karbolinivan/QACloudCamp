@@ -1,0 +1,24 @@
+05.03.2025_01:21:46.525905
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Point wind produce step suffer go amount upon name clear.",
+  "body": "Management action nature.",
+  "userId": 5
+}
+
+05.03.2025_01:21:46.598970
+RESPONSE
+status code: 201
+json: {
+  "title": "Point wind produce step suffer go amount upon name clear.",
+  "body": "Management action nature.",
+  "userId": 5,
+  "id": 101
+}
