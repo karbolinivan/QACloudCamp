@@ -1,0 +1,24 @@
+06.03.2025_01:22:02.577746
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Several set plan inside natural always half.",
+  "body": "Per choice force before heart.",
+  "userId": 9
+}
+
+06.03.2025_01:22:02.648355
+RESPONSE
+status code: 201
+json: {
+  "title": "Several set plan inside natural always half.",
+  "body": "Per choice force before heart.",
+  "userId": 9,
+  "id": 101
+}

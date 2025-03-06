@@ -1,0 +1,24 @@
+06.03.2025_01:22:02.565990
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Institution field me mind section health goal.",
+  "body": "Even sing until or direction.",
+  "userId": 2
+}
+
+06.03.2025_01:22:02.620783
+RESPONSE
+status code: 201
+json: {
+  "title": "Institution field me mind section health goal.",
+  "body": "Even sing until or direction.",
+  "userId": 2,
+  "id": 101
+}
