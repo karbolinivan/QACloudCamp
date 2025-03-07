@@ -1,0 +1,24 @@
+07.03.2025_01:22:31.511757
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fear unit card resource Democrat company north.",
+  "body": "View actually pay on.",
+  "userId": 2
+}
+
+07.03.2025_01:22:31.645721
+RESPONSE
+status code: 201
+json: {
+  "title": "Fear unit card resource Democrat company north.",
+  "body": "View actually pay on.",
+  "userId": 2,
+  "id": 101
+}
