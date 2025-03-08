@@ -1,0 +1,24 @@
+08.03.2025_01:06:09.328344
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Candidate course standard by whole look.",
+  "body": "Chance better test apply.",
+  "userId": 9
+}
+
+08.03.2025_01:06:09.398623
+RESPONSE
+status code: 201
+json: {
+  "title": "Candidate course standard by whole look.",
+  "body": "Chance better test apply.",
+  "userId": 9,
+  "id": 101
+}
