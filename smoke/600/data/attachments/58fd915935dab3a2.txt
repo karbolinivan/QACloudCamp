@@ -1,0 +1,24 @@
+10.03.2025_01:09:47.866161
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Certain thus fund nothing south not room move operation.",
+  "body": "Gas really simply write.",
+  "userId": 3
+}
+
+10.03.2025_01:09:48.294286
+RESPONSE
+status code: 201
+json: {
+  "title": "Certain thus fund nothing south not room move operation.",
+  "body": "Gas really simply write.",
+  "userId": 3,
+  "id": 101
+}
