@@ -1,0 +1,24 @@
+11.03.2025_01:22:28.347948
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Follow institution can old throughout dinner single answer seem indeed whatever day.",
+  "body": "Room simple who draw sense huge million.",
+  "userId": 4
+}
+
+11.03.2025_01:22:28.413964
+RESPONSE
+status code: 201
+json: {
+  "title": "Follow institution can old throughout dinner single answer seem indeed whatever day.",
+  "body": "Room simple who draw sense huge million.",
+  "userId": 4,
+  "id": 101
+}
