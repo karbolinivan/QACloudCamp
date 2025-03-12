@@ -1,0 +1,24 @@
+12.03.2025_01:21:33.701040
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Own operation quite pretty site spend just between southern.",
+  "body": "Since though possible strategy evening.",
+  "userId": 7
+}
+
+12.03.2025_01:21:33.781079
+RESPONSE
+status code: 201
+json: {
+  "title": "Own operation quite pretty site spend just between southern.",
+  "body": "Since though possible strategy evening.",
+  "userId": 7,
+  "id": 101
+}
