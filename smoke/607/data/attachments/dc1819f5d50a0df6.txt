@@ -1,0 +1,24 @@
+17.03.2025_01:24:58.005448
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Scientist second people audience old bring rather recent instead must risk friend identify.",
+  "body": "Produce since five money.",
+  "userId": 3
+}
+
+17.03.2025_01:24:58.154496
+RESPONSE
+status code: 201
+json: {
+  "title": "Scientist second people audience old bring rather recent instead must risk friend identify.",
+  "body": "Produce since five money.",
+  "userId": 3,
+  "id": 101
+}
