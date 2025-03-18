@@ -1,0 +1,24 @@
+18.03.2025_01:22:45.327411
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Sea a several serious sister piece much lay majority area.",
+  "body": "Matter with western recognize.",
+  "userId": 3
+}
+
+18.03.2025_01:22:45.377792
+RESPONSE
+status code: 201
+json: {
+  "title": "Sea a several serious sister piece much lay majority area.",
+  "body": "Matter with western recognize.",
+  "userId": 3,
+  "id": 101
+}
