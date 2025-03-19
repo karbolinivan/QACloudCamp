@@ -1,0 +1,24 @@
+19.03.2025_01:23:43.864099
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Majority value attack month black a.",
+  "body": "Marriage generation happen.",
+  "userId": 4
+}
+
+19.03.2025_01:23:44.042761
+RESPONSE
+status code: 201
+json: {
+  "title": "Majority value attack month black a.",
+  "body": "Marriage generation happen.",
+  "userId": 4,
+  "id": 101
+}
