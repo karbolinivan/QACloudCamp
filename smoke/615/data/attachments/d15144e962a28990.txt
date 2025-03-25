@@ -1,0 +1,24 @@
+25.03.2025_01:24:48.338719
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Why possible and policy happen financial into drug.",
+  "body": "Student floor bad attack risk shoulder.",
+  "userId": 4
+}
+
+25.03.2025_01:24:48.519709
+RESPONSE
+status code: 201
+json: {
+  "title": "Why possible and policy happen financial into drug.",
+  "body": "Student floor bad attack risk shoulder.",
+  "userId": 4,
+  "id": 101
+}
