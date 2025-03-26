@@ -1,0 +1,24 @@
+26.03.2025_01:24:14.250472
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Appear drug economic model accept speech explain lose significant choose investment.",
+  "body": "Far red on be professional.",
+  "userId": 8
+}
+
+26.03.2025_01:24:14.363666
+RESPONSE
+status code: 201
+json: {
+  "title": "Appear drug economic model accept speech explain lose significant choose investment.",
+  "body": "Far red on be professional.",
+  "userId": 8,
+  "id": 101
+}

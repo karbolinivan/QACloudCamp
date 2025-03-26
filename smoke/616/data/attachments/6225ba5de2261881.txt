@@ -1,0 +1,24 @@
+26.03.2025_01:24:14.236729
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Rich really onto successful model all successful town six seek they other.",
+  "body": "Plan measure education meet.",
+  "userId": 4
+}
+
+26.03.2025_01:24:14.312451
+RESPONSE
+status code: 201
+json: {
+  "title": "Rich really onto successful model all successful town six seek they other.",
+  "body": "Plan measure education meet.",
+  "userId": 4,
+  "id": 101
+}
