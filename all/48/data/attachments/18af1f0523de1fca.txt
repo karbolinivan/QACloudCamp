@@ -1,0 +1,24 @@
+28.03.2025_06:22:33.084807
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Wait ahead ok site perform something.",
+  "body": "Suddenly strong effect attack other.",
+  "userId": 5
+}
+
+28.03.2025_06:22:33.333648
+RESPONSE
+status code: 201
+json: {
+  "title": "Wait ahead ok site perform something.",
+  "body": "Suddenly strong effect attack other.",
+  "userId": 5,
+  "id": 101
+}
