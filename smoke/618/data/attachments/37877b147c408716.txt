@@ -1,0 +1,24 @@
+28.03.2025_01:24:01.755610
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Instead southern trip general town best world grow night claim around late response.",
+  "body": "Edge hold radio blue. Fight value rest money.",
+  "userId": 5
+}
+
+28.03.2025_01:24:01.915603
+RESPONSE
+status code: 201
+json: {
+  "title": "Instead southern trip general town best world grow night claim around late response.",
+  "body": "Edge hold radio blue. Fight value rest money.",
+  "userId": 5,
+  "id": 101
+}
