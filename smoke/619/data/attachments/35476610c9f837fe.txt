@@ -1,0 +1,24 @@
+29.03.2025_01:23:07.385031
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Improve lawyer agreement member pull material.",
+  "body": "Enjoy on care simply.",
+  "userId": 4
+}
+
+29.03.2025_01:23:07.615041
+RESPONSE
+status code: 201
+json: {
+  "title": "Improve lawyer agreement member pull material.",
+  "body": "Enjoy on care simply.",
+  "userId": 4,
+  "id": 101
+}
