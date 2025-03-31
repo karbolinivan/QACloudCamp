@@ -1,0 +1,24 @@
+31.03.2025_01:28:18.152653
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Would subject challenge for city let policy ok here continue nor.",
+  "body": "Wonder president pick good.",
+  "userId": 9
+}
+
+31.03.2025_01:28:18.323047
+RESPONSE
+status code: 201
+json: {
+  "title": "Would subject challenge for city let policy ok here continue nor.",
+  "body": "Wonder president pick good.",
+  "userId": 9,
+  "id": 101
+}
