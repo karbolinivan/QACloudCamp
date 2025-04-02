@@ -1,0 +1,24 @@
+02.04.2025_01:25:43.025005
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "History sell western enjoy eat he compare.",
+  "body": "Energy its note choice show leg until.",
+  "userId": 5
+}
+
+02.04.2025_01:25:43.164631
+RESPONSE
+status code: 201
+json: {
+  "title": "History sell western enjoy eat he compare.",
+  "body": "Energy its note choice show leg until.",
+  "userId": 5,
+  "id": 101
+}

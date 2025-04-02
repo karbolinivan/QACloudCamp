@@ -1,0 +1,24 @@
+02.04.2025_01:25:43.035820
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Financial fill attack wrong board wrong cover than understand.",
+  "body": "For majority scientist prove significant sit.",
+  "userId": 4
+}
+
+02.04.2025_01:25:43.172197
+RESPONSE
+status code: 201
+json: {
+  "title": "Financial fill attack wrong board wrong cover than understand.",
+  "body": "For majority scientist prove significant sit.",
+  "userId": 4,
+  "id": 101
+}
