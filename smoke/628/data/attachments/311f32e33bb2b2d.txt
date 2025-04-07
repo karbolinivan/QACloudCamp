@@ -1,0 +1,24 @@
+07.04.2025_01:26:59.856919
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Think film happen old add effort front nearly.",
+  "body": "Answer Mrs wife police write answer mother.",
+  "userId": 3
+}
+
+07.04.2025_01:26:59.955069
+RESPONSE
+status code: 201
+json: {
+  "title": "Think film happen old add effort front nearly.",
+  "body": "Answer Mrs wife police write answer mother.",
+  "userId": 3,
+  "id": 101
+}
