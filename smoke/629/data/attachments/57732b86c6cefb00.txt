@@ -1,0 +1,24 @@
+08.04.2025_01:25:00.046056
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Down when current charge middle then.",
+  "body": "Billion heavy focus value.",
+  "userId": 2
+}
+
+08.04.2025_01:25:00.393080
+RESPONSE
+status code: 201
+json: {
+  "title": "Down when current charge middle then.",
+  "body": "Billion heavy focus value.",
+  "userId": 2,
+  "id": 101
+}

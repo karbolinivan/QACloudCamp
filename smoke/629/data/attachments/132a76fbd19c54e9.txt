@@ -1,0 +1,24 @@
+08.04.2025_01:25:00.053185
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Author situation policy major until clearly.",
+  "body": "Return note page price everybody travel big.",
+  "userId": 1
+}
+
+08.04.2025_01:25:00.391998
+RESPONSE
+status code: 201
+json: {
+  "title": "Author situation policy major until clearly.",
+  "body": "Return note page price everybody travel big.",
+  "userId": 1,
+  "id": 101
+}
