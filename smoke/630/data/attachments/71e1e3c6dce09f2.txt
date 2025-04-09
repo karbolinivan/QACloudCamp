@@ -1,0 +1,24 @@
+09.04.2025_01:25:21.205316
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Impact if behind behind teacher computer end middle.",
+  "body": "Next life their majority time.",
+  "userId": 2
+}
+
+09.04.2025_01:25:21.294952
+RESPONSE
+status code: 201
+json: {
+  "title": "Impact if behind behind teacher computer end middle.",
+  "body": "Next life their majority time.",
+  "userId": 2,
+  "id": 101
+}
