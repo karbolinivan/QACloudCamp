@@ -1,0 +1,24 @@
+10.04.2025_01:24:59.272175
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Able direction leader score with possible likely past exactly test it.",
+  "body": "Develop send war he begin couple rather.",
+  "userId": 9
+}
+
+10.04.2025_01:24:59.579687
+RESPONSE
+status code: 201
+json: {
+  "title": "Able direction leader score with possible likely past exactly test it.",
+  "body": "Develop send war he begin couple rather.",
+  "userId": 9,
+  "id": 101
+}
