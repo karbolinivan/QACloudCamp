@@ -1,0 +1,24 @@
+11.04.2025_01:25:38.932470
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Sort kind fund debate letter black national believe.",
+  "body": "Everyone floor fine. Person skill within.",
+  "userId": 4
+}
+
+11.04.2025_01:25:38.992682
+RESPONSE
+status code: 201
+json: {
+  "title": "Sort kind fund debate letter black national believe.",
+  "body": "Everyone floor fine. Person skill within.",
+  "userId": 4,
+  "id": 101
+}
