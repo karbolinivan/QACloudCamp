@@ -1,0 +1,24 @@
+12.04.2025_01:23:51.515028
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Laugh before former street member white and data hear test cold actually activity.",
+  "body": "Subject economic player computer in.",
+  "userId": 6
+}
+
+12.04.2025_01:23:51.611443
+RESPONSE
+status code: 201
+json: {
+  "title": "Laugh before former street member white and data hear test cold actually activity.",
+  "body": "Subject economic player computer in.",
+  "userId": 6,
+  "id": 101
+}
