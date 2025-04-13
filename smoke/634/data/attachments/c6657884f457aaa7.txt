@@ -1,0 +1,13 @@
+13.04.2025_02:52:47.501101
+REQUEST: DELETE
+url: https://jsonplaceholder.typicode.com/posts/101
+headers: null
+cookie: None
+data: None
+params: None
+json: null
+
+13.04.2025_02:52:47.570216
+RESPONSE
+status code: 200
+json: {}

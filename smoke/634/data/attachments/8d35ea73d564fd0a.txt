@@ -1,0 +1,24 @@
+13.04.2025_02:52:47.305272
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Tax wide program feel state ask president everybody seat guess establish job.",
+  "body": "Recognize total while find hold field.",
+  "userId": 8
+}
+
+13.04.2025_02:52:47.458691
+RESPONSE
+status code: 201
+json: {
+  "title": "Tax wide program feel state ask president everybody seat guess establish job.",
+  "body": "Recognize total while find hold field.",
+  "userId": 8,
+  "id": 101
+}
