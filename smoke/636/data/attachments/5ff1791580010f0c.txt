@@ -1,0 +1,24 @@
+15.04.2025_01:27:32.789420
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "White specific without fear cultural cold possible federal machine.",
+  "body": "Act safe old likely surface commercial.",
+  "userId": 4
+}
+
+15.04.2025_01:27:32.838927
+RESPONSE
+status code: 201
+json: {
+  "title": "White specific without fear cultural cold possible federal machine.",
+  "body": "Act safe old likely surface commercial.",
+  "userId": 4,
+  "id": 101
+}
