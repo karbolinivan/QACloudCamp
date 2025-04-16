@@ -1,0 +1,24 @@
+16.04.2025_01:27:13.661008
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Radio condition report evening challenge man now.",
+  "body": "Wife partner follow pick store along.",
+  "userId": 5
+}
+
+16.04.2025_01:27:13.825720
+RESPONSE
+status code: 201
+json: {
+  "title": "Radio condition report evening challenge man now.",
+  "body": "Wife partner follow pick store along.",
+  "userId": 5,
+  "id": 101
+}
