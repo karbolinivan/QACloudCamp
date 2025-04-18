@@ -1,0 +1,24 @@
+18.04.2025_01:25:28.192656
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "None short trouble must impact off special sell threat hair short raise attention.",
+  "body": "Work like least drug our.",
+  "userId": 4
+}
+
+18.04.2025_01:25:28.315253
+RESPONSE
+status code: 201
+json: {
+  "title": "None short trouble must impact off special sell threat hair short raise attention.",
+  "body": "Work like least drug our.",
+  "userId": 4,
+  "id": 101
+}

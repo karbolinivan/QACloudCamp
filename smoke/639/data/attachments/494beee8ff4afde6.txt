@@ -1,0 +1,24 @@
+18.04.2025_01:25:28.184024
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Pressure easy issue should lose serve character free throughout grow floor may.",
+  "body": "Final challenge serve loss.",
+  "userId": 6
+}
+
+18.04.2025_01:25:28.246683
+RESPONSE
+status code: 201
+json: {
+  "title": "Pressure easy issue should lose serve character free throughout grow floor may.",
+  "body": "Final challenge serve loss.",
+  "userId": 6,
+  "id": 101
+}
