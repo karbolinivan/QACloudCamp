@@ -1,0 +1,24 @@
+21.04.2025_01:38:50.182330
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Response discover meeting play poor value.",
+  "body": "Lay citizen opportunity very because write total.",
+  "userId": 3
+}
+
+21.04.2025_01:38:50.347041
+RESPONSE
+status code: 201
+json: {
+  "title": "Response discover meeting play poor value.",
+  "body": "Lay citizen opportunity very because write total.",
+  "userId": 3,
+  "id": 101
+}
