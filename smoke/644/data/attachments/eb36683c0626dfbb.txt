@@ -1,0 +1,24 @@
+23.04.2025_01:26:52.117966
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Family Republican consider worry amount brother.",
+  "body": "Suffer watch thought in fly body standard.",
+  "userId": 9
+}
+
+23.04.2025_01:26:52.385362
+RESPONSE
+status code: 201
+json: {
+  "title": "Family Republican consider worry amount brother.",
+  "body": "Suffer watch thought in fly body standard.",
+  "userId": 9,
+  "id": 101
+}
