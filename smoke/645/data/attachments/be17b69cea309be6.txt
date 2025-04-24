@@ -1,0 +1,24 @@
+24.04.2025_01:27:07.349241
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "House stock case power me soldier operation arm expert unit set.",
+  "body": "Country officer red ball because boy show.",
+  "userId": 2
+}
+
+24.04.2025_01:27:07.503661
+RESPONSE
+status code: 201
+json: {
+  "title": "House stock case power me soldier operation arm expert unit set.",
+  "body": "Country officer red ball because boy show.",
+  "userId": 2,
+  "id": 101
+}

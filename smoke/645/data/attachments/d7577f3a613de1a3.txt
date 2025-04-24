@@ -1,0 +1,24 @@
+24.04.2025_01:27:07.350325
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Away past level art eye game whole action voice recently.",
+  "body": "Choice time establish bad car listen among.",
+  "userId": 8
+}
+
+24.04.2025_01:27:07.498883
+RESPONSE
+status code: 201
+json: {
+  "title": "Away past level art eye game whole action voice recently.",
+  "body": "Choice time establish bad car listen among.",
+  "userId": 8,
+  "id": 101
+}
