@@ -1,0 +1,24 @@
+26.04.2025_01:24:44.378188
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Eye million stock dark Mrs house.",
+  "body": "Forward significant sing baby toward.",
+  "userId": 8
+}
+
+26.04.2025_01:24:44.501608
+RESPONSE
+status code: 201
+json: {
+  "title": "Eye million stock dark Mrs house.",
+  "body": "Forward significant sing baby toward.",
+  "userId": 8,
+  "id": 101
+}
