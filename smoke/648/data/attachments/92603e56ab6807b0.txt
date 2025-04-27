@@ -1,0 +1,24 @@
+27.04.2025_01:40:01.904811
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Establish town lead modern compare democratic.",
+  "body": "East set house whom church executive exactly.",
+  "userId": 8
+}
+
+27.04.2025_01:40:02.031019
+RESPONSE
+status code: 201
+json: {
+  "title": "Establish town lead modern compare democratic.",
+  "body": "East set house whom church executive exactly.",
+  "userId": 8,
+  "id": 101
+}
