@@ -1,0 +1,24 @@
+28.04.2025_06:30:45.710325
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Option PM second eat enter three key worry message buy job.",
+  "body": "Amount ok doctor maintain.",
+  "userId": 6
+}
+
+28.04.2025_06:30:45.847824
+RESPONSE
+status code: 201
+json: {
+  "title": "Option PM second eat enter three key worry message buy job.",
+  "body": "Amount ok doctor maintain.",
+  "userId": 6,
+  "id": 101
+}
