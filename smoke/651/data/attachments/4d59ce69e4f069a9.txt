@@ -1,0 +1,24 @@
+30.04.2025_01:27:50.517194
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Story represent sit human there wonder director rest personal close.",
+  "body": "Your role reality forward five force.",
+  "userId": 9
+}
+
+30.04.2025_01:27:50.669940
+RESPONSE
+status code: 201
+json: {
+  "title": "Story represent sit human there wonder director rest personal close.",
+  "body": "Your role reality forward five force.",
+  "userId": 9,
+  "id": 101
+}

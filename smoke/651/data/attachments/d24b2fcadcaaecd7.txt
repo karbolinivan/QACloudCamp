@@ -1,0 +1,24 @@
+30.04.2025_01:27:50.531141
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Modern expect off usually generation difference environmental significant.",
+  "body": "Significant lawyer grow very technology.",
+  "userId": 4
+}
+
+30.04.2025_01:27:50.679932
+RESPONSE
+status code: 201
+json: {
+  "title": "Modern expect off usually generation difference environmental significant.",
+  "body": "Significant lawyer grow very technology.",
+  "userId": 4,
+  "id": 101
+}

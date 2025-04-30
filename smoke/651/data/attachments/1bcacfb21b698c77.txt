@@ -1,0 +1,24 @@
+30.04.2025_01:27:50.530816
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Reduce design own experience fine free nature at future effort side yes similar.",
+  "body": "Total baby memory mother clear out certainly.",
+  "userId": 6
+}
+
+30.04.2025_01:27:50.684904
+RESPONSE
+status code: 201
+json: {
+  "title": "Reduce design own experience fine free nature at future effort side yes similar.",
+  "body": "Total baby memory mother clear out certainly.",
+  "userId": 6,
+  "id": 101
+}
