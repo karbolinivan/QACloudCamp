@@ -1,0 +1,24 @@
+01.05.2025_01:43:49.060349
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Partner however resource teacher down give rule describe both in official.",
+  "body": "Reveal deal risk that environment.",
+  "userId": 5
+}
+
+01.05.2025_01:43:49.131036
+RESPONSE
+status code: 201
+json: {
+  "title": "Partner however resource teacher down give rule describe both in official.",
+  "body": "Reveal deal risk that environment.",
+  "userId": 5,
+  "id": 101
+}
