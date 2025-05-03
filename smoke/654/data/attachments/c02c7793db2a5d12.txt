@@ -1,0 +1,24 @@
+03.05.2025_01:26:13.897011
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Year yes he within type ok trouble say someone serious.",
+  "body": "Structure role deep southern call mind street.",
+  "userId": 1
+}
+
+03.05.2025_01:26:13.953617
+RESPONSE
+status code: 201
+json: {
+  "title": "Year yes he within type ok trouble say someone serious.",
+  "body": "Structure role deep southern call mind street.",
+  "userId": 1,
+  "id": 101
+}
