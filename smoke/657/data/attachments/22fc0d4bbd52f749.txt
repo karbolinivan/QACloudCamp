@@ -1,0 +1,24 @@
+06.05.2025_01:37:06.092418
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Management deep hospital main market instead fly a either food level benefit.",
+  "body": "Company line raise sign prepare home like.",
+  "userId": 2
+}
+
+06.05.2025_01:37:06.170223
+RESPONSE
+status code: 201
+json: {
+  "title": "Management deep hospital main market instead fly a either food level benefit.",
+  "body": "Company line raise sign prepare home like.",
+  "userId": 2,
+  "id": 101
+}

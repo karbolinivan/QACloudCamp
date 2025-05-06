@@ -1,0 +1,24 @@
+06.05.2025_01:37:06.101791
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Concern station answer where assume whatever PM entire should executive.",
+  "body": "Relate suddenly month. Seem he each.",
+  "userId": 7
+}
+
+06.05.2025_01:37:06.166431
+RESPONSE
+status code: 201
+json: {
+  "title": "Concern station answer where assume whatever PM entire should executive.",
+  "body": "Relate suddenly month. Seem he each.",
+  "userId": 7,
+  "id": 101
+}
