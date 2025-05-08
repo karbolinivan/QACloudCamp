@@ -1,0 +1,24 @@
+08.05.2025_01:38:11.280305
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Owner visit court child everything among theory new loss admit rise local radio attention.",
+  "body": "School dream but onto window training product.",
+  "userId": 9
+}
+
+08.05.2025_01:38:11.378845
+RESPONSE
+status code: 201
+json: {
+  "title": "Owner visit court child everything among theory new loss admit rise local radio attention.",
+  "body": "School dream but onto window training product.",
+  "userId": 9,
+  "id": 101
+}

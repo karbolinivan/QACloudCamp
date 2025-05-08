@@ -1,0 +1,24 @@
+08.05.2025_01:38:11.281400
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Interview door cut different seem her organization tell face allow.",
+  "body": "Natural keep quite who most well war.",
+  "userId": 8
+}
+
+08.05.2025_01:38:11.376562
+RESPONSE
+status code: 201
+json: {
+  "title": "Interview door cut different seem her organization tell face allow.",
+  "body": "Natural keep quite who most well war.",
+  "userId": 8,
+  "id": 101
+}
