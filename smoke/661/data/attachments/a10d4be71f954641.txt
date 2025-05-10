@@ -1,0 +1,24 @@
+10.05.2025_01:26:22.861777
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Especially sell when join very performance.",
+  "body": "Camera late family certain age by much.",
+  "userId": 9
+}
+
+10.05.2025_01:26:23.151310
+RESPONSE
+status code: 201
+json: {
+  "title": "Especially sell when join very performance.",
+  "body": "Camera late family certain age by much.",
+  "userId": 9,
+  "id": 101
+}

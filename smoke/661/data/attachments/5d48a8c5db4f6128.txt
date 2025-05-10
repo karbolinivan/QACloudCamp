@@ -1,0 +1,24 @@
+10.05.2025_01:26:22.853684
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Treat specific court specific card story push service.",
+  "body": "Democratic body seat current close.",
+  "userId": 1
+}
+
+10.05.2025_01:26:23.105412
+RESPONSE
+status code: 201
+json: {
+  "title": "Treat specific court specific card story push service.",
+  "body": "Democratic body seat current close.",
+  "userId": 1,
+  "id": 101
+}
