@@ -1,0 +1,24 @@
+11.05.2025_01:42:41.978977
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Trial relate score yard job more maybe few voice better wait really left.",
+  "body": "Should fight arrive.",
+  "userId": 9
+}
+
+11.05.2025_01:42:42.141451
+RESPONSE
+status code: 201
+json: {
+  "title": "Trial relate score yard job more maybe few voice better wait really left.",
+  "body": "Should fight arrive.",
+  "userId": 9,
+  "id": 101
+}
