@@ -1,0 +1,24 @@
+14.05.2025_01:38:02.321789
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Party indeed process hear evening example easy.",
+  "body": "Find age street seven.",
+  "userId": 1
+}
+
+14.05.2025_01:38:02.641459
+RESPONSE
+status code: 201
+json: {
+  "title": "Party indeed process hear evening example easy.",
+  "body": "Find age street seven.",
+  "userId": 1,
+  "id": 101
+}
