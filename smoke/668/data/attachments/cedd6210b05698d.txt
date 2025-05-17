@@ -1,0 +1,24 @@
+17.05.2025_01:28:17.594347
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Inside attention water foreign store hour Mr allow put size.",
+  "body": "Together girl charge hear range commercial.",
+  "userId": 9
+}
+
+17.05.2025_01:28:17.689035
+RESPONSE
+status code: 201
+json: {
+  "title": "Inside attention water foreign store hour Mr allow put size.",
+  "body": "Together girl charge hear range commercial.",
+  "userId": 9,
+  "id": 101
+}
