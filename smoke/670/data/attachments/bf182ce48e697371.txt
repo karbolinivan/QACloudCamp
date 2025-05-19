@@ -1,0 +1,24 @@
+19.05.2025_01:42:55.637900
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Number enter nature with nature real.",
+  "body": "Computer above class top section structure.",
+  "userId": 4
+}
+
+19.05.2025_01:42:55.780144
+RESPONSE
+status code: 201
+json: {
+  "title": "Number enter nature with nature real.",
+  "body": "Computer above class top section structure.",
+  "userId": 4,
+  "id": 101
+}
