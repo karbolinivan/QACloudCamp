@@ -1,0 +1,24 @@
+20.05.2025_01:39:36.881378
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Land Mr ground space have degree operation type without war stand.",
+  "body": "Art feel nor say most perform such over.",
+  "userId": 4
+}
+
+20.05.2025_01:39:37.054565
+RESPONSE
+status code: 201
+json: {
+  "title": "Land Mr ground space have degree operation type without war stand.",
+  "body": "Art feel nor say most perform such over.",
+  "userId": 4,
+  "id": 101
+}
