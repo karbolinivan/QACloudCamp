@@ -1,0 +1,24 @@
+22.05.2025_01:38:35.052994
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Agree government during page other someone keep generation moment report that agreement.",
+  "body": "Analysis number cold old during sound.",
+  "userId": 5
+}
+
+22.05.2025_01:38:35.178104
+RESPONSE
+status code: 201
+json: {
+  "title": "Agree government during page other someone keep generation moment report that agreement.",
+  "body": "Analysis number cold old during sound.",
+  "userId": 5,
+  "id": 101
+}
