@@ -1,0 +1,24 @@
+24.05.2025_01:27:27.476718
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Race marriage role garden just several would bag election officer enough discover.",
+  "body": "Shoulder opportunity eye I me.",
+  "userId": 9
+}
+
+24.05.2025_01:27:27.631908
+RESPONSE
+status code: 201
+json: {
+  "title": "Race marriage role garden just several would bag election officer enough discover.",
+  "body": "Shoulder opportunity eye I me.",
+  "userId": 9,
+  "id": 101
+}

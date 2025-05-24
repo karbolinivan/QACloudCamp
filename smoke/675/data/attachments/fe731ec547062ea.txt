@@ -1,0 +1,24 @@
+24.05.2025_01:27:27.487603
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Full take quickly there my including enough.",
+  "body": "Political law race certain.",
+  "userId": 1
+}
+
+24.05.2025_01:27:27.662690
+RESPONSE
+status code: 201
+json: {
+  "title": "Full take quickly there my including enough.",
+  "body": "Political law race certain.",
+  "userId": 1,
+  "id": 101
+}
