@@ -1,0 +1,24 @@
+25.05.2025_01:45:53.466342
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Success determine focus although authority data less order laugh.",
+  "body": "Everybody rock lose put issue other.",
+  "userId": 2
+}
+
+25.05.2025_01:45:53.522360
+RESPONSE
+status code: 201
+json: {
+  "title": "Success determine focus although authority data less order laugh.",
+  "body": "Everybody rock lose put issue other.",
+  "userId": 2,
+  "id": 101
+}
