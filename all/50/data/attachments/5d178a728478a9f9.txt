@@ -1,0 +1,24 @@
+28.05.2025_06:24:54.824235
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "New and son wife become commercial player end fish discover radio citizen stage.",
+  "body": "Five use decision name six go inside.",
+  "userId": 2
+}
+
+28.05.2025_06:24:54.945841
+RESPONSE
+status code: 201
+json: {
+  "title": "New and son wife become commercial player end fish discover radio citizen stage.",
+  "body": "Five use decision name six go inside.",
+  "userId": 2,
+  "id": 101
+}
