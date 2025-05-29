@@ -1,0 +1,24 @@
+29.05.2025_01:39:14.997898
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fire respond simply explain no policy water.",
+  "body": "Lose rate Mrs color her various produce let.",
+  "userId": 1
+}
+
+29.05.2025_01:39:15.137834
+RESPONSE
+status code: 201
+json: {
+  "title": "Fire respond simply explain no policy water.",
+  "body": "Lose rate Mrs color her various produce let.",
+  "userId": 1,
+  "id": 101
+}
