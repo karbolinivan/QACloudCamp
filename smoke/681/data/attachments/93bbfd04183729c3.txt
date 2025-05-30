@@ -1,0 +1,24 @@
+30.05.2025_01:37:10.905404
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Store issue would north word like.",
+  "body": "Provide example right want which method most you.",
+  "userId": 6
+}
+
+30.05.2025_01:37:11.010661
+RESPONSE
+status code: 201
+json: {
+  "title": "Store issue would north word like.",
+  "body": "Provide example right want which method most you.",
+  "userId": 6,
+  "id": 101
+}
