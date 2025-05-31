@@ -1,0 +1,24 @@
+31.05.2025_01:36:55.249561
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "What human example key character difficult form fall.",
+  "body": "Bank free them some degree together.",
+  "userId": 7
+}
+
+31.05.2025_01:36:55.362372
+RESPONSE
+status code: 201
+json: {
+  "title": "What human example key character difficult form fall.",
+  "body": "Bank free them some degree together.",
+  "userId": 7,
+  "id": 101
+}
