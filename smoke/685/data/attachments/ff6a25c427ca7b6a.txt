@@ -1,0 +1,24 @@
+03.06.2025_01:40:55.790905
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Factor we medical position who stop impact language system point technology.",
+  "body": "Particular country maintain involve avoid.",
+  "userId": 7
+}
+
+03.06.2025_01:40:55.917711
+RESPONSE
+status code: 201
+json: {
+  "title": "Factor we medical position who stop impact language system point technology.",
+  "body": "Particular country maintain involve avoid.",
+  "userId": 7,
+  "id": 101
+}
