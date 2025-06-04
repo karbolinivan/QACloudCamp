@@ -1,0 +1,24 @@
+04.06.2025_01:41:07.935781
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Discuss audience indeed here bar so weight now where by.",
+  "body": "Black worry decade. Task we and heart.",
+  "userId": 3
+}
+
+04.06.2025_01:41:08.083618
+RESPONSE
+status code: 201
+json: {
+  "title": "Discuss audience indeed here bar so weight now where by.",
+  "body": "Black worry decade. Task we and heart.",
+  "userId": 3,
+  "id": 101
+}
