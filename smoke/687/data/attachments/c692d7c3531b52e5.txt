@@ -1,0 +1,24 @@
+05.06.2025_01:39:49.631081
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Only year student you then move head which until service yet else actually.",
+  "body": "Agree parent civil. American plant exactly break.",
+  "userId": 7
+}
+
+05.06.2025_01:39:49.887975
+RESPONSE
+status code: 201
+json: {
+  "title": "Only year student you then move head which until service yet else actually.",
+  "body": "Agree parent civil. American plant exactly break.",
+  "userId": 7,
+  "id": 101
+}
