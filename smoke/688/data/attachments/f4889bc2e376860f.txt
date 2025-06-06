@@ -1,0 +1,24 @@
+06.06.2025_01:39:39.866516
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "I tree film listen improve cold many.",
+  "body": "Power modern various consumer magazine back.",
+  "userId": 1
+}
+
+06.06.2025_01:39:40.195664
+RESPONSE
+status code: 201
+json: {
+  "title": "I tree film listen improve cold many.",
+  "body": "Power modern various consumer magazine back.",
+  "userId": 1,
+  "id": 101
+}
