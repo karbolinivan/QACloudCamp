@@ -1,0 +1,24 @@
+07.06.2025_01:39:03.988940
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Here magazine whole weight piece international continue life five third recent station nation.",
+  "body": "Mother especially attack environment alone third.",
+  "userId": 4
+}
+
+07.06.2025_01:39:04.268290
+RESPONSE
+status code: 201
+json: {
+  "title": "Here magazine whole weight piece international continue life five third recent station nation.",
+  "body": "Mother especially attack environment alone third.",
+  "userId": 4,
+  "id": 101
+}
