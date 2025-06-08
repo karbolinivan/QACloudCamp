@@ -1,0 +1,24 @@
+08.06.2025_01:48:05.471049
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Social me go degree ago member buy record call PM.",
+  "body": "Necessary establish break program policy.",
+  "userId": 9
+}
+
+08.06.2025_01:48:05.591551
+RESPONSE
+status code: 201
+json: {
+  "title": "Social me go degree ago member buy record call PM.",
+  "body": "Necessary establish break program policy.",
+  "userId": 9,
+  "id": 101
+}
