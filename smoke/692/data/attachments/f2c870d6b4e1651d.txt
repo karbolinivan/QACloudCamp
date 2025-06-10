@@ -1,0 +1,24 @@
+10.06.2025_01:42:13.297103
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Detail argue control before manage our drug.",
+  "body": "Citizen good exactly or especially.",
+  "userId": 6
+}
+
+10.06.2025_01:42:13.424036
+RESPONSE
+status code: 201
+json: {
+  "title": "Detail argue control before manage our drug.",
+  "body": "Citizen good exactly or especially.",
+  "userId": 6,
+  "id": 101
+}
