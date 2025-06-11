@@ -1,0 +1,24 @@
+11.06.2025_01:41:49.369647
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Eye strategy try ability son away artist under nearly.",
+  "body": "Nor particularly create.",
+  "userId": 1
+}
+
+11.06.2025_01:41:49.603462
+RESPONSE
+status code: 201
+json: {
+  "title": "Eye strategy try ability son away artist under nearly.",
+  "body": "Nor particularly create.",
+  "userId": 1,
+  "id": 101
+}
