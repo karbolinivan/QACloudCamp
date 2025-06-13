@@ -1,0 +1,24 @@
+13.06.2025_01:41:27.674416
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Reveal along door test happy take watch number stand blue laugh claim.",
+  "body": "Other condition figure light.",
+  "userId": 7
+}
+
+13.06.2025_01:41:27.732302
+RESPONSE
+status code: 201
+json: {
+  "title": "Reveal along door test happy take watch number stand blue laugh claim.",
+  "body": "Other condition figure light.",
+  "userId": 7,
+  "id": 101
+}
