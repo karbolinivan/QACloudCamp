@@ -1,0 +1,24 @@
+18.06.2025_01:40:58.760917
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "They wear final cold throw tough section example side shoulder as business detail.",
+  "body": "Crime skill forward. Spring side none oil car.",
+  "userId": 5
+}
+
+18.06.2025_01:40:59.008493
+RESPONSE
+status code: 201
+json: {
+  "title": "They wear final cold throw tough section example side shoulder as business detail.",
+  "body": "Crime skill forward. Spring side none oil car.",
+  "userId": 5,
+  "id": 101
+}
