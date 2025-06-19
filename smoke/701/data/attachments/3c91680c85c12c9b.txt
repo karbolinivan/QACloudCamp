@@ -1,0 +1,24 @@
+19.06.2025_01:42:11.471801
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "But style voice style would state whether body.",
+  "body": "Role raise war remember him language.",
+  "userId": 7
+}
+
+19.06.2025_01:42:11.592234
+RESPONSE
+status code: 201
+json: {
+  "title": "But style voice style would state whether body.",
+  "body": "Role raise war remember him language.",
+  "userId": 7,
+  "id": 101
+}

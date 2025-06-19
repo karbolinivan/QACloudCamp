@@ -1,0 +1,24 @@
+19.06.2025_01:42:11.482274
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Hear up choose moment the son strong especially defense garden sit fight discussion.",
+  "body": "Condition near fine truth.",
+  "userId": 2
+}
+
+19.06.2025_01:42:11.591726
+RESPONSE
+status code: 201
+json: {
+  "title": "Hear up choose moment the son strong especially defense garden sit fight discussion.",
+  "body": "Condition near fine truth.",
+  "userId": 2,
+  "id": 101
+}
