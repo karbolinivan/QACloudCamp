@@ -1,0 +1,24 @@
+20.06.2025_01:41:24.017860
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Republican stock usually threat site prepare hot fly manager stuff local resource reveal.",
+  "body": "Successful go responsibility type.",
+  "userId": 9
+}
+
+20.06.2025_01:41:24.251111
+RESPONSE
+status code: 201
+json: {
+  "title": "Republican stock usually threat site prepare hot fly manager stuff local resource reveal.",
+  "body": "Successful go responsibility type.",
+  "userId": 9,
+  "id": 101
+}

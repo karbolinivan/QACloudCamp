@@ -1,0 +1,24 @@
+20.06.2025_01:41:24.018678
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Section determine town exist onto lot walk cup study thing word will girl senior.",
+  "body": "Affect value several heart television others.",
+  "userId": 1
+}
+
+20.06.2025_01:41:24.217617
+RESPONSE
+status code: 201
+json: {
+  "title": "Section determine town exist onto lot walk cup study thing word will girl senior.",
+  "body": "Affect value several heart television others.",
+  "userId": 1,
+  "id": 101
+}
