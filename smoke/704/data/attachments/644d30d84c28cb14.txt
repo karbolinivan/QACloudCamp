@@ -1,0 +1,24 @@
+22.06.2025_01:49:22.337294
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Whose lot quickly man Republican include clearly strategy number.",
+  "body": "Agency situation letter often.",
+  "userId": 3
+}
+
+22.06.2025_01:49:22.465774
+RESPONSE
+status code: 201
+json: {
+  "title": "Whose lot quickly man Republican include clearly strategy number.",
+  "body": "Agency situation letter often.",
+  "userId": 3,
+  "id": 101
+}

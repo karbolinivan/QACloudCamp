@@ -1,0 +1,24 @@
+22.06.2025_01:49:22.329665
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Often doctor travel east four authority site decide by area we.",
+  "body": "Charge want message approach write drug.",
+  "userId": 5
+}
+
+22.06.2025_01:49:22.473192
+RESPONSE
+status code: 201
+json: {
+  "title": "Often doctor travel east four authority site decide by area we.",
+  "body": "Charge want message approach write drug.",
+  "userId": 5,
+  "id": 101
+}
