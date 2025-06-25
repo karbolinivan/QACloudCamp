@@ -1,0 +1,13 @@
+25.06.2025_03:50:07.024381
+REQUEST: GET
+url: https://jsonplaceholder.typicode.com/posts/-1
+headers: null
+cookie: None
+data: None
+params: None
+json: null
+
+25.06.2025_03:50:07.163257
+RESPONSE
+status code: 404
+json: {}
