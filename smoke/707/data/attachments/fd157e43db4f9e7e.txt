@@ -1,0 +1,24 @@
+25.06.2025_01:42:49.423469
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Everything if thank glass image prepare.",
+  "body": "Throw when responsibility into offer.",
+  "userId": 7
+}
+
+25.06.2025_01:42:49.576137
+RESPONSE
+status code: 201
+json: {
+  "title": "Everything if thank glass image prepare.",
+  "body": "Throw when responsibility into offer.",
+  "userId": 7,
+  "id": 101
+}
