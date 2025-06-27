@@ -1,0 +1,24 @@
+27.06.2025_01:42:47.678035
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Technology financial firm soon focus yes also expert religious into.",
+  "body": "Moment over result would thing.",
+  "userId": 6
+}
+
+27.06.2025_01:42:47.732661
+RESPONSE
+status code: 201
+json: {
+  "title": "Technology financial firm soon focus yes also expert religious into.",
+  "body": "Moment over result would thing.",
+  "userId": 6,
+  "id": 101
+}

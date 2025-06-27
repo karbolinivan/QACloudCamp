@@ -1,0 +1,24 @@
+27.06.2025_01:42:47.688784
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Everyone hospital stand factor bank than investment miss total green in within.",
+  "body": "Happen generation against language.",
+  "userId": 6
+}
+
+27.06.2025_01:42:47.738564
+RESPONSE
+status code: 201
+json: {
+  "title": "Everyone hospital stand factor bank than investment miss total green in within.",
+  "body": "Happen generation against language.",
+  "userId": 6,
+  "id": 101
+}
