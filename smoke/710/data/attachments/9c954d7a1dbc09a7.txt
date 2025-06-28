@@ -1,0 +1,24 @@
+28.06.2025_01:38:54.978380
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Other sport arrive seven head policy into person remain method possible least very.",
+  "body": "Career main president thank meeting whom cell.",
+  "userId": 1
+}
+
+28.06.2025_01:38:55.059976
+RESPONSE
+status code: 201
+json: {
+  "title": "Other sport arrive seven head policy into person remain method possible least very.",
+  "body": "Career main president thank meeting whom cell.",
+  "userId": 1,
+  "id": 101
+}

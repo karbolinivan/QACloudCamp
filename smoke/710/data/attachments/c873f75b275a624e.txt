@@ -1,0 +1,24 @@
+28.06.2025_01:38:54.992004
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Word house section maybe ask perhaps in so surface collection either.",
+  "body": "Evening green talk buy front.",
+  "userId": 8
+}
+
+28.06.2025_01:38:55.052090
+RESPONSE
+status code: 201
+json: {
+  "title": "Word house section maybe ask perhaps in so surface collection either.",
+  "body": "Evening green talk buy front.",
+  "userId": 8,
+  "id": 101
+}
