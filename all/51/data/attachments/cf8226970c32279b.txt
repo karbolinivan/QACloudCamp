@@ -1,0 +1,24 @@
+28.06.2025_06:22:59.045107
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Per he finally friend represent contain certainly enjoy last buy travel most.",
+  "body": "Deep different your miss because note second.",
+  "userId": 6
+}
+
+28.06.2025_06:22:59.166209
+RESPONSE
+status code: 201
+json: {
+  "title": "Per he finally friend represent contain certainly enjoy last buy travel most.",
+  "body": "Deep different your miss because note second.",
+  "userId": 6,
+  "id": 101
+}

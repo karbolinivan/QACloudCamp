@@ -1,0 +1,24 @@
+28.06.2025_06:22:59.044604
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Ground citizen their nearly out see.",
+  "body": "Central model back economy citizen face they.",
+  "userId": 6
+}
+
+28.06.2025_06:22:59.187236
+RESPONSE
+status code: 201
+json: {
+  "title": "Ground citizen their nearly out see.",
+  "body": "Central model back economy citizen face they.",
+  "userId": 6,
+  "id": 101
+}
