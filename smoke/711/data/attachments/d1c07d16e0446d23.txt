@@ -1,0 +1,24 @@
+29.06.2025_01:51:17.231888
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Across herself talk here despite effect throughout.",
+  "body": "Main book future area carry.",
+  "userId": 7
+}
+
+29.06.2025_01:51:17.284088
+RESPONSE
+status code: 201
+json: {
+  "title": "Across herself talk here despite effect throughout.",
+  "body": "Main book future area carry.",
+  "userId": 7,
+  "id": 101
+}
