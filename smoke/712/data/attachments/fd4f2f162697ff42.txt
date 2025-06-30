@@ -1,0 +1,24 @@
+30.06.2025_01:47:24.579340
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Eat brother recognize father similar maintain movement from candidate stop.",
+  "body": "Think family black choose. Pull particular care.",
+  "userId": 9
+}
+
+30.06.2025_01:47:24.696570
+RESPONSE
+status code: 201
+json: {
+  "title": "Eat brother recognize father similar maintain movement from candidate stop.",
+  "body": "Think family black choose. Pull particular care.",
+  "userId": 9,
+  "id": 101
+}
