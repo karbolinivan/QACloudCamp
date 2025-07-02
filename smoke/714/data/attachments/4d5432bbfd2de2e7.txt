@@ -1,0 +1,24 @@
+02.07.2025_01:42:30.700438
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Industry medical available go order girl investment ok.",
+  "body": "Message ago reveal before.",
+  "userId": 2
+}
+
+02.07.2025_01:42:30.895633
+RESPONSE
+status code: 201
+json: {
+  "title": "Industry medical available go order girl investment ok.",
+  "body": "Message ago reveal before.",
+  "userId": 2,
+  "id": 101
+}
