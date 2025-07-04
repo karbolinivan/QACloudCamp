@@ -1,0 +1,24 @@
+04.07.2025_01:42:12.595116
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Forward color ball travel out employee west safe require.",
+  "body": "Campaign sound second.",
+  "userId": 7
+}
+
+04.07.2025_01:42:12.718568
+RESPONSE
+status code: 201
+json: {
+  "title": "Forward color ball travel out employee west safe require.",
+  "body": "Campaign sound second.",
+  "userId": 7,
+  "id": 101
+}
