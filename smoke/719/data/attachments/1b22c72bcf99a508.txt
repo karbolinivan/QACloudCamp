@@ -1,0 +1,24 @@
+07.07.2025_01:47:50.318160
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Politics organization run discuss course certainly daughter pressure use about.",
+  "body": "Public decide fire blue turn southern learn.",
+  "userId": 8
+}
+
+07.07.2025_01:47:50.424422
+RESPONSE
+status code: 201
+json: {
+  "title": "Politics organization run discuss course certainly daughter pressure use about.",
+  "body": "Public decide fire blue turn southern learn.",
+  "userId": 8,
+  "id": 101
+}
