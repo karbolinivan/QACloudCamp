@@ -1,0 +1,24 @@
+09.07.2025_01:44:23.712325
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Behavior clear model relationship get group within thing public artist economic carry policy.",
+  "body": "Eat administration east product cultural.",
+  "userId": 2
+}
+
+09.07.2025_01:44:23.870262
+RESPONSE
+status code: 201
+json: {
+  "title": "Behavior clear model relationship get group within thing public artist economic carry policy.",
+  "body": "Eat administration east product cultural.",
+  "userId": 2,
+  "id": 101
+}

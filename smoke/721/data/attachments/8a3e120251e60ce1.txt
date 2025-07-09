@@ -1,0 +1,24 @@
+09.07.2025_01:44:23.704922
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Song front positive agent hot various line mother challenge near tough boy.",
+  "body": "Discover threat attack common whatever.",
+  "userId": 3
+}
+
+09.07.2025_01:44:23.869714
+RESPONSE
+status code: 201
+json: {
+  "title": "Song front positive agent hot various line mother challenge near tough boy.",
+  "body": "Discover threat attack common whatever.",
+  "userId": 3,
+  "id": 101
+}
