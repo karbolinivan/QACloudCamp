@@ -1,0 +1,24 @@
+10.07.2025_01:44:23.495119
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Trade trip who official sport vote finish environment green her future deal enter.",
+  "body": "Response partner artist production.",
+  "userId": 8
+}
+
+10.07.2025_01:44:23.573819
+RESPONSE
+status code: 201
+json: {
+  "title": "Trade trip who official sport vote finish environment green her future deal enter.",
+  "body": "Response partner artist production.",
+  "userId": 8,
+  "id": 101
+}
