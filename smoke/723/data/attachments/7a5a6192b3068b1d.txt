@@ -1,0 +1,24 @@
+11.07.2025_01:45:44.901703
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Whether base me partner from that.",
+  "body": "Town manager image simply gun.",
+  "userId": 1
+}
+
+11.07.2025_01:45:45.178821
+RESPONSE
+status code: 201
+json: {
+  "title": "Whether base me partner from that.",
+  "body": "Town manager image simply gun.",
+  "userId": 1,
+  "id": 101
+}
