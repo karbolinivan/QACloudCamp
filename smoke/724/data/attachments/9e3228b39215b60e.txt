@@ -1,0 +1,24 @@
+12.07.2025_01:47:07.535087
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "List value suggest challenge chair system clearly your gun common both range.",
+  "body": "I customer read tend involve response dinner.",
+  "userId": 8
+}
+
+12.07.2025_01:47:07.628160
+RESPONSE
+status code: 201
+json: {
+  "title": "List value suggest challenge chair system clearly your gun common both range.",
+  "body": "I customer read tend involve response dinner.",
+  "userId": 8,
+  "id": 101
+}
