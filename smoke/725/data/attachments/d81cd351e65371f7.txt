@@ -1,0 +1,24 @@
+13.07.2025_01:54:43.288625
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Office care for future poor relationship local stop stage lose discussion.",
+  "body": "Make total energy official its cause relate.",
+  "userId": 2
+}
+
+13.07.2025_01:54:43.445050
+RESPONSE
+status code: 201
+json: {
+  "title": "Office care for future poor relationship local stop stage lose discussion.",
+  "body": "Make total energy official its cause relate.",
+  "userId": 2,
+  "id": 101
+}
