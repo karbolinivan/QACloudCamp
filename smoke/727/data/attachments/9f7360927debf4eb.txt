@@ -1,0 +1,24 @@
+15.07.2025_01:50:42.988252
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Born ask tax participant one worker north according well resource.",
+  "body": "Stay behind official if national put either mean.",
+  "userId": 1
+}
+
+15.07.2025_01:50:43.079851
+RESPONSE
+status code: 201
+json: {
+  "title": "Born ask tax participant one worker north according well resource.",
+  "body": "Stay behind official if national put either mean.",
+  "userId": 1,
+  "id": 101
+}
