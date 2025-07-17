@@ -1,0 +1,24 @@
+17.07.2025_01:48:02.369937
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Behind difference factor director choose democratic debate line drug religious create.",
+  "body": "Condition new table sound.",
+  "userId": 3
+}
+
+17.07.2025_01:48:02.405599
+RESPONSE
+status code: 201
+json: {
+  "title": "Behind difference factor director choose democratic debate line drug religious create.",
+  "body": "Condition new table sound.",
+  "userId": 3,
+  "id": 101
+}
