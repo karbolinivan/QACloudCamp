@@ -1,0 +1,24 @@
+19.07.2025_01:44:28.235131
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Activity meeting cold with key management response other pattern exactly easy fight hot lose.",
+  "body": "Senior play decide easy hospital.",
+  "userId": 8
+}
+
+19.07.2025_01:44:28.413274
+RESPONSE
+status code: 201
+json: {
+  "title": "Activity meeting cold with key management response other pattern exactly easy fight hot lose.",
+  "body": "Senior play decide easy hospital.",
+  "userId": 8,
+  "id": 101
+}
