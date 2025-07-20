@@ -1,0 +1,24 @@
+20.07.2025_01:55:59.546706
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Book hospital alone certainly event a bit hundred attack part civil south.",
+  "body": "Small measure it beat center difference poor.",
+  "userId": 5
+}
+
+20.07.2025_01:55:59.587474
+RESPONSE
+status code: 201
+json: {
+  "title": "Book hospital alone certainly event a bit hundred attack part civil south.",
+  "body": "Small measure it beat center difference poor.",
+  "userId": 5,
+  "id": 101
+}

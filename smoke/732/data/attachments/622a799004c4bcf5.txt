@@ -1,0 +1,24 @@
+20.07.2025_01:55:59.537770
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Five approach look from produce while hope approach face modern.",
+  "body": "Race edge answer move build generation.",
+  "userId": 8
+}
+
+20.07.2025_01:55:59.592467
+RESPONSE
+status code: 201
+json: {
+  "title": "Five approach look from produce while hope approach face modern.",
+  "body": "Race edge answer move build generation.",
+  "userId": 8,
+  "id": 101
+}
