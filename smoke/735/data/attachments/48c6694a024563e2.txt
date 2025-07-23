@@ -1,0 +1,24 @@
+23.07.2025_01:49:23.216042
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Rest without century clearly fall serious pick police street live mission hold.",
+  "body": "White recognize sing quite short pattern member.",
+  "userId": 6
+}
+
+23.07.2025_01:49:23.355808
+RESPONSE
+status code: 201
+json: {
+  "title": "Rest without century clearly fall serious pick police street live mission hold.",
+  "body": "White recognize sing quite short pattern member.",
+  "userId": 6,
+  "id": 101
+}
