@@ -1,0 +1,24 @@
+24.07.2025_01:48:41.464716
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Whom enter president rule everybody man your security skin mean those.",
+  "body": "Public population effort security house exist.",
+  "userId": 7
+}
+
+24.07.2025_01:48:41.676446
+RESPONSE
+status code: 201
+json: {
+  "title": "Whom enter president rule everybody man your security skin mean those.",
+  "body": "Public population effort security house exist.",
+  "userId": 7,
+  "id": 101
+}
