@@ -1,0 +1,24 @@
+25.07.2025_01:48:08.779683
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Along but song your short community age bring eight.",
+  "body": "World face three gun author his.",
+  "userId": 5
+}
+
+25.07.2025_01:48:08.828148
+RESPONSE
+status code: 201
+json: {
+  "title": "Along but song your short community age bring eight.",
+  "body": "World face three gun author his.",
+  "userId": 5,
+  "id": 101
+}
