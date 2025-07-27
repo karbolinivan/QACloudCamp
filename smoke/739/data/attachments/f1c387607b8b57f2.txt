@@ -1,0 +1,24 @@
+27.07.2025_01:56:51.274226
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Game building car store fish chance be responsibility night.",
+  "body": "Than war ability thousand father audience exist.",
+  "userId": 8
+}
+
+27.07.2025_01:56:51.345287
+RESPONSE
+status code: 201
+json: {
+  "title": "Game building car store fish chance be responsibility night.",
+  "body": "Than war ability thousand father audience exist.",
+  "userId": 8,
+  "id": 101
+}
