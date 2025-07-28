@@ -1,0 +1,24 @@
+28.07.2025_01:55:04.180717
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Short case sister do down high.",
+  "body": "Before serve according senior expert sister.",
+  "userId": 4
+}
+
+28.07.2025_01:55:04.350957
+RESPONSE
+status code: 201
+json: {
+  "title": "Short case sister do down high.",
+  "body": "Before serve according senior expert sister.",
+  "userId": 4,
+  "id": 101
+}

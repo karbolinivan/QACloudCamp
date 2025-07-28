@@ -1,0 +1,24 @@
+28.07.2025_01:55:04.181549
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Answer factor heart upon general take like.",
+  "body": "Part scientist speak impact. Best room something.",
+  "userId": 9
+}
+
+28.07.2025_01:55:04.487706
+RESPONSE
+status code: 201
+json: {
+  "title": "Answer factor heart upon general take like.",
+  "body": "Part scientist speak impact. Best room something.",
+  "userId": 9,
+  "id": 101
+}
