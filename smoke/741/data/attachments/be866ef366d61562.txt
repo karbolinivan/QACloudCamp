@@ -1,0 +1,24 @@
+29.07.2025_02:01:02.852960
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Nothing year this phone economic including role bad despite book together.",
+  "body": "Although about state ago Mrs cost effort.",
+  "userId": 1
+}
+
+29.07.2025_02:01:02.902549
+RESPONSE
+status code: 201
+json: {
+  "title": "Nothing year this phone economic including role bad despite book together.",
+  "body": "Although about state ago Mrs cost effort.",
+  "userId": 1,
+  "id": 101
+}
