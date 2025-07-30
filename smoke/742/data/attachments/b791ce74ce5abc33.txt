@@ -1,0 +1,24 @@
+30.07.2025_01:51:01.930353
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Area skin figure benefit protect form together.",
+  "body": "Government wife area pass particular take.",
+  "userId": 5
+}
+
+30.07.2025_01:51:02.307136
+RESPONSE
+status code: 201
+json: {
+  "title": "Area skin figure benefit protect form together.",
+  "body": "Government wife area pass particular take.",
+  "userId": 5,
+  "id": 101
+}
