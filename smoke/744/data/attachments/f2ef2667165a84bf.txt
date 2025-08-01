@@ -1,0 +1,24 @@
+01.08.2025_02:00:45.741563
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Suggest hotel like little discussion or.",
+  "body": "Stop say former specific control four.",
+  "userId": 1
+}
+
+01.08.2025_02:00:45.856841
+RESPONSE
+status code: 201
+json: {
+  "title": "Suggest hotel like little discussion or.",
+  "body": "Stop say former specific control four.",
+  "userId": 1,
+  "id": 101
+}
