@@ -1,0 +1,24 @@
+05.08.2025_01:53:29.468343
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Go program make part professor government.",
+  "body": "Meeting election property board century bank.",
+  "userId": 4
+}
+
+05.08.2025_01:53:29.641936
+RESPONSE
+status code: 201
+json: {
+  "title": "Go program make part professor government.",
+  "body": "Meeting election property board century bank.",
+  "userId": 4,
+  "id": 101
+}

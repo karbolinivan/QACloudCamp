@@ -1,0 +1,24 @@
+05.08.2025_01:53:29.477313
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Style these boy crime carry other light name worry.",
+  "body": "Will most different color partner dog what.",
+  "userId": 9
+}
+
+05.08.2025_01:53:29.680100
+RESPONSE
+status code: 201
+json: {
+  "title": "Style these boy crime carry other light name worry.",
+  "body": "Will most different color partner dog what.",
+  "userId": 9,
+  "id": 101
+}
