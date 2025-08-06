@@ -1,0 +1,24 @@
+06.08.2025_01:51:38.391858
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Environment society senior market class easy name behind never nice.",
+  "body": "Yet parent seven. Energy reduce in already.",
+  "userId": 8
+}
+
+06.08.2025_01:51:38.452111
+RESPONSE
+status code: 201
+json: {
+  "title": "Environment society senior market class easy name behind never nice.",
+  "body": "Yet parent seven. Energy reduce in already.",
+  "userId": 8,
+  "id": 101
+}
