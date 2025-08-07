@@ -1,0 +1,24 @@
+07.08.2025_01:52:05.085900
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Couple throughout character bed begin scene tough remember happy far mission push interesting.",
+  "body": "Huge suggest if rule price ask place.",
+  "userId": 8
+}
+
+07.08.2025_01:52:05.217501
+RESPONSE
+status code: 201
+json: {
+  "title": "Couple throughout character bed begin scene tough remember happy far mission push interesting.",
+  "body": "Huge suggest if rule price ask place.",
+  "userId": 8,
+  "id": 101
+}

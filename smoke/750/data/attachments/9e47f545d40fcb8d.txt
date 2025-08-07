@@ -1,0 +1,24 @@
+07.08.2025_01:52:05.086915
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Maintain month box write line similar woman situation care.",
+  "body": "Hand need once despite bar turn.",
+  "userId": 6
+}
+
+07.08.2025_01:52:05.177479
+RESPONSE
+status code: 201
+json: {
+  "title": "Maintain month box write line similar woman situation care.",
+  "body": "Hand need once despite bar turn.",
+  "userId": 6,
+  "id": 101
+}
