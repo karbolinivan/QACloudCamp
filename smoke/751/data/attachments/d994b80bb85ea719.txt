@@ -1,0 +1,24 @@
+08.08.2025_01:51:32.011796
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Surface trip think care add garden else near series argue medical.",
+  "body": "Eight born wide raise ready must.",
+  "userId": 4
+}
+
+08.08.2025_01:51:32.163597
+RESPONSE
+status code: 201
+json: {
+  "title": "Surface trip think care add garden else near series argue medical.",
+  "body": "Eight born wide raise ready must.",
+  "userId": 4,
+  "id": 101
+}

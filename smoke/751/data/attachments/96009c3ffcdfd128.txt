@@ -1,0 +1,24 @@
+08.08.2025_01:51:32.002861
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Off college organization mission figure dark beat meet certain stage vote structure special.",
+  "body": "Near for example because worker.",
+  "userId": 4
+}
+
+08.08.2025_01:51:32.172190
+RESPONSE
+status code: 201
+json: {
+  "title": "Off college organization mission figure dark beat meet certain stage vote structure special.",
+  "body": "Near for example because worker.",
+  "userId": 4,
+  "id": 101
+}
