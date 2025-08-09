@@ -1,0 +1,24 @@
+09.08.2025_01:41:41.855570
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Feel edge individual this year authority establish.",
+  "body": "Cultural paper two loss generation.",
+  "userId": 8
+}
+
+09.08.2025_01:41:41.946525
+RESPONSE
+status code: 201
+json: {
+  "title": "Feel edge individual this year authority establish.",
+  "body": "Cultural paper two loss generation.",
+  "userId": 8,
+  "id": 101
+}
