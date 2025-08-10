@@ -1,0 +1,24 @@
+10.08.2025_01:54:57.614511
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Send fall per natural treat state.",
+  "body": "Quite animal bring million size everything idea.",
+  "userId": 2
+}
+
+10.08.2025_01:54:57.707471
+RESPONSE
+status code: 201
+json: {
+  "title": "Send fall per natural treat state.",
+  "body": "Quite animal bring million size everything idea.",
+  "userId": 2,
+  "id": 101
+}
