@@ -1,0 +1,24 @@
+12.08.2025_01:41:05.702276
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Threat song interest hotel college next or total some small.",
+  "body": "Himself guy mission beat.",
+  "userId": 4
+}
+
+12.08.2025_01:41:05.746071
+RESPONSE
+status code: 201
+json: {
+  "title": "Threat song interest hotel college next or total some small.",
+  "body": "Himself guy mission beat.",
+  "userId": 4,
+  "id": 101
+}
