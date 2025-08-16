@@ -1,0 +1,24 @@
+16.08.2025_01:38:48.851942
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Surface magazine table stop decade learn identify.",
+  "body": "Road smile performance. Official along or.",
+  "userId": 3
+}
+
+16.08.2025_01:38:49.103012
+RESPONSE
+status code: 201
+json: {
+  "title": "Surface magazine table stop decade learn identify.",
+  "body": "Road smile performance. Official along or.",
+  "userId": 3,
+  "id": 101
+}

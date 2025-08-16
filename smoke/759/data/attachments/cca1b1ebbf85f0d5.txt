@@ -1,0 +1,24 @@
+16.08.2025_01:38:48.844188
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Single point again late enter window learn age everything race coach.",
+  "body": "Class Mrs produce staff.",
+  "userId": 7
+}
+
+16.08.2025_01:38:49.121919
+RESPONSE
+status code: 201
+json: {
+  "title": "Single point again late enter window learn age everything race coach.",
+  "body": "Class Mrs produce staff.",
+  "userId": 7,
+  "id": 101
+}
