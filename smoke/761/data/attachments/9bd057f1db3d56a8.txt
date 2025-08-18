@@ -1,0 +1,24 @@
+18.08.2025_01:49:35.102919
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Statement hot whether share beyond peace usually record allow already.",
+  "body": "Sign gun reduce hair together rate.",
+  "userId": 1
+}
+
+18.08.2025_01:49:35.336396
+RESPONSE
+status code: 201
+json: {
+  "title": "Statement hot whether share beyond peace usually record allow already.",
+  "body": "Sign gun reduce hair together rate.",
+  "userId": 1,
+  "id": 101
+}
