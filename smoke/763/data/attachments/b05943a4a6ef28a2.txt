@@ -1,0 +1,24 @@
+20.08.2025_01:28:28.279941
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Thank reason site some when dark claim able room only hour.",
+  "body": "Charge actually sell Congress.",
+  "userId": 7
+}
+
+20.08.2025_01:28:28.520933
+RESPONSE
+status code: 201
+json: {
+  "title": "Thank reason site some when dark claim able room only hour.",
+  "body": "Charge actually sell Congress.",
+  "userId": 7,
+  "id": 101
+}

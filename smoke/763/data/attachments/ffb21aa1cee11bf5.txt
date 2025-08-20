@@ -1,0 +1,24 @@
+20.08.2025_01:28:28.287571
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Senior officer still kitchen least however.",
+  "body": "Protect kid again activity.",
+  "userId": 6
+}
+
+20.08.2025_01:28:28.513522
+RESPONSE
+status code: 201
+json: {
+  "title": "Senior officer still kitchen least however.",
+  "body": "Protect kid again activity.",
+  "userId": 6,
+  "id": 101
+}

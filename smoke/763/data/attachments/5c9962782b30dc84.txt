@@ -1,0 +1,24 @@
+20.08.2025_01:28:28.288209
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Quite blue every wide can arm rise remain what have.",
+  "body": "Follow establish hand service.",
+  "userId": 6
+}
+
+20.08.2025_01:28:28.811657
+RESPONSE
+status code: 201
+json: {
+  "title": "Quite blue every wide can arm rise remain what have.",
+  "body": "Follow establish hand service.",
+  "userId": 6,
+  "id": 101
+}
