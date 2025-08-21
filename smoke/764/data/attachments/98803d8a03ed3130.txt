@@ -1,0 +1,24 @@
+21.08.2025_01:27:45.768346
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Gun poor piece seat method campaign.",
+  "body": "Cover center recent certainly professional.",
+  "userId": 1
+}
+
+21.08.2025_01:27:45.996919
+RESPONSE
+status code: 201
+json: {
+  "title": "Gun poor piece seat method campaign.",
+  "body": "Cover center recent certainly professional.",
+  "userId": 1,
+  "id": 101
+}

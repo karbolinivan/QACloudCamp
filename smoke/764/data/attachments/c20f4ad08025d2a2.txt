@@ -1,0 +1,24 @@
+21.08.2025_01:27:45.761436
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Top guess product total image could place green.",
+  "body": "Individual check third you company possible.",
+  "userId": 6
+}
+
+21.08.2025_01:27:45.921226
+RESPONSE
+status code: 201
+json: {
+  "title": "Top guess product total image could place green.",
+  "body": "Individual check third you company possible.",
+  "userId": 6,
+  "id": 101
+}

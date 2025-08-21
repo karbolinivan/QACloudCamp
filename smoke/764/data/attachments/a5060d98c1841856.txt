@@ -1,0 +1,24 @@
+21.08.2025_01:27:45.768148
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "About specific well level number world just visit myself note fire available.",
+  "body": "Rate who near trouble.",
+  "userId": 2
+}
+
+21.08.2025_01:27:45.922143
+RESPONSE
+status code: 201
+json: {
+  "title": "About specific well level number world just visit myself note fire available.",
+  "body": "Rate who near trouble.",
+  "userId": 2,
+  "id": 101
+}
