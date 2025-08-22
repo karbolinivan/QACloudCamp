@@ -1,0 +1,24 @@
+22.08.2025_01:28:07.710841
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Before west responsibility message system top ready best.",
+  "body": "Cup water teach even world.",
+  "userId": 5
+}
+
+22.08.2025_01:28:08.219871
+RESPONSE
+status code: 201
+json: {
+  "title": "Before west responsibility message system top ready best.",
+  "body": "Cup water teach even world.",
+  "userId": 5,
+  "id": 101
+}
