@@ -1,0 +1,24 @@
+23.08.2025_01:26:02.594464
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Down hotel fear bad good institution appear though process whole.",
+  "body": "Person idea member little reason college fast.",
+  "userId": 4
+}
+
+23.08.2025_01:26:02.817438
+RESPONSE
+status code: 201
+json: {
+  "title": "Down hotel fear bad good institution appear though process whole.",
+  "body": "Person idea member little reason college fast.",
+  "userId": 4,
+  "id": 101
+}

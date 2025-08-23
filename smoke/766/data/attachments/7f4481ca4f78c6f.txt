@@ -1,0 +1,24 @@
+23.08.2025_01:26:02.585664
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Draw over candidate music themselves how ability become skin.",
+  "body": "Responsibility own bank other.",
+  "userId": 6
+}
+
+23.08.2025_01:26:02.755006
+RESPONSE
+status code: 201
+json: {
+  "title": "Draw over candidate music themselves how ability become skin.",
+  "body": "Responsibility own bank other.",
+  "userId": 6,
+  "id": 101
+}
