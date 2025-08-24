@@ -1,0 +1,24 @@
+24.08.2025_01:45:20.600394
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "A others rate early section direction red but work.",
+  "body": "Role ability network skin vote human politics.",
+  "userId": 3
+}
+
+24.08.2025_01:45:20.790335
+RESPONSE
+status code: 201
+json: {
+  "title": "A others rate early section direction red but work.",
+  "body": "Role ability network skin vote human politics.",
+  "userId": 3,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+24.08.2025_01:45:20.607308
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Agreement outside nearly available poor thank prove activity.",
+  "body": "Bit sell tough cause animal understand.",
+  "userId": 9
+}
+
+24.08.2025_01:45:20.765240
+RESPONSE
+status code: 201
+json: {
+  "title": "Agreement outside nearly available poor thank prove activity.",
+  "body": "Bit sell tough cause animal understand.",
+  "userId": 9,
+  "id": 101
+}
