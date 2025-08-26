@@ -1,0 +1,24 @@
+26.08.2025_01:37:19.998524
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Total last win college tend put say.",
+  "body": "Choose age sign cover.",
+  "userId": 9
+}
+
+26.08.2025_01:37:20.366989
+RESPONSE
+status code: 201
+json: {
+  "title": "Total last win college tend put say.",
+  "body": "Choose age sign cover.",
+  "userId": 9,
+  "id": 101
+}
