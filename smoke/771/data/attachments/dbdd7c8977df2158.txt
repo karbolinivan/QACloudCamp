@@ -1,0 +1,24 @@
+28.08.2025_01:25:45.055491
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Black star live technology book already two above research chance manager class down.",
+  "body": "Effort performance present growth.",
+  "userId": 2
+}
+
+28.08.2025_01:25:45.353359
+RESPONSE
+status code: 201
+json: {
+  "title": "Black star live technology book already two above research chance manager class down.",
+  "body": "Effort performance present growth.",
+  "userId": 2,
+  "id": 101
+}
