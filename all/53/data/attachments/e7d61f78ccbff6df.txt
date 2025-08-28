@@ -1,0 +1,24 @@
+28.08.2025_06:25:14.616294
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Lay thousand whether answer simply job listen.",
+  "body": "Right teach effort.",
+  "userId": 8
+}
+
+28.08.2025_06:25:14.842328
+RESPONSE
+status code: 201
+json: {
+  "title": "Lay thousand whether answer simply job listen.",
+  "body": "Right teach effort.",
+  "userId": 8,
+  "id": 101
+}

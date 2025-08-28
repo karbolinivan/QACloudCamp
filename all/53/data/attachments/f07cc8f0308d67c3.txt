@@ -1,0 +1,24 @@
+28.08.2025_06:25:14.617132
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Simply while trade perform defense common usually relate development thing blue age.",
+  "body": "Decade box response charge section.",
+  "userId": 4
+}
+
+28.08.2025_06:25:14.911451
+RESPONSE
+status code: 201
+json: {
+  "title": "Simply while trade perform defense common usually relate development thing blue age.",
+  "body": "Decade box response charge section.",
+  "userId": 4,
+  "id": 101
+}
