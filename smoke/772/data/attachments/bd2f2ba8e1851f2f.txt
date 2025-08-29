@@ -1,0 +1,24 @@
+29.08.2025_01:25:57.684437
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Rather maybe rock age radio board consumer ability benefit choice.",
+  "body": "Else cell condition.",
+  "userId": 8
+}
+
+29.08.2025_01:25:57.804468
+RESPONSE
+status code: 201
+json: {
+  "title": "Rather maybe rock age radio board consumer ability benefit choice.",
+  "body": "Else cell condition.",
+  "userId": 8,
+  "id": 101
+}
