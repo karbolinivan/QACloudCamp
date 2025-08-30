@@ -1,0 +1,24 @@
+30.08.2025_01:21:43.905600
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Team cost amount practice firm throw sit prepare figure.",
+  "body": "Guy but wide how cup.",
+  "userId": 6
+}
+
+30.08.2025_01:21:44.043510
+RESPONSE
+status code: 201
+json: {
+  "title": "Team cost amount practice firm throw sit prepare figure.",
+  "body": "Guy but wide how cup.",
+  "userId": 6,
+  "id": 101
+}
