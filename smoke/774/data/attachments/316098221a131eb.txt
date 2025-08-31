@@ -1,0 +1,24 @@
+31.08.2025_01:38:20.183114
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Career however agree interesting say hot sort answer everybody my response blood.",
+  "body": "Feeling eight paper everybody its him follow.",
+  "userId": 1
+}
+
+31.08.2025_01:38:20.403226
+RESPONSE
+status code: 201
+json: {
+  "title": "Career however agree interesting say hot sort answer everybody my response blood.",
+  "body": "Feeling eight paper everybody its him follow.",
+  "userId": 1,
+  "id": 101
+}
