@@ -1,0 +1,24 @@
+02.09.2025_01:27:06.903686
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Green soon special individual course trouble.",
+  "body": "Kind before eight number simple among mouth.",
+  "userId": 2
+}
+
+02.09.2025_01:27:07.015587
+RESPONSE
+status code: 201
+json: {
+  "title": "Green soon special individual course trouble.",
+  "body": "Kind before eight number simple among mouth.",
+  "userId": 2,
+  "id": 101
+}

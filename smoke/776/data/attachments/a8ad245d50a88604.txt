@@ -1,0 +1,24 @@
+02.09.2025_01:27:06.912300
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Issue yourself job much performance keep between everybody son region such police.",
+  "body": "Memory probably star box cover away voice.",
+  "userId": 4
+}
+
+02.09.2025_01:27:06.970664
+RESPONSE
+status code: 201
+json: {
+  "title": "Issue yourself job much performance keep between everybody son region such police.",
+  "body": "Memory probably star box cover away voice.",
+  "userId": 4,
+  "id": 101
+}
