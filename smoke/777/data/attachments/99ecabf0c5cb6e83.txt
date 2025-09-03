@@ -1,0 +1,24 @@
+03.09.2025_01:21:47.625433
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Stock century speak important officer bank.",
+  "body": "Run choice product say determine hotel behavior.",
+  "userId": 9
+}
+
+03.09.2025_01:21:47.929214
+RESPONSE
+status code: 201
+json: {
+  "title": "Stock century speak important officer bank.",
+  "body": "Run choice product say determine hotel behavior.",
+  "userId": 9,
+  "id": 101
+}
