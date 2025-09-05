@@ -1,0 +1,24 @@
+05.09.2025_01:24:19.122942
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Discover agency performance bill cut career financial sing same particular someone when.",
+  "body": "Try thus gas college nation among scientist.",
+  "userId": 9
+}
+
+05.09.2025_01:24:19.272027
+RESPONSE
+status code: 201
+json: {
+  "title": "Discover agency performance bill cut career financial sing same particular someone when.",
+  "body": "Try thus gas college nation among scientist.",
+  "userId": 9,
+  "id": 101
+}
