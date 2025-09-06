@@ -1,0 +1,24 @@
+06.09.2025_01:21:36.262321
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Sit power she black career push change discover.",
+  "body": "Realize possible follow second run subject.",
+  "userId": 5
+}
+
+06.09.2025_01:21:36.676421
+RESPONSE
+status code: 201
+json: {
+  "title": "Sit power she black career push change discover.",
+  "body": "Realize possible follow second run subject.",
+  "userId": 5,
+  "id": 101
+}
