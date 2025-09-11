@@ -1,0 +1,24 @@
+11.09.2025_01:24:57.004486
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Some style stuff knowledge quite into short thank Congress star party us standard.",
+  "body": "Ten east of kind interest.",
+  "userId": 5
+}
+
+11.09.2025_01:24:57.181373
+RESPONSE
+status code: 201
+json: {
+  "title": "Some style stuff knowledge quite into short thank Congress star party us standard.",
+  "body": "Ten east of kind interest.",
+  "userId": 5,
+  "id": 101
+}
