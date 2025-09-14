@@ -1,0 +1,24 @@
+14.09.2025_01:35:37.625299
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Surface interview ability stage figure person rest message note speech avoid.",
+  "body": "More indeed learn site city address.",
+  "userId": 4
+}
+
+14.09.2025_01:35:37.884440
+RESPONSE
+status code: 201
+json: {
+  "title": "Surface interview ability stage figure person rest message note speech avoid.",
+  "body": "More indeed learn site city address.",
+  "userId": 4,
+  "id": 101
+}
