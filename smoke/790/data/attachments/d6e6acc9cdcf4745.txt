@@ -1,0 +1,24 @@
+16.09.2025_01:22:27.119945
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "People history prove on last movie choice food number woman manager center gun.",
+  "body": "Talk evidence do whether officer.",
+  "userId": 1
+}
+
+16.09.2025_01:22:27.260869
+RESPONSE
+status code: 201
+json: {
+  "title": "People history prove on last movie choice food number woman manager center gun.",
+  "body": "Talk evidence do whether officer.",
+  "userId": 1,
+  "id": 101
+}
