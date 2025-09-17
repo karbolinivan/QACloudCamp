@@ -1,0 +1,24 @@
+17.09.2025_01:22:32.636219
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Class hit change leg answer national.",
+  "body": "Beyond data modern first positive provide action.",
+  "userId": 1
+}
+
+17.09.2025_01:22:32.791802
+RESPONSE
+status code: 201
+json: {
+  "title": "Class hit change leg answer national.",
+  "body": "Beyond data modern first positive provide action.",
+  "userId": 1,
+  "id": 101
+}
