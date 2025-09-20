@@ -1,0 +1,24 @@
+20.09.2025_01:21:01.003330
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "End able score yard describe final although indeed reason.",
+  "body": "Friend certain condition individual.",
+  "userId": 1
+}
+
+20.09.2025_01:21:01.249453
+RESPONSE
+status code: 201
+json: {
+  "title": "End able score yard describe final although indeed reason.",
+  "body": "Friend certain condition individual.",
+  "userId": 1,
+  "id": 101
+}
