@@ -1,0 +1,24 @@
+21.09.2025_01:38:25.937845
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Then thing give to class southern whole short with doctor we final energy.",
+  "body": "Meeting foot effort check.",
+  "userId": 8
+}
+
+21.09.2025_01:38:26.060401
+RESPONSE
+status code: 201
+json: {
+  "title": "Then thing give to class southern whole short with doctor we final energy.",
+  "body": "Meeting foot effort check.",
+  "userId": 8,
+  "id": 101
+}

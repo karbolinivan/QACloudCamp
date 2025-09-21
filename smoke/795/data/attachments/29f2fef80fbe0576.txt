@@ -1,0 +1,24 @@
+21.09.2025_01:38:25.939221
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Stock another property area lot yourself field entire.",
+  "body": "Figure his wait party return look.",
+  "userId": 1
+}
+
+21.09.2025_01:38:26.068763
+RESPONSE
+status code: 201
+json: {
+  "title": "Stock another property area lot yourself field entire.",
+  "body": "Figure his wait party return look.",
+  "userId": 1,
+  "id": 101
+}
