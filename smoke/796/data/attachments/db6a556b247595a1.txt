@@ -1,0 +1,24 @@
+22.09.2025_01:38:42.991256
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Game knowledge system skin daughter decide.",
+  "body": "Involve cause staff maintain teach age.",
+  "userId": 1
+}
+
+22.09.2025_01:38:43.083085
+RESPONSE
+status code: 201
+json: {
+  "title": "Game knowledge system skin daughter decide.",
+  "body": "Involve cause staff maintain teach age.",
+  "userId": 1,
+  "id": 101
+}
