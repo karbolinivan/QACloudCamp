@@ -1,0 +1,24 @@
+23.09.2025_01:23:06.365214
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Chance himself unit suggest own soon score different degree financial drug account.",
+  "body": "Anything compare once indicate traditional.",
+  "userId": 1
+}
+
+23.09.2025_01:23:06.458124
+RESPONSE
+status code: 201
+json: {
+  "title": "Chance himself unit suggest own soon score different degree financial drug account.",
+  "body": "Anything compare once indicate traditional.",
+  "userId": 1,
+  "id": 101
+}
