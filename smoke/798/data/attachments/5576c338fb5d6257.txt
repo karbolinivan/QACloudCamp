@@ -1,0 +1,24 @@
+24.09.2025_01:23:35.241341
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Computer together their pretty surface century remember company water teach.",
+  "body": "Quite while poor. Wait home arm face high price.",
+  "userId": 1
+}
+
+24.09.2025_01:23:35.441230
+RESPONSE
+status code: 201
+json: {
+  "title": "Computer together their pretty surface century remember company water teach.",
+  "body": "Quite while poor. Wait home arm face high price.",
+  "userId": 1,
+  "id": 101
+}

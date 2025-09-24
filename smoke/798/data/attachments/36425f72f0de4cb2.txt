@@ -1,0 +1,24 @@
+24.09.2025_01:23:35.237222
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Yeah speech million or nearly their kind.",
+  "body": "Key clearly least.",
+  "userId": 1
+}
+
+24.09.2025_01:23:35.459235
+RESPONSE
+status code: 201
+json: {
+  "title": "Yeah speech million or nearly their kind.",
+  "body": "Key clearly least.",
+  "userId": 1,
+  "id": 101
+}
