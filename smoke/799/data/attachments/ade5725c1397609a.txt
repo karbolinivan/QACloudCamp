@@ -1,0 +1,24 @@
+25.09.2025_01:24:30.476949
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Indicate common people similar make recently.",
+  "body": "Investment dog your performance three same.",
+  "userId": 6
+}
+
+25.09.2025_01:24:30.579243
+RESPONSE
+status code: 201
+json: {
+  "title": "Indicate common people similar make recently.",
+  "body": "Investment dog your performance three same.",
+  "userId": 6,
+  "id": 101
+}
