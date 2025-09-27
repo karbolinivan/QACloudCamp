@@ -1,0 +1,24 @@
+27.09.2025_01:20:39.933736
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Ago song heart eat effect thousand couple.",
+  "body": "Area nor yes yard think free.",
+  "userId": 5
+}
+
+27.09.2025_01:20:40.050201
+RESPONSE
+status code: 201
+json: {
+  "title": "Ago song heart eat effect thousand couple.",
+  "body": "Area nor yes yard think free.",
+  "userId": 5,
+  "id": 101
+}
