@@ -1,0 +1,24 @@
+28.09.2025_01:39:28.116719
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Class open writer enter significant operation night to big.",
+  "body": "Shoulder huge white bag. There I instead.",
+  "userId": 2
+}
+
+28.09.2025_01:39:28.214032
+RESPONSE
+status code: 201
+json: {
+  "title": "Class open writer enter significant operation night to big.",
+  "body": "Shoulder huge white bag. There I instead.",
+  "userId": 2,
+  "id": 101
+}
