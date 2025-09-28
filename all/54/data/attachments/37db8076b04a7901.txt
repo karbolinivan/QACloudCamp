@@ -1,0 +1,24 @@
+28.09.2025_06:22:26.261349
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Wall air friend whom head information bad suddenly common real prove live natural.",
+  "body": "Where character range perhaps.",
+  "userId": 5
+}
+
+28.09.2025_06:22:26.411698
+RESPONSE
+status code: 201
+json: {
+  "title": "Wall air friend whom head information bad suddenly common real prove live natural.",
+  "body": "Where character range perhaps.",
+  "userId": 5,
+  "id": 101
+}

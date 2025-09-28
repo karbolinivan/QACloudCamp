@@ -1,0 +1,24 @@
+28.09.2025_06:22:26.265896
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Him laugh fact anything open hour skill.",
+  "body": "Within certainly month lot matter oil identify.",
+  "userId": 6
+}
+
+28.09.2025_06:22:26.417223
+RESPONSE
+status code: 201
+json: {
+  "title": "Him laugh fact anything open hour skill.",
+  "body": "Within certainly month lot matter oil identify.",
+  "userId": 6,
+  "id": 101
+}
