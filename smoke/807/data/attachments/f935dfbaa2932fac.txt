@@ -1,0 +1,24 @@
+03.10.2025_01:22:15.711145
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Identify worker leg nice citizen real everybody necessary popular present.",
+  "body": "Dark officer rock news run.",
+  "userId": 2
+}
+
+03.10.2025_01:22:15.945964
+RESPONSE
+status code: 201
+json: {
+  "title": "Identify worker leg nice citizen real everybody necessary popular present.",
+  "body": "Dark officer rock news run.",
+  "userId": 2,
+  "id": 101
+}
