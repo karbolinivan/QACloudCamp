@@ -1,0 +1,24 @@
+05.10.2025_01:38:20.729601
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Theory cover agreement employee effect decision management responsibility letter despite station appear as.",
+  "body": "Bad fund building politics.",
+  "userId": 5
+}
+
+05.10.2025_01:38:20.842446
+RESPONSE
+status code: 201
+json: {
+  "title": "Theory cover agreement employee effect decision management responsibility letter despite station appear as.",
+  "body": "Bad fund building politics.",
+  "userId": 5,
+  "id": 101
+}

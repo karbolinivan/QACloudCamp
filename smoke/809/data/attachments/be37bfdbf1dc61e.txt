@@ -1,0 +1,24 @@
+05.10.2025_01:38:20.739201
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Perhaps develop choose area pattern least air open thousand.",
+  "body": "Explain see our thus investment.",
+  "userId": 9
+}
+
+05.10.2025_01:38:20.837091
+RESPONSE
+status code: 201
+json: {
+  "title": "Perhaps develop choose area pattern least air open thousand.",
+  "body": "Explain see our thus investment.",
+  "userId": 9,
+  "id": 101
+}
