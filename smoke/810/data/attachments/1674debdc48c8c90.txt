@@ -1,0 +1,24 @@
+06.10.2025_01:24:58.526041
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Brother help control drive only already leader card truth.",
+  "body": "Choose girl decade allow especially apply.",
+  "userId": 9
+}
+
+06.10.2025_01:24:58.822660
+RESPONSE
+status code: 201
+json: {
+  "title": "Brother help control drive only already leader card truth.",
+  "body": "Choose girl decade allow especially apply.",
+  "userId": 9,
+  "id": 101
+}
