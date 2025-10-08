@@ -1,0 +1,24 @@
+08.10.2025_01:23:47.283701
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Anything support pattern agent two them particular traditional return least finally indeed along.",
+  "body": "Among fire staff lay watch.",
+  "userId": 2
+}
+
+08.10.2025_01:23:47.441132
+RESPONSE
+status code: 201
+json: {
+  "title": "Anything support pattern agent two them particular traditional return least finally indeed along.",
+  "body": "Among fire staff lay watch.",
+  "userId": 2,
+  "id": 101
+}
