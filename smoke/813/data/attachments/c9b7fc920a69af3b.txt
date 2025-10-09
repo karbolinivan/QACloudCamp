@@ -1,0 +1,24 @@
+09.10.2025_01:23:58.957200
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Themselves summer our east than believe.",
+  "body": "Happy beat traditional. Book tax my expert.",
+  "userId": 7
+}
+
+09.10.2025_01:23:59.051898
+RESPONSE
+status code: 201
+json: {
+  "title": "Themselves summer our east than believe.",
+  "body": "Happy beat traditional. Book tax my expert.",
+  "userId": 7,
+  "id": 101
+}
