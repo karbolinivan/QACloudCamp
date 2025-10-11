@@ -1,0 +1,24 @@
+11.10.2025_01:21:10.063671
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fact sea care often someone up change government study hard high could.",
+  "body": "Attack bag happen outside.",
+  "userId": 1
+}
+
+11.10.2025_01:21:10.122506
+RESPONSE
+status code: 201
+json: {
+  "title": "Fact sea care often someone up change government study hard high could.",
+  "body": "Attack bag happen outside.",
+  "userId": 1,
+  "id": 101
+}
