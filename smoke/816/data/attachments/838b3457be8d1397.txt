@@ -1,0 +1,24 @@
+12.10.2025_01:27:49.294900
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Later shake beautiful show chance pass yard family color since approach.",
+  "body": "Protect argue your others hot order.",
+  "userId": 4
+}
+
+12.10.2025_01:27:49.409757
+RESPONSE
+status code: 201
+json: {
+  "title": "Later shake beautiful show chance pass yard family color since approach.",
+  "body": "Protect argue your others hot order.",
+  "userId": 4,
+  "id": 101
+}
