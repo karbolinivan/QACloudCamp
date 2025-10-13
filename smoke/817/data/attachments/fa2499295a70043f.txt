@@ -1,0 +1,24 @@
+13.10.2025_01:38:09.960903
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fast game walk improve remain financial stage economy.",
+  "body": "Third different impact century government.",
+  "userId": 7
+}
+
+13.10.2025_01:38:10.089840
+RESPONSE
+status code: 201
+json: {
+  "title": "Fast game walk improve remain financial stage economy.",
+  "body": "Third different impact century government.",
+  "userId": 7,
+  "id": 101
+}
