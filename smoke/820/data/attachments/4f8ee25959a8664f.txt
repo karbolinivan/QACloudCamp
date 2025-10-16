@@ -1,0 +1,24 @@
+16.10.2025_01:25:35.074724
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Friend we hear so trouble discussion school thing company every whatever story conference.",
+  "body": "Series eight evidence push structure.",
+  "userId": 4
+}
+
+16.10.2025_01:25:35.280046
+RESPONSE
+status code: 201
+json: {
+  "title": "Friend we hear so trouble discussion school thing company every whatever story conference.",
+  "body": "Series eight evidence push structure.",
+  "userId": 4,
+  "id": 101
+}

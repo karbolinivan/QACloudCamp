@@ -1,0 +1,24 @@
+16.10.2025_01:25:35.073913
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Since end near play ground after seem only feel.",
+  "body": "War quite development crime short.",
+  "userId": 7
+}
+
+16.10.2025_01:25:35.273780
+RESPONSE
+status code: 201
+json: {
+  "title": "Since end near play ground after seem only feel.",
+  "body": "War quite development crime short.",
+  "userId": 7,
+  "id": 101
+}
