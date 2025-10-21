@@ -1,0 +1,24 @@
+21.10.2025_01:27:40.693467
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Attention well involve evening certain always.",
+  "body": "Success for health behind civil hold simply.",
+  "userId": 3
+}
+
+21.10.2025_01:27:40.842161
+RESPONSE
+status code: 201
+json: {
+  "title": "Attention well involve evening certain always.",
+  "body": "Success for health behind civil hold simply.",
+  "userId": 3,
+  "id": 101
+}
