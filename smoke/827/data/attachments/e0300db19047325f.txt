@@ -1,0 +1,24 @@
+23.10.2025_01:27:08.244283
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Huge economic environment race fast sure water save.",
+  "body": "Real bill accept particular draw continue music.",
+  "userId": 5
+}
+
+23.10.2025_01:27:08.314230
+RESPONSE
+status code: 201
+json: {
+  "title": "Huge economic environment race fast sure water save.",
+  "body": "Real bill accept particular draw continue music.",
+  "userId": 5,
+  "id": 101
+}
