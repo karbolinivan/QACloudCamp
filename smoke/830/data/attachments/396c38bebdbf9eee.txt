@@ -1,0 +1,24 @@
+26.10.2025_01:39:52.830437
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "A break during TV inside indicate.",
+  "body": "Respond kitchen which rest.",
+  "userId": 8
+}
+
+26.10.2025_01:39:52.918595
+RESPONSE
+status code: 201
+json: {
+  "title": "A break during TV inside indicate.",
+  "body": "Respond kitchen which rest.",
+  "userId": 8,
+  "id": 101
+}
