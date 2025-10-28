@@ -1,0 +1,24 @@
+28.10.2025_06:26:55.997848
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Scene PM free country Mr become collection.",
+  "body": "Board feeling customer.",
+  "userId": 2
+}
+
+28.10.2025_06:26:56.061369
+RESPONSE
+status code: 201
+json: {
+  "title": "Scene PM free country Mr become collection.",
+  "body": "Board feeling customer.",
+  "userId": 2,
+  "id": 101
+}

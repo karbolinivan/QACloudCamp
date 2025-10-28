@@ -1,0 +1,24 @@
+28.10.2025_06:26:55.991126
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Human view simply song physical to however science head health.",
+  "body": "Appear movement dark air magazine.",
+  "userId": 4
+}
+
+28.10.2025_06:26:56.088077
+RESPONSE
+status code: 201
+json: {
+  "title": "Human view simply song physical to however science head health.",
+  "body": "Appear movement dark air magazine.",
+  "userId": 4,
+  "id": 101
+}
