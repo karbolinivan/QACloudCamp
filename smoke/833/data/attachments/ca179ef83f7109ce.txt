@@ -1,0 +1,24 @@
+29.10.2025_01:40:21.334786
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Skill bad reflect best wait sell create gas officer like cup visit.",
+  "body": "Later type already.",
+  "userId": 5
+}
+
+29.10.2025_01:40:21.468637
+RESPONSE
+status code: 201
+json: {
+  "title": "Skill bad reflect best wait sell create gas officer like cup visit.",
+  "body": "Later type already.",
+  "userId": 5,
+  "id": 101
+}
