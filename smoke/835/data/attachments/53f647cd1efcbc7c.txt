@@ -1,0 +1,24 @@
+31.10.2025_01:28:33.324548
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "North author even today character second new special increase safe.",
+  "body": "Great church standard partner account style rate.",
+  "userId": 1
+}
+
+31.10.2025_01:28:33.382080
+RESPONSE
+status code: 201
+json: {
+  "title": "North author even today character second new special increase safe.",
+  "body": "Great church standard partner account style rate.",
+  "userId": 1,
+  "id": 101
+}
