@@ -1,0 +1,24 @@
+01.11.2025_01:40:32.781571
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Rule effect responsibility watch into ago everybody ready situation above where industry.",
+  "body": "Suddenly he station industry research great.",
+  "userId": 9
+}
+
+01.11.2025_01:40:32.838131
+RESPONSE
+status code: 201
+json: {
+  "title": "Rule effect responsibility watch into ago everybody ready situation above where industry.",
+  "body": "Suddenly he station industry research great.",
+  "userId": 9,
+  "id": 101
+}
