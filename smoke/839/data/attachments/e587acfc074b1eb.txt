@@ -1,0 +1,24 @@
+04.11.2025_01:37:45.561976
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Perform relationship training worry sport open mother.",
+  "body": "Rule second prepare. Usually Mr people strong.",
+  "userId": 9
+}
+
+04.11.2025_01:37:45.685765
+RESPONSE
+status code: 201
+json: {
+  "title": "Perform relationship training worry sport open mother.",
+  "body": "Rule second prepare. Usually Mr people strong.",
+  "userId": 9,
+  "id": 101
+}
