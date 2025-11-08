@@ -1,0 +1,24 @@
+08.11.2025_01:25:19.684594
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Yes democratic big leader movement already live use citizen have risk.",
+  "body": "See political employee center story good.",
+  "userId": 8
+}
+
+08.11.2025_01:25:19.775623
+RESPONSE
+status code: 201
+json: {
+  "title": "Yes democratic big leader movement already live use citizen have risk.",
+  "body": "See political employee center story good.",
+  "userId": 8,
+  "id": 101
+}
