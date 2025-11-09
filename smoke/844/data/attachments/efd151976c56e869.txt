@@ -1,0 +1,24 @@
+09.11.2025_01:41:12.400460
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "You produce discussion shake even degree.",
+  "body": "Also interesting number.",
+  "userId": 9
+}
+
+09.11.2025_01:41:12.524031
+RESPONSE
+status code: 201
+json: {
+  "title": "You produce discussion shake even degree.",
+  "body": "Also interesting number.",
+  "userId": 9,
+  "id": 101
+}
