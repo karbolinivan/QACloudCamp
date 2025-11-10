@@ -1,0 +1,24 @@
+10.11.2025_01:42:39.637941
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Training yard memory build relate draw personal drug economy professional he almost maintain.",
+  "body": "Environmental case who do see.",
+  "userId": 3
+}
+
+10.11.2025_01:42:39.834165
+RESPONSE
+status code: 201
+json: {
+  "title": "Training yard memory build relate draw personal drug economy professional he almost maintain.",
+  "body": "Environmental case who do see.",
+  "userId": 3,
+  "id": 101
+}
