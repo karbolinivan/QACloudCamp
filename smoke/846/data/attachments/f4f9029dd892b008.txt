@@ -1,0 +1,24 @@
+11.11.2025_01:39:30.554164
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Star development receive now suffer popular bed course.",
+  "body": "Where recent large yourself bed so.",
+  "userId": 5
+}
+
+11.11.2025_01:39:30.690639
+RESPONSE
+status code: 201
+json: {
+  "title": "Star development receive now suffer popular bed course.",
+  "body": "Where recent large yourself bed so.",
+  "userId": 5,
+  "id": 101
+}
