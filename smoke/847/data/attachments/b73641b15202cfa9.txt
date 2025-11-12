@@ -1,0 +1,24 @@
+12.11.2025_01:38:30.816044
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Possible trip white middle real hold week.",
+  "body": "Society economy either whose.",
+  "userId": 9
+}
+
+12.11.2025_01:38:30.916041
+RESPONSE
+status code: 201
+json: {
+  "title": "Possible trip white middle real hold week.",
+  "body": "Society economy either whose.",
+  "userId": 9,
+  "id": 101
+}

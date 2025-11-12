@@ -1,0 +1,24 @@
+12.11.2025_01:38:30.817550
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Article suddenly however cost decision though message cause marriage less food force reduce.",
+  "body": "Few small may magazine long.",
+  "userId": 7
+}
+
+12.11.2025_01:38:30.924653
+RESPONSE
+status code: 201
+json: {
+  "title": "Article suddenly however cost decision though message cause marriage less food force reduce.",
+  "body": "Few small may magazine long.",
+  "userId": 7,
+  "id": 101
+}
