@@ -1,0 +1,24 @@
+13.11.2025_01:39:32.349500
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fill although seem budget card senior town several new staff significant month film.",
+  "body": "Shake major finally character ever when.",
+  "userId": 2
+}
+
+13.11.2025_01:39:32.527467
+RESPONSE
+status code: 201
+json: {
+  "title": "Fill although seem budget card senior town several new staff significant month film.",
+  "body": "Shake major finally character ever when.",
+  "userId": 2,
+  "id": 101
+}
