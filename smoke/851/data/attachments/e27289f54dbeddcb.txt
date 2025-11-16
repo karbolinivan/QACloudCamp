@@ -1,0 +1,24 @@
+16.11.2025_01:43:37.802137
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Government chair skin mean run nature eight feel.",
+  "body": "Subject another mention kid particular.",
+  "userId": 2
+}
+
+16.11.2025_01:43:37.862503
+RESPONSE
+status code: 201
+json: {
+  "title": "Government chair skin mean run nature eight feel.",
+  "body": "Subject another mention kid particular.",
+  "userId": 2,
+  "id": 101
+}
