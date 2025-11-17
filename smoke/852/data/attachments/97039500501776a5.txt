@@ -1,0 +1,24 @@
+17.11.2025_01:40:02.043178
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Sense dream son prove half more reach happen laugh herself other identify.",
+  "body": "Understand final community.",
+  "userId": 3
+}
+
+17.11.2025_01:40:02.100942
+RESPONSE
+status code: 201
+json: {
+  "title": "Sense dream son prove half more reach happen laugh herself other identify.",
+  "body": "Understand final community.",
+  "userId": 3,
+  "id": 101
+}
