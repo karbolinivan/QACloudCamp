@@ -1,0 +1,24 @@
+18.11.2025_01:38:09.975711
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Body art question student receive fast any.",
+  "body": "Produce evening population.",
+  "userId": 8
+}
+
+18.11.2025_01:38:10.175272
+RESPONSE
+status code: 201
+json: {
+  "title": "Body art question student receive fast any.",
+  "body": "Produce evening population.",
+  "userId": 8,
+  "id": 101
+}
