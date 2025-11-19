@@ -1,0 +1,24 @@
+19.11.2025_01:38:33.440241
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Baby develop close book gun meet phone.",
+  "body": "Life thousand statement response.",
+  "userId": 3
+}
+
+19.11.2025_01:38:33.552270
+RESPONSE
+status code: 201
+json: {
+  "title": "Baby develop close book gun meet phone.",
+  "body": "Life thousand statement response.",
+  "userId": 3,
+  "id": 101
+}
