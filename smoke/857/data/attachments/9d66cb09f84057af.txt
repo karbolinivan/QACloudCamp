@@ -1,0 +1,24 @@
+22.11.2025_01:26:31.690164
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Start customer artist material pull like place kind mother everybody result theory structure.",
+  "body": "Suffer tend quickly difference manager see six.",
+  "userId": 8
+}
+
+22.11.2025_01:26:31.787057
+RESPONSE
+status code: 201
+json: {
+  "title": "Start customer artist material pull like place kind mother everybody result theory structure.",
+  "body": "Suffer tend quickly difference manager see six.",
+  "userId": 8,
+  "id": 101
+}
