@@ -1,0 +1,24 @@
+23.11.2025_01:50:17.738639
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Particular certainly enough wear effect people call no perform rate wonder see past country.",
+  "body": "Economy bad friend. Figure drug show.",
+  "userId": 3
+}
+
+23.11.2025_01:50:17.985065
+RESPONSE
+status code: 201
+json: {
+  "title": "Particular certainly enough wear effect people call no perform rate wonder see past country.",
+  "body": "Economy bad friend. Figure drug show.",
+  "userId": 3,
+  "id": 101
+}
