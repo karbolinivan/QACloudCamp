@@ -1,0 +1,24 @@
+26.11.2025_01:39:30.979246
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Level red spend those the skin indeed.",
+  "body": "Couple kind yourself second major.",
+  "userId": 1
+}
+
+26.11.2025_01:39:31.284931
+RESPONSE
+status code: 201
+json: {
+  "title": "Level red spend those the skin indeed.",
+  "body": "Couple kind yourself second major.",
+  "userId": 1,
+  "id": 101
+}

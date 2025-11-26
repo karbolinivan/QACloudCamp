@@ -1,0 +1,24 @@
+26.11.2025_01:39:30.971367
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Save wear there after direction old safe wide foreign capital.",
+  "body": "Cut either spring begin see husband.",
+  "userId": 5
+}
+
+26.11.2025_01:39:31.318157
+RESPONSE
+status code: 201
+json: {
+  "title": "Save wear there after direction old safe wide foreign capital.",
+  "body": "Cut either spring begin see husband.",
+  "userId": 5,
+  "id": 101
+}
