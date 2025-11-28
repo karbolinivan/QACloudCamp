@@ -1,0 +1,24 @@
+28.11.2025_01:28:29.860925
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Lot fill receive thought bag daughter I between control challenge walk relationship.",
+  "body": "Mind option identify far lawyer.",
+  "userId": 4
+}
+
+28.11.2025_01:28:30.099796
+RESPONSE
+status code: 201
+json: {
+  "title": "Lot fill receive thought bag daughter I between control challenge walk relationship.",
+  "body": "Mind option identify far lawyer.",
+  "userId": 4,
+  "id": 101
+}
