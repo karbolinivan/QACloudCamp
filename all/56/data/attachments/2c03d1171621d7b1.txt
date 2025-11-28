@@ -1,0 +1,24 @@
+28.11.2025_06:27:56.718679
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Here life street country cut under food memory them out kitchen.",
+  "body": "We number television.",
+  "userId": 3
+}
+
+28.11.2025_06:27:56.884879
+RESPONSE
+status code: 201
+json: {
+  "title": "Here life street country cut under food memory them out kitchen.",
+  "body": "We number television.",
+  "userId": 3,
+  "id": 101
+}
