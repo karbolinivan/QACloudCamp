@@ -1,0 +1,24 @@
+29.11.2025_01:37:04.910553
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Industry half heavy meet business next yes adult skin.",
+  "body": "Along tend meeting recent subject.",
+  "userId": 1
+}
+
+29.11.2025_01:37:05.090445
+RESPONSE
+status code: 201
+json: {
+  "title": "Industry half heavy meet business next yes adult skin.",
+  "body": "Along tend meeting recent subject.",
+  "userId": 1,
+  "id": 101
+}
