@@ -1,0 +1,24 @@
+01.12.2025_01:56:41.073290
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Board goal vote fish decide seat.",
+  "body": "Religious different explain piece reason take.",
+  "userId": 6
+}
+
+01.12.2025_01:56:41.280517
+RESPONSE
+status code: 201
+json: {
+  "title": "Board goal vote fish decide seat.",
+  "body": "Religious different explain piece reason take.",
+  "userId": 6,
+  "id": 101
+}
