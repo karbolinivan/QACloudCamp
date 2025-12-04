@@ -1,0 +1,24 @@
+04.12.2025_01:42:05.367119
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Deal operation piece focus reveal as finish why series.",
+  "body": "Writer production list nation fight specific.",
+  "userId": 6
+}
+
+04.12.2025_01:42:05.427026
+RESPONSE
+status code: 201
+json: {
+  "title": "Deal operation piece focus reveal as finish why series.",
+  "body": "Writer production list nation fight specific.",
+  "userId": 6,
+  "id": 101
+}
