@@ -1,0 +1,24 @@
+05.12.2025_01:42:36.261598
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Use back gun hot health evidence teacher knowledge want trade certainly store dream.",
+  "body": "There quite station cold crime scene.",
+  "userId": 5
+}
+
+05.12.2025_01:42:36.355712
+RESPONSE
+status code: 201
+json: {
+  "title": "Use back gun hot health evidence teacher knowledge want trade certainly store dream.",
+  "body": "There quite station cold crime scene.",
+  "userId": 5,
+  "id": 101
+}
