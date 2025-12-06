@@ -1,0 +1,24 @@
+06.12.2025_01:28:29.421177
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Sure somebody hour result public east part talk throughout such.",
+  "body": "Respond want hair pattern reveal visit pick card.",
+  "userId": 8
+}
+
+06.12.2025_01:28:29.648922
+RESPONSE
+status code: 201
+json: {
+  "title": "Sure somebody hour result public east part talk throughout such.",
+  "body": "Respond want hair pattern reveal visit pick card.",
+  "userId": 8,
+  "id": 101
+}
