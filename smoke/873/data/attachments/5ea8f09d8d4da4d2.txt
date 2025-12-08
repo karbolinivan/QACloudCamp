@@ -1,0 +1,24 @@
+08.12.2025_01:42:55.058445
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "At but case stand school his real difficult know natural simple.",
+  "body": "Use among age fill son set early.",
+  "userId": 6
+}
+
+08.12.2025_01:42:55.115507
+RESPONSE
+status code: 201
+json: {
+  "title": "At but case stand school his real difficult know natural simple.",
+  "body": "Use among age fill son set early.",
+  "userId": 6,
+  "id": 101
+}
