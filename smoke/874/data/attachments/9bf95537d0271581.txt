@@ -1,0 +1,24 @@
+09.12.2025_01:42:02.573100
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Manager style tell certain rise hear particular.",
+  "body": "Language send than very these area live.",
+  "userId": 2
+}
+
+09.12.2025_01:42:02.845420
+RESPONSE
+status code: 201
+json: {
+  "title": "Manager style tell certain rise hear particular.",
+  "body": "Language send than very these area live.",
+  "userId": 2,
+  "id": 101
+}

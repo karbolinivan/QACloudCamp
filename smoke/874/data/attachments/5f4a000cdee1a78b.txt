@@ -1,0 +1,24 @@
+09.12.2025_01:42:02.586888
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Interest herself major guess civil interesting.",
+  "body": "Before my hour. Watch number my them.",
+  "userId": 7
+}
+
+09.12.2025_01:42:02.842180
+RESPONSE
+status code: 201
+json: {
+  "title": "Interest herself major guess civil interesting.",
+  "body": "Before my hour. Watch number my them.",
+  "userId": 7,
+  "id": 101
+}
