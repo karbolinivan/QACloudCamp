@@ -1,0 +1,24 @@
+13.12.2025_01:38:57.692374
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Sound send century serve future less whether language fight evening.",
+  "body": "Sort deal much myself voice front government.",
+  "userId": 5
+}
+
+13.12.2025_01:38:57.744417
+RESPONSE
+status code: 201
+json: {
+  "title": "Sound send century serve future less whether language fight evening.",
+  "body": "Sort deal much myself voice front government.",
+  "userId": 5,
+  "id": 101
+}
