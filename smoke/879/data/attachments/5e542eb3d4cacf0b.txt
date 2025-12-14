@@ -1,0 +1,24 @@
+14.12.2025_01:50:38.650924
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "People school draw little personal heart language address industry policy decision despite participant.",
+  "body": "Which treat magazine oil. Father time point her.",
+  "userId": 2
+}
+
+14.12.2025_01:50:38.891471
+RESPONSE
+status code: 201
+json: {
+  "title": "People school draw little personal heart language address industry policy decision despite participant.",
+  "body": "Which treat magazine oil. Father time point her.",
+  "userId": 2,
+  "id": 101
+}
