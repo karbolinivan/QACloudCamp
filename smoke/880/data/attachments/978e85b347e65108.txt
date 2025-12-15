@@ -1,0 +1,24 @@
+15.12.2025_01:48:12.921434
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fill special practice exist arrive minute letter condition lead.",
+  "body": "Type fly put anything despite one.",
+  "userId": 3
+}
+
+15.12.2025_01:48:13.050952
+RESPONSE
+status code: 201
+json: {
+  "title": "Fill special practice exist arrive minute letter condition lead.",
+  "body": "Type fly put anything despite one.",
+  "userId": 3,
+  "id": 101
+}
