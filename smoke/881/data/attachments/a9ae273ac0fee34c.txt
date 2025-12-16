@@ -1,0 +1,24 @@
+16.12.2025_01:45:11.117605
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Night minute rock forward operation oil fact reveal onto.",
+  "body": "Last somebody ball or population range unit.",
+  "userId": 2
+}
+
+16.12.2025_01:45:11.257719
+RESPONSE
+status code: 201
+json: {
+  "title": "Night minute rock forward operation oil fact reveal onto.",
+  "body": "Last somebody ball or population range unit.",
+  "userId": 2,
+  "id": 101
+}
