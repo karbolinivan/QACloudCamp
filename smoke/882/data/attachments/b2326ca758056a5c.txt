@@ -1,0 +1,24 @@
+17.12.2025_01:40:55.129481
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Unit end soon must blue can lead tough picture coach drop establish.",
+  "body": "Space news big receive move car citizen.",
+  "userId": 8
+}
+
+17.12.2025_01:40:55.225935
+RESPONSE
+status code: 201
+json: {
+  "title": "Unit end soon must blue can lead tough picture coach drop establish.",
+  "body": "Space news big receive move car citizen.",
+  "userId": 8,
+  "id": 101
+}

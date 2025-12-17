@@ -1,0 +1,24 @@
+17.12.2025_01:40:55.117752
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Century future break apply his onto.",
+  "body": "Kitchen start suddenly safe all two.",
+  "userId": 1
+}
+
+17.12.2025_01:40:55.219973
+RESPONSE
+status code: 201
+json: {
+  "title": "Century future break apply his onto.",
+  "body": "Kitchen start suddenly safe all two.",
+  "userId": 1,
+  "id": 101
+}
