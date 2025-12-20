@@ -1,0 +1,24 @@
+20.12.2025_01:39:00.724927
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Employee fall because son position boy can management so politics.",
+  "body": "Stage suffer west fear else common explain.",
+  "userId": 9
+}
+
+20.12.2025_01:39:00.836561
+RESPONSE
+status code: 201
+json: {
+  "title": "Employee fall because son position boy can management so politics.",
+  "body": "Stage suffer west fear else common explain.",
+  "userId": 9,
+  "id": 101
+}
