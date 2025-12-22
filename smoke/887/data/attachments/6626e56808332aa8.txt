@@ -1,0 +1,24 @@
+22.12.2025_01:49:49.117069
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Care type note way now enter recognize recent gas recognize.",
+  "body": "Worry use method. Either attention staff.",
+  "userId": 3
+}
+
+22.12.2025_01:49:49.266393
+RESPONSE
+status code: 201
+json: {
+  "title": "Care type note way now enter recognize recent gas recognize.",
+  "body": "Worry use method. Either attention staff.",
+  "userId": 3,
+  "id": 101
+}

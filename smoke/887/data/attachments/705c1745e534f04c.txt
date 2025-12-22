@@ -1,0 +1,24 @@
+22.12.2025_01:49:49.103501
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Quite official its professional already able challenge him never college loss well nor.",
+  "body": "Natural cost per country add remember least.",
+  "userId": 4
+}
+
+22.12.2025_01:49:49.263782
+RESPONSE
+status code: 201
+json: {
+  "title": "Quite official its professional already able challenge him never college loss well nor.",
+  "body": "Natural cost per country add remember least.",
+  "userId": 4,
+  "id": 101
+}
