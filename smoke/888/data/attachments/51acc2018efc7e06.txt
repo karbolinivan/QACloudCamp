@@ -1,0 +1,24 @@
+23.12.2025_01:45:12.182176
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Training hair point table team democratic budget realize pass popular.",
+  "body": "Vote forward fear might my.",
+  "userId": 6
+}
+
+23.12.2025_01:45:12.342563
+RESPONSE
+status code: 201
+json: {
+  "title": "Training hair point table team democratic budget realize pass popular.",
+  "body": "Vote forward fear might my.",
+  "userId": 6,
+  "id": 101
+}
