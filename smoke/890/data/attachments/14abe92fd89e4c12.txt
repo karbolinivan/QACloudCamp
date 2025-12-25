@@ -1,0 +1,24 @@
+25.12.2025_01:45:18.324558
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Realize according rest country government young seat draw current have final image nature.",
+  "body": "Write company sister feeling.",
+  "userId": 6
+}
+
+25.12.2025_01:45:18.356400
+RESPONSE
+status code: 201
+json: {
+  "title": "Realize according rest country government young seat draw current have final image nature.",
+  "body": "Write company sister feeling.",
+  "userId": 6,
+  "id": 101
+}

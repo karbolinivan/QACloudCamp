@@ -1,0 +1,24 @@
+25.12.2025_01:45:18.316399
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Doctor sell against police entire note mother garden instead film apply performance theory.",
+  "body": "Head always measure fine.",
+  "userId": 1
+}
+
+25.12.2025_01:45:18.358687
+RESPONSE
+status code: 201
+json: {
+  "title": "Doctor sell against police entire note mother garden instead film apply performance theory.",
+  "body": "Head always measure fine.",
+  "userId": 1,
+  "id": 101
+}
