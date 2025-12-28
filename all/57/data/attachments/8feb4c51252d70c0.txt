@@ -1,0 +1,24 @@
+28.12.2025_06:28:10.745169
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Student money discussion control Republican especially detail area mind put.",
+  "body": "Area store bar plan stay drop.",
+  "userId": 6
+}
+
+28.12.2025_06:28:10.784067
+RESPONSE
+status code: 201
+json: {
+  "title": "Student money discussion control Republican especially detail area mind put.",
+  "body": "Area store bar plan stay drop.",
+  "userId": 6,
+  "id": 101
+}

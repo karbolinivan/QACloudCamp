@@ -1,0 +1,24 @@
+28.12.2025_06:28:10.746351
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Phone star good head this issue rock yard director.",
+  "body": "Develop report save walk nearly.",
+  "userId": 2
+}
+
+28.12.2025_06:28:10.792044
+RESPONSE
+status code: 201
+json: {
+  "title": "Phone star good head this issue rock yard director.",
+  "body": "Develop report save walk nearly.",
+  "userId": 2,
+  "id": 101
+}
