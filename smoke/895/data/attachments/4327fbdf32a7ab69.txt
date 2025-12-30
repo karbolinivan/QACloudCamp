@@ -1,0 +1,24 @@
+30.12.2025_01:45:52.685329
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Consumer threat stay back night owner only travel top.",
+  "body": "Drive deal remember get report reveal.",
+  "userId": 4
+}
+
+30.12.2025_01:45:52.832627
+RESPONSE
+status code: 201
+json: {
+  "title": "Consumer threat stay back night owner only travel top.",
+  "body": "Drive deal remember get report reveal.",
+  "userId": 4,
+  "id": 101
+}
