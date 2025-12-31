@@ -1,0 +1,24 @@
+31.12.2025_01:46:23.967720
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Nor century popular total indeed fast away.",
+  "body": "Sister board game about design.",
+  "userId": 2
+}
+
+31.12.2025_01:46:24.208350
+RESPONSE
+status code: 201
+json: {
+  "title": "Nor century popular total indeed fast away.",
+  "body": "Sister board game about design.",
+  "userId": 2,
+  "id": 101
+}
