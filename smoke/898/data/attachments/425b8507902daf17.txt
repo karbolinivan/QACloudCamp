@@ -1,0 +1,24 @@
+02.01.2026_01:47:51.191428
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Poor fall model start nearly war view entire bill positive theory growth.",
+  "body": "Mrs similar reflect something. Poor oil star cup.",
+  "userId": 8
+}
+
+02.01.2026_01:47:51.324813
+RESPONSE
+status code: 201
+json: {
+  "title": "Poor fall model start nearly war view entire bill positive theory growth.",
+  "body": "Mrs similar reflect something. Poor oil star cup.",
+  "userId": 8,
+  "id": 101
+}
