@@ -1,0 +1,18 @@
+04.01.2026_01:56:38.553609
+REQUEST: GET
+url: https://jsonplaceholder.typicode.com/posts/100
+headers: null
+cookie: None
+data: None
+params: None
+json: null
+
+04.01.2026_01:56:38.574739
+RESPONSE
+status code: 200
+json: {
+  "userId": 10,
+  "id": 100,
+  "title": "at nam consequatur ea labore ea harum",
+  "body": "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut"
+}
