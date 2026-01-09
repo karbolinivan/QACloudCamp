@@ -1,0 +1,24 @@
+09.01.2026_01:48:35.283834
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Security analysis present through people many hold picture recently off conference.",
+  "body": "Our upon case from once watch.",
+  "userId": 5
+}
+
+09.01.2026_01:48:35.511714
+RESPONSE
+status code: 201
+json: {
+  "title": "Security analysis present through people many hold picture recently off conference.",
+  "body": "Our upon case from once watch.",
+  "userId": 5,
+  "id": 101
+}
