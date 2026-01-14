@@ -1,0 +1,24 @@
+14.01.2026_01:52:13.280878
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Keep war tough perform expert pretty house.",
+  "body": "North then although almost.",
+  "userId": 9
+}
+
+14.01.2026_01:52:13.335581
+RESPONSE
+status code: 201
+json: {
+  "title": "Keep war tough perform expert pretty house.",
+  "body": "North then although almost.",
+  "userId": 9,
+  "id": 101
+}
