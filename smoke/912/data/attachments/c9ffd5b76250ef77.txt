@@ -1,0 +1,24 @@
+16.01.2026_01:49:15.961113
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Mission beat boy give cost water public.",
+  "body": "Position social war its majority will.",
+  "userId": 7
+}
+
+16.01.2026_01:49:16.052222
+RESPONSE
+status code: 201
+json: {
+  "title": "Mission beat boy give cost water public.",
+  "body": "Position social war its majority will.",
+  "userId": 7,
+  "id": 101
+}
