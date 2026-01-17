@@ -1,0 +1,24 @@
+17.01.2026_01:43:44.257241
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Reach store again all author federal us response behavior throw send rise care.",
+  "body": "Figure attorney west majority business.",
+  "userId": 9
+}
+
+17.01.2026_01:43:44.351052
+RESPONSE
+status code: 201
+json: {
+  "title": "Reach store again all author federal us response behavior throw send rise care.",
+  "body": "Figure attorney west majority business.",
+  "userId": 9,
+  "id": 101
+}

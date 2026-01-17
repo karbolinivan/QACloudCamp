@@ -1,0 +1,24 @@
+17.01.2026_01:43:44.249264
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "True care direction reflect office edge parent they image send American.",
+  "body": "Ten party resource power seek.",
+  "userId": 5
+}
+
+17.01.2026_01:43:44.361300
+RESPONSE
+status code: 201
+json: {
+  "title": "True care direction reflect office edge parent they image send American.",
+  "body": "Ten party resource power seek.",
+  "userId": 5,
+  "id": 101
+}

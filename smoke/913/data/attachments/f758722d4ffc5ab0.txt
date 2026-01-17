@@ -1,0 +1,24 @@
+17.01.2026_01:43:44.258236
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fact art throw reduce off whose rate national late finally team.",
+  "body": "Population up visit film resource grow.",
+  "userId": 8
+}
+
+17.01.2026_01:43:44.486311
+RESPONSE
+status code: 201
+json: {
+  "title": "Fact art throw reduce off whose rate national late finally team.",
+  "body": "Population up visit film resource grow.",
+  "userId": 8,
+  "id": 101
+}
