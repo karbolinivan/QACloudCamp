@@ -1,0 +1,24 @@
+18.01.2026_01:55:19.704142
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Before question wife item lot answer institution scene out cold hope.",
+  "body": "Pressure how Mrs daughter it son service.",
+  "userId": 8
+}
+
+18.01.2026_01:55:19.895000
+RESPONSE
+status code: 201
+json: {
+  "title": "Before question wife item lot answer institution scene out cold hope.",
+  "body": "Pressure how Mrs daughter it son service.",
+  "userId": 8,
+  "id": 101
+}

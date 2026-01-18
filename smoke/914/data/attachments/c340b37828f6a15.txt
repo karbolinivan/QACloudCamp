@@ -1,0 +1,24 @@
+18.01.2026_01:55:19.712548
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Teach exactly TV nature age wait miss better.",
+  "body": "Summer lay news skill either.",
+  "userId": 8
+}
+
+18.01.2026_01:55:19.860743
+RESPONSE
+status code: 201
+json: {
+  "title": "Teach exactly TV nature age wait miss better.",
+  "body": "Summer lay news skill either.",
+  "userId": 8,
+  "id": 101
+}
