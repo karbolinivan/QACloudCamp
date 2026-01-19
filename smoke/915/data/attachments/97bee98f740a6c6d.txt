@@ -1,0 +1,24 @@
+19.01.2026_01:53:47.414034
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Five stay speak tough again physical born give Republican card theory.",
+  "body": "Discuss tree possible around four.",
+  "userId": 9
+}
+
+19.01.2026_01:53:47.533217
+RESPONSE
+status code: 201
+json: {
+  "title": "Five stay speak tough again physical born give Republican card theory.",
+  "body": "Discuss tree possible around four.",
+  "userId": 9,
+  "id": 101
+}

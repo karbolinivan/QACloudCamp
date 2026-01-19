@@ -1,0 +1,24 @@
+19.01.2026_01:53:47.406632
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Onto market section political set western standard son beyond.",
+  "body": "Foreign director cost ready.",
+  "userId": 6
+}
+
+19.01.2026_01:53:47.540523
+RESPONSE
+status code: 201
+json: {
+  "title": "Onto market section political set western standard son beyond.",
+  "body": "Foreign director cost ready.",
+  "userId": 6,
+  "id": 101
+}
