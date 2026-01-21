@@ -1,0 +1,24 @@
+21.01.2026_01:51:42.483072
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Campaign half TV poor room stock page learn everyone each.",
+  "body": "Market employee foot wide defense same.",
+  "userId": 2
+}
+
+21.01.2026_01:51:42.632744
+RESPONSE
+status code: 201
+json: {
+  "title": "Campaign half TV poor room stock page learn everyone each.",
+  "body": "Market employee foot wide defense same.",
+  "userId": 2,
+  "id": 101
+}
