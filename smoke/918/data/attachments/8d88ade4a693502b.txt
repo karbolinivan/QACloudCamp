@@ -1,0 +1,24 @@
+22.01.2026_01:52:16.254682
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Myself upon hold worry reality former simple series effort whole right soon away.",
+  "body": "Order physical police then medical.",
+  "userId": 4
+}
+
+22.01.2026_01:52:16.408553
+RESPONSE
+status code: 201
+json: {
+  "title": "Myself upon hold worry reality former simple series effort whole right soon away.",
+  "body": "Order physical police then medical.",
+  "userId": 4,
+  "id": 101
+}
