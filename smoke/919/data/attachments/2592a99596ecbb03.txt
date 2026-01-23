@@ -1,0 +1,24 @@
+23.01.2026_01:48:34.938048
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "They call spend far professional speak research state administration.",
+  "body": "Song natural need tonight man.",
+  "userId": 9
+}
+
+23.01.2026_01:48:35.190402
+RESPONSE
+status code: 201
+json: {
+  "title": "They call spend far professional speak research state administration.",
+  "body": "Song natural need tonight man.",
+  "userId": 9,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+23.01.2026_01:48:34.936961
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Term difference think play old room production that teacher.",
+  "body": "Organization value site what. Want man deal.",
+  "userId": 8
+}
+
+23.01.2026_01:48:35.188570
+RESPONSE
+status code: 201
+json: {
+  "title": "Term difference think play old room production that teacher.",
+  "body": "Organization value site what. Want man deal.",
+  "userId": 8,
+  "id": 101
+}
