@@ -1,0 +1,24 @@
+25.01.2026_01:58:45.028869
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Experience three peace put decade support able society.",
+  "body": "Claim billion would.",
+  "userId": 3
+}
+
+25.01.2026_01:58:45.206103
+RESPONSE
+status code: 201
+json: {
+  "title": "Experience three peace put decade support able society.",
+  "body": "Claim billion would.",
+  "userId": 3,
+  "id": 101
+}

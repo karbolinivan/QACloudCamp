@@ -1,0 +1,24 @@
+25.01.2026_01:58:45.018682
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Positive campaign ask technology school skin only amount author bar attorney natural.",
+  "body": "Surface actually medical city population.",
+  "userId": 1
+}
+
+25.01.2026_01:58:45.127061
+RESPONSE
+status code: 201
+json: {
+  "title": "Positive campaign ask technology school skin only amount author bar attorney natural.",
+  "body": "Surface actually medical city population.",
+  "userId": 1,
+  "id": 101
+}
