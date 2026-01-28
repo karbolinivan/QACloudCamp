@@ -1,0 +1,24 @@
+28.01.2026_01:50:58.353828
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Thus often which large identify many since billion adult change relate consumer.",
+  "body": "Economic evening lose middle beautiful stuff.",
+  "userId": 4
+}
+
+28.01.2026_01:50:58.472845
+RESPONSE
+status code: 201
+json: {
+  "title": "Thus often which large identify many since billion adult change relate consumer.",
+  "body": "Economic evening lose middle beautiful stuff.",
+  "userId": 4,
+  "id": 101
+}
