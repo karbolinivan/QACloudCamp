@@ -1,0 +1,24 @@
+29.01.2026_02:04:29.228080
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Yourself on quite cell cultural law.",
+  "body": "Scientist want speech walk well look.",
+  "userId": 3
+}
+
+29.01.2026_02:04:29.386125
+RESPONSE
+status code: 201
+json: {
+  "title": "Yourself on quite cell cultural law.",
+  "body": "Scientist want speech walk well look.",
+  "userId": 3,
+  "id": 101
+}
