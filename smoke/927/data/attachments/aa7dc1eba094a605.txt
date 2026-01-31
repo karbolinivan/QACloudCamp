@@ -1,0 +1,24 @@
+31.01.2026_02:00:29.501592
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Station party someone interview cultural thank rate entire situation fear end increase sit.",
+  "body": "Enjoy reason spend training prevent house.",
+  "userId": 7
+}
+
+31.01.2026_02:00:29.567974
+RESPONSE
+status code: 201
+json: {
+  "title": "Station party someone interview cultural thank rate entire situation fear end increase sit.",
+  "body": "Enjoy reason spend training prevent house.",
+  "userId": 7,
+  "id": 101
+}
