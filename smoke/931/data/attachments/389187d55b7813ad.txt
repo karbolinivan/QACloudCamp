@@ -1,0 +1,24 @@
+04.02.2026_02:06:20.180275
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Will term war argue one wait animal page political.",
+  "body": "Student thought since young take.",
+  "userId": 1
+}
+
+04.02.2026_02:06:20.327438
+RESPONSE
+status code: 201
+json: {
+  "title": "Will term war argue one wait animal page political.",
+  "body": "Student thought since young take.",
+  "userId": 1,
+  "id": 101
+}
