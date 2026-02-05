@@ -1,0 +1,24 @@
+05.02.2026_02:07:20.201106
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Child community Democrat meet nation short read our another.",
+  "body": "Condition watch too end.",
+  "userId": 7
+}
+
+05.02.2026_02:07:20.372349
+RESPONSE
+status code: 201
+json: {
+  "title": "Child community Democrat meet nation short read our another.",
+  "body": "Condition watch too end.",
+  "userId": 7,
+  "id": 101
+}
