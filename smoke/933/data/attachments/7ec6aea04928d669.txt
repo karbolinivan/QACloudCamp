@@ -1,0 +1,24 @@
+06.02.2026_02:07:16.643017
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Ready particularly answer affect unit state learn.",
+  "body": "Organization through next only stop fight pass.",
+  "userId": 3
+}
+
+06.02.2026_02:07:16.692900
+RESPONSE
+status code: 201
+json: {
+  "title": "Ready particularly answer affect unit state learn.",
+  "body": "Organization through next only stop fight pass.",
+  "userId": 3,
+  "id": 101
+}
