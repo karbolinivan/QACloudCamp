@@ -1,0 +1,24 @@
+07.02.2026_02:03:27.395551
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "People him send probably consider statement hour major time.",
+  "body": "Arrive glass can economy.",
+  "userId": 9
+}
+
+07.02.2026_02:03:27.686237
+RESPONSE
+status code: 201
+json: {
+  "title": "People him send probably consider statement hour major time.",
+  "body": "Arrive glass can economy.",
+  "userId": 9,
+  "id": 101
+}
