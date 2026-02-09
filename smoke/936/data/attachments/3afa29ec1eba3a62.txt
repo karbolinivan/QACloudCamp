@@ -1,0 +1,24 @@
+09.02.2026_02:23:03.218258
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Push score step lose say seven stand once none record size company just.",
+  "body": "Public dark professional worry.",
+  "userId": 7
+}
+
+09.02.2026_02:23:03.389800
+RESPONSE
+status code: 201
+json: {
+  "title": "Push score step lose say seven stand once none record size company just.",
+  "body": "Public dark professional worry.",
+  "userId": 7,
+  "id": 101
+}
