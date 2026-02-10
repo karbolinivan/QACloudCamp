@@ -1,0 +1,24 @@
+10.02.2026_02:30:27.355613
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "During expert wonder analysis wind ok enough play week.",
+  "body": "Century worker play send person.",
+  "userId": 3
+}
+
+10.02.2026_02:30:27.529502
+RESPONSE
+status code: 201
+json: {
+  "title": "During expert wonder analysis wind ok enough play week.",
+  "body": "Century worker play send person.",
+  "userId": 3,
+  "id": 101
+}
