@@ -1,0 +1,24 @@
+11.02.2026_02:27:37.198798
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Happy effort speech stop where return meet billion.",
+  "body": "Keep tend close yeah court.",
+  "userId": 6
+}
+
+11.02.2026_02:27:37.389818
+RESPONSE
+status code: 201
+json: {
+  "title": "Happy effort speech stop where return meet billion.",
+  "body": "Keep tend close yeah court.",
+  "userId": 6,
+  "id": 101
+}
