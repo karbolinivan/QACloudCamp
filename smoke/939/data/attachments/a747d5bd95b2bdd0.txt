@@ -1,0 +1,24 @@
+12.02.2026_02:22:20.264853
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Dinner than develop accept agent study consider not long firm find painting.",
+  "body": "Technology explain window story.",
+  "userId": 4
+}
+
+12.02.2026_02:22:20.485888
+RESPONSE
+status code: 201
+json: {
+  "title": "Dinner than develop accept agent study consider not long firm find painting.",
+  "body": "Technology explain window story.",
+  "userId": 4,
+  "id": 101
+}
