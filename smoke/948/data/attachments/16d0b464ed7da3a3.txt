@@ -1,0 +1,24 @@
+21.02.2026_02:02:13.441269
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Goal discover service explain career make which.",
+  "body": "Thing consider rise drive lot.",
+  "userId": 9
+}
+
+21.02.2026_02:02:13.588686
+RESPONSE
+status code: 201
+json: {
+  "title": "Goal discover service explain career make which.",
+  "body": "Thing consider rise drive lot.",
+  "userId": 9,
+  "id": 101
+}
