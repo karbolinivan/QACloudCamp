@@ -1,0 +1,24 @@
+22.02.2026_02:12:01.354376
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Small leg statement so now bar.",
+  "body": "Front know international fund.",
+  "userId": 5
+}
+
+22.02.2026_02:12:01.486450
+RESPONSE
+status code: 201
+json: {
+  "title": "Small leg statement so now bar.",
+  "body": "Front know international fund.",
+  "userId": 5,
+  "id": 101
+}
