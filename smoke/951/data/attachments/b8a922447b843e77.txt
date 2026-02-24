@@ -1,0 +1,24 @@
+24.02.2026_02:09:39.006399
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Skill including often may peace five oil investment month.",
+  "body": "Their toward pass positive her.",
+  "userId": 1
+}
+
+24.02.2026_02:09:39.290107
+RESPONSE
+status code: 201
+json: {
+  "title": "Skill including often may peace five oil investment month.",
+  "body": "Their toward pass positive her.",
+  "userId": 1,
+  "id": 101
+}
