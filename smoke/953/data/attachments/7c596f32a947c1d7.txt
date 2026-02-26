@@ -1,0 +1,24 @@
+26.02.2026_02:07:05.866584
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Safe effect message husband system than public they.",
+  "body": "Consumer gas into yes. Born she in.",
+  "userId": 5
+}
+
+26.02.2026_02:07:05.941642
+RESPONSE
+status code: 201
+json: {
+  "title": "Safe effect message husband system than public they.",
+  "body": "Consumer gas into yes. Born she in.",
+  "userId": 5,
+  "id": 101
+}
