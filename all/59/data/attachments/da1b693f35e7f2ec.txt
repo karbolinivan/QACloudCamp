@@ -1,0 +1,24 @@
+28.02.2026_06:34:48.926258
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Also in mention right easy color more sing kid.",
+  "body": "Down decide what home agreement.",
+  "userId": 9
+}
+
+28.02.2026_06:34:49.116946
+RESPONSE
+status code: 201
+json: {
+  "title": "Also in mention right easy color more sing kid.",
+  "body": "Down decide what home agreement.",
+  "userId": 9,
+  "id": 101
+}
