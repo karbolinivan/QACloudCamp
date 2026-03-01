@@ -1,0 +1,24 @@
+01.03.2026_02:25:51.085979
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Window address fly natural occur whose model play today international site born.",
+  "body": "Meet surface consumer fact hotel hold once can.",
+  "userId": 5
+}
+
+01.03.2026_02:25:51.149256
+RESPONSE
+status code: 201
+json: {
+  "title": "Window address fly natural occur whose model play today international site born.",
+  "body": "Meet surface consumer fact hotel hold once can.",
+  "userId": 5,
+  "id": 101
+}
