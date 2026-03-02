@@ -1,0 +1,24 @@
+02.03.2026_02:09:42.706410
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Boy book remember important poor finish such machine beat figure true bill.",
+  "body": "Political her send employee attention other.",
+  "userId": 7
+}
+
+02.03.2026_02:09:42.758951
+RESPONSE
+status code: 201
+json: {
+  "title": "Boy book remember important poor finish such machine beat figure true bill.",
+  "body": "Political her send employee attention other.",
+  "userId": 7,
+  "id": 101
+}

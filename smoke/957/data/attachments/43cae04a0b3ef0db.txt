@@ -1,0 +1,24 @@
+02.03.2026_02:09:42.716070
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Event north free medical special skin course decision.",
+  "body": "Activity area space approach admit seek game.",
+  "userId": 5
+}
+
+02.03.2026_02:09:42.771773
+RESPONSE
+status code: 201
+json: {
+  "title": "Event north free medical special skin course decision.",
+  "body": "Activity area space approach admit seek game.",
+  "userId": 5,
+  "id": 101
+}
