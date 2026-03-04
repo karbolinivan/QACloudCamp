@@ -1,0 +1,24 @@
+04.03.2026_02:04:50.404341
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "While purpose food piece green across rock which.",
+  "body": "Detail outside positive out. They hope later.",
+  "userId": 1
+}
+
+04.03.2026_02:04:50.494303
+RESPONSE
+status code: 201
+json: {
+  "title": "While purpose food piece green across rock which.",
+  "body": "Detail outside positive out. They hope later.",
+  "userId": 1,
+  "id": 101
+}
