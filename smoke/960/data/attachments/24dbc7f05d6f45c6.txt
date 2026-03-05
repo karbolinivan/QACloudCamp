@@ -1,0 +1,24 @@
+05.03.2026_02:08:16.630309
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Control drop enough difference require imagine thing might front cold.",
+  "body": "Some window whether close to letter.",
+  "userId": 1
+}
+
+05.03.2026_02:08:16.774334
+RESPONSE
+status code: 201
+json: {
+  "title": "Control drop enough difference require imagine thing might front cold.",
+  "body": "Some window whether close to letter.",
+  "userId": 1,
+  "id": 101
+}
