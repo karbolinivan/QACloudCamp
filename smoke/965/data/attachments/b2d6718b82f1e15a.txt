@@ -1,0 +1,24 @@
+10.03.2026_02:04:01.185238
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Level vote enjoy require woman same audience economic party.",
+  "body": "Model though behavior world.",
+  "userId": 2
+}
+
+10.03.2026_02:04:01.243418
+RESPONSE
+status code: 201
+json: {
+  "title": "Level vote enjoy require woman same audience economic party.",
+  "body": "Model though behavior world.",
+  "userId": 2,
+  "id": 101
+}
