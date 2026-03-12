@@ -1,0 +1,24 @@
+12.03.2026_02:09:44.279968
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Create similar recently try may report today value drive color stop interview.",
+  "body": "Civil serious road produce mind.",
+  "userId": 2
+}
+
+12.03.2026_02:09:44.338139
+RESPONSE
+status code: 201
+json: {
+  "title": "Create similar recently try may report today value drive color stop interview.",
+  "body": "Civil serious road produce mind.",
+  "userId": 2,
+  "id": 101
+}
