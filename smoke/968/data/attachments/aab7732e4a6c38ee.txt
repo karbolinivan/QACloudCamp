@@ -1,0 +1,24 @@
+13.03.2026_02:07:07.926370
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Notice her prove animal hot morning develop card believe young.",
+  "body": "Stuff describe agree number.",
+  "userId": 5
+}
+
+13.03.2026_02:07:07.982518
+RESPONSE
+status code: 201
+json: {
+  "title": "Notice her prove animal hot morning develop card believe young.",
+  "body": "Stuff describe agree number.",
+  "userId": 5,
+  "id": 101
+}
