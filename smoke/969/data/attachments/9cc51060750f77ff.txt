@@ -1,0 +1,24 @@
+14.03.2026_02:05:05.113896
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fish necessary his town wife western fire movement decision heart boy physical.",
+  "body": "Article design notice.",
+  "userId": 1
+}
+
+14.03.2026_02:05:05.339983
+RESPONSE
+status code: 201
+json: {
+  "title": "Fish necessary his town wife western fire movement decision heart boy physical.",
+  "body": "Article design notice.",
+  "userId": 1,
+  "id": 101
+}
