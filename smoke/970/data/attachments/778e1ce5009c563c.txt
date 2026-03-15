@@ -1,0 +1,24 @@
+15.03.2026_02:30:16.939612
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Blood especially financial huge throw notice page.",
+  "body": "Staff our large into.",
+  "userId": 6
+}
+
+15.03.2026_02:30:17.185369
+RESPONSE
+status code: 201
+json: {
+  "title": "Blood especially financial huge throw notice page.",
+  "body": "Staff our large into.",
+  "userId": 6,
+  "id": 101
+}
