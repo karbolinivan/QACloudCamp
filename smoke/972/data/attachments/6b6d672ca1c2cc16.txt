@@ -1,0 +1,24 @@
+17.03.2026_02:10:05.925270
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Truth play anyone little short argue.",
+  "body": "Series friend plant anything store computer.",
+  "userId": 2
+}
+
+17.03.2026_02:10:06.110592
+RESPONSE
+status code: 201
+json: {
+  "title": "Truth play anyone little short argue.",
+  "body": "Series friend plant anything store computer.",
+  "userId": 2,
+  "id": 101
+}
