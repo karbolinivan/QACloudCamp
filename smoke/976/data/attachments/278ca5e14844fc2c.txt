@@ -1,0 +1,24 @@
+21.03.2026_02:03:02.289479
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Put according cold develop few sister hope stuff.",
+  "body": "Message care sound candidate.",
+  "userId": 4
+}
+
+21.03.2026_02:03:02.419418
+RESPONSE
+status code: 201
+json: {
+  "title": "Put according cold develop few sister hope stuff.",
+  "body": "Message care sound candidate.",
+  "userId": 4,
+  "id": 101
+}
