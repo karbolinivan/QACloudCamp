@@ -1,0 +1,24 @@
+24.03.2026_02:08:38.473186
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "East because future whatever gas north quite compare remain may prepare that.",
+  "body": "Natural modern affect.",
+  "userId": 6
+}
+
+24.03.2026_02:08:38.689234
+RESPONSE
+status code: 201
+json: {
+  "title": "East because future whatever gas north quite compare remain may prepare that.",
+  "body": "Natural modern affect.",
+  "userId": 6,
+  "id": 101
+}
