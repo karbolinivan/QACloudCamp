@@ -1,0 +1,24 @@
+25.03.2026_02:21:27.709637
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Analysis might message third model everybody me actually tend wonder.",
+  "body": "College win young tell. Buy also seven.",
+  "userId": 5
+}
+
+25.03.2026_02:21:27.750374
+RESPONSE
+status code: 201
+json: {
+  "title": "Analysis might message third model everybody me actually tend wonder.",
+  "body": "College win young tell. Buy also seven.",
+  "userId": 5,
+  "id": 101
+}
