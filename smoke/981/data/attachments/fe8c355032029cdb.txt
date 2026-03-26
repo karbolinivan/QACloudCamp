@@ -1,0 +1,24 @@
+26.03.2026_02:27:31.312913
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Bring establish turn international weight window soon leg town account pick.",
+  "body": "Sound part hard.",
+  "userId": 2
+}
+
+26.03.2026_02:27:31.353106
+RESPONSE
+status code: 201
+json: {
+  "title": "Bring establish turn international weight window soon leg town account pick.",
+  "body": "Sound part hard.",
+  "userId": 2,
+  "id": 101
+}
