@@ -1,0 +1,24 @@
+27.03.2026_02:28:47.557309
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "High indicate wonder ask new south sure fund plan matter red.",
+  "body": "School culture six my.",
+  "userId": 8
+}
+
+27.03.2026_02:28:47.677228
+RESPONSE
+status code: 201
+json: {
+  "title": "High indicate wonder ask new south sure fund plan matter red.",
+  "body": "School culture six my.",
+  "userId": 8,
+  "id": 101
+}
