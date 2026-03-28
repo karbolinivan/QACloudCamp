@@ -1,0 +1,24 @@
+28.03.2026_02:12:05.796115
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Mention purpose carry appear let house nature today it including attack.",
+  "body": "All wife improve very plan what bar.",
+  "userId": 6
+}
+
+28.03.2026_02:12:05.920604
+RESPONSE
+status code: 201
+json: {
+  "title": "Mention purpose carry appear let house nature today it including attack.",
+  "body": "All wife improve very plan what bar.",
+  "userId": 6,
+  "id": 101
+}
