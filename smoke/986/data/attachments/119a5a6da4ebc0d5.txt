@@ -1,0 +1,24 @@
+31.03.2026_02:29:03.117971
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Huge agent return if ever research coach choice wish billion training section.",
+  "body": "Collection stage care clear.",
+  "userId": 3
+}
+
+31.03.2026_02:29:03.258975
+RESPONSE
+status code: 201
+json: {
+  "title": "Huge agent return if ever research coach choice wish billion training section.",
+  "body": "Collection stage care clear.",
+  "userId": 3,
+  "id": 101
+}
