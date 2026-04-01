@@ -1,0 +1,24 @@
+01.04.2026_02:40:13.945660
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Seat administration for again officer several late suffer right son term after market.",
+  "body": "Guy staff along member college audience.",
+  "userId": 4
+}
+
+01.04.2026_02:40:14.076865
+RESPONSE
+status code: 201
+json: {
+  "title": "Seat administration for again officer several late suffer right son term after market.",
+  "body": "Guy staff along member college audience.",
+  "userId": 4,
+  "id": 101
+}

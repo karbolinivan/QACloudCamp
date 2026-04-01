@@ -1,0 +1,24 @@
+01.04.2026_02:40:13.940383
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Though prevent something peace later include.",
+  "body": "Piece fast knowledge class system voice short.",
+  "userId": 6
+}
+
+01.04.2026_02:40:14.082122
+RESPONSE
+status code: 201
+json: {
+  "title": "Though prevent something peace later include.",
+  "body": "Piece fast knowledge class system voice short.",
+  "userId": 6,
+  "id": 101
+}
