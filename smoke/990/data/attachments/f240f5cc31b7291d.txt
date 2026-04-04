@@ -1,0 +1,24 @@
+04.04.2026_02:11:51.965572
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Above player report bring animal control investment exist.",
+  "body": "Figure hand audience our create girl win.",
+  "userId": 4
+}
+
+04.04.2026_02:11:52.012168
+RESPONSE
+status code: 201
+json: {
+  "title": "Above player report bring animal control investment exist.",
+  "body": "Figure hand audience our create girl win.",
+  "userId": 4,
+  "id": 101
+}
