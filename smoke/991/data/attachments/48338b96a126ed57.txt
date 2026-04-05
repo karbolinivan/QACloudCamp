@@ -1,0 +1,24 @@
+05.04.2026_02:34:07.555043
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "In remember music will room too effect opportunity school.",
+  "body": "Fund air challenge help central interest class.",
+  "userId": 1
+}
+
+05.04.2026_02:34:07.605008
+RESPONSE
+status code: 201
+json: {
+  "title": "In remember music will room too effect opportunity school.",
+  "body": "Fund air challenge help central interest class.",
+  "userId": 1,
+  "id": 101
+}

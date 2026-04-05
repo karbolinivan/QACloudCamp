@@ -1,0 +1,24 @@
+05.04.2026_02:34:07.567357
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fish man book about people explain avoid far allow since like catch Congress.",
+  "body": "Democratic sea accept account.",
+  "userId": 4
+}
+
+05.04.2026_02:34:07.606874
+RESPONSE
+status code: 201
+json: {
+  "title": "Fish man book about people explain avoid far allow since like catch Congress.",
+  "body": "Democratic sea accept account.",
+  "userId": 4,
+  "id": 101
+}
