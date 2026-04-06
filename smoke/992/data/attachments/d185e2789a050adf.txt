@@ -1,0 +1,24 @@
+06.04.2026_02:35:18.957525
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Scene kind bank result summer may affect.",
+  "body": "Drug prove door lawyer production bring.",
+  "userId": 6
+}
+
+06.04.2026_02:35:19.119300
+RESPONSE
+status code: 201
+json: {
+  "title": "Scene kind bank result summer may affect.",
+  "body": "Drug prove door lawyer production bring.",
+  "userId": 6,
+  "id": 101
+}

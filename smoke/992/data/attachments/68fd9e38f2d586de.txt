@@ -1,0 +1,24 @@
+06.04.2026_02:35:18.947019
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Each administration set religious six success program because course.",
+  "body": "More very pay less.",
+  "userId": 1
+}
+
+06.04.2026_02:35:19.119300
+RESPONSE
+status code: 201
+json: {
+  "title": "Each administration set religious six success program because course.",
+  "body": "More very pay less.",
+  "userId": 1,
+  "id": 101
+}
