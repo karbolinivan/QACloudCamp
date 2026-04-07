@@ -1,0 +1,24 @@
+07.04.2026_02:30:19.431066
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Situation person minute husband good maintain.",
+  "body": "Value painting this go.",
+  "userId": 6
+}
+
+07.04.2026_02:30:19.553257
+RESPONSE
+status code: 201
+json: {
+  "title": "Situation person minute husband good maintain.",
+  "body": "Value painting this go.",
+  "userId": 6,
+  "id": 101
+}

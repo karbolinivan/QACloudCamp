@@ -1,0 +1,24 @@
+07.04.2026_02:30:19.428479
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Teacher strategy seek whether husband form far long.",
+  "body": "Source value condition value avoid tax billion.",
+  "userId": 7
+}
+
+07.04.2026_02:30:19.556890
+RESPONSE
+status code: 201
+json: {
+  "title": "Teacher strategy seek whether husband form far long.",
+  "body": "Source value condition value avoid tax billion.",
+  "userId": 7,
+  "id": 101
+}
