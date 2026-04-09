@@ -1,0 +1,24 @@
+09.04.2026_02:26:26.206427
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Garden perhaps heavy type carry value dinner buy yourself sell later interesting.",
+  "body": "Key Republican ask data develop.",
+  "userId": 3
+}
+
+09.04.2026_02:26:26.494938
+RESPONSE
+status code: 201
+json: {
+  "title": "Garden perhaps heavy type carry value dinner buy yourself sell later interesting.",
+  "body": "Key Republican ask data develop.",
+  "userId": 3,
+  "id": 101
+}
