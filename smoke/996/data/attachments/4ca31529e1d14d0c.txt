@@ -1,0 +1,24 @@
+10.04.2026_02:37:11.285722
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Reach get talk impact three spring.",
+  "body": "Can chair black attack most without knowledge.",
+  "userId": 4
+}
+
+10.04.2026_02:37:11.553728
+RESPONSE
+status code: 201
+json: {
+  "title": "Reach get talk impact three spring.",
+  "body": "Can chair black attack most without knowledge.",
+  "userId": 4,
+  "id": 101
+}
