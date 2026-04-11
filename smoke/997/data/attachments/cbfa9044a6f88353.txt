@@ -1,0 +1,24 @@
+11.04.2026_02:23:11.281111
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Box skin defense yeah magazine development song.",
+  "body": "Century single her or.",
+  "userId": 1
+}
+
+11.04.2026_02:23:11.433582
+RESPONSE
+status code: 201
+json: {
+  "title": "Box skin defense yeah magazine development song.",
+  "body": "Century single her or.",
+  "userId": 1,
+  "id": 101
+}

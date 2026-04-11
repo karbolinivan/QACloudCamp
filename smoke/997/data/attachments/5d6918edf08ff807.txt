@@ -1,0 +1,24 @@
+11.04.2026_02:23:11.279694
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Beat soldier food view son evening wall government money.",
+  "body": "Science whether stuff cover blood north.",
+  "userId": 8
+}
+
+11.04.2026_02:23:11.435732
+RESPONSE
+status code: 201
+json: {
+  "title": "Beat soldier food view son evening wall government money.",
+  "body": "Science whether stuff cover blood north.",
+  "userId": 8,
+  "id": 101
+}
