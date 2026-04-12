@@ -1,0 +1,24 @@
+12.04.2026_02:39:28.754903
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Number score capital wife thus wish.",
+  "body": "End late foot size improve.",
+  "userId": 3
+}
+
+12.04.2026_02:39:28.788734
+RESPONSE
+status code: 201
+json: {
+  "title": "Number score capital wife thus wish.",
+  "body": "End late foot size improve.",
+  "userId": 3,
+  "id": 101
+}

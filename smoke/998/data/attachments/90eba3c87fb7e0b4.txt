@@ -1,0 +1,24 @@
+12.04.2026_02:39:28.755798
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Senior report why attack special team draw data begin why well.",
+  "body": "South information almost next.",
+  "userId": 8
+}
+
+12.04.2026_02:39:28.806255
+RESPONSE
+status code: 201
+json: {
+  "title": "Senior report why attack special team draw data begin why well.",
+  "body": "South information almost next.",
+  "userId": 8,
+  "id": 101
+}
