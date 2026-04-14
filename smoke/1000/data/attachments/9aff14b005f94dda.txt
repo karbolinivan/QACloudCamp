@@ -1,0 +1,24 @@
+14.04.2026_02:37:17.279478
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fill play interview push picture between over today value blue.",
+  "body": "Walk near treatment administration bit.",
+  "userId": 9
+}
+
+14.04.2026_02:37:17.430569
+RESPONSE
+status code: 201
+json: {
+  "title": "Fill play interview push picture between over today value blue.",
+  "body": "Walk near treatment administration bit.",
+  "userId": 9,
+  "id": 101
+}
