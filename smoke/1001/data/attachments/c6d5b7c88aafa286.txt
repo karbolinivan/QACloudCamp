@@ -1,0 +1,24 @@
+15.04.2026_02:35:37.144932
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Friend or society age may door available trial top eat outside after thank.",
+  "body": "Upon man describe time human current.",
+  "userId": 5
+}
+
+15.04.2026_02:35:37.373537
+RESPONSE
+status code: 201
+json: {
+  "title": "Friend or society age may door available trial top eat outside after thank.",
+  "body": "Upon man describe time human current.",
+  "userId": 5,
+  "id": 101
+}
