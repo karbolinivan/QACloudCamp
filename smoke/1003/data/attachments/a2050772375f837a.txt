@@ -1,0 +1,24 @@
+17.04.2026_02:38:17.988121
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Listen different pay agree soon how cultural edge management.",
+  "body": "Brother cost fire draw research world state own.",
+  "userId": 3
+}
+
+17.04.2026_02:38:18.208047
+RESPONSE
+status code: 201
+json: {
+  "title": "Listen different pay agree soon how cultural edge management.",
+  "body": "Brother cost fire draw research world state own.",
+  "userId": 3,
+  "id": 101
+}
