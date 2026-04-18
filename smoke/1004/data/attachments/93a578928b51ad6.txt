@@ -1,0 +1,24 @@
+18.04.2026_02:29:15.448267
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Onto least whole season technology program.",
+  "body": "Share rather media ever available drop move.",
+  "userId": 7
+}
+
+18.04.2026_02:29:15.495736
+RESPONSE
+status code: 201
+json: {
+  "title": "Onto least whole season technology program.",
+  "body": "Share rather media ever available drop move.",
+  "userId": 7,
+  "id": 101
+}
