@@ -1,0 +1,24 @@
+19.04.2026_02:44:46.705735
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Study alone event protect health fill million collection attention.",
+  "body": "Ability sit this seven.",
+  "userId": 3
+}
+
+19.04.2026_02:44:46.832365
+RESPONSE
+status code: 201
+json: {
+  "title": "Study alone event protect health fill million collection attention.",
+  "body": "Ability sit this seven.",
+  "userId": 3,
+  "id": 101
+}
