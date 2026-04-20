@@ -1,0 +1,24 @@
+20.04.2026_02:45:41.273101
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Year fact find time would use sometimes decision.",
+  "body": "Alone service human site production police.",
+  "userId": 8
+}
+
+20.04.2026_02:45:41.319081
+RESPONSE
+status code: 201
+json: {
+  "title": "Year fact find time would use sometimes decision.",
+  "body": "Alone service human site production police.",
+  "userId": 8,
+  "id": 101
+}
