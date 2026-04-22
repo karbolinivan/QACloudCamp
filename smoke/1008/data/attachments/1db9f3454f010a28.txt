@@ -1,0 +1,24 @@
+22.04.2026_02:37:57.651389
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "House news cell small news discuss effect night feeling administration among security environment.",
+  "body": "Successful hot behavior.",
+  "userId": 1
+}
+
+22.04.2026_02:37:57.882876
+RESPONSE
+status code: 201
+json: {
+  "title": "House news cell small news discuss effect night feeling administration among security environment.",
+  "body": "Successful hot behavior.",
+  "userId": 1,
+  "id": 101
+}
