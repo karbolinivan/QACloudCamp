@@ -1,0 +1,24 @@
+28.04.2026_08:21:40.601328
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Those word than catch ten race.",
+  "body": "Sing personal simply ok.",
+  "userId": 4
+}
+
+28.04.2026_08:21:40.690505
+RESPONSE
+status code: 201
+json: {
+  "title": "Those word than catch ten race.",
+  "body": "Sing personal simply ok.",
+  "userId": 4,
+  "id": 101
+}

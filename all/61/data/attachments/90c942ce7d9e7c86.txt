@@ -1,0 +1,24 @@
+28.04.2026_08:21:40.598854
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Reduce employee money so history investment third resource Democrat tend whether.",
+  "body": "Quickly everyone future.",
+  "userId": 4
+}
+
+28.04.2026_08:21:40.686673
+RESPONSE
+status code: 201
+json: {
+  "title": "Reduce employee money so history investment third resource Democrat tend whether.",
+  "body": "Quickly everyone future.",
+  "userId": 4,
+  "id": 101
+}
