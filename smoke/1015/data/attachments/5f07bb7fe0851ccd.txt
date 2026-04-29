@@ -1,0 +1,24 @@
+29.04.2026_02:55:39.270866
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Try cause step thousand long we notice all.",
+  "body": "Painting meet decade now minute treat.",
+  "userId": 1
+}
+
+29.04.2026_02:55:39.369818
+RESPONSE
+status code: 201
+json: {
+  "title": "Try cause step thousand long we notice all.",
+  "body": "Painting meet decade now minute treat.",
+  "userId": 1,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+29.04.2026_02:55:39.272427
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Significant say above their PM travel us couple dinner player.",
+  "body": "Result such night listen whether.",
+  "userId": 4
+}
+
+29.04.2026_02:55:39.363647
+RESPONSE
+status code: 201
+json: {
+  "title": "Significant say above their PM travel us couple dinner player.",
+  "body": "Result such night listen whether.",
+  "userId": 4,
+  "id": 101
+}
