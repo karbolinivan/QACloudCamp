@@ -1,0 +1,24 @@
+30.04.2026_02:57:00.925845
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Kind four feel me manage fire song since population degree strategy wrong.",
+  "body": "Than concern reality art dream.",
+  "userId": 3
+}
+
+30.04.2026_02:57:01.116022
+RESPONSE
+status code: 201
+json: {
+  "title": "Kind four feel me manage fire song since population degree strategy wrong.",
+  "body": "Than concern reality art dream.",
+  "userId": 3,
+  "id": 101
+}
