@@ -1,0 +1,24 @@
+01.05.2026_03:28:30.714466
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Receive like least story man sing child artist sort create.",
+  "body": "Along traditional amount feeling fish score.",
+  "userId": 9
+}
+
+01.05.2026_03:28:30.826487
+RESPONSE
+status code: 201
+json: {
+  "title": "Receive like least story man sing child artist sort create.",
+  "body": "Along traditional amount feeling fish score.",
+  "userId": 9,
+  "id": 101
+}

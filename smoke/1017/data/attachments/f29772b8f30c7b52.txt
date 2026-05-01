@@ -1,0 +1,24 @@
+01.05.2026_03:28:30.707400
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fear Mr doctor go listen enjoy maybe care serious by for dinner.",
+  "body": "Yet moment can cost figure grow human look.",
+  "userId": 5
+}
+
+01.05.2026_03:28:30.820099
+RESPONSE
+status code: 201
+json: {
+  "title": "Fear Mr doctor go listen enjoy maybe care serious by for dinner.",
+  "body": "Yet moment can cost figure grow human look.",
+  "userId": 5,
+  "id": 101
+}
