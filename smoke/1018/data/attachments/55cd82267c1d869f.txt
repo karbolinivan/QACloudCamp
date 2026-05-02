@@ -1,0 +1,24 @@
+02.05.2026_02:44:54.533278
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Strong level run meeting six thought show air everyone campaign political build.",
+  "body": "Color ever offer difference two.",
+  "userId": 3
+}
+
+02.05.2026_02:44:54.583882
+RESPONSE
+status code: 201
+json: {
+  "title": "Strong level run meeting six thought show air everyone campaign political build.",
+  "body": "Color ever offer difference two.",
+  "userId": 3,
+  "id": 101
+}

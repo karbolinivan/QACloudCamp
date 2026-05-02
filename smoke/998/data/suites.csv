@@ -1,4 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","35","Delete resource","tests","Sun Apr 12 02:39:28 UTC 2026","passed","Sun Apr 12 02:39:28 UTC 2026","TestResource","test_resource","",""
-"","23","Get resource","tests","Sun Apr 12 02:39:28 UTC 2026","passed","Sun Apr 12 02:39:28 UTC 2026","TestResource","test_resource","",""
-"","85","Create resource","tests","Sun Apr 12 02:39:28 UTC 2026","passed","Sun Apr 12 02:39:28 UTC 2026","TestResource","test_resource","",""
