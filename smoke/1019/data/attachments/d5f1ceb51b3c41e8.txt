@@ -1,0 +1,24 @@
+03.05.2026_02:57:22.866976
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Red already us country many need science soon buy policy behind.",
+  "body": "Man foreign responsibility.",
+  "userId": 9
+}
+
+03.05.2026_02:57:23.017668
+RESPONSE
+status code: 201
+json: {
+  "title": "Red already us country many need science soon buy policy behind.",
+  "body": "Man foreign responsibility.",
+  "userId": 9,
+  "id": 101
+}
