@@ -1,0 +1,24 @@
+04.05.2026_02:55:17.574846
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Turn measure in yourself although upon of leave.",
+  "body": "Nor represent you soon maybe staff.",
+  "userId": 4
+}
+
+04.05.2026_02:55:17.617407
+RESPONSE
+status code: 201
+json: {
+  "title": "Turn measure in yourself although upon of leave.",
+  "body": "Nor represent you soon maybe staff.",
+  "userId": 4,
+  "id": 101
+}
