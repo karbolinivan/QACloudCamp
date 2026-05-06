@@ -1,0 +1,24 @@
+06.05.2026_02:53:29.869557
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Talk stop well many during scientist government happen house last amount week paper.",
+  "body": "Top high effort huge.",
+  "userId": 5
+}
+
+06.05.2026_02:53:30.088649
+RESPONSE
+status code: 201
+json: {
+  "title": "Talk stop well many during scientist government happen house last amount week paper.",
+  "body": "Top high effort huge.",
+  "userId": 5,
+  "id": 101
+}
