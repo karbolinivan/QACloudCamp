@@ -1,0 +1,24 @@
+07.05.2026_02:54:32.047392
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Should together involve radio probably fly.",
+  "body": "Together baby foot ability threat cost author.",
+  "userId": 7
+}
+
+07.05.2026_02:54:32.175153
+RESPONSE
+status code: 201
+json: {
+  "title": "Should together involve radio probably fly.",
+  "body": "Together baby foot ability threat cost author.",
+  "userId": 7,
+  "id": 101
+}

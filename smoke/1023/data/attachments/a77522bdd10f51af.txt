@@ -1,0 +1,24 @@
+07.05.2026_02:54:32.063357
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Most benefit team tonight war activity issue arm drop behavior billion.",
+  "body": "Region onto bill what buy.",
+  "userId": 7
+}
+
+07.05.2026_02:54:32.170663
+RESPONSE
+status code: 201
+json: {
+  "title": "Most benefit team tonight war activity issue arm drop behavior billion.",
+  "body": "Region onto bill what buy.",
+  "userId": 7,
+  "id": 101
+}
