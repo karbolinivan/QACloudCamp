@@ -1,0 +1,24 @@
+08.05.2026_02:56:35.901003
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Sense medical enjoy quickly strong if performance entire speak.",
+  "body": "If use go.",
+  "userId": 8
+}
+
+08.05.2026_02:56:36.037898
+RESPONSE
+status code: 201
+json: {
+  "title": "Sense medical enjoy quickly strong if performance entire speak.",
+  "body": "If use go.",
+  "userId": 8,
+  "id": 101
+}
