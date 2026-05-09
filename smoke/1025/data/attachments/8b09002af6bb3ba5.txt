@@ -1,0 +1,24 @@
+09.05.2026_02:51:59.485183
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Guess ground check participant certainly that blue product simply nice population.",
+  "body": "Boy others agreement score.",
+  "userId": 3
+}
+
+09.05.2026_02:51:59.525353
+RESPONSE
+status code: 201
+json: {
+  "title": "Guess ground check participant certainly that blue product simply nice population.",
+  "body": "Boy others agreement score.",
+  "userId": 3,
+  "id": 101
+}

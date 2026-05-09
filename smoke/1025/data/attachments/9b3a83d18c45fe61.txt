@@ -1,0 +1,24 @@
+09.05.2026_02:51:59.501769
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Score born perhaps thus movie even evidence heart laugh Mrs summer do.",
+  "body": "Tonight thousand support interest.",
+  "userId": 4
+}
+
+09.05.2026_02:51:59.530712
+RESPONSE
+status code: 201
+json: {
+  "title": "Score born perhaps thus movie even evidence heart laugh Mrs summer do.",
+  "body": "Tonight thousand support interest.",
+  "userId": 4,
+  "id": 101
+}
