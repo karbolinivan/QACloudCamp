@@ -1,0 +1,24 @@
+11.05.2026_03:34:51.851023
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Far movement wait course feeling close adult trade fight they issue star.",
+  "body": "Commercial plan set wrong star black.",
+  "userId": 8
+}
+
+11.05.2026_03:34:51.883283
+RESPONSE
+status code: 201
+json: {
+  "title": "Far movement wait course feeling close adult trade fight they issue star.",
+  "body": "Commercial plan set wrong star black.",
+  "userId": 8,
+  "id": 101
+}
