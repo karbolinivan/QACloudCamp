@@ -1,0 +1,24 @@
+13.05.2026_03:29:58.756207
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Scene beat only like blue particularly me subject water current thank.",
+  "body": "Expect center Republican Congress use green.",
+  "userId": 1
+}
+
+13.05.2026_03:29:58.794650
+RESPONSE
+status code: 201
+json: {
+  "title": "Scene beat only like blue particularly me subject water current thank.",
+  "body": "Expect center Republican Congress use green.",
+  "userId": 1,
+  "id": 101
+}
