@@ -1,0 +1,24 @@
+14.05.2026_03:29:53.752481
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Nice economy magazine spring painting line guy practice scene nor game decision.",
+  "body": "Name pull color last over street money.",
+  "userId": 6
+}
+
+14.05.2026_03:29:53.988574
+RESPONSE
+status code: 201
+json: {
+  "title": "Nice economy magazine spring painting line guy practice scene nor game decision.",
+  "body": "Name pull color last over street money.",
+  "userId": 6,
+  "id": 101
+}
