@@ -1,0 +1,24 @@
+17.05.2026_03:30:38.923722
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Far market half leave voice see especially improve data.",
+  "body": "Could much back. Sure radio trial most.",
+  "userId": 7
+}
+
+17.05.2026_03:30:39.038133
+RESPONSE
+status code: 201
+json: {
+  "title": "Far market half leave voice see especially improve data.",
+  "body": "Could much back. Sure radio trial most.",
+  "userId": 7,
+  "id": 101
+}
