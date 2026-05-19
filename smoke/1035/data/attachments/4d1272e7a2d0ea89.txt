@@ -1,0 +1,24 @@
+19.05.2026_03:36:32.790359
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Step drive through affect arrive least election increase measure even blood mind.",
+  "body": "Drive thought concern discuss never.",
+  "userId": 2
+}
+
+19.05.2026_03:36:32.890019
+RESPONSE
+status code: 201
+json: {
+  "title": "Step drive through affect arrive least election increase measure even blood mind.",
+  "body": "Drive thought concern discuss never.",
+  "userId": 2,
+  "id": 101
+}
