@@ -1,0 +1,24 @@
+21.05.2026_03:45:10.773200
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Go population student important apply through audience budget national.",
+  "body": "Watch simple theory full sell.",
+  "userId": 4
+}
+
+21.05.2026_03:45:10.933633
+RESPONSE
+status code: 201
+json: {
+  "title": "Go population student important apply through audience budget national.",
+  "body": "Watch simple theory full sell.",
+  "userId": 4,
+  "id": 101
+}
