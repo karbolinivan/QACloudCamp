@@ -1,0 +1,24 @@
+22.05.2026_03:42:06.065182
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Send likely believe foreign economic edge lead skill machine house case traditional.",
+  "body": "Throughout various chair blood structure happy.",
+  "userId": 4
+}
+
+22.05.2026_03:42:06.286794
+RESPONSE
+status code: 201
+json: {
+  "title": "Send likely believe foreign economic edge lead skill machine house case traditional.",
+  "body": "Throughout various chair blood structure happy.",
+  "userId": 4,
+  "id": 101
+}
