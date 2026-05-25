@@ -1,0 +1,24 @@
+25.05.2026_03:53:45.078706
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Big firm work win control stuff official sport indicate.",
+  "body": "Measure indicate face tree stop stand center.",
+  "userId": 8
+}
+
+25.05.2026_03:53:45.139203
+RESPONSE
+status code: 201
+json: {
+  "title": "Big firm work win control stuff official sport indicate.",
+  "body": "Measure indicate face tree stop stand center.",
+  "userId": 8,
+  "id": 101
+}
