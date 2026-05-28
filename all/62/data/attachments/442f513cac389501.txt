@@ -1,0 +1,24 @@
+28.05.2026_09:57:08.774397
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Send central threat market organization fact compare degree edge agency.",
+  "body": "Sell catch mention defense yard song.",
+  "userId": 6
+}
+
+28.05.2026_09:57:08.941280
+RESPONSE
+status code: 201
+json: {
+  "title": "Send central threat market organization fact compare degree edge agency.",
+  "body": "Sell catch mention defense yard song.",
+  "userId": 6,
+  "id": 101
+}
