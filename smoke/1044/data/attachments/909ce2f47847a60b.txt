@@ -1,0 +1,24 @@
+28.05.2026_03:39:26.245419
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Firm let pass owner allow from maintain star.",
+  "body": "Lawyer learn this almost season bar.",
+  "userId": 4
+}
+
+28.05.2026_03:39:26.416658
+RESPONSE
+status code: 201
+json: {
+  "title": "Firm let pass owner allow from maintain star.",
+  "body": "Lawyer learn this almost season bar.",
+  "userId": 4,
+  "id": 101
+}
