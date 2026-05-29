@@ -1,0 +1,24 @@
+29.05.2026_03:39:39.311952
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Opportunity stay stand past several beautiful page.",
+  "body": "Dark of environment across computer very.",
+  "userId": 5
+}
+
+29.05.2026_03:39:39.437905
+RESPONSE
+status code: 201
+json: {
+  "title": "Opportunity stay stand past several beautiful page.",
+  "body": "Dark of environment across computer very.",
+  "userId": 5,
+  "id": 101
+}

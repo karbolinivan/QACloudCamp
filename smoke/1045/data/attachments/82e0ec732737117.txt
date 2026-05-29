@@ -1,0 +1,24 @@
+29.05.2026_03:39:39.321750
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "History live which class happen exist mouth lot budget science position recently final.",
+  "body": "Score fine material hand method.",
+  "userId": 3
+}
+
+29.05.2026_03:39:39.444815
+RESPONSE
+status code: 201
+json: {
+  "title": "History live which class happen exist mouth lot budget science position recently final.",
+  "body": "Score fine material hand method.",
+  "userId": 3,
+  "id": 101
+}
