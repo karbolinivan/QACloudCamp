@@ -1,0 +1,24 @@
+02.06.2026_04:01:28.070603
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Operation financial official understand despite hair parent several high network we just.",
+  "body": "Upon vote form space while surface size.",
+  "userId": 3
+}
+
+02.06.2026_04:01:28.145794
+RESPONSE
+status code: 201
+json: {
+  "title": "Operation financial official understand despite hair parent several high network we just.",
+  "body": "Upon vote form space while surface size.",
+  "userId": 3,
+  "id": 101
+}
