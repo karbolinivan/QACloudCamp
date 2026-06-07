@@ -1,0 +1,24 @@
+07.06.2026_03:59:30.797808
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Suggest summer send career past can rate off tonight include season sea similar.",
+  "body": "Factor another risk along behavior discuss speak.",
+  "userId": 5
+}
+
+07.06.2026_03:59:30.954991
+RESPONSE
+status code: 201
+json: {
+  "title": "Suggest summer send career past can rate off tonight include season sea similar.",
+  "body": "Factor another risk along behavior discuss speak.",
+  "userId": 5,
+  "id": 101
+}
