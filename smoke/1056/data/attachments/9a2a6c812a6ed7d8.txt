@@ -1,0 +1,24 @@
+09.06.2026_03:34:01.617172
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Admit imagine push inside born control five bring social chair structure.",
+  "body": "Like late general see number item stuff.",
+  "userId": 4
+}
+
+09.06.2026_03:34:01.712182
+RESPONSE
+status code: 201
+json: {
+  "title": "Admit imagine push inside born control five bring social chair structure.",
+  "body": "Like late general see number item stuff.",
+  "userId": 4,
+  "id": 101
+}
