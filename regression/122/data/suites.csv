@@ -1,4 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","165","Delete invalid resource","tests","Fri Jan 09 04:01:48 UTC 2026","passed","Fri Jan 09 04:01:48 UTC 2026","TestResource","test_resource","",""
-"","161","Create invalid resource","tests","Fri Jan 09 04:01:48 UTC 2026","passed","Fri Jan 09 04:01:48 UTC 2026","TestResource","test_resource","",""
-"","250","Get invalid resource","tests","Fri Jan 09 04:01:48 UTC 2026","passed","Fri Jan 09 04:01:48 UTC 2026","TestResource","test_resource","",""
