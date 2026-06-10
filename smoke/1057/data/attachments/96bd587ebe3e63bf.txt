@@ -1,0 +1,24 @@
+10.06.2026_03:46:16.957593
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Inside bad or movement rather determine spend.",
+  "body": "Else skill business blood region agent sure feel.",
+  "userId": 7
+}
+
+10.06.2026_03:46:17.079332
+RESPONSE
+status code: 201
+json: {
+  "title": "Inside bad or movement rather determine spend.",
+  "body": "Else skill business blood region agent sure feel.",
+  "userId": 7,
+  "id": 101
+}
