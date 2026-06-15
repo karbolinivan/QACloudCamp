@@ -1,0 +1,24 @@
+15.06.2026_04:20:08.931736
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Next cold now mission start news pattern personal program herself their face expect.",
+  "body": "Economic situation live right Mrs language hope.",
+  "userId": 7
+}
+
+15.06.2026_04:20:08.980999
+RESPONSE
+status code: 201
+json: {
+  "title": "Next cold now mission start news pattern personal program herself their face expect.",
+  "body": "Economic situation live right Mrs language hope.",
+  "userId": 7,
+  "id": 101
+}
