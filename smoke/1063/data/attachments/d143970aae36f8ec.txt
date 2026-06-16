@@ -1,0 +1,24 @@
+16.06.2026_04:11:04.068889
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Meet charge future study somebody discuss inside require.",
+  "body": "Under certain despite dark get.",
+  "userId": 8
+}
+
+16.06.2026_04:11:04.202809
+RESPONSE
+status code: 201
+json: {
+  "title": "Meet charge future study somebody discuss inside require.",
+  "body": "Under certain despite dark get.",
+  "userId": 8,
+  "id": 101
+}
