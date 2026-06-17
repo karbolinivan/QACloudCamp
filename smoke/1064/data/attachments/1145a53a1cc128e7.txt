@@ -1,0 +1,24 @@
+17.06.2026_04:10:51.509654
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Usually laugh store either family special think marriage certainly court material manager.",
+  "body": "Reflect ok strategy poor fish.",
+  "userId": 3
+}
+
+17.06.2026_04:10:51.575331
+RESPONSE
+status code: 201
+json: {
+  "title": "Usually laugh store either family special think marriage certainly court material manager.",
+  "body": "Reflect ok strategy poor fish.",
+  "userId": 3,
+  "id": 101
+}
