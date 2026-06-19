@@ -1,0 +1,24 @@
+19.06.2026_04:20:42.548770
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Purpose apply until certainly few society.",
+  "body": "Interest language our against argue.",
+  "userId": 3
+}
+
+19.06.2026_04:20:42.582234
+RESPONSE
+status code: 201
+json: {
+  "title": "Purpose apply until certainly few society.",
+  "body": "Interest language our against argue.",
+  "userId": 3,
+  "id": 101
+}
