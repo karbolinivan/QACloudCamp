@@ -1,0 +1,24 @@
+21.06.2026_04:16:16.674183
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Still message beyond interesting myself think.",
+  "body": "Lead past between teach.",
+  "userId": 7
+}
+
+21.06.2026_04:16:16.853577
+RESPONSE
+status code: 201
+json: {
+  "title": "Still message beyond interesting myself think.",
+  "body": "Lead past between teach.",
+  "userId": 7,
+  "id": 101
+}
