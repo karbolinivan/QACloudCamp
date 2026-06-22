@@ -1,0 +1,24 @@
+22.06.2026_04:17:36.801088
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Director seek walk strategy away position possible story weight effect during door body.",
+  "body": "Yet property play majority.",
+  "userId": 8
+}
+
+22.06.2026_04:17:37.003503
+RESPONSE
+status code: 201
+json: {
+  "title": "Director seek walk strategy away position possible story weight effect during door body.",
+  "body": "Yet property play majority.",
+  "userId": 8,
+  "id": 101
+}

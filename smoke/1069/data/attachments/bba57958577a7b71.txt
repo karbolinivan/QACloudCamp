@@ -1,0 +1,24 @@
+22.06.2026_04:17:36.800958
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Responsibility skin budget bill base cultural think condition.",
+  "body": "Organization institution prepare mention.",
+  "userId": 5
+}
+
+22.06.2026_04:17:36.954124
+RESPONSE
+status code: 201
+json: {
+  "title": "Responsibility skin budget bill base cultural think condition.",
+  "body": "Organization institution prepare mention.",
+  "userId": 5,
+  "id": 101
+}
