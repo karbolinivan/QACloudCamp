@@ -1,0 +1,24 @@
+23.06.2026_03:36:34.228620
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Hundred none evening relate environmental check how other.",
+  "body": "Bar stay night weight.",
+  "userId": 4
+}
+
+23.06.2026_03:36:34.344812
+RESPONSE
+status code: 201
+json: {
+  "title": "Hundred none evening relate environmental check how other.",
+  "body": "Bar stay night weight.",
+  "userId": 4,
+  "id": 101
+}
