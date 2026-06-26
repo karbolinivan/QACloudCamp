@@ -1,0 +1,24 @@
+26.06.2026_03:43:25.369953
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Another new still away according best sense make make pay.",
+  "body": "Party modern watch plant around food.",
+  "userId": 9
+}
+
+26.06.2026_03:43:25.400706
+RESPONSE
+status code: 201
+json: {
+  "title": "Another new still away according best sense make make pay.",
+  "body": "Party modern watch plant around food.",
+  "userId": 9,
+  "id": 101
+}
