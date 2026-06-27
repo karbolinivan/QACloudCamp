@@ -1,0 +1,24 @@
+27.06.2026_03:30:24.209863
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Determine mother perhaps year own reason far body say cost message will American he.",
+  "body": "Group teacher imagine style.",
+  "userId": 2
+}
+
+27.06.2026_03:30:24.312021
+RESPONSE
+status code: 201
+json: {
+  "title": "Determine mother perhaps year own reason far body say cost message will American he.",
+  "body": "Group teacher imagine style.",
+  "userId": 2,
+  "id": 101
+}
