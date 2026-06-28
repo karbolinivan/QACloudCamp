@@ -1,0 +1,24 @@
+28.06.2026_08:47:43.455128
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Woman during evidence son especially turn begin fast know little according role.",
+  "body": "Work live thus study clearly important.",
+  "userId": 1
+}
+
+28.06.2026_08:47:43.523425
+RESPONSE
+status code: 201
+json: {
+  "title": "Woman during evidence son especially turn begin fast know little according role.",
+  "body": "Work live thus study clearly important.",
+  "userId": 1,
+  "id": 101
+}
