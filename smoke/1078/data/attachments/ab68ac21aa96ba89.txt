@@ -1,0 +1,24 @@
+01.07.2026_03:57:02.353059
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Hand Mrs head claim society discover analysis produce appear real military station edge.",
+  "body": "Control everyone actually other box pull control.",
+  "userId": 1
+}
+
+01.07.2026_03:57:02.589454
+RESPONSE
+status code: 201
+json: {
+  "title": "Hand Mrs head claim society discover analysis produce appear real military station edge.",
+  "body": "Control everyone actually other box pull control.",
+  "userId": 1,
+  "id": 101
+}
