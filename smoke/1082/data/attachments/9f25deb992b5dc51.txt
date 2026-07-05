@@ -1,0 +1,24 @@
+05.07.2026_03:26:50.881024
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Too school attack end go someone quality.",
+  "body": "Appear off writer magazine red.",
+  "userId": 3
+}
+
+05.07.2026_03:26:51.016045
+RESPONSE
+status code: 201
+json: {
+  "title": "Too school attack end go someone quality.",
+  "body": "Appear off writer magazine red.",
+  "userId": 3,
+  "id": 101
+}

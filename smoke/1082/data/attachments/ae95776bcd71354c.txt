@@ -1,0 +1,24 @@
+05.07.2026_03:26:50.898098
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "I teach morning life investment visit.",
+  "body": "Forward item argue. Toward whether day.",
+  "userId": 6
+}
+
+05.07.2026_03:26:51.012507
+RESPONSE
+status code: 201
+json: {
+  "title": "I teach morning life investment visit.",
+  "body": "Forward item argue. Toward whether day.",
+  "userId": 6,
+  "id": 101
+}
