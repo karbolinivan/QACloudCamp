@@ -1,0 +1,24 @@
+06.07.2026_03:34:48.590428
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Consider change then page nothing suggest particularly program.",
+  "body": "Feeling well seat dream provide who what serious.",
+  "userId": 2
+}
+
+06.07.2026_03:34:48.742126
+RESPONSE
+status code: 201
+json: {
+  "title": "Consider change then page nothing suggest particularly program.",
+  "body": "Feeling well seat dream provide who what serious.",
+  "userId": 2,
+  "id": 101
+}
