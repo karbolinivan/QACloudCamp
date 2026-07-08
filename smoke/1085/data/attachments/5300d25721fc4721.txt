@@ -1,0 +1,24 @@
+08.07.2026_02:42:55.787711
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Trade so subject population star maintain nation enough.",
+  "body": "Ground certain line body project week player.",
+  "userId": 6
+}
+
+08.07.2026_02:42:55.918368
+RESPONSE
+status code: 201
+json: {
+  "title": "Trade so subject population star maintain nation enough.",
+  "body": "Ground certain line body project week player.",
+  "userId": 6,
+  "id": 101
+}
