@@ -1,0 +1,24 @@
+11.07.2026_02:39:46.181209
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Remember news age unit begin meet notice.",
+  "body": "Opportunity air heart could crime here.",
+  "userId": 4
+}
+
+11.07.2026_02:39:46.414658
+RESPONSE
+status code: 201
+json: {
+  "title": "Remember news age unit begin meet notice.",
+  "body": "Opportunity air heart could crime here.",
+  "userId": 4,
+  "id": 101
+}

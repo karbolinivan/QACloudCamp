@@ -1,0 +1,24 @@
+11.07.2026_02:39:46.171723
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Politics however science position control effect week organization computer.",
+  "body": "Voice song off each. Respond hundred factor.",
+  "userId": 4
+}
+
+11.07.2026_02:39:46.359033
+RESPONSE
+status code: 201
+json: {
+  "title": "Politics however science position control effect week organization computer.",
+  "body": "Voice song off each. Respond hundred factor.",
+  "userId": 4,
+  "id": 101
+}
