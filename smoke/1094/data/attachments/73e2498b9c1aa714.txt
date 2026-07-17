@@ -1,0 +1,24 @@
+17.07.2026_02:39:36.721278
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Major theory customer goal score short out.",
+  "body": "Customer result modern huge tough put job think.",
+  "userId": 3
+}
+
+17.07.2026_02:39:36.897441
+RESPONSE
+status code: 201
+json: {
+  "title": "Major theory customer goal score short out.",
+  "body": "Customer result modern huge tough put job think.",
+  "userId": 3,
+  "id": 101
+}
