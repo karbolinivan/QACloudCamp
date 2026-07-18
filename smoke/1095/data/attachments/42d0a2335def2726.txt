@@ -1,0 +1,24 @@
+18.07.2026_02:30:18.491939
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Too staff court station you recent fish single staff.",
+  "body": "Yet thought keep bank.",
+  "userId": 2
+}
+
+18.07.2026_02:30:18.619446
+RESPONSE
+status code: 201
+json: {
+  "title": "Too staff court station you recent fish single staff.",
+  "body": "Yet thought keep bank.",
+  "userId": 2,
+  "id": 101
+}
