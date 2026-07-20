@@ -1,0 +1,24 @@
+20.07.2026_02:57:39.278583
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Way second policy theory financial remain how but ahead.",
+  "body": "Trouble prove move past prepare.",
+  "userId": 4
+}
+
+20.07.2026_02:57:39.475524
+RESPONSE
+status code: 201
+json: {
+  "title": "Way second policy theory financial remain how but ahead.",
+  "body": "Trouble prove move past prepare.",
+  "userId": 4,
+  "id": 101
+}
