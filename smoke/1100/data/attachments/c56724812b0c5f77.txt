@@ -1,0 +1,24 @@
+23.07.2026_02:45:22.298625
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Among keep environmental type system line and own sea often any reason.",
+  "body": "Allow every during.",
+  "userId": 9
+}
+
+23.07.2026_02:45:22.420794
+RESPONSE
+status code: 201
+json: {
+  "title": "Among keep environmental type system line and own sea often any reason.",
+  "body": "Allow every during.",
+  "userId": 9,
+  "id": 101
+}
