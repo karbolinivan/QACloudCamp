@@ -1,0 +1,24 @@
+25.07.2026_02:39:28.951349
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Hope image discussion machine country eat tonight.",
+  "body": "Accept dark board simply skin police.",
+  "userId": 9
+}
+
+25.07.2026_02:39:29.014606
+RESPONSE
+status code: 201
+json: {
+  "title": "Hope image discussion machine country eat tonight.",
+  "body": "Accept dark board simply skin police.",
+  "userId": 9,
+  "id": 101
+}
