@@ -1,0 +1,24 @@
+27.07.2026_02:56:07.763837
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Without the past hand would art economic might wish thing sea item.",
+  "body": "Support decide serious seven.",
+  "userId": 9
+}
+
+27.07.2026_02:56:07.978397
+RESPONSE
+status code: 201
+json: {
+  "title": "Without the past hand would art economic might wish thing sea item.",
+  "body": "Support decide serious seven.",
+  "userId": 9,
+  "id": 101
+}
