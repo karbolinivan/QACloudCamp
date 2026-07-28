@@ -1,0 +1,24 @@
+28.07.2026_02:32:58.471734
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Defense center Democrat school entire these value from himself treat hot whatever.",
+  "body": "Garden many until report.",
+  "userId": 9
+}
+
+28.07.2026_02:32:58.571156
+RESPONSE
+status code: 201
+json: {
+  "title": "Defense center Democrat school entire these value from himself treat hot whatever.",
+  "body": "Garden many until report.",
+  "userId": 9,
+  "id": 101
+}
