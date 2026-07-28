@@ -1,0 +1,24 @@
+28.07.2026_08:28:54.891032
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "On no interesting guy at administration cold oil play put again hit green.",
+  "body": "Culture the money risk work big list.",
+  "userId": 2
+}
+
+28.07.2026_08:28:55.114495
+RESPONSE
+status code: 201
+json: {
+  "title": "On no interesting guy at administration cold oil play put again hit green.",
+  "body": "Culture the money risk work big list.",
+  "userId": 2,
+  "id": 101
+}
