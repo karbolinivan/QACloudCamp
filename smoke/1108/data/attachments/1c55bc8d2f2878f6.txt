@@ -1,0 +1,24 @@
+31.07.2026_02:50:03.004753
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Cell next nothing soon set month enter later partner partner friend old.",
+  "body": "Full protect fight hold. Food cut type wear.",
+  "userId": 8
+}
+
+31.07.2026_02:50:03.038330
+RESPONSE
+status code: 201
+json: {
+  "title": "Cell next nothing soon set month enter later partner partner friend old.",
+  "body": "Full protect fight hold. Food cut type wear.",
+  "userId": 8,
+  "id": 101
+}
