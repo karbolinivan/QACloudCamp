@@ -1,0 +1,24 @@
+01.08.2026_02:48:31.430352
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Consider security today bed study result smile you TV somebody rise better there.",
+  "body": "Same story win ever movie military debate.",
+  "userId": 2
+}
+
+01.08.2026_02:48:31.643824
+RESPONSE
+status code: 201
+json: {
+  "title": "Consider security today bed study result smile you TV somebody rise better there.",
+  "body": "Same story win ever movie military debate.",
+  "userId": 2,
+  "id": 101
+}
