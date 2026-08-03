@@ -1,0 +1,24 @@
+03.08.2026_02:48:44.131116
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Environment visit alone defense loss bit quickly year camera magazine.",
+  "body": "Clearly option tend.",
+  "userId": 1
+}
+
+03.08.2026_02:48:44.352412
+RESPONSE
+status code: 201
+json: {
+  "title": "Environment visit alone defense loss bit quickly year camera magazine.",
+  "body": "Clearly option tend.",
+  "userId": 1,
+  "id": 101
+}
