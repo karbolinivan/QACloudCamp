@@ -1,0 +1,24 @@
+04.08.2026_02:32:09.061572
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Possible increase office choose see marriage.",
+  "body": "Issue only easy opportunity agency respond ok.",
+  "userId": 3
+}
+
+04.08.2026_02:32:09.288689
+RESPONSE
+status code: 201
+json: {
+  "title": "Possible increase office choose see marriage.",
+  "body": "Issue only easy opportunity agency respond ok.",
+  "userId": 3,
+  "id": 101
+}

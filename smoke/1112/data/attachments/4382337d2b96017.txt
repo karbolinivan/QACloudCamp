@@ -1,0 +1,24 @@
+04.08.2026_02:32:09.061587
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Daughter prevent check build kid structure benefit.",
+  "body": "Should region discuss force machine measure.",
+  "userId": 3
+}
+
+04.08.2026_02:32:09.269466
+RESPONSE
+status code: 201
+json: {
+  "title": "Daughter prevent check build kid structure benefit.",
+  "body": "Should region discuss force machine measure.",
+  "userId": 3,
+  "id": 101
+}
