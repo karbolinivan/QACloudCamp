@@ -1,0 +1,24 @@
+06.08.2026_02:33:52.511082
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Sea age quite name range enjoy.",
+  "body": "Director different several face play woman well.",
+  "userId": 6
+}
+
+06.08.2026_02:33:52.624356
+RESPONSE
+status code: 201
+json: {
+  "title": "Sea age quite name range enjoy.",
+  "body": "Director different several face play woman well.",
+  "userId": 6,
+  "id": 101
+}
