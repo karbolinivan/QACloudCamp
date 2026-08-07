@@ -1,0 +1,24 @@
+07.08.2026_02:39:55.237113
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Either plant easy maintain he degree conference minute why TV value happy guess.",
+  "body": "Actually to lose yard soldier court.",
+  "userId": 9
+}
+
+07.08.2026_02:39:55.326245
+RESPONSE
+status code: 201
+json: {
+  "title": "Either plant easy maintain he degree conference minute why TV value happy guess.",
+  "body": "Actually to lose yard soldier court.",
+  "userId": 9,
+  "id": 101
+}
