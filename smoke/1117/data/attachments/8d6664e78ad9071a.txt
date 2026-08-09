@@ -1,0 +1,24 @@
+09.08.2026_01:44:25.508598
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Mind election capital final weight stage hit rock her prepare including impact.",
+  "body": "These sit food brother church issue avoid.",
+  "userId": 8
+}
+
+09.08.2026_01:44:25.578175
+RESPONSE
+status code: 201
+json: {
+  "title": "Mind election capital final weight stage hit rock her prepare including impact.",
+  "body": "These sit food brother church issue avoid.",
+  "userId": 8,
+  "id": 101
+}

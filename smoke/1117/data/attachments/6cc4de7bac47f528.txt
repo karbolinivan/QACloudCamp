@@ -1,0 +1,24 @@
+09.08.2026_01:44:25.517156
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Full field rock leave collection unit street suggest.",
+  "body": "While east place view since stage.",
+  "userId": 6
+}
+
+09.08.2026_01:44:25.568537
+RESPONSE
+status code: 201
+json: {
+  "title": "Full field rock leave collection unit street suggest.",
+  "body": "While east place view since stage.",
+  "userId": 6,
+  "id": 101
+}
