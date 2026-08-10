@@ -1,0 +1,24 @@
+10.08.2026_01:48:16.612172
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Head sport mean candidate how southern most protect country situation room eight assume.",
+  "body": "Sing nice officer save project cold affect.",
+  "userId": 2
+}
+
+10.08.2026_01:48:16.850966
+RESPONSE
+status code: 201
+json: {
+  "title": "Head sport mean candidate how southern most protect country situation room eight assume.",
+  "body": "Sing nice officer save project cold affect.",
+  "userId": 2,
+  "id": 101
+}

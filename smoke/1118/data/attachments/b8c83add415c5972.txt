@@ -1,0 +1,24 @@
+10.08.2026_01:48:16.621979
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Scientist Congress toward foot coach material.",
+  "body": "Plant author pay on individual.",
+  "userId": 7
+}
+
+10.08.2026_01:48:16.853415
+RESPONSE
+status code: 201
+json: {
+  "title": "Scientist Congress toward foot coach material.",
+  "body": "Plant author pay on individual.",
+  "userId": 7,
+  "id": 101
+}
