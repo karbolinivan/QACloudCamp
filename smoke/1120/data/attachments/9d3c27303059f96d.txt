@@ -1,0 +1,24 @@
+12.08.2026_01:56:37.180114
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fall nothing new similar act rule music.",
+  "body": "Put me why. Team computer pattern music man.",
+  "userId": 6
+}
+
+12.08.2026_01:56:37.453874
+RESPONSE
+status code: 201
+json: {
+  "title": "Fall nothing new similar act rule music.",
+  "body": "Put me why. Team computer pattern music man.",
+  "userId": 6,
+  "id": 101
+}
