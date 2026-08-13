@@ -1,0 +1,24 @@
+13.08.2026_01:58:40.235953
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Local while share ahead yeah appear.",
+  "body": "Activity language table suddenly.",
+  "userId": 3
+}
+
+13.08.2026_01:58:40.350948
+RESPONSE
+status code: 201
+json: {
+  "title": "Local while share ahead yeah appear.",
+  "body": "Activity language table suddenly.",
+  "userId": 3,
+  "id": 101
+}

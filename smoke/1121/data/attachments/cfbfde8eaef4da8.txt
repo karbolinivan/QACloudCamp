@@ -1,0 +1,24 @@
+13.08.2026_01:58:40.227317
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Agency message understand stop those sense within movie act.",
+  "body": "To which everybody they appear room claim.",
+  "userId": 7
+}
+
+13.08.2026_01:58:40.345237
+RESPONSE
+status code: 201
+json: {
+  "title": "Agency message understand stop those sense within movie act.",
+  "body": "To which everybody they appear room claim.",
+  "userId": 7,
+  "id": 101
+}
