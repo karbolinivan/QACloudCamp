@@ -1,0 +1,24 @@
+15.08.2026_01:13:31.187537
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Cold face discussion star body particularly end strong group reflect happy picture against leave.",
+  "body": "Buy short sport author ten.",
+  "userId": 9
+}
+
+15.08.2026_01:13:31.241823
+RESPONSE
+status code: 201
+json: {
+  "title": "Cold face discussion star body particularly end strong group reflect happy picture against leave.",
+  "body": "Buy short sport author ten.",
+  "userId": 9,
+  "id": 101
+}
