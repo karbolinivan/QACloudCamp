@@ -1,0 +1,24 @@
+17.08.2026_01:15:37.756607
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Air morning body gas must often all cut one few direction seem cut.",
+  "body": "Provide just audience military.",
+  "userId": 8
+}
+
+17.08.2026_01:15:37.977151
+RESPONSE
+status code: 201
+json: {
+  "title": "Air morning body gas must often all cut one few direction seem cut.",
+  "body": "Provide just audience military.",
+  "userId": 8,
+  "id": 101
+}
