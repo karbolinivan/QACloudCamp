@@ -1,0 +1,24 @@
+20.08.2026_01:13:14.890882
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Federal heart you thousand Democrat push carry.",
+  "body": "Agree election political parent current past.",
+  "userId": 9
+}
+
+20.08.2026_01:13:15.041524
+RESPONSE
+status code: 201
+json: {
+  "title": "Federal heart you thousand Democrat push carry.",
+  "body": "Agree election political parent current past.",
+  "userId": 9,
+  "id": 101
+}
