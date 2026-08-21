@@ -1,0 +1,24 @@
+21.08.2026_01:17:08.226889
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Pass collection issue media participant ground organization appear scientist city doctor truth imagine.",
+  "body": "Cultural instead everything couple.",
+  "userId": 6
+}
+
+21.08.2026_01:17:08.287372
+RESPONSE
+status code: 201
+json: {
+  "title": "Pass collection issue media participant ground organization appear scientist city doctor truth imagine.",
+  "body": "Cultural instead everything couple.",
+  "userId": 6,
+  "id": 101
+}

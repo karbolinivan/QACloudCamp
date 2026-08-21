@@ -1,0 +1,24 @@
+21.08.2026_01:17:08.216582
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Note through evidence sort drive morning create home five cause.",
+  "body": "Somebody participant lot those case tend worker.",
+  "userId": 1
+}
+
+21.08.2026_01:17:08.283025
+RESPONSE
+status code: 201
+json: {
+  "title": "Note through evidence sort drive morning create home five cause.",
+  "body": "Somebody participant lot those case tend worker.",
+  "userId": 1,
+  "id": 101
+}
