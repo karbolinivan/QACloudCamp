@@ -1,0 +1,24 @@
+22.08.2026_01:12:57.367768
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Official star relate loss perhaps thousand next black still fear poor.",
+  "body": "Security community suddenly important deal boy.",
+  "userId": 4
+}
+
+22.08.2026_01:12:57.403688
+RESPONSE
+status code: 201
+json: {
+  "title": "Official star relate loss perhaps thousand next black still fear poor.",
+  "body": "Security community suddenly important deal boy.",
+  "userId": 4,
+  "id": 101
+}

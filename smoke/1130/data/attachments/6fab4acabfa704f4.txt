@@ -1,0 +1,24 @@
+22.08.2026_01:12:57.358781
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Wife building whatever mention fight court.",
+  "body": "Need newspaper participant cost dream board even.",
+  "userId": 3
+}
+
+22.08.2026_01:12:57.408454
+RESPONSE
+status code: 201
+json: {
+  "title": "Wife building whatever mention fight court.",
+  "body": "Need newspaper participant cost dream board even.",
+  "userId": 3,
+  "id": 101
+}

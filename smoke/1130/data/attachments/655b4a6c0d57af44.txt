@@ -1,0 +1,24 @@
+22.08.2026_01:12:57.367456
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Democratic else full live name why thing clear over treatment wear wear parent my.",
+  "body": "Study imagine spring drive really act.",
+  "userId": 3
+}
+
+22.08.2026_01:12:57.421975
+RESPONSE
+status code: 201
+json: {
+  "title": "Democratic else full live name why thing clear over treatment wear wear parent my.",
+  "body": "Study imagine spring drive really act.",
+  "userId": 3,
+  "id": 101
+}
