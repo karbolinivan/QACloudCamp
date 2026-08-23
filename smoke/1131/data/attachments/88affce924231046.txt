@@ -1,0 +1,24 @@
+23.08.2026_01:19:17.121328
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Woman tonight continue big glass parent.",
+  "body": "Whatever onto record event matter but.",
+  "userId": 1
+}
+
+23.08.2026_01:19:17.256764
+RESPONSE
+status code: 201
+json: {
+  "title": "Woman tonight continue big glass parent.",
+  "body": "Whatever onto record event matter but.",
+  "userId": 1,
+  "id": 101
+}

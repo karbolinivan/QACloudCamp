@@ -1,0 +1,24 @@
+23.08.2026_01:19:17.120358
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Decide particularly style check discussion road third old.",
+  "body": "Power upon clear prove. Them provide risk dark.",
+  "userId": 5
+}
+
+23.08.2026_01:19:17.261975
+RESPONSE
+status code: 201
+json: {
+  "title": "Decide particularly style check discussion road third old.",
+  "body": "Power upon clear prove. Them provide risk dark.",
+  "userId": 5,
+  "id": 101
+}
