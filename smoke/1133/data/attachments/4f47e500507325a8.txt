@@ -1,0 +1,24 @@
+25.08.2026_01:15:02.153322
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Gun should meet recent whole seek my seat certainly boy director.",
+  "body": "Low employee those. So feel no camera computer.",
+  "userId": 9
+}
+
+25.08.2026_01:15:02.188993
+RESPONSE
+status code: 201
+json: {
+  "title": "Gun should meet recent whole seek my seat certainly boy director.",
+  "body": "Low employee those. So feel no camera computer.",
+  "userId": 9,
+  "id": 101
+}
