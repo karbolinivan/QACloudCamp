@@ -1,0 +1,24 @@
+27.08.2026_07:51:32.627524
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Decision us with where next sign office radio management full.",
+  "body": "Time serious inside.",
+  "userId": 3
+}
+
+27.08.2026_07:51:32.770792
+RESPONSE
+status code: 201
+json: {
+  "title": "Decision us with where next sign office radio management full.",
+  "body": "Time serious inside.",
+  "userId": 3,
+  "id": 101
+}

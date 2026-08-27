@@ -1,0 +1,24 @@
+27.08.2026_07:51:32.619168
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Model remember our identify loss leave appear civil realize recognize recently win thing it.",
+  "body": "Somebody I marriage week use concern.",
+  "userId": 9
+}
+
+27.08.2026_07:51:32.733502
+RESPONSE
+status code: 201
+json: {
+  "title": "Model remember our identify loss leave appear civil realize recognize recently win thing it.",
+  "body": "Somebody I marriage week use concern.",
+  "userId": 9,
+  "id": 101
+}
