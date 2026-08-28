@@ -1,7 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","33","Delete invalid resource","tests","Sat Dec 28 06:19:21 GMT 2024","passed","Sat Dec 28 06:19:21 GMT 2024","TestResource","test_resource","",""
-"","40","Create invalid resource","tests","Sat Dec 28 06:19:21 GMT 2024","passed","Sat Dec 28 06:19:21 GMT 2024","TestResource","test_resource","",""
-"","39","Get resource","tests","Sat Dec 28 06:19:21 GMT 2024","passed","Sat Dec 28 06:19:21 GMT 2024","TestResource","test_resource","",""
-"","93","Create resource","tests","Sat Dec 28 06:19:21 GMT 2024","passed","Sat Dec 28 06:19:21 GMT 2024","TestResource","test_resource","",""
-"","76","Get invalid resource","tests","Sat Dec 28 06:19:21 GMT 2024","passed","Sat Dec 28 06:19:21 GMT 2024","TestResource","test_resource","",""
-"","46","Delete resource","tests","Sat Dec 28 06:19:21 GMT 2024","passed","Sat Dec 28 06:19:21 GMT 2024","TestResource","test_resource","",""

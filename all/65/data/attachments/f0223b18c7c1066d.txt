@@ -1,0 +1,24 @@
+28.08.2026_18:10:58.182068
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Your worker long difference east site thing say think say picture may market.",
+  "body": "Politics part evening court sister respond plan.",
+  "userId": 3
+}
+
+28.08.2026_18:10:58.364012
+RESPONSE
+status code: 201
+json: {
+  "title": "Your worker long difference east site thing say think say picture may market.",
+  "body": "Politics part evening court sister respond plan.",
+  "userId": 3,
+  "id": 101
+}
