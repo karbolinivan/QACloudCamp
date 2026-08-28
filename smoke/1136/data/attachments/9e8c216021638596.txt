@@ -1,0 +1,24 @@
+28.08.2026_09:55:52.418695
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Though table after paper visit success child thought thousand.",
+  "body": "What here suffer should teach bank.",
+  "userId": 2
+}
+
+28.08.2026_09:55:52.668070
+RESPONSE
+status code: 201
+json: {
+  "title": "Though table after paper visit success child thought thousand.",
+  "body": "What here suffer should teach bank.",
+  "userId": 2,
+  "id": 101
+}

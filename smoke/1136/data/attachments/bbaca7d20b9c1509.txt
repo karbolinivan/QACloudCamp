@@ -1,0 +1,24 @@
+28.08.2026_09:55:52.424845
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Example tax share mention station southern question.",
+  "body": "Successful structure live home.",
+  "userId": 9
+}
+
+28.08.2026_09:55:52.670626
+RESPONSE
+status code: 201
+json: {
+  "title": "Example tax share mention station southern question.",
+  "body": "Successful structure live home.",
+  "userId": 9,
+  "id": 101
+}
