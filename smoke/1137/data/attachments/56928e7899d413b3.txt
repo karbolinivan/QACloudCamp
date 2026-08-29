@@ -1,0 +1,24 @@
+29.08.2026_05:55:27.492706
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Cover college feeling use argue vote purpose late spend ground mind.",
+  "body": "Something cut research.",
+  "userId": 6
+}
+
+29.08.2026_05:55:27.530775
+RESPONSE
+status code: 201
+json: {
+  "title": "Cover college feeling use argue vote purpose late spend ground mind.",
+  "body": "Something cut research.",
+  "userId": 6,
+  "id": 101
+}
