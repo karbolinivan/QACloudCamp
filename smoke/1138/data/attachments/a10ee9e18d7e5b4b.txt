@@ -1,0 +1,24 @@
+30.08.2026_03:59:16.989050
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "While no somebody phone billion prevent source major white attack.",
+  "body": "Everybody cell state experience indeed hand.",
+  "userId": 1
+}
+
+30.08.2026_03:59:17.023736
+RESPONSE
+status code: 201
+json: {
+  "title": "While no somebody phone billion prevent source major white attack.",
+  "body": "Everybody cell state experience indeed hand.",
+  "userId": 1,
+  "id": 101
+}

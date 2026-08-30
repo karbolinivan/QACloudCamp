@@ -1,0 +1,24 @@
+30.08.2026_03:59:16.984681
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Project serious myself those knowledge energy whatever play cup.",
+  "body": "Fly challenge it eat say fast.",
+  "userId": 8
+}
+
+30.08.2026_03:59:17.028406
+RESPONSE
+status code: 201
+json: {
+  "title": "Project serious myself those knowledge energy whatever play cup.",
+  "body": "Fly challenge it eat say fast.",
+  "userId": 8,
+  "id": 101
+}
