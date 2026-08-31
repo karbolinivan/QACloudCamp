@@ -1,0 +1,24 @@
+31.08.2026_04:03:35.135015
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Against fund share every relationship major thought guy say total.",
+  "body": "Tend like factor over idea.",
+  "userId": 5
+}
+
+31.08.2026_04:03:35.162799
+RESPONSE
+status code: 201
+json: {
+  "title": "Against fund share every relationship major thought guy say total.",
+  "body": "Tend like factor over idea.",
+  "userId": 5,
+  "id": 101
+}
