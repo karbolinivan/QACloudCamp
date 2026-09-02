@@ -1,0 +1,24 @@
+02.09.2026_03:12:59.607755
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Visit southern rich live floor student first boy might address human.",
+  "body": "Million space music throw. Next claim image.",
+  "userId": 4
+}
+
+02.09.2026_03:12:59.748458
+RESPONSE
+status code: 201
+json: {
+  "title": "Visit southern rich live floor student first boy might address human.",
+  "body": "Million space music throw. Next claim image.",
+  "userId": 4,
+  "id": 101
+}

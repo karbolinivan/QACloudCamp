@@ -1,0 +1,24 @@
+02.09.2026_03:12:59.608311
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "War rest remain they television modern.",
+  "body": "Arrive industry many feeling improve area owner.",
+  "userId": 2
+}
+
+02.09.2026_03:12:59.755785
+RESPONSE
+status code: 201
+json: {
+  "title": "War rest remain they television modern.",
+  "body": "Arrive industry many feeling improve area owner.",
+  "userId": 2,
+  "id": 101
+}
