@@ -1,0 +1,24 @@
+04.09.2026_03:13:14.927975
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Fine contain American until believe call spend letter.",
+  "body": "Rest pretty police account base someone behavior.",
+  "userId": 3
+}
+
+04.09.2026_03:13:15.087032
+RESPONSE
+status code: 201
+json: {
+  "title": "Fine contain American until believe call spend letter.",
+  "body": "Rest pretty police account base someone behavior.",
+  "userId": 3,
+  "id": 101
+}
