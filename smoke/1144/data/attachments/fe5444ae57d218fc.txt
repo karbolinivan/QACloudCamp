@@ -1,0 +1,24 @@
+05.09.2026_03:16:15.528021
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Natural research current next single Mr strong hand break benefit past city hear.",
+  "body": "Break result quality suffer voice city politics.",
+  "userId": 6
+}
+
+05.09.2026_03:16:15.702458
+RESPONSE
+status code: 201
+json: {
+  "title": "Natural research current next single Mr strong hand break benefit past city hear.",
+  "body": "Break result quality suffer voice city politics.",
+  "userId": 6,
+  "id": 101
+}

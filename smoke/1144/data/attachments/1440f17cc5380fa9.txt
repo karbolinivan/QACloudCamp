@@ -1,0 +1,24 @@
+05.09.2026_03:16:15.530188
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Measure only new high hold throw voice.",
+  "body": "Movement head realize young vote.",
+  "userId": 5
+}
+
+05.09.2026_03:16:15.829317
+RESPONSE
+status code: 201
+json: {
+  "title": "Measure only new high hold throw voice.",
+  "body": "Movement head realize young vote.",
+  "userId": 5,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+05.09.2026_03:16:15.517568
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Difficult hear good wonder week arm huge fill find than avoid.",
+  "body": "Coach ball account tend measure interest.",
+  "userId": 9
+}
+
+05.09.2026_03:16:15.691635
+RESPONSE
+status code: 201
+json: {
+  "title": "Difficult hear good wonder week arm huge fill find than avoid.",
+  "body": "Coach ball account tend measure interest.",
+  "userId": 9,
+  "id": 101
+}
