@@ -1,0 +1,24 @@
+06.09.2026_03:15:52.703056
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Agree improve Democrat thus address wind federal fall enough body avoid expect.",
+  "body": "Fund word past themselves.",
+  "userId": 3
+}
+
+06.09.2026_03:15:52.774311
+RESPONSE
+status code: 201
+json: {
+  "title": "Agree improve Democrat thus address wind federal fall enough body avoid expect.",
+  "body": "Fund word past themselves.",
+  "userId": 3,
+  "id": 101
+}

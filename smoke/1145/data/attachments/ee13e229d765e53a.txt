@@ -1,0 +1,24 @@
+06.09.2026_03:15:52.709160
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Threat sell interest worry family but return.",
+  "body": "He room weight machine. Or PM skin plan future.",
+  "userId": 8
+}
+
+06.09.2026_03:15:52.787678
+RESPONSE
+status code: 201
+json: {
+  "title": "Threat sell interest worry family but return.",
+  "body": "He room weight machine. Or PM skin plan future.",
+  "userId": 8,
+  "id": 101
+}

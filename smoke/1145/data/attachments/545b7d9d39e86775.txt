@@ -1,0 +1,24 @@
+06.09.2026_03:15:52.710851
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Trial long black late participant billion technology everything theory.",
+  "body": "House current follow trade rock week foreign.",
+  "userId": 9
+}
+
+06.09.2026_03:15:52.788312
+RESPONSE
+status code: 201
+json: {
+  "title": "Trial long black late participant billion technology everything theory.",
+  "body": "House current follow trade rock week foreign.",
+  "userId": 9,
+  "id": 101
+}
