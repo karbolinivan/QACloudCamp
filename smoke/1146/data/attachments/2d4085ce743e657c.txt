@@ -1,0 +1,24 @@
+07.09.2026_03:14:24.496306
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Above word great sort question drive road health section order easy for test.",
+  "body": "Lay voice while market describe training.",
+  "userId": 8
+}
+
+07.09.2026_03:14:24.739580
+RESPONSE
+status code: 201
+json: {
+  "title": "Above word great sort question drive road health section order easy for test.",
+  "body": "Lay voice while market describe training.",
+  "userId": 8,
+  "id": 101
+}
