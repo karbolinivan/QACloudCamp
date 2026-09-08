@@ -1,0 +1,24 @@
+08.09.2026_03:22:00.042754
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "House professor federal foreign turn employee family begin total next.",
+  "body": "Continue home then record nation dream offer.",
+  "userId": 7
+}
+
+08.09.2026_03:22:00.288077
+RESPONSE
+status code: 201
+json: {
+  "title": "House professor federal foreign turn employee family begin total next.",
+  "body": "Continue home then record nation dream offer.",
+  "userId": 7,
+  "id": 101
+}

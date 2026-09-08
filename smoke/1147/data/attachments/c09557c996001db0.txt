@@ -1,0 +1,24 @@
+08.09.2026_03:22:00.041729
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Majority among civil rise dark left research.",
+  "body": "Spend board them or program involve.",
+  "userId": 1
+}
+
+08.09.2026_03:22:00.286594
+RESPONSE
+status code: 201
+json: {
+  "title": "Majority among civil rise dark left research.",
+  "body": "Spend board them or program involve.",
+  "userId": 1,
+  "id": 101
+}
