@@ -1,0 +1,24 @@
+09.09.2026_03:25:45.195011
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Spring situation itself bed mouth us.",
+  "body": "Join ball population material meet perhaps chair.",
+  "userId": 6
+}
+
+09.09.2026_03:25:45.431635
+RESPONSE
+status code: 201
+json: {
+  "title": "Spring situation itself bed mouth us.",
+  "body": "Join ball population material meet perhaps chair.",
+  "userId": 6,
+  "id": 101
+}

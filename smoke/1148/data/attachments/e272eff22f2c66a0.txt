@@ -1,0 +1,24 @@
+09.09.2026_03:25:45.194148
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Friend skill on add modern clearly protect hit.",
+  "body": "Admit and information sea occur reach return.",
+  "userId": 5
+}
+
+09.09.2026_03:25:45.424875
+RESPONSE
+status code: 201
+json: {
+  "title": "Friend skill on add modern clearly protect hit.",
+  "body": "Admit and information sea occur reach return.",
+  "userId": 5,
+  "id": 101
+}
