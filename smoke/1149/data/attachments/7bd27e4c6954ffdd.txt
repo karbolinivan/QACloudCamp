@@ -1,0 +1,24 @@
+10.09.2026_03:24:20.231043
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Record wrong data available turn figure.",
+  "body": "Such knowledge idea media.",
+  "userId": 9
+}
+
+10.09.2026_03:24:20.508579
+RESPONSE
+status code: 201
+json: {
+  "title": "Record wrong data available turn figure.",
+  "body": "Such knowledge idea media.",
+  "userId": 9,
+  "id": 101
+}
