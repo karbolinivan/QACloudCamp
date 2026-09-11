@@ -1,0 +1,24 @@
+11.09.2026_03:20:36.422096
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Director commercial yes hit federal laugh resource throughout ask a heavy address.",
+  "body": "Listen police civil so focus explain exist.",
+  "userId": 2
+}
+
+11.09.2026_03:20:36.557574
+RESPONSE
+status code: 201
+json: {
+  "title": "Director commercial yes hit federal laugh resource throughout ask a heavy address.",
+  "body": "Listen police civil so focus explain exist.",
+  "userId": 2,
+  "id": 101
+}
