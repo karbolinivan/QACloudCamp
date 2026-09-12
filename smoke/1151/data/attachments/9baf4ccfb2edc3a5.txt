@@ -1,0 +1,24 @@
+12.09.2026_03:25:50.188163
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Of campaign lay side mind cut quality almost.",
+  "body": "Minute receive sea study face.",
+  "userId": 3
+}
+
+12.09.2026_03:25:50.242432
+RESPONSE
+status code: 201
+json: {
+  "title": "Of campaign lay side mind cut quality almost.",
+  "body": "Minute receive sea study face.",
+  "userId": 3,
+  "id": 101
+}
