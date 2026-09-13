@@ -1,0 +1,24 @@
+13.09.2026_03:31:45.291181
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Expect similar some statement boy tend child in so leave market child.",
+  "body": "Enough successful simple real lot.",
+  "userId": 1
+}
+
+13.09.2026_03:31:45.398063
+RESPONSE
+status code: 201
+json: {
+  "title": "Expect similar some statement boy tend child in so leave market child.",
+  "body": "Enough successful simple real lot.",
+  "userId": 1,
+  "id": 101
+}
