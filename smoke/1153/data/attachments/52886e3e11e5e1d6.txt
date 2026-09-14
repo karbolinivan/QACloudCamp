@@ -1,0 +1,24 @@
+14.09.2026_03:41:59.340139
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Meeting have remain never just write finish decade wall without.",
+  "body": "Present next general.",
+  "userId": 5
+}
+
+14.09.2026_03:41:59.527689
+RESPONSE
+status code: 201
+json: {
+  "title": "Meeting have remain never just write finish decade wall without.",
+  "body": "Present next general.",
+  "userId": 5,
+  "id": 101
+}
