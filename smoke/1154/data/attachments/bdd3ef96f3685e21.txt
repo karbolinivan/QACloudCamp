@@ -1,0 +1,24 @@
+15.09.2026_03:42:46.582219
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "International chance admit society interview bar idea wrong right up.",
+  "body": "Machine country red create myself social.",
+  "userId": 4
+}
+
+15.09.2026_03:42:46.682019
+RESPONSE
+status code: 201
+json: {
+  "title": "International chance admit society interview bar idea wrong right up.",
+  "body": "Machine country red create myself social.",
+  "userId": 4,
+  "id": 101
+}
