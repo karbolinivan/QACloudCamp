@@ -1,0 +1,24 @@
+17.09.2026_03:44:36.386368
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Hot floor many final ago paper part.",
+  "body": "True world animal. Change step under wife late.",
+  "userId": 5
+}
+
+17.09.2026_03:44:36.436881
+RESPONSE
+status code: 201
+json: {
+  "title": "Hot floor many final ago paper part.",
+  "body": "True world animal. Change step under wife late.",
+  "userId": 5,
+  "id": 101
+}

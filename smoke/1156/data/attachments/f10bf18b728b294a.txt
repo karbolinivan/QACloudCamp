@@ -1,0 +1,24 @@
+17.09.2026_03:44:36.396460
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Lot entire scene majority else hand every pick responsibility top public.",
+  "body": "May than strategy place.",
+  "userId": 4
+}
+
+17.09.2026_03:44:36.427936
+RESPONSE
+status code: 201
+json: {
+  "title": "Lot entire scene majority else hand every pick responsibility top public.",
+  "body": "May than strategy place.",
+  "userId": 4,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+17.09.2026_03:44:36.393800
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Type church network record various sure suffer me ask.",
+  "body": "Various general run.",
+  "userId": 8
+}
+
+17.09.2026_03:44:36.427705
+RESPONSE
+status code: 201
+json: {
+  "title": "Type church network record various sure suffer me ask.",
+  "body": "Various general run.",
+  "userId": 8,
+  "id": 101
+}
