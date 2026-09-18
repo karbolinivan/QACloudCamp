@@ -1,0 +1,24 @@
+18.09.2026_03:30:51.126727
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Build deep affect reflect bank seem local speak.",
+  "body": "Interesting hundred these environmental.",
+  "userId": 7
+}
+
+18.09.2026_03:30:51.342129
+RESPONSE
+status code: 201
+json: {
+  "title": "Build deep affect reflect bank seem local speak.",
+  "body": "Interesting hundred these environmental.",
+  "userId": 7,
+  "id": 101
+}
