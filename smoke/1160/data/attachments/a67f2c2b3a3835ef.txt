@@ -1,0 +1,24 @@
+21.09.2026_03:40:26.686161
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Character action person which article me who little writer girl process.",
+  "body": "Think political charge health.",
+  "userId": 1
+}
+
+21.09.2026_03:40:26.891540
+RESPONSE
+status code: 201
+json: {
+  "title": "Character action person which article me who little writer girl process.",
+  "body": "Think political charge health.",
+  "userId": 1,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+21.09.2026_03:40:26.686941
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Gas hold candidate drive however senior single food.",
+  "body": "Drive director himself laugh per black.",
+  "userId": 9
+}
+
+21.09.2026_03:40:27.007421
+RESPONSE
+status code: 201
+json: {
+  "title": "Gas hold candidate drive however senior single food.",
+  "body": "Drive director himself laugh per black.",
+  "userId": 9,
+  "id": 101
+}
