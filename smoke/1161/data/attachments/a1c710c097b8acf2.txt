@@ -1,0 +1,24 @@
+22.09.2026_03:38:08.301185
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Newspaper including capital store ability again style.",
+  "body": "Ever occur suddenly threat value.",
+  "userId": 6
+}
+
+22.09.2026_03:38:08.435024
+RESPONSE
+status code: 201
+json: {
+  "title": "Newspaper including capital store ability again style.",
+  "body": "Ever occur suddenly threat value.",
+  "userId": 6,
+  "id": 101
+}
