@@ -1,0 +1,24 @@
+23.09.2026_03:37:32.801265
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Energy official morning your draw town low population common material these again.",
+  "body": "Blue indeed rather star resource.",
+  "userId": 9
+}
+
+23.09.2026_03:37:32.945845
+RESPONSE
+status code: 201
+json: {
+  "title": "Energy official morning your draw town low population common material these again.",
+  "body": "Blue indeed rather star resource.",
+  "userId": 9,
+  "id": 101
+}

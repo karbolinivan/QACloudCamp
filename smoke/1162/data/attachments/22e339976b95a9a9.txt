@@ -1,0 +1,24 @@
+23.09.2026_03:37:32.798568
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Five available short chance and admit marriage.",
+  "body": "Travel standard section quite ever eye.",
+  "userId": 3
+}
+
+23.09.2026_03:37:32.987670
+RESPONSE
+status code: 201
+json: {
+  "title": "Five available short chance and admit marriage.",
+  "body": "Travel standard section quite ever eye.",
+  "userId": 3,
+  "id": 101
+}

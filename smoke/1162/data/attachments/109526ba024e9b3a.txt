@@ -1,0 +1,24 @@
+23.09.2026_03:37:32.792453
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Include itself by available agreement with husband investment dog.",
+  "body": "Machine economy ahead fast white draw.",
+  "userId": 5
+}
+
+23.09.2026_03:37:32.950503
+RESPONSE
+status code: 201
+json: {
+  "title": "Include itself by available agreement with husband investment dog.",
+  "body": "Machine economy ahead fast white draw.",
+  "userId": 5,
+  "id": 101
+}
