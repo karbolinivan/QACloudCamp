@@ -1,0 +1,24 @@
+24.09.2026_03:28:28.371960
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Close no clearly while partner exist rise kid lose here others.",
+  "body": "Fire likely old government current beat.",
+  "userId": 6
+}
+
+24.09.2026_03:28:28.584272
+RESPONSE
+status code: 201
+json: {
+  "title": "Close no clearly while partner exist rise kid lose here others.",
+  "body": "Fire likely old government current beat.",
+  "userId": 6,
+  "id": 101
+}
