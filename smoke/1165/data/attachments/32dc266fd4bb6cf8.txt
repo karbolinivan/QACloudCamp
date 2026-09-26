@@ -1,0 +1,24 @@
+26.09.2026_03:51:32.483083
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "That whatever modern in employee president return.",
+  "body": "Leader deep popular direction have success race.",
+  "userId": 8
+}
+
+26.09.2026_03:51:32.679614
+RESPONSE
+status code: 201
+json: {
+  "title": "That whatever modern in employee president return.",
+  "body": "Leader deep popular direction have success race.",
+  "userId": 8,
+  "id": 101
+}

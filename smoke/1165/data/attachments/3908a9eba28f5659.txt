@@ -1,0 +1,24 @@
+26.09.2026_03:51:32.481689
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "All ask part avoid direction dark there either reality bring standard low.",
+  "body": "Sea professor then project.",
+  "userId": 3
+}
+
+26.09.2026_03:51:32.627947
+RESPONSE
+status code: 201
+json: {
+  "title": "All ask part avoid direction dark there either reality bring standard low.",
+  "body": "Sea professor then project.",
+  "userId": 3,
+  "id": 101
+}
