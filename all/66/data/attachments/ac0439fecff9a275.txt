@@ -1,0 +1,24 @@
+28.09.2026_12:51:29.084926
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Side who one source gas amount town rock.",
+  "body": "Tough shake look put. Moment money name.",
+  "userId": 2
+}
+
+28.09.2026_12:51:29.425921
+RESPONSE
+status code: 201
+json: {
+  "title": "Side who one source gas amount town rock.",
+  "body": "Tough shake look put. Moment money name.",
+  "userId": 2,
+  "id": 101
+}
