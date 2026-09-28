@@ -1,0 +1,24 @@
+28.09.2026_04:01:53.539622
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Sound worker much amount meet receive.",
+  "body": "Network poor someone behind recently.",
+  "userId": 5
+}
+
+28.09.2026_04:01:53.776462
+RESPONSE
+status code: 201
+json: {
+  "title": "Sound worker much amount meet receive.",
+  "body": "Network poor someone behind recently.",
+  "userId": 5,
+  "id": 101
+}
