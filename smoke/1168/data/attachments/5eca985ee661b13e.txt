@@ -1,0 +1,24 @@
+29.09.2026_04:36:00.200754
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Author program wall develop call read list school improve a American man.",
+  "body": "Never performance pull word.",
+  "userId": 5
+}
+
+29.09.2026_04:36:00.244590
+RESPONSE
+status code: 201
+json: {
+  "title": "Author program wall develop call read list school improve a American man.",
+  "body": "Never performance pull word.",
+  "userId": 5,
+  "id": 101
+}

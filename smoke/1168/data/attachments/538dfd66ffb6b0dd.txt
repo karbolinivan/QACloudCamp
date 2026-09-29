@@ -1,0 +1,24 @@
+29.09.2026_04:36:00.190200
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Project hospital open analysis last central direction idea.",
+  "body": "Left possible thank be network.",
+  "userId": 8
+}
+
+29.09.2026_04:36:00.239104
+RESPONSE
+status code: 201
+json: {
+  "title": "Project hospital open analysis last central direction idea.",
+  "body": "Left possible thank be network.",
+  "userId": 8,
+  "id": 101
+}
