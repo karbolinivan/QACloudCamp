@@ -1,0 +1,24 @@
+30.09.2026_04:18:46.491537
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Admit policy major TV ok face lead soon we church west say state.",
+  "body": "Then people professor be part remain effect.",
+  "userId": 2
+}
+
+30.09.2026_04:18:46.601475
+RESPONSE
+status code: 201
+json: {
+  "title": "Admit policy major TV ok face lead soon we church west say state.",
+  "body": "Then people professor be part remain effect.",
+  "userId": 2,
+  "id": 101
+}

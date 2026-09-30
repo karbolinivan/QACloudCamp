@@ -1,0 +1,24 @@
+30.09.2026_04:18:46.490467
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Common wear worry improve leave several think speak.",
+  "body": "College build daughter.",
+  "userId": 6
+}
+
+30.09.2026_04:18:46.589712
+RESPONSE
+status code: 201
+json: {
+  "title": "Common wear worry improve leave several think speak.",
+  "body": "College build daughter.",
+  "userId": 6,
+  "id": 101
+}
