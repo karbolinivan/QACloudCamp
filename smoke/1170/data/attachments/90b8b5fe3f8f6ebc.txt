@@ -1,0 +1,24 @@
+01.10.2026_04:30:43.400982
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Way capital leader option news laugh explain raise reason.",
+  "body": "North cause series defense.",
+  "userId": 6
+}
+
+01.10.2026_04:30:43.501544
+RESPONSE
+status code: 201
+json: {
+  "title": "Way capital leader option news laugh explain raise reason.",
+  "body": "North cause series defense.",
+  "userId": 6,
+  "id": 101
+}
