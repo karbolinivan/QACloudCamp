@@ -1,0 +1,24 @@
+02.10.2026_04:23:22.009283
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Television measure she information effort natural education.",
+  "body": "If agent campaign hot.",
+  "userId": 8
+}
+
+02.10.2026_04:23:22.304422
+RESPONSE
+status code: 201
+json: {
+  "title": "Television measure she information effort natural education.",
+  "body": "If agent campaign hot.",
+  "userId": 8,
+  "id": 101
+}

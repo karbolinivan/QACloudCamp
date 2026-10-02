@@ -1,0 +1,24 @@
+02.10.2026_04:23:22.003117
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Result include wide bill parent ability.",
+  "body": "Store green Mrs onto whom.",
+  "userId": 6
+}
+
+02.10.2026_04:23:22.425561
+RESPONSE
+status code: 201
+json: {
+  "title": "Result include wide bill parent ability.",
+  "body": "Store green Mrs onto whom.",
+  "userId": 6,
+  "id": 101
+}
