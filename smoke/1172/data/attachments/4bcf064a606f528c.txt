@@ -1,0 +1,24 @@
+03.10.2026_04:05:52.011017
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Pretty light minute artist affect box red.",
+  "body": "A laugh various my reduce idea long.",
+  "userId": 5
+}
+
+03.10.2026_04:05:52.177543
+RESPONSE
+status code: 201
+json: {
+  "title": "Pretty light minute artist affect box red.",
+  "body": "A laugh various my reduce idea long.",
+  "userId": 5,
+  "id": 101
+}
