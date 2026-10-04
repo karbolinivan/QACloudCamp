@@ -1,0 +1,24 @@
+04.10.2026_04:38:33.654696
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Piece Democrat run tell president begin cup glass find.",
+  "body": "Week him minute public difficult from.",
+  "userId": 3
+}
+
+04.10.2026_04:38:33.728688
+RESPONSE
+status code: 201
+json: {
+  "title": "Piece Democrat run tell president begin cup glass find.",
+  "body": "Week him minute public difficult from.",
+  "userId": 3,
+  "id": 101
+}
