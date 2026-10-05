@@ -1,0 +1,24 @@
+05.10.2026_04:25:02.281851
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Show help audience state month include tonight alone trouble world research tonight feeling.",
+  "body": "Military others last guess likely century money.",
+  "userId": 3
+}
+
+05.10.2026_04:25:02.403884
+RESPONSE
+status code: 201
+json: {
+  "title": "Show help audience state month include tonight alone trouble world research tonight feeling.",
+  "body": "Military others last guess likely century money.",
+  "userId": 3,
+  "id": 101
+}
