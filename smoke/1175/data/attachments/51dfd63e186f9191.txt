@@ -1,0 +1,24 @@
+06.10.2026_05:11:59.886043
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Tv line picture provide should cultural claim need once stuff security must.",
+  "body": "Visit partner success social only.",
+  "userId": 8
+}
+
+06.10.2026_05:11:59.988628
+RESPONSE
+status code: 201
+json: {
+  "title": "Tv line picture provide should cultural claim need once stuff security must.",
+  "body": "Visit partner success social only.",
+  "userId": 8,
+  "id": 101
+}
