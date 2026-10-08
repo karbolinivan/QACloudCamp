@@ -1,0 +1,24 @@
+08.10.2026_04:50:22.243899
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Everything finally majority quality consider officer summer project plan several address.",
+  "body": "Deal same financial throw music.",
+  "userId": 9
+}
+
+08.10.2026_04:50:22.346725
+RESPONSE
+status code: 201
+json: {
+  "title": "Everything finally majority quality consider officer summer project plan several address.",
+  "body": "Deal same financial throw music.",
+  "userId": 9,
+  "id": 101
+}
