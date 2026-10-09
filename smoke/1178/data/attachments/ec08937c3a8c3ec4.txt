@@ -1,0 +1,24 @@
+09.10.2026_04:53:13.668185
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Community according business throughout blood interest have.",
+  "body": "Lawyer half away another program.",
+  "userId": 6
+}
+
+09.10.2026_04:53:13.711071
+RESPONSE
+status code: 201
+json: {
+  "title": "Community according business throughout blood interest have.",
+  "body": "Lawyer half away another program.",
+  "userId": 6,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+09.10.2026_04:53:13.670449
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Model movie second understand family form would candidate material team nature.",
+  "body": "Rock program right me early fall.",
+  "userId": 2
+}
+
+09.10.2026_04:53:13.706828
+RESPONSE
+status code: 201
+json: {
+  "title": "Model movie second understand family form would candidate material team nature.",
+  "body": "Rock program right me early fall.",
+  "userId": 2,
+  "id": 101
+}

@@ -1,0 +1,24 @@
+09.10.2026_04:53:13.660363
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Ago American cultural degree structure Democrat to fact.",
+  "body": "Soldier message up large commercial.",
+  "userId": 3
+}
+
+09.10.2026_04:53:13.707894
+RESPONSE
+status code: 201
+json: {
+  "title": "Ago American cultural degree structure Democrat to fact.",
+  "body": "Soldier message up large commercial.",
+  "userId": 3,
+  "id": 101
+}
