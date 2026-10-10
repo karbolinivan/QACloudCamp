@@ -1,0 +1,24 @@
+10.10.2026_04:38:42.568563
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Road TV into of see network instead realize trial.",
+  "body": "Participant many choice.",
+  "userId": 4
+}
+
+10.10.2026_04:38:42.619390
+RESPONSE
+status code: 201
+json: {
+  "title": "Road TV into of see network instead realize trial.",
+  "body": "Participant many choice.",
+  "userId": 4,
+  "id": 101
+}
