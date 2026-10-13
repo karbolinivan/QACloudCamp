@@ -1,0 +1,24 @@
+13.10.2026_05:45:07.605295
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "According live peace security soon for itself opportunity way eye husband.",
+  "body": "Official daughter people they relationship.",
+  "userId": 5
+}
+
+13.10.2026_05:45:07.765294
+RESPONSE
+status code: 201
+json: {
+  "title": "According live peace security soon for itself opportunity way eye husband.",
+  "body": "Official daughter people they relationship.",
+  "userId": 5,
+  "id": 101
+}
