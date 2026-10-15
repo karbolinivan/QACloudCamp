@@ -1,0 +1,24 @@
+15.10.2026_03:29:56.049390
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Film really fine job difference discover specific cup.",
+  "body": "Cell share happen decade.",
+  "userId": 3
+}
+
+15.10.2026_03:29:56.111585
+RESPONSE
+status code: 201
+json: {
+  "title": "Film really fine job difference discover specific cup.",
+  "body": "Cell share happen decade.",
+  "userId": 3,
+  "id": 101
+}
