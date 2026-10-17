@@ -1,0 +1,24 @@
+17.10.2026_03:15:46.024687
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Example nothing science lawyer require fight.",
+  "body": "Build issue media drug marriage.",
+  "userId": 7
+}
+
+17.10.2026_03:15:46.086228
+RESPONSE
+status code: 201
+json: {
+  "title": "Example nothing science lawyer require fight.",
+  "body": "Build issue media drug marriage.",
+  "userId": 7,
+  "id": 101
+}
