@@ -1,0 +1,24 @@
+22.10.2026_03:34:07.739656
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Team word long fly politics place camera then participant wish.",
+  "body": "Strong open certain girl drug.",
+  "userId": 8
+}
+
+22.10.2026_03:34:07.881345
+RESPONSE
+status code: 201
+json: {
+  "title": "Team word long fly politics place camera then participant wish.",
+  "body": "Strong open certain girl drug.",
+  "userId": 8,
+  "id": 101
+}
