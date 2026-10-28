@@ -1,0 +1,24 @@
+28.10.2026_12:04:47.745035
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Loss capital degree quite stop simply professor increase company.",
+  "body": "Research truth dream result back test.",
+  "userId": 2
+}
+
+28.10.2026_12:04:47.929122
+RESPONSE
+status code: 201
+json: {
+  "title": "Loss capital degree quite stop simply professor increase company.",
+  "body": "Research truth dream result back test.",
+  "userId": 2,
+  "id": 101
+}
