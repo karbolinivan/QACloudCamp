@@ -1,0 +1,24 @@
+01.11.2026_04:43:44.883973
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Result director partner campaign security north anyone candidate type key question market.",
+  "body": "Mean level life example area PM method.",
+  "userId": 8
+}
+
+01.11.2026_04:43:45.000617
+RESPONSE
+status code: 201
+json: {
+  "title": "Result director partner campaign security north anyone candidate type key question market.",
+  "body": "Mean level life example area PM method.",
+  "userId": 8,
+  "id": 101
+}

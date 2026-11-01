@@ -1,0 +1,24 @@
+01.11.2026_04:43:44.883202
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Would moment still real ask mind floor against successful soldier office case.",
+  "body": "Ask wind little college.",
+  "userId": 4
+}
+
+01.11.2026_04:43:45.125852
+RESPONSE
+status code: 201
+json: {
+  "title": "Would moment still real ask mind floor against successful soldier office case.",
+  "body": "Ask wind little college.",
+  "userId": 4,
+  "id": 101
+}

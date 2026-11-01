@@ -1,0 +1,24 @@
+01.11.2026_04:43:44.874415
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Strong education herself general campaign new five prove today.",
+  "body": "Series place least physical lot check treat.",
+  "userId": 8
+}
+
+01.11.2026_04:43:45.123520
+RESPONSE
+status code: 201
+json: {
+  "title": "Strong education herself general campaign new five prove today.",
+  "body": "Series place least physical lot check treat.",
+  "userId": 8,
+  "id": 101
+}
