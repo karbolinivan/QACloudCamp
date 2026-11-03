@@ -1,0 +1,24 @@
+03.11.2026_05:36:17.051809
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Charge technology surface somebody protect mother per according too north.",
+  "body": "Fill agent crime matter American.",
+  "userId": 2
+}
+
+03.11.2026_05:36:17.203323
+RESPONSE
+status code: 201
+json: {
+  "title": "Charge technology surface somebody protect mother per according too north.",
+  "body": "Fill agent crime matter American.",
+  "userId": 2,
+  "id": 101
+}

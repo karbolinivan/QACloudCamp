@@ -1,0 +1,24 @@
+03.11.2026_05:36:17.045997
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Type present among black claim less beat this hold.",
+  "body": "Structure scene nature letter middle.",
+  "userId": 3
+}
+
+03.11.2026_05:36:17.241919
+RESPONSE
+status code: 201
+json: {
+  "title": "Type present among black claim less beat this hold.",
+  "body": "Structure scene nature letter middle.",
+  "userId": 3,
+  "id": 101
+}

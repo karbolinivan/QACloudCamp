@@ -1,0 +1,24 @@
+03.11.2026_05:36:17.050623
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Four military news American effort audience doctor bag.",
+  "body": "Hot alone firm me someone executive.",
+  "userId": 8
+}
+
+03.11.2026_05:36:17.207481
+RESPONSE
+status code: 201
+json: {
+  "title": "Four military news American effort audience doctor bag.",
+  "body": "Hot alone firm me someone executive.",
+  "userId": 8,
+  "id": 101
+}
