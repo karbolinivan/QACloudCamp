@@ -1,0 +1,24 @@
+04.11.2026_05:04:34.253531
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Environment middle PM let deep avoid certainly leave relationship operation four.",
+  "body": "System attention low increase man sense choice.",
+  "userId": 1
+}
+
+04.11.2026_05:04:34.412123
+RESPONSE
+status code: 201
+json: {
+  "title": "Environment middle PM let deep avoid certainly leave relationship operation four.",
+  "body": "System attention low increase man sense choice.",
+  "userId": 1,
+  "id": 101
+}
