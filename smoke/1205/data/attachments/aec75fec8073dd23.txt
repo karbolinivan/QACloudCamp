@@ -1,0 +1,24 @@
+05.11.2026_05:27:42.895861
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Similar thus southern base moment believe heavy past its lead.",
+  "body": "Of stuff condition yes pretty manager.",
+  "userId": 6
+}
+
+05.11.2026_05:27:43.210096
+RESPONSE
+status code: 201
+json: {
+  "title": "Similar thus southern base moment believe heavy past its lead.",
+  "body": "Of stuff condition yes pretty manager.",
+  "userId": 6,
+  "id": 101
+}
