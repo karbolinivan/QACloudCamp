@@ -1,0 +1,24 @@
+06.11.2026_05:26:33.021967
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Church agent top election computer image boy a finish structure high pay simply.",
+  "body": "Grow music station state nor until maybe quality.",
+  "userId": 9
+}
+
+06.11.2026_05:26:33.111397
+RESPONSE
+status code: 201
+json: {
+  "title": "Church agent top election computer image boy a finish structure high pay simply.",
+  "body": "Grow music station state nor until maybe quality.",
+  "userId": 9,
+  "id": 101
+}

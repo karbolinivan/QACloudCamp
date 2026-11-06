@@ -1,0 +1,24 @@
+06.11.2026_05:26:33.006324
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Little boy easy why hair dream no up without make include.",
+  "body": "Speak me brother close strategy future.",
+  "userId": 4
+}
+
+06.11.2026_05:26:33.069399
+RESPONSE
+status code: 201
+json: {
+  "title": "Little boy easy why hair dream no up without make include.",
+  "body": "Speak me brother close strategy future.",
+  "userId": 4,
+  "id": 101
+}
