@@ -1,0 +1,24 @@
+07.11.2026_04:54:52.302010
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Over produce movement difference worry trade.",
+  "body": "Economic film view type order wide organization.",
+  "userId": 6
+}
+
+07.11.2026_04:54:52.449725
+RESPONSE
+status code: 201
+json: {
+  "title": "Over produce movement difference worry trade.",
+  "body": "Economic film view type order wide organization.",
+  "userId": 6,
+  "id": 101
+}

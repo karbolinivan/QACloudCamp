@@ -1,0 +1,24 @@
+07.11.2026_04:54:52.313427
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Culture join federal remain brother again effort into.",
+  "body": "Nature drop road heavy.",
+  "userId": 6
+}
+
+07.11.2026_04:54:52.402492
+RESPONSE
+status code: 201
+json: {
+  "title": "Culture join federal remain brother again effort into.",
+  "body": "Nature drop road heavy.",
+  "userId": 6,
+  "id": 101
+}
