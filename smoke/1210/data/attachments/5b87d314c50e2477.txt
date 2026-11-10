@@ -1,0 +1,24 @@
+10.11.2026_06:12:05.880182
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Many positive say enter much participant team.",
+  "body": "She simple election station business.",
+  "userId": 5
+}
+
+10.11.2026_06:12:06.016297
+RESPONSE
+status code: 201
+json: {
+  "title": "Many positive say enter much participant team.",
+  "body": "She simple election station business.",
+  "userId": 5,
+  "id": 101
+}
