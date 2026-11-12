@@ -1,0 +1,24 @@
+12.11.2026_06:00:00.655356
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Only lay decision cell chance every evidence worker Congress thousand now specific.",
+  "body": "Question wide before simply.",
+  "userId": 3
+}
+
+12.11.2026_06:00:00.851763
+RESPONSE
+status code: 201
+json: {
+  "title": "Only lay decision cell chance every evidence worker Congress thousand now specific.",
+  "body": "Question wide before simply.",
+  "userId": 3,
+  "id": 101
+}
