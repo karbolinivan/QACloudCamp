@@ -1,0 +1,24 @@
+13.11.2026_05:24:58.711826
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Various nice respond visit professional window.",
+  "body": "Far head with article indicate everyone politics.",
+  "userId": 6
+}
+
+13.11.2026_05:24:59.008743
+RESPONSE
+status code: 201
+json: {
+  "title": "Various nice respond visit professional window.",
+  "body": "Far head with article indicate everyone politics.",
+  "userId": 6,
+  "id": 101
+}

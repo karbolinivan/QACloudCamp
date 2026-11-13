@@ -1,0 +1,24 @@
+13.11.2026_05:24:58.704197
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Security drive amount treat street very sure mother financial.",
+  "body": "Audience billion while record need assume color.",
+  "userId": 8
+}
+
+13.11.2026_05:24:59.007766
+RESPONSE
+status code: 201
+json: {
+  "title": "Security drive amount treat street very sure mother financial.",
+  "body": "Audience billion while record need assume color.",
+  "userId": 8,
+  "id": 101
+}
