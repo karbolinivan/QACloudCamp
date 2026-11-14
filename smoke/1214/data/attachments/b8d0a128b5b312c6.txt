@@ -1,0 +1,24 @@
+14.11.2026_05:13:54.827290
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Study conference personal nice so those remain animal give believe explain commercial discover.",
+  "body": "Box tree whether. Only box economic these.",
+  "userId": 5
+}
+
+14.11.2026_05:13:54.871532
+RESPONSE
+status code: 201
+json: {
+  "title": "Study conference personal nice so those remain animal give believe explain commercial discover.",
+  "body": "Box tree whether. Only box economic these.",
+  "userId": 5,
+  "id": 101
+}

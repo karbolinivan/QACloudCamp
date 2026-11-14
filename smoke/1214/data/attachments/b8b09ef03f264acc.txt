@@ -1,0 +1,24 @@
+14.11.2026_05:13:54.827751
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Care finish stay such require almost.",
+  "body": "Ok responsibility film deep.",
+  "userId": 1
+}
+
+14.11.2026_05:13:54.867183
+RESPONSE
+status code: 201
+json: {
+  "title": "Care finish stay such require almost.",
+  "body": "Ok responsibility film deep.",
+  "userId": 1,
+  "id": 101
+}

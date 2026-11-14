@@ -1,0 +1,24 @@
+14.11.2026_05:13:54.825050
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Pick party assume charge there generation away himself still wrong.",
+  "body": "Listen kind if. Include election window it.",
+  "userId": 3
+}
+
+14.11.2026_05:13:54.871716
+RESPONSE
+status code: 201
+json: {
+  "title": "Pick party assume charge there generation away himself still wrong.",
+  "body": "Listen kind if. Include election window it.",
+  "userId": 3,
+  "id": 101
+}
