@@ -1,0 +1,24 @@
+15.11.2026_05:07:27.018333
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Blood cost entire arrive fly magazine kind radio personal toward share.",
+  "body": "Fish sing again both test list.",
+  "userId": 1
+}
+
+15.11.2026_05:07:27.264865
+RESPONSE
+status code: 201
+json: {
+  "title": "Blood cost entire arrive fly magazine kind radio personal toward share.",
+  "body": "Fish sing again both test list.",
+  "userId": 1,
+  "id": 101
+}
