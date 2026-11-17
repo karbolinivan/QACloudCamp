@@ -1,0 +1,24 @@
+17.11.2026_06:52:26.713724
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Customer cover similar hand again possible structure organization office manage try team.",
+  "body": "From front doctor fish beautiful business.",
+  "userId": 9
+}
+
+17.11.2026_06:52:27.001868
+RESPONSE
+status code: 201
+json: {
+  "title": "Customer cover similar hand again possible structure organization office manage try team.",
+  "body": "From front doctor fish beautiful business.",
+  "userId": 9,
+  "id": 101
+}
