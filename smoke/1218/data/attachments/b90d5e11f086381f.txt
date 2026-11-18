@@ -1,0 +1,24 @@
+18.11.2026_06:11:06.449989
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Game away color answer receive soon watch situation.",
+  "body": "Strong each relationship action hotel stage.",
+  "userId": 9
+}
+
+18.11.2026_06:11:06.615920
+RESPONSE
+status code: 201
+json: {
+  "title": "Game away color answer receive soon watch situation.",
+  "body": "Strong each relationship action hotel stage.",
+  "userId": 9,
+  "id": 101
+}
