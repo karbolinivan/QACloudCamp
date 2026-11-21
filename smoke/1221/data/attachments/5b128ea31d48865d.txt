@@ -1,0 +1,24 @@
+21.11.2026_05:54:27.045346
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Owner program water probably bit happy tonight before step.",
+  "body": "Marriage prepare notice show somebody.",
+  "userId": 2
+}
+
+21.11.2026_05:54:27.167166
+RESPONSE
+status code: 201
+json: {
+  "title": "Owner program water probably bit happy tonight before step.",
+  "body": "Marriage prepare notice show somebody.",
+  "userId": 2,
+  "id": 101
+}
