@@ -1,0 +1,24 @@
+23.11.2026_06:02:28.316792
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Watch eight third serious reality pattern sell plan need.",
+  "body": "Share and simply opportunity Mr approach apply.",
+  "userId": 9
+}
+
+23.11.2026_06:02:28.387768
+RESPONSE
+status code: 201
+json: {
+  "title": "Watch eight third serious reality pattern sell plan need.",
+  "body": "Share and simply opportunity Mr approach apply.",
+  "userId": 9,
+  "id": 101
+}

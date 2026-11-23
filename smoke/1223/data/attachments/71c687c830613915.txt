@@ -1,0 +1,24 @@
+23.11.2026_06:02:28.305327
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Use final wait community real talk thus show.",
+  "body": "Mention method only next.",
+  "userId": 6
+}
+
+23.11.2026_06:02:28.382573
+RESPONSE
+status code: 201
+json: {
+  "title": "Use final wait community real talk thus show.",
+  "body": "Mention method only next.",
+  "userId": 6,
+  "id": 101
+}
