@@ -1,0 +1,24 @@
+24.11.2026_08:43:10.119957
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Camera him involve source imagine right note yard just suggest easy task.",
+  "body": "Run week where idea mean future around.",
+  "userId": 1
+}
+
+24.11.2026_08:43:10.364153
+RESPONSE
+status code: 201
+json: {
+  "title": "Camera him involve source imagine right note yard just suggest easy task.",
+  "body": "Run week where idea mean future around.",
+  "userId": 1,
+  "id": 101
+}
