@@ -1,0 +1,24 @@
+25.11.2026_07:16:44.352878
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Country machine indeed possible office war blood seem unit ball black various yourself.",
+  "body": "Most whatever rest represent section young term.",
+  "userId": 6
+}
+
+25.11.2026_07:16:44.387187
+RESPONSE
+status code: 201
+json: {
+  "title": "Country machine indeed possible office war blood seem unit ball black various yourself.",
+  "body": "Most whatever rest represent section young term.",
+  "userId": 6,
+  "id": 101
+}
