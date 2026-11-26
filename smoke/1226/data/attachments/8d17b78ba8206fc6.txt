@@ -1,0 +1,24 @@
+26.11.2026_07:05:53.337415
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Under last employee available early across money without teacher class who occur paper.",
+  "body": "Anything kid week statement together from.",
+  "userId": 7
+}
+
+26.11.2026_07:05:53.462557
+RESPONSE
+status code: 201
+json: {
+  "title": "Under last employee available early across money without teacher class who occur paper.",
+  "body": "Anything kid week statement together from.",
+  "userId": 7,
+  "id": 101
+}
