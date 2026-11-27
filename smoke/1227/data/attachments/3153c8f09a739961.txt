@@ -1,0 +1,24 @@
+27.11.2026_07:00:49.725764
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Despite put let rich dog against be world action us various.",
+  "body": "Fish suffer use statement.",
+  "userId": 9
+}
+
+27.11.2026_07:00:49.766085
+RESPONSE
+status code: 201
+json: {
+  "title": "Despite put let rich dog against be world action us various.",
+  "body": "Fish suffer use statement.",
+  "userId": 9,
+  "id": 101
+}

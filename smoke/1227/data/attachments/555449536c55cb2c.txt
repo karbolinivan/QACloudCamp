@@ -1,0 +1,24 @@
+27.11.2026_07:00:49.726497
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Activity among compare compare out decide beat decide need can rather easy activity.",
+  "body": "Many expert happy need short environmental.",
+  "userId": 2
+}
+
+27.11.2026_07:00:49.762592
+RESPONSE
+status code: 201
+json: {
+  "title": "Activity among compare compare out decide beat decide need can rather easy activity.",
+  "body": "Many expert happy need short environmental.",
+  "userId": 2,
+  "id": 101
+}
