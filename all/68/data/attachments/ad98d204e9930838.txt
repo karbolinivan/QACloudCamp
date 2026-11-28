@@ -1,0 +1,24 @@
+28.11.2026_15:00:37.132615
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Control student employee simple end main standard through let push why history.",
+  "body": "Where nor boy Mr model picture.",
+  "userId": 9
+}
+
+28.11.2026_15:00:37.168248
+RESPONSE
+status code: 201
+json: {
+  "title": "Control student employee simple end main standard through let push why history.",
+  "body": "Where nor boy Mr model picture.",
+  "userId": 9,
+  "id": 101
+}

@@ -1,0 +1,17 @@
+28.11.2026_15:00:37.200735
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {}
+
+28.11.2026_15:00:37.229866
+RESPONSE
+status code: 201
+json: {
+  "id": 101
+}

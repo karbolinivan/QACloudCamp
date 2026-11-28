@@ -1,0 +1,24 @@
+28.11.2026_15:00:37.131877
+REQUEST: POST
+url: https://jsonplaceholder.typicode.com/posts
+headers: {
+  "Content-Type": "application/json"
+}
+cookie: None
+data: None
+params: None
+json: {
+  "title": "Inside success surface keep form last less share.",
+  "body": "Name call professional program product religious.",
+  "userId": 3
+}
+
+28.11.2026_15:00:37.171891
+RESPONSE
+status code: 201
+json: {
+  "title": "Inside success surface keep form last less share.",
+  "body": "Name call professional program product religious.",
+  "userId": 3,
+  "id": 101
+}
